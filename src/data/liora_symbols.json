@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "id": "wants",
+      "name": "I Want",
+      "emoji": "🙋",
+      "color": "#FF6B6B",
+      "symbols": [
+        { "id": "want_more", "text": "More", "text_tl": "Pa", "icon": "➕", "priority": 1 },
+        { "id": "want_help", "text": "Help", "text_tl": "Tulong", "icon": "🆘", "priority": 1 },
+        { "id": "want_stop", "text": "Stop", "text_tl": "Tigil", "icon": "✋", "priority": 1 },
+        { "id": "want_go", "text": "Go", "text_tl": "Tayo na", "icon": "🚀", "priority": 1 },
+        { "id": "want_yes", "text": "Yes", "text_tl": "Oo", "icon": "✅", "priority": 1 },
+        { "id": "want_no", "text": "No", "text_tl": "Hindi", "icon": "❌", "priority": 1 },
+        { "id": "want_please", "text": "Please", "text_tl": "Paki", "icon": "🙏", "priority": 2 },
+        { "id": "want_thank", "text": "Thank you", "text_tl": "Salamat", "icon": "💝", "priority": 2 }
+      ]
+    },
+    {
+      "id": "feelings",
+      "name": "I Feel",
+      "emoji": "💭",
+      "color": "#4ECDC4",
+      "symbols": [
+        { "id": "feel_happy", "text": "Happy", "text_tl": "Masaya", "icon": "😊", "priority": 1 },
+        { "id": "feel_sad", "text": "Sad", "text_tl": "Malungkot", "icon": "😢", "priority": 1 },
+        { "id": "feel_angry", "text": "Angry", "text_tl": "Galit", "icon": "😠", "priority": 1 },
+        { "id": "feel_scared", "text": "Scared", "text_tl": "Takot", "icon": "😨", "priority": 1 },
+        { "id": "feel_tired", "text": "Tired", "text_tl": "Pagod", "icon": "😴", "priority": 1 },
+        { "id": "feel_sick", "text": "Sick", "text_tl": "May sakit", "icon": "🤒", "priority": 1 },
+        { "id": "feel_hurt", "text": "Hurt", "text_tl": "Masakit", "icon": "🤕", "priority": 1 },
+        { "id": "feel_love", "text": "Love", "text_tl": "Mahal", "icon": "❤️", "priority": 2 },
+        { "id": "feel_excited", "text": "Excited", "text_tl": "Excited", "icon": "🤩", "priority": 2 },
+        { "id": "feel_bored", "text": "Bored", "text_tl": "Bored", "icon": "😑", "priority": 2 }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "emoji": "🍽️",
+      "color": "#FFE66D",
+      "symbols": [
+        { "id": "food_eat", "text": "Eat", "text_tl": "Kain", "icon": "🍴", "priority": 1 },
+        { "id": "food_drink", "text": "Drink", "text_tl": "Inom", "icon": "🥤", "priority": 1 },
+        { "id": "food_water", "text": "Water", "text_tl": "Tubig", "icon": "💧", "priority": 1 },
+        { "id": "food_milk", "text": "Milk", "text_tl": "Gatas", "icon": "🥛", "priority": 1 },
+        { "id": "food_juice", "text": "Juice", "text_tl": "Juice", "icon": "🧃", "priority": 2 },
+        { "id": "food_apple", "text": "Apple", "text_tl": "Mansanas", "icon": "🍎", "priority": 2 },
+        { "id": "food_banana", "text": "Banana", "text_tl": "Saging", "icon": "🍌", "priority": 2 },
+        { "id": "food_cookie", "text": "Cookie", "text_tl": "Cookie", "icon": "🍪", "priority": 2 },
+        { "id": "food_bread", "text": "Bread", "text_tl": "Tinapay", "icon": "🍞", "priority": 2 },
+        { "id": "food_rice", "text": "Rice", "text_tl": "Kanin", "icon": "🍚", "priority": 1 },
+        { "id": "food_chicken", "text": "Chicken", "text_tl": "Manok", "icon": "🍗", "priority": 2 },
+        { "id": "food_egg", "text": "Egg", "text_tl": "Itlog", "icon": "🥚", "priority": 2 }
+      ]
+    },
+    {
+      "id": "actions",
+      "name": "Actions",
+      "emoji": "⚡",
+      "color": "#95E1D3",
+      "symbols": [
+        { "id": "act_play", "text": "Play", "text_tl": "Laro", "icon": "🎮", "priority": 1 },
+        { "id": "act_read", "text": "Read", "text_tl": "Basa", "icon": "📖", "priority": 1 },
+        { "id": "act_watch", "text": "Watch", "text_tl": "Panood", "icon": "📺", "priority": 1 },
+        { "id": "act_sleep", "text": "Sleep", "text_tl": "Tulog", "icon": "😴", "priority": 1 },
+        { "id": "act_bath", "text": "Bath", "text_tl": "Ligo", "icon": "🛁", "priority": 1 },
+        { "id": "act_potty", "text": "Potty", "text_tl": "CR", "icon": "🚽", "priority": 1 },
+        { "id": "act_walk", "text": "Walk", "text_tl": "Lakad", "icon": "🚶", "priority": 2 },
+        { "id": "act_hug", "text": "Hug", "text_tl": "Yakap", "icon": "🤗", "priority": 1 },
+        { "id": "act_sing", "text": "Sing", "text_tl": "Kanta", "icon": "🎤", "priority": 2 },
+        { "id": "act_draw", "text": "Draw", "text_tl": "Guhit", "icon": "🖍️", "priority": 2 }
+      ]
+    },
+    {
+      "id": "people",
+      "name": "People",
+      "emoji": "👨‍👩‍👧",
+      "color": "#DDA0DD",
+      "symbols": [
+        { "id": "ppl_mama", "text": "Mama", "text_tl": "Mama", "icon": "👩", "priority": 1 },
+        { "id": "ppl_dada", "text": "Dada", "text_tl": "Papa", "icon": "👨", "priority": 1 },
+        { "id": "ppl_baby", "text": "Baby", "text_tl": "Baby", "icon": "👶", "priority": 2 },
+        { "id": "ppl_sister", "text": "Sister", "text_tl": "Ate", "icon": "👧", "priority": 2 },
+        { "id": "ppl_brother", "text": "Brother", "text_tl": "Kuya", "icon": "👦", "priority": 2 },
+        { "id": "ppl_grandma", "text": "Grandma", "text_tl": "Lola", "icon": "👵", "priority": 2 },
+        { "id": "ppl_grandpa", "text": "Grandpa", "text_tl": "Lolo", "icon": "👴", "priority": 2 },
+        { "id": "ppl_friend", "text": "Friend", "text_tl": "Kaibigan", "icon": "🧑‍🤝‍🧑", "priority": 2 },
+        { "id": "ppl_teacher", "text": "Teacher", "text_tl": "Teacher", "icon": "👩‍🏫", "priority": 2 }
+      ]
+    },
+    {
+      "id": "places",
+      "name": "Places",
+      "emoji": "🏠",
+      "color": "#87CEEB",
+      "symbols": [
+        { "id": "place_home", "text": "Home", "text_tl": "Bahay", "icon": "🏠", "priority": 1 },
+        { "id": "place_school", "text": "School", "text_tl": "Eskwela", "icon": "🏫", "priority": 1 },
+        { "id": "place_park", "text": "Park", "text_tl": "Park", "icon": "🏞️", "priority": 2 },
+        { "id": "place_store", "text": "Store", "text_tl": "Tindahan", "icon": "🏪", "priority": 2 },
+        { "id": "place_car", "text": "Car", "text_tl": "Kotse", "icon": "🚗", "priority": 2 },
+        { "id": "place_outside", "text": "Outside", "text_tl": "Labas", "icon": "🌳", "priority": 1 },
+        { "id": "place_bed", "text": "Bed", "text_tl": "Kama", "icon": "🛏️", "priority": 2 },
+        { "id": "place_kitchen", "text": "Kitchen", "text_tl": "Kusina", "icon": "🍳", "priority": 2 }
+      ]
+    },
+    {
+      "id": "things",
+      "name": "Things",
+      "emoji": "🧸",
+      "color": "#F4A460",
+      "symbols": [
+        { "id": "thing_toy", "text": "Toy", "text_tl": "Laruan", "icon": "🧸", "priority": 1 },
+        { "id": "thing_ball", "text": "Ball", "text_tl": "Bola", "icon": "⚽", "priority": 1 },
+        { "id": "thing_book", "text": "Book", "text_tl": "Libro", "icon": "📚", "priority": 1 },
+        { "id": "thing_phone", "text": "Phone", "text_tl": "Phone", "icon": "📱", "priority": 2 },
+        { "id": "thing_tablet", "text": "Tablet", "text_tl": "Tablet", "icon": "📲", "priority": 2 },
+        { "id": "thing_blanket", "text": "Blanket", "text_tl": "Kumot", "icon": "🛏️", "priority": 2 },
+        { "id": "thing_shoes", "text": "Shoes", "text_tl": "Sapatos", "icon": "👟", "priority": 2 },
+        { "id": "thing_clothes", "text": "Clothes", "text_tl": "Damit", "icon": "👕", "priority": 2 }
+      ]
+    },
+    {
+      "id": "questions",
+      "name": "Questions",
+      "emoji": "❓",
+      "color": "#9B59B6",
+      "symbols": [
+        { "id": "q_what", "text": "What?", "text_tl": "Ano?", "icon": "❓", "priority": 1 },
+        { "id": "q_where", "text": "Where?", "text_tl": "Saan?", "icon": "📍", "priority": 1 },
+        { "id": "q_who", "text": "Who?", "text_tl": "Sino?", "icon": "🤔", "priority": 2 },
+        { "id": "q_when", "text": "When?", "text_tl": "Kailan?", "icon": "🕐", "priority": 2 },
+        { "id": "q_why", "text": "Why?", "text_tl": "Bakit?", "icon": "💭", "priority": 2 },
+        { "id": "q_how", "text": "How?", "text_tl": "Paano?", "icon": "🔧", "priority": 2 }
+      ]
+    }
+  ],
+  "commonPhrases": [
+    { "id": "cp_iwant", "text": "I want", "text_tl": "Gusto ko", "icon": "🙋" },
+    { "id": "cp_ineed", "text": "I need", "text_tl": "Kailangan ko", "icon": "🆘" },
+    { "id": "cp_iam", "text": "I am", "text_tl": "Ako ay", "icon": "👤" },
+    { "id": "cp_cani", "text": "Can I", "text_tl": "Pwede ba", "icon": "🙏" },
+    { "id": "cp_lets", "text": "Let's", "text_tl": "Tayo na", "icon": "🚀" },
+    { "id": "cp_ihave", "text": "I have", "text_tl": "Meron ako", "icon": "✋" }
+  ],
+  "letterHints": {
+    "A": "🍎", "B": "🍌", "C": "🐱", "D": "🐶", "E": "🥚", "F": "🐟",
+    "G": "🍇", "H": "🏠", "I": "🍦", "J": "🧃", "K": "🪁", "L": "🦁",
+    "M": "🌙", "N": "🥜", "O": "🍊", "P": "🐷", "Q": "👸", "R": "🌈",
+    "S": "⭐", "T": "🐢", "U": "☂️", "V": "🎻", "W": "🐋", "X": "❌",
+    "Y": "🪀", "Z": "🦓"
+  },
+  "predictions": {
+    "D": [
+      { "word": "Dog", "icon": "🐶" },
+      { "word": "Drink", "icon": "🥤" },
+      { "word": "Done", "icon": "✅" },
+      { "word": "Dada", "icon": "👨" }
+    ],
+    "M": [
+      { "word": "Mama", "icon": "👩" },
+      { "word": "More", "icon": "➕" },
+      { "word": "Milk", "icon": "🥛" },
+      { "word": "Me", "icon": "👤" }
+    ],
+    "H": [
+      { "word": "Help", "icon": "🆘" },
+      { "word": "Happy", "icon": "😊" },
+      { "word": "Hurt", "icon": "🤕" },
+      { "word": "Hungry", "icon": "🍽️" }
+    ],
+    "W": [
+      { "word": "Want", "icon": "🙋" },
+      { "word": "Water", "icon": "💧" },
+      { "word": "Walk", "icon": "🚶" },
+      { "word": "Watch", "icon": "📺" }
+    ],
+    "P": [
+      { "word": "Play", "icon": "🎮" },
+      { "word": "Please", "icon": "🙏" },
+      { "word": "Potty", "icon": "🚽" },
+      { "word": "Papa", "icon": "👨" }
+    ],
+    "E": [
+      { "word": "Eat", "icon": "🍴" },
+      { "word": "Excited", "icon": "🤩" }
+    ],
+    "S": [
+      { "word": "Stop", "icon": "✋" },
+      { "word": "Sleep", "icon": "😴" },
+      { "word": "Sad", "icon": "😢" },
+      { "word": "Sick", "icon": "🤒" }
+    ],
+    "T": [
+      { "word": "Thank you", "icon": "💝" },
+      { "word": "Tired", "icon": "😴" },
+      { "word": "Toy", "icon": "🧸" }
+    ],
+    "Y": [
+      { "word": "Yes", "icon": "✅" }
+    ],
+    "N": [
+      { "word": "No", "icon": "❌" },
+      { "word": "Need", "icon": "🆘" }
+    ],
+    "G": [
+      { "word": "Go", "icon": "🚀" },
+      { "word": "Good", "icon": "👍" }
+    ],
+    "B": [
+      { "word": "Bath", "icon": "🛁" },
+      { "word": "Book", "icon": "📚" },
+      { "word": "Ball", "icon": "⚽" }
+    ],
+    "R": [
+      { "word": "Read", "icon": "📖" }
+    ],
+    "L": [
+      { "word": "Love", "icon": "❤️" }
+    ],
+    "F": [
+      { "word": "Food", "icon": "🍽️" },
+      { "word": "Friend", "icon": "🧑‍🤝‍🧑" }
+    ],
+    "A": [
+      { "word": "Apple", "icon": "🍎" },
+      { "word": "Angry", "icon": "😠" }
+    ],
+    "C": [
+      { "word": "Cookie", "icon": "🍪" },
+      { "word": "Car", "icon": "🚗" }
+    ]
+  }
+}

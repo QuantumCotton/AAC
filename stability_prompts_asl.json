@@ -1,0 +1,115 @@
+{
+  "book": "ASL Sign Language",
+  "image_specs": {
+    "width": 512,
+    "height": 512,
+    "style": "educational illustration, kid-friendly, simple clean design, centered composition",
+    "negative_prompt": "scary, violent, complex, cluttered, text, watermark, signature, realistic photo"
+  },
+  "categories": [
+    {
+      "id": "core",
+      "name": "Core & Manners",
+      "background_hex": "#FF6B6B",
+      "words": [
+        {"word": "More", "prompt": "child's hands making ASL sign for MORE, fingers touching together, soft pink background #FF6B6B, educational illustration style"},
+        {"word": "All Done", "prompt": "child's hands making ASL sign for ALL DONE, hands turning outward, soft pink background #FF6B6B, educational illustration"},
+        {"word": "Please", "prompt": "child's hand making ASL sign for PLEASE, circular motion on chest, soft pink background #FF6B6B, educational illustration"},
+        {"word": "Thank You", "prompt": "child's hand making ASL sign for THANK YOU, hand moving from chin outward, soft pink background #FF6B6B, educational"},
+        {"word": "Help", "prompt": "child's hands making ASL sign for HELP, fist on open palm lifting up, soft pink background #FF6B6B, educational illustration"},
+        {"word": "Yes", "prompt": "child's fist making ASL sign for YES, nodding motion, soft pink background #FF6B6B, educational illustration style"},
+        {"word": "No", "prompt": "child's fingers making ASL sign for NO, two fingers closing to thumb, soft pink background #FF6B6B, educational"},
+        {"word": "Sorry", "prompt": "child's fist making ASL sign for SORRY, circular motion on chest, soft pink background #FF6B6B, educational illustration"},
+        {"word": "I Love You", "prompt": "child's hand making ASL sign for I LOVE YOU, pinky index thumb extended, soft pink background #FF6B6B, educational"},
+        {"word": "Share", "prompt": "child's hands making ASL sign for SHARE, hand sliding across other hand, soft pink background #FF6B6B, educational"},
+        {"word": "Wait", "prompt": "child's hands making ASL sign for WAIT, wiggling fingers, soft pink background #FF6B6B, educational illustration"},
+        {"word": "Stop", "prompt": "child's hands making ASL sign for STOP, one hand chopping other palm, soft pink background #FF6B6B, educational"}
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family & People",
+      "background_hex": "#4ECDC4",
+      "words": [
+        {"word": "Mom", "prompt": "child's hand making ASL sign for MOM, thumb on chin, teal background #4ECDC4, educational illustration style"},
+        {"word": "Dad", "prompt": "child's hand making ASL sign for DAD, thumb on forehead, teal background #4ECDC4, educational illustration"},
+        {"word": "Baby", "prompt": "child's arms making ASL sign for BABY, cradling motion, teal background #4ECDC4, educational illustration"},
+        {"word": "Brother", "prompt": "child's hands making ASL sign for BROTHER, forehead then index fingers, teal background #4ECDC4, educational"},
+        {"word": "Sister", "prompt": "child's hands making ASL sign for SISTER, chin then index fingers, teal background #4ECDC4, educational"},
+        {"word": "Grandma", "prompt": "child's hand making ASL sign for GRANDMA, thumb bouncing from chin, teal background #4ECDC4, educational"},
+        {"word": "Grandpa", "prompt": "child's hand making ASL sign for GRANDPA, thumb bouncing from forehead, teal background #4ECDC4, educational"},
+        {"word": "Friend", "prompt": "child's hands making ASL sign for FRIEND, hooked index fingers, teal background #4ECDC4, educational illustration"},
+        {"word": "Teacher", "prompt": "child's hands making ASL sign for TEACHER, from forehead outward, teal background #4ECDC4, educational"},
+        {"word": "Doctor", "prompt": "child's hand making ASL sign for DOCTOR, tapping wrist, teal background #4ECDC4, educational illustration"}
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food & Drink",
+      "background_hex": "#FFE66D",
+      "words": [
+        {"word": "Eat", "prompt": "child's hand making ASL sign for EAT, fingers to mouth, yellow background #FFE66D, educational illustration"},
+        {"word": "Drink", "prompt": "child's hand making ASL sign for DRINK, cup shape to mouth, yellow background #FFE66D, educational illustration"},
+        {"word": "Water", "prompt": "child's hand making ASL sign for WATER, W shape tapping chin, yellow background #FFE66D, educational"},
+        {"word": "Milk", "prompt": "child's hand making ASL sign for MILK, squeezing motion, yellow background #FFE66D, educational illustration"},
+        {"word": "Apple", "prompt": "child's hand making ASL sign for APPLE, twisting on cheek, yellow background #FFE66D, educational illustration"},
+        {"word": "Banana", "prompt": "child's hands making ASL sign for BANANA, peeling motion, yellow background #FFE66D, educational illustration"},
+        {"word": "Cookie", "prompt": "child's hands making ASL sign for COOKIE, twisting on palm, yellow background #FFE66D, educational illustration"},
+        {"word": "Pizza", "prompt": "child's hand making ASL sign for PIZZA, Z shape in air, yellow background #FFE66D, educational illustration"},
+        {"word": "Hungry", "prompt": "child's hand making ASL sign for HUNGRY, C shape moving down chest, yellow background #FFE66D, educational"},
+        {"word": "Thirsty", "prompt": "child's finger making ASL sign for THIRSTY, tracing down throat, yellow background #FFE66D, educational"}
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "background_hex": "#95E1D3",
+      "words": [
+        {"word": "Dog", "prompt": "child's hand making ASL sign for DOG, patting thigh snapping, mint green background #95E1D3, educational"},
+        {"word": "Cat", "prompt": "child's hands making ASL sign for CAT, whisker motion from face, mint green background #95E1D3, educational"},
+        {"word": "Bird", "prompt": "child's hand making ASL sign for BIRD, beak opening at mouth, mint green background #95E1D3, educational"},
+        {"word": "Fish", "prompt": "child's hand making ASL sign for FISH, swimming motion, mint green background #95E1D3, educational"},
+        {"word": "Horse", "prompt": "child's hands making ASL sign for HORSE, ear flapping at head, mint green background #95E1D3, educational"},
+        {"word": "Elephant", "prompt": "child's hand making ASL sign for ELEPHANT, trunk motion from nose, mint green background #95E1D3, educational"},
+        {"word": "Monkey", "prompt": "child's hands making ASL sign for MONKEY, scratching sides, mint green background #95E1D3, educational"},
+        {"word": "Bear", "prompt": "child's hands making ASL sign for BEAR, clawing motion on chest, mint green background #95E1D3, educational"},
+        {"word": "Butterfly", "prompt": "child's hands making ASL sign for BUTTERFLY, thumbs linked wings flapping, mint green background #95E1D3"},
+        {"word": "Shark", "prompt": "child's hand making ASL sign for SHARK, fin on forehead, mint green background #95E1D3, educational"}
+      ]
+    },
+    {
+      "id": "feelings",
+      "name": "Feelings & Health",
+      "background_hex": "#F8B500",
+      "words": [
+        {"word": "Happy", "prompt": "child's hands making ASL sign for HAPPY, brushing up chest, orange background #F8B500, educational illustration"},
+        {"word": "Sad", "prompt": "child's hands making ASL sign for SAD, drooping down face, orange background #F8B500, educational illustration"},
+        {"word": "Angry", "prompt": "child's hands making ASL sign for ANGRY, claw pulling from face, orange background #F8B500, educational"},
+        {"word": "Scared", "prompt": "child's hands making ASL sign for SCARED, hands opening outward, orange background #F8B500, educational"},
+        {"word": "Tired", "prompt": "child's hands making ASL sign for TIRED, drooping on chest, orange background #F8B500, educational illustration"},
+        {"word": "Sick", "prompt": "child's hands making ASL sign for SICK, middle fingers on forehead and stomach, orange background #F8B500"},
+        {"word": "Hurt", "prompt": "child's fingers making ASL sign for HURT, index fingers pointing together, orange background #F8B500, educational"},
+        {"word": "Love", "prompt": "child's arms making ASL sign for LOVE, crossed on chest hugging, orange background #F8B500, educational"},
+        {"word": "Excited", "prompt": "child's hands making ASL sign for EXCITED, middle fingers brushing up chest alternating, orange #F8B500"},
+        {"word": "Surprised", "prompt": "child's hands making ASL sign for SURPRISED, fingers flicking open by eyes, orange background #F8B500"}
+      ]
+    },
+    {
+      "id": "colors",
+      "name": "Colors & Numbers",
+      "background_hex": "#AA96DA",
+      "words": [
+        {"word": "Red", "prompt": "child's finger making ASL sign for RED, brushing down lip, purple background #AA96DA, educational illustration"},
+        {"word": "Blue", "prompt": "child's hand making ASL sign for BLUE, B shape shaking, purple background #AA96DA, educational illustration"},
+        {"word": "Yellow", "prompt": "child's hand making ASL sign for YELLOW, Y shape shaking, purple background #AA96DA, educational"},
+        {"word": "Green", "prompt": "child's hand making ASL sign for GREEN, G shape shaking, purple background #AA96DA, educational illustration"},
+        {"word": "Orange", "prompt": "child's hand making ASL sign for ORANGE, squeezing at chin, purple background #AA96DA, educational"},
+        {"word": "One", "prompt": "child's hand showing number ONE in ASL, index finger up, purple background #AA96DA, educational illustration"},
+        {"word": "Two", "prompt": "child's hand showing number TWO in ASL, peace sign, purple background #AA96DA, educational illustration"},
+        {"word": "Three", "prompt": "child's hand showing number THREE in ASL, thumb index middle up, purple background #AA96DA, educational"},
+        {"word": "Four", "prompt": "child's hand showing number FOUR in ASL, four fingers up, purple background #AA96DA, educational"},
+        {"word": "Five", "prompt": "child's hand showing number FIVE in ASL, all fingers spread, purple background #AA96DA, educational"}
+      ]
+    }
+  ]
+}

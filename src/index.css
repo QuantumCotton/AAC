@@ -1,0 +1,302 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Comic Sans MS', 'Marker Felt', cursive;
+    /* Prevent zooming and scrolling for AAC-like stability */
+    touch-action: manipulation;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+  }
+  
+  body {
+    @apply bg-gradient-to-br from-blue-50 to-green-50;
+    /* Lock to viewport - no scrolling or resizing */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    overscroll-behavior: none;
+    -webkit-overflow-scrolling: auto;
+    touch-action: manipulation;
+  }
+  
+  #root {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Prevent text selection on everything */
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  /* Prevent image save dialog on iOS */
+  img {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    pointer-events: none;
+  }
+}
+
+@layer components {
+  .animal-card {
+    @apply bg-white rounded-xl shadow-md p-2 cursor-pointer;
+    transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+    will-change: transform;
+    touch-action: none;
+    -webkit-touch-callout: none;
+  }
+  
+  .animal-card.active {
+    @apply ring-2 ring-green-400;
+  }
+  
+  .animal-card.card-animating {
+    @apply shadow-2xl ring-4 ring-yellow-400;
+    z-index: 50;
+  }
+
+  /* LeapFrog-style book flip animations */
+  .book-container {
+    perspective: 1200px;
+    transform-style: preserve-3d;
+  }
+
+  .book-page {
+    transform-origin: left center;
+    backface-visibility: hidden;
+  }
+
+  .book-flip-left {
+    animation: flipLeft 0.25s ease-out;
+  }
+
+  .book-flip-right {
+    animation: flipRight 0.25s ease-out;
+  }
+
+  @keyframes flipLeft {
+    0% { transform: rotateY(0deg); }
+    50% { transform: rotateY(-8deg) scale(0.98); }
+    100% { transform: rotateY(0deg); }
+  }
+
+  @keyframes flipRight {
+    0% { transform: rotateY(0deg); }
+    50% { transform: rotateY(8deg) scale(0.98); }
+    100% { transform: rotateY(0deg); }
+  }
+
+  /* ===== DRAMATIC 3D PAGE FLIP ANIMATIONS ===== */
+  
+  .book-wrapper {
+    perspective: 2000px;
+    transform-style: preserve-3d;
+    position: relative;
+  }
+
+  /* Flipping page overlay that animates */
+  .page-flip-left::before,
+  .page-flip-right::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    z-index: 100;
+    pointer-events: none;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+  }
+
+  /* Page turning LEFT (forward) - right page lifts and turns */
+  .page-flip-left {
+    animation: bookSlideLeft 0.5s ease-out;
+  }
+  
+  .page-flip-left::before {
+    right: 0;
+    background: linear-gradient(to left, 
+      rgba(0,0,0,0.2) 0%, 
+      rgba(255,255,255,0.1) 10%,
+      rgba(255,255,255,0.3) 30%,
+      rgba(200,180,140,0.9) 100%);
+    transform-origin: left center;
+    animation: pageFlipLeft 0.5s ease-in-out;
+    border-radius: 0 1rem 1rem 0;
+  }
+
+  /* Page turning RIGHT (backward) - left page lifts and turns */
+  .page-flip-right {
+    animation: bookSlideRight 0.5s ease-out;
+  }
+  
+  .page-flip-right::before {
+    left: 0;
+    background: linear-gradient(to right, 
+      rgba(0,0,0,0.2) 0%, 
+      rgba(255,255,255,0.1) 10%,
+      rgba(255,255,255,0.3) 30%,
+      rgba(200,180,140,0.9) 100%);
+    transform-origin: right center;
+    animation: pageFlipRight 0.5s ease-in-out;
+    border-radius: 1rem 0 0 1rem;
+  }
+
+  @keyframes pageFlipLeft {
+    0% {
+      transform: perspective(2000px) rotateY(0deg) scaleX(1);
+      box-shadow: none;
+    }
+    30% {
+      transform: perspective(2000px) rotateY(-60deg) scaleX(1);
+      box-shadow: -30px 0 50px rgba(0,0,0,0.4);
+    }
+    60% {
+      transform: perspective(2000px) rotateY(-120deg) scaleX(1);
+      box-shadow: -20px 0 40px rgba(0,0,0,0.3);
+    }
+    100% {
+      transform: perspective(2000px) rotateY(-180deg) scaleX(0);
+      box-shadow: none;
+    }
+  }
+
+  @keyframes pageFlipRight {
+    0% {
+      transform: perspective(2000px) rotateY(0deg) scaleX(1);
+      box-shadow: none;
+    }
+    30% {
+      transform: perspective(2000px) rotateY(60deg) scaleX(1);
+      box-shadow: 30px 0 50px rgba(0,0,0,0.4);
+    }
+    60% {
+      transform: perspective(2000px) rotateY(120deg) scaleX(1);
+      box-shadow: 20px 0 40px rgba(0,0,0,0.3);
+    }
+    100% {
+      transform: perspective(2000px) rotateY(180deg) scaleX(0);
+      box-shadow: none;
+    }
+  }
+
+  @keyframes bookSlideLeft {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(-2%); }
+    100% { transform: translateX(0); }
+  }
+
+  @keyframes bookSlideRight {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(2%); }
+    100% { transform: translateX(0); }
+  }
+
+  /* Page shadow underneath during flip */
+  .page-flip-left::after,
+  .page-flip-right::after {
+    content: '';
+    position: absolute;
+    top: 5%;
+    width: 45%;
+    height: 90%;
+    background: rgba(0,0,0,0.15);
+    filter: blur(10px);
+    z-index: 99;
+    animation: pageShadow 0.5s ease-in-out;
+    border-radius: 1rem;
+  }
+
+  .page-flip-left::after {
+    right: 5%;
+  }
+
+  .page-flip-right::after {
+    left: 5%;
+  }
+
+  @keyframes pageShadow {
+    0% { opacity: 0; transform: scaleX(0.8); }
+    30% { opacity: 1; transform: scaleX(1.1); }
+    60% { opacity: 0.8; transform: scaleX(1); }
+    100% { opacity: 0; transform: scaleX(0.8); }
+  }
+
+  .book-tab-left {
+    transform-origin: right center;
+    transition: width 0.15s ease, opacity 0.15s ease;
+  }
+
+  .book-tab-right {
+    transform-origin: left center;
+    transition: width 0.15s ease, opacity 0.15s ease;
+  }
+
+  /* LeapFrog book specific styles */
+  .leapfrog-book {
+    box-shadow: 
+      0 25px 50px -12px rgba(0, 0, 0, 0.25),
+      0 0 0 4px #fbbf24,
+      0 0 0 8px #f59e0b;
+  }
+
+  /* Playful button styles */
+  .playful-button {
+    @apply rounded-full font-black shadow-lg transition-all;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  }
+
+  .playful-button:hover {
+    @apply scale-105;
+    filter: brightness(1.1);
+  }
+
+  .playful-button:active {
+    @apply scale-95;
+  }
+  
+  .theme-toy {
+    @apply bg-gradient-to-br from-pink-100 to-yellow-100;
+  }
+  
+  .theme-real {
+    @apply bg-gradient-to-br from-teal-100 to-blue-100;
+  }
+  
+  .category-button {
+    @apply px-4 py-2 rounded-full font-bold text-white transition-all duration-200 hover:scale-105;
+  }
+
+  .habitat-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  .habitat-scroll {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    cursor: grab;
+  }
+
+  .habitat-scroll:active {
+    cursor: grabbing;
+  }
+}

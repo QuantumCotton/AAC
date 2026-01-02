@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": "core",
+      "name": "Core & Manners",
+      "color": "#FF6B6B",
+      "emoji": "🤝",
+      "words": ["More", "All Done", "Please", "Thank You", "Help", "Yes", "No", "Sorry", "I Love You", "Share", "Mine", "Yours", "Excuse Me", "Wait", "Stop", "Go", "Now", "Later", "Maybe", "Again", "OK", "Hello", "Welcome", "Goodbye"]
+    },
+    {
+      "id": "family",
+      "name": "Family & People",
+      "color": "#4ECDC4",
+      "emoji": "👨‍👩‍👧‍👦",
+      "words": ["Mom", "Dad", "Boy", "Girl", "Baby", "Grandma", "Grandpa", "Brother", "Sister", "Aunt", "Uncle", "Cousin", "Friend", "Teacher", "Doctor", "Nurse", "Person", "Name", "Man", "Woman", "Child", "Family", "Wife", "Husband"]
+    },
+    {
+      "id": "food",
+      "name": "Food & Drink",
+      "color": "#FFE66D",
+      "emoji": "🍎",
+      "words": ["Eat", "Drink", "Water", "Milk", "Juice", "Bread", "Cereal", "Egg", "Cheese", "Yogurt", "Apple", "Banana", "Grapes", "Orange", "Strawberry", "Cookie", "Cracker", "Candy", "Ice Cream", "Pizza", "Hamburger", "Hot Dog", "French Fries", "Sandwich", "Soup", "Meat", "Chicken", "Fish", "Vegetable", "Fruit", "Hungry", "Thirsty", "Full", "Breakfast", "Lunch", "Dinner", "Snack", "Spoon", "Fork", "Cup", "Coffee", "Tea"]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "color": "#95E1D3",
+      "emoji": "🐾",
+      "words": ["Dog", "Cat", "Bird", "Fish", "Mouse", "Horse", "Cow", "Pig", "Sheep", "Duck", "Chicken", "Rabbit", "Turtle", "Snake", "Frog", "Bear", "Lion", "Tiger", "Elephant", "Monkey", "Giraffe", "Zebra", "Butterfly", "Spider", "Bee", "Bug", "Worm", "Deer", "Squirrel", "Shark"]
+    },
+    {
+      "id": "body",
+      "name": "Clothing & Body",
+      "color": "#DDA0DD",
+      "emoji": "👕",
+      "words": ["Shirt", "Pants", "Shorts", "Dress", "Skirt", "Shoes", "Socks", "Coat", "Hat", "Glasses", "Diaper", "Pajamas", "Head", "Eyes", "Nose", "Mouth", "Ears", "Hair", "Hand", "Feet", "Face", "Arm", "Leg", "Heart", "Stomach"]
+    },
+    {
+      "id": "home",
+      "name": "Home & Routine",
+      "color": "#87CEEB",
+      "emoji": "🏠",
+      "words": ["Home", "House", "School", "Store", "Park", "Bed", "Bath", "Toilet", "Brush Teeth", "Sleep", "Wake Up", "Wash Hands", "Soap", "Towel", "Blanket", "Pillow", "Chair", "Table", "Light", "Door", "Window", "Car", "Bus", "Book", "Ball", "Doll", "Toy", "Play", "Clean Up", "Room", "Kitchen", "Bedroom", "Bathroom"]
+    },
+    {
+      "id": "feelings",
+      "name": "Feelings & Health",
+      "color": "#F8B500",
+      "emoji": "😊",
+      "words": ["Happy", "Sad", "Angry", "Excited", "Scared", "Tired", "Sick", "Hurt", "Hot", "Cold", "Good", "Bad", "Fine", "Silly", "Surprised", "Proud", "Shy", "Bored", "Love", "Cry", "Worried", "Calm", "Comfortable"]
+    },
+    {
+      "id": "nature",
+      "name": "Nature & Outside",
+      "color": "#98D8C8",
+      "emoji": "🌳",
+      "words": ["Sun", "Moon", "Star", "Cloud", "Rain", "Snow", "Wind", "Tree", "Flower", "Grass", "Leaf", "Dirt", "Rock", "Sky", "Day", "Night", "Morning", "Afternoon", "Outside", "Inside", "Weather"]
+    },
+    {
+      "id": "actions",
+      "name": "Actions & Descriptive",
+      "color": "#F38181",
+      "emoji": "🏃",
+      "words": ["Big", "Small", "Fast", "Slow", "Clean", "Dirty", "Wet", "Dry", "Open", "Close", "Up", "Down", "In", "Out", "Sit", "Stand", "Walk", "Run", "Jump", "Dance", "Swim", "Work", "Learn", "Look", "Listen", "Want", "Have", "Like", "Give", "Take", "Make", "Come", "Find", "Get", "Think", "Know", "Remember", "Forget"]
+    },
+    {
+      "id": "colors",
+      "name": "Colors & Numbers",
+      "color": "#AA96DA",
+      "emoji": "🌈",
+      "words": ["Red", "Blue", "Yellow", "Green", "Orange", "Purple", "Pink", "Black", "White", "Brown", "Gray", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Zero"]
+    },
+    {
+      "id": "time",
+      "name": "Time & Calendar",
+      "color": "#A8D8EA",
+      "emoji": "📅",
+      "words": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", "Today", "Tomorrow", "Yesterday", "Week", "Month", "Year"]
+    }
+  ]
+}

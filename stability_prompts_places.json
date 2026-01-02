@@ -1,0 +1,95 @@
+{
+  "book": "World Places",
+  "image_specs": {
+    "width": 512,
+    "height": 512,
+    "style": "colorful illustration, kid-friendly, educational, cartoon style, vibrant colors",
+    "negative_prompt": "scary, violent, realistic photo, text, watermark, signature, dark, gloomy"
+  },
+  "continents": [
+    {
+      "id": "africa",
+      "name": "Africa",
+      "background_hex": "#F4A460",
+      "places": [
+        {"name": "Sahara Desert", "prompt": "Sahara Desert illustration, golden sand dunes, bright sun, camel silhouette, kid-friendly educational style, warm orange tones, simple clean design"},
+        {"name": "Victoria Falls", "prompt": "Victoria Falls waterfall illustration, massive waterfall with rainbow mist, lush green cliffs, kid-friendly educational style, vibrant colors"},
+        {"name": "Cairo", "prompt": "Cairo Egypt illustration, pyramids of Giza, sphinx, palm trees, clear blue sky, kid-friendly educational cartoon style"},
+        {"name": "Mount Kilimanjaro", "prompt": "Mount Kilimanjaro illustration, snow-capped peak, African savanna below, giraffe silhouette, kid-friendly educational style"},
+        {"name": "Serengeti", "prompt": "Serengeti plains illustration, zebras and lions, acacia trees, golden grassland, sunset, kid-friendly educational cartoon style"}
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Asia",
+      "background_hex": "#FF6B6B",
+      "places": [
+        {"name": "Great Wall of China", "prompt": "Great Wall of China illustration, winding wall on green mountains, watchtowers, kid-friendly educational cartoon style, vibrant colors"},
+        {"name": "Taj Mahal", "prompt": "Taj Mahal illustration, white marble palace, reflecting pool, gardens, blue sky, kid-friendly educational cartoon style"},
+        {"name": "Mount Everest", "prompt": "Mount Everest illustration, snow-covered peak, clouds, Himalayan mountains, bright colors, kid-friendly educational style"},
+        {"name": "Tokyo", "prompt": "Tokyo city illustration, neon lights, cherry blossoms, Tokyo Tower, colorful buildings, kid-friendly educational cartoon style"},
+        {"name": "Ganges River", "prompt": "Ganges River illustration, peaceful river, colorful boats, temples on shore, kid-friendly educational cartoon style"}
+      ]
+    },
+    {
+      "id": "europe",
+      "name": "Europe",
+      "background_hex": "#4ECDC4",
+      "places": [
+        {"name": "Eiffel Tower", "prompt": "Eiffel Tower Paris illustration, iron tower sparkling, flowers, blue sky, kid-friendly educational cartoon style, romantic"},
+        {"name": "Big Ben", "prompt": "Big Ben London illustration, clock tower, red double-decker bus, cloudy sky, kid-friendly educational cartoon style"},
+        {"name": "Colosseum", "prompt": "Colosseum Rome illustration, ancient arena, arches, sunny day, kid-friendly educational cartoon style, warm colors"},
+        {"name": "London", "prompt": "London cityscape illustration, Tower Bridge, red buses, Thames River, kid-friendly educational cartoon style"},
+        {"name": "Alps", "prompt": "Alps mountains illustration, snow-capped peaks, green valleys, ski chalet, kid-friendly educational cartoon style"}
+      ]
+    },
+    {
+      "id": "north_america",
+      "name": "North America",
+      "background_hex": "#95E1D3",
+      "places": [
+        {"name": "Statue of Liberty", "prompt": "Statue of Liberty illustration, green statue holding torch, New York Harbor, blue sky, kid-friendly educational cartoon style"},
+        {"name": "Grand Canyon", "prompt": "Grand Canyon illustration, layered red rock formations, Colorado River, sunny day, kid-friendly educational cartoon style"},
+        {"name": "New York City", "prompt": "New York City skyline illustration, Empire State Building, Central Park, yellow taxis, kid-friendly educational cartoon style"},
+        {"name": "Niagara Falls", "prompt": "Niagara Falls illustration, massive waterfalls, rainbow mist, tourist boat, kid-friendly educational cartoon style"},
+        {"name": "Yellowstone", "prompt": "Yellowstone illustration, Old Faithful geyser erupting, bison, colorful hot springs, kid-friendly educational cartoon style"}
+      ]
+    },
+    {
+      "id": "south_america",
+      "name": "South America",
+      "background_hex": "#FFE66D",
+      "places": [
+        {"name": "Amazon Rainforest", "prompt": "Amazon Rainforest illustration, dense green jungle, colorful parrots, river, kid-friendly educational cartoon style"},
+        {"name": "Machu Picchu", "prompt": "Machu Picchu illustration, ancient stone city, misty mountains, llama, kid-friendly educational cartoon style"},
+        {"name": "Rio de Janeiro", "prompt": "Rio de Janeiro illustration, Christ the Redeemer statue, Sugarloaf Mountain, beach, kid-friendly educational cartoon style"},
+        {"name": "Galapagos Islands", "prompt": "Galapagos Islands illustration, giant tortoise, blue-footed booby, volcanic rocks, ocean, kid-friendly educational style"},
+        {"name": "Iguazu Falls", "prompt": "Iguazu Falls illustration, multiple waterfalls, rainbow, lush jungle, toucan, kid-friendly educational cartoon style"}
+      ]
+    },
+    {
+      "id": "oceania",
+      "name": "Oceania",
+      "background_hex": "#87CEEB",
+      "places": [
+        {"name": "Great Barrier Reef", "prompt": "Great Barrier Reef illustration, colorful coral, tropical fish, sea turtle, clear blue water, kid-friendly educational style"},
+        {"name": "Sydney Opera House", "prompt": "Sydney Opera House illustration, white sail-shaped building, harbor, bridge, kid-friendly educational cartoon style"},
+        {"name": "Uluru", "prompt": "Uluru Ayers Rock illustration, large red rock, Australian outback, sunset colors, kid-friendly educational cartoon style"},
+        {"name": "Sydney", "prompt": "Sydney cityscape illustration, Opera House, Harbour Bridge, sunny day, kid-friendly educational cartoon style"},
+        {"name": "Fiordland", "prompt": "Fiordland New Zealand illustration, deep fjords, waterfalls, mountains, penguin, kid-friendly educational cartoon style"}
+      ]
+    },
+    {
+      "id": "antarctica",
+      "name": "Antarctica",
+      "background_hex": "#E8E8E8",
+      "places": [
+        {"name": "South Pole", "prompt": "South Pole illustration, ice and snow, research flags, aurora australis, penguins, kid-friendly educational cartoon style"},
+        {"name": "Ross Ice Shelf", "prompt": "Ross Ice Shelf illustration, massive ice cliff, penguins on ice, blue ice, kid-friendly educational cartoon style"},
+        {"name": "McMurdo Station", "prompt": "McMurdo Station illustration, research buildings on ice, scientists, penguins, kid-friendly educational cartoon style"},
+        {"name": "Mount Erebus", "prompt": "Mount Erebus volcano illustration, smoking crater, ice and snow, Antarctica, kid-friendly educational cartoon style"},
+        {"name": "Antarctic Peninsula", "prompt": "Antarctic Peninsula illustration, icebergs, whales, seals, snowy mountains, kid-friendly educational cartoon style"}
+      ]
+    }
+  ]
+}

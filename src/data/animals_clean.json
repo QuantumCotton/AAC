@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "Mariana Snailfish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Giant Tube Worm",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Comb Jelly",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Deep Sea Cucumber",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Zombie Worm",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Ping Pong Tree Sponge",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Tripod Fish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Dumbo Octopus",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Faceless Cusk",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Abyssal Spiderfish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Sea Pig",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Ghost Shark",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Deep Sea Amphipod",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Glass Sponge",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Grenadier Fish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Cusk Eel",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Snipe Eel",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Sea Angel",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Deep Sea Jellyfish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Basket Star",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Brisingid Starfish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Sea Pen",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Acorn Worm",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Monophore",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Siphonophore",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Black Swallower",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Lizardfish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Spookfish",
+    "category": "Ultra Deep Sea"
+  },
+  {
+    "name": "Anglerfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Vampire Squid",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Giant Squid",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Gulper Eel",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Goblin Shark",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Blobfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Lanternfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Hatchetfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Viperfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Dragonfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Fangtooth",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Frilled Shark",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Coffinfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Barreleye",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Cookiecutter Shark",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Oarfish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Big Red Jelly",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Colossal Squid",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Six-Gill Shark",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Wolffish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Chimaera",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Stoplight Loosejaw",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Flashlight Fish",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Japanese Spider Crab",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Nautilus",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Sperm Whale",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Beaked Whale",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Elephant Seal",
+    "category": "Deep Sea"
+  },
+  {
+    "name": "Clownfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Blue Tang",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Parrotfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Lionfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Seahorse",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Moray Eel",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Pufferfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Butterflyfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Angelfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Sea Turtle",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Reef Shark",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Manta Ray",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Cuttlefish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Octopus",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Giant Clam",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Boxfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Triggerfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Sea Anemone",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Mandarinfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Moorish Idol",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Napoleon Wrasse",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Cleaner Shrimp",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Stonefish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Barracuda",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Trumpetfish",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Nudibranch",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Sea Fan",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Brain Coral",
+    "category": "Coral Reef"
+  },
+  {
+    "name": "Bottlenose Dolphin",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Sea Otter",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Manatee",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Stingray",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Starfish",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Hermit Crab",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Lobster",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Sea Urchin",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Sand Dollar",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Pelican",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Seagull",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Horseshoe Crab",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Fiddler Crab",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Flounder",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Barnacle",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Jellyfish",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Sea Lion",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Harbor Seal",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Great White Shark",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Hammerhead Shark",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Tiger Shark",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Sea Sponge",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Scallop",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Oyster",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Mussel",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Conch Snail",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Krill",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Plankton",
+    "category": "Shallow Water"
+  },
+  {
+    "name": "Cow",
+    "category": "Farm"
+  },
+  {
+    "name": "Pig",
+    "category": "Farm"
+  },
+  {
+    "name": "Sheep",
+    "category": "Farm"
+  },
+  {
+    "name": "Goat",
+    "category": "Farm"
+  },
+  {
+    "name": "Chicken",
+    "category": "Farm"
+  },
+  {
+    "name": "Rooster",
+    "category": "Farm"
+  },
+  {
+    "name": "Duck",
+    "category": "Farm"
+  },
+  {
+    "name": "Goose",
+    "category": "Farm"
+  },
+  {
+    "name": "Turkey",
+    "category": "Farm"
+  },
+  {
+    "name": "Horse",
+    "category": "Farm"
+  },
+  {
+    "name": "Donkey",
+    "category": "Farm"
+  },
+  {
+    "name": "Pony",
+    "category": "Farm"
+  },
+  {
+    "name": "Llama",
+    "category": "Farm"
+  },
+  {
+    "name": "Alpaca",
+    "category": "Farm"
+  },
+  {
+    "name": "Border Collie",
+    "category": "Domestic"
+  },
+  {
+    "name": "Golden Retriever",
+    "category": "Domestic"
+  },
+  {
+    "name": "Tabby Cat",
+    "category": "Domestic"
+  },
+  {
+    "name": "Siamese Cat",
+    "category": "Domestic"
+  },
+  {
+    "name": "Goldfish",
+    "category": "Domestic"
+  },
+  {
+    "name": "Hamster",
+    "category": "Domestic"
+  },
+  {
+    "name": "Guinea Pig",
+    "category": "Domestic"
+  },
+  {
+    "name": "Rabbit",
+    "category": "Domestic"
+  },
+  {
+    "name": "Ferret",
+    "category": "Domestic"
+  },
+  {
+    "name": "Parakeet",
+    "category": "Domestic"
+  },
+  {
+    "name": "Cockatiel",
+    "category": "Domestic"
+  },
+  {
+    "name": "Turtle",
+    "category": "Domestic"
+  },
+  {
+    "name": "Pot-bellied Pig",
+    "category": "Domestic"
+  },
+  {
+    "name": "Mule",
+    "category": "Farm"
+  },
+  {
+    "name": "Brown Bear",
+    "category": "Forest"
+  },
+  {
+    "name": "Black Bear",
+    "category": "Forest"
+  },
+  {
+    "name": "Moose",
+    "category": "Forest"
+  },
+  {
+    "name": "Elk",
+    "category": "Forest"
+  },
+  {
+    "name": "White-Tailed Deer",
+    "category": "Forest"
+  },
+  {
+    "name": "Red Fox",
+    "category": "Forest"
+  },
+  {
+    "name": "Wolf",
+    "category": "Forest"
+  },
+  {
+    "name": "Coyote",
+    "category": "Forest"
+  },
+  {
+    "name": "Bobcat",
+    "category": "Forest"
+  },
+  {
+    "name": "Lynx",
+    "category": "Forest"
+  },
+  {
+    "name": "Squirrel",
+    "category": "Forest"
+  },
+  {
+    "name": "Chipmunk",
+    "category": "Forest"
+  },
+  {
+    "name": "Beaver",
+    "category": "Forest"
+  },
+  {
+    "name": "River Otter",
+    "category": "Forest"
+  },
+  {
+    "name": "Porcupine",
+    "category": "Forest"
+  },
+  {
+    "name": "Skunk",
+    "category": "Forest"
+  },
+  {
+    "name": "Badger",
+    "category": "Forest"
+  },
+  {
+    "name": "Woodpecker",
+    "category": "Forest"
+  },
+  {
+    "name": "Blue Jay",
+    "category": "Forest"
+  },
+  {
+    "name": "Cardinal",
+    "category": "Forest"
+  },
+  {
+    "name": "Eagle",
+    "category": "Forest"
+  },
+  {
+    "name": "Hawk",
+    "category": "Forest"
+  },
+  {
+    "name": "Falcon",
+    "category": "Forest"
+  },
+  {
+    "name": "Wild Boar",
+    "category": "Forest"
+  },
+  {
+    "name": "Hedgehog",
+    "category": "Forest"
+  },
+  {
+    "name": "Mole",
+    "category": "Forest"
+  },
+  {
+    "name": "Salamander",
+    "category": "Forest"
+  },
+  {
+    "name": "Turkey Vulture",
+    "category": "Forest"
+  },
+  {
+    "name": "Bengal Tiger",
+    "category": "Jungle"
+  },
+  {
+    "name": "Jaguar",
+    "category": "Jungle"
+  },
+  {
+    "name": "Leopard",
+    "category": "Jungle"
+  },
+  {
+    "name": "Gorilla",
+    "category": "Jungle"
+  },
+  {
+    "name": "Chimpanzee",
+    "category": "Jungle"
+  },
+  {
+    "name": "Orangutan",
+    "category": "Jungle"
+  },
+  {
+    "name": "Howler Monkey",
+    "category": "Jungle"
+  },
+  {
+    "name": "Spider Monkey",
+    "category": "Jungle"
+  },
+  {
+    "name": "Capuchin Monkey",
+    "category": "Jungle"
+  },
+  {
+    "name": "Lemur",
+    "category": "Jungle"
+  },
+  {
+    "name": "Sloth",
+    "category": "Jungle"
+  },
+  {
+    "name": "Anteater",
+    "category": "Jungle"
+  },
+  {
+    "name": "Armadillo",
+    "category": "Jungle"
+  },
+  {
+    "name": "Tapir",
+    "category": "Jungle"
+  },
+  {
+    "name": "Toucan",
+    "category": "Jungle"
+  },
+  {
+    "name": "Macaw",
+    "category": "Jungle"
+  },
+  {
+    "name": "Parrot",
+    "category": "Jungle"
+  },
+  {
+    "name": "Hummingbird",
+    "category": "Jungle"
+  },
+  {
+    "name": "Green Iguana",
+    "category": "Jungle"
+  },
+  {
+    "name": "Chameleon",
+    "category": "Jungle"
+  },
+  {
+    "name": "Boa Constrictor",
+    "category": "Jungle"
+  },
+  {
+    "name": "Python",
+    "category": "Jungle"
+  },
+  {
+    "name": "Anaconda",
+    "category": "Jungle"
+  },
+  {
+    "name": "Poison Dart Frog",
+    "category": "Jungle"
+  },
+  {
+    "name": "Red-Eyed Tree Frog",
+    "category": "Jungle"
+  },
+  {
+    "name": "Tarantula",
+    "category": "Jungle"
+  },
+  {
+    "name": "Leafcutter Ant",
+    "category": "Jungle"
+  },
+  {
+    "name": "Okapi",
+    "category": "Jungle"
+  },
+  {
+    "name": "Barn Owl",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Great Horned Owl",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Fruit Bat",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Vampire Bat",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Raccoon",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Opossum",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Aye-Aye",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Tarsier",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Bush Baby",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Sugar Glider",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Kinkajou",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Fennec Fox",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Hyena",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Aardvark",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Pangolin",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Tasmanian Devil",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Wombat",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Koala",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Scorpion",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Firefly",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Moth",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Gecko",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Cacomistle",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Civet",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Genet",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Mouse",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Rat",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Jerboa",
+    "category": "Nocturnal"
+  },
+  {
+    "name": "Polar Bear",
+    "category": "Arctic"
+  },
+  {
+    "name": "Arctic Fox",
+    "category": "Arctic"
+  },
+  {
+    "name": "Arctic Wolf",
+    "category": "Arctic"
+  },
+  {
+    "name": "Arctic Hare",
+    "category": "Arctic"
+  },
+  {
+    "name": "Walrus",
+    "category": "Arctic"
+  },
+  {
+    "name": "Narwhal",
+    "category": "Arctic"
+  },
+  {
+    "name": "Beluga Whale",
+    "category": "Arctic"
+  },
+  {
+    "name": "Bowhead Whale",
+    "category": "Arctic"
+  },
+  {
+    "name": "Orca",
+    "category": "Arctic"
+  },
+  {
+    "name": "Harp Seal",
+    "category": "Arctic"
+  },
+  {
+    "name": "Leopard Seal",
+    "category": "Arctic"
+  },
+  {
+    "name": "Weddell Seal",
+    "category": "Arctic"
+  },
+  {
+    "name": "Emperor Penguin",
+    "category": "Arctic"
+  },
+  {
+    "name": "Adelie Penguin",
+    "category": "Arctic"
+  },
+  {
+    "name": "Rockhopper Penguin",
+    "category": "Arctic"
+  },
+  {
+    "name": "Puffin",
+    "category": "Arctic"
+  },
+  {
+    "name": "Snowy Owl",
+    "category": "Arctic"
+  },
+  {
+    "name": "Musk Ox",
+    "category": "Arctic"
+  },
+  {
+    "name": "Reindeer",
+    "category": "Arctic"
+  },
+  {
+    "name": "Caribou",
+    "category": "Arctic"
+  },
+  {
+    "name": "Lemming",
+    "category": "Arctic"
+  },
+  {
+    "name": "Ptarmigan",
+    "category": "Arctic"
+  },
+  {
+    "name": "Wolverine",
+    "category": "Arctic"
+  },
+  {
+    "name": "Stoat",
+    "category": "Arctic"
+  },
+  {
+    "name": "Ermine",
+    "category": "Arctic"
+  },
+  {
+    "name": "Snow Goose",
+    "category": "Arctic"
+  },
+  {
+    "name": "Albatross",
+    "category": "Arctic"
+  },
+  {
+    "name": "Krill (Antarctic)",
+    "category": "Arctic"
+  }
+]

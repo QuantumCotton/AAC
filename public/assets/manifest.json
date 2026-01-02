@@ -1,0 +1,2791 @@
+{
+  "version": "61b1d4f4",
+  "generated_at": "2025-12-22 02:05:14",
+  "total_animals": 252,
+  "categories": [
+    "Coral Reef",
+    "Arctic",
+    "Nocturnal",
+    "Domestic",
+    "Jungle",
+    "Farm",
+    "Shallow Water",
+    "Forest",
+    "Deep Sea",
+    "Ultra Deep Sea"
+  ],
+  "assets": {
+    "mariana_snailfish": {
+      "name": "Mariana Snailfish",
+      "category": "Ultra Deep Sea",
+      "fact": "The Mariana snailfish lives at depths of up to 8,000 meters and is one of the deepest-living fish ever found!",
+      "files": {
+        "toy_image": "images/toy_mode/mariana_snailfish.webp",
+        "real_image": "images/real_mode/mariana_snailfish.webp",
+        "name_audio": "audio/names/mariana_snailfish_name.mp3",
+        "fact_audio": "audio/facts/mariana_snailfish_fact.mp3"
+      }
+    },
+    "giant_tube_worm": {
+      "name": "Giant Tube Worm",
+      "category": "Ultra Deep Sea",
+      "fact": "Giant tube worms can grow up to 2.4 meters long and have no mouth or stomach - they absorb nutrients through their skin!",
+      "files": {
+        "toy_image": "images/toy_mode/giant_tube_worm.webp",
+        "real_image": "images/real_mode/giant_tube_worm.webp",
+        "name_audio": "audio/names/giant_tube_worm_name.mp3",
+        "fact_audio": "audio/facts/giant_tube_worm_fact.mp3"
+      }
+    },
+    "comb_jelly": {
+      "name": "Comb Jelly",
+      "category": "Ultra Deep Sea",
+      "fact": "Comb jellies have been swimming in oceans for over 500 million years, making them one of the oldest animal groups!",
+      "files": {
+        "toy_image": "images/toy_mode/comb_jelly.webp",
+        "real_image": "images/real_mode/comb_jelly.webp",
+        "name_audio": "audio/names/comb_jelly_name.mp3",
+        "fact_audio": "audio/facts/comb_jelly_fact.mp3"
+      }
+    },
+    "deep_sea_cucumber": {
+      "name": "Deep Sea Cucumber",
+      "category": "Ultra Deep Sea",
+      "fact": "Deep sea cucumbers can expel part of their internal organs to distract predators, then regrow them later!",
+      "files": {
+        "toy_image": "images/toy_mode/deep_sea_cucumber.webp",
+        "real_image": "images/real_mode/deep_sea_cucumber.webp",
+        "name_audio": "audio/names/deep_sea_cucumber_name.mp3",
+        "fact_audio": "audio/facts/deep_sea_cucumber_fact.mp3"
+      }
+    },
+    "zombie_worm": {
+      "name": "Zombie Worm",
+      "category": "Ultra Deep Sea",
+      "fact": "Zombie worms eat whale bones by drilling into them with acid!",
+      "files": {
+        "toy_image": "images/toy_mode/zombie_worm.webp",
+        "real_image": "images/real_mode/zombie_worm.webp",
+        "name_audio": "audio/names/zombie_worm_name.mp3",
+        "fact_audio": "audio/facts/zombie_worm_fact.mp3"
+      }
+    },
+    "ping_pong_tree_sponge": {
+      "name": "Ping Pong Tree Sponge",
+      "category": "Ultra Deep Sea",
+      "fact": "This sponge has branches that look like ping pong paddles and can glow in the dark!",
+      "files": {
+        "toy_image": "images/toy_mode/ping_pong_tree_sponge.webp",
+        "real_image": "images/real_mode/ping_pong_tree_sponge.webp",
+        "name_audio": "audio/names/ping_pong_tree_sponge_name.mp3",
+        "fact_audio": "audio/facts/ping_pong_tree_sponge_fact.mp3"
+      }
+    },
+    "tripod_fish": {
+      "name": "Tripod Fish",
+      "category": "Ultra Deep Sea",
+      "fact": "Tripod fish stand on three fin rays like a tripod to wait for food to drift by!",
+      "files": {
+        "toy_image": "images/toy_mode/tripod_fish.webp",
+        "real_image": "images/real_mode/tripod_fish.webp",
+        "name_audio": "audio/names/tripod_fish_name.mp3",
+        "fact_audio": "audio/facts/tripod_fish_fact.mp3"
+      }
+    },
+    "dumbo_octopus": {
+      "name": "Dumbo Octopus",
+      "category": "Ultra Deep Sea",
+      "fact": "The dumbo octopus got its name from ear-like fins that look like Dumbo's ears!",
+      "files": {
+        "toy_image": "images/toy_mode/dumbo_octopus.webp",
+        "real_image": "images/real_mode/dumbo_octopus.webp",
+        "name_audio": "audio/names/dumbo_octopus_name.mp3",
+        "fact_audio": "audio/facts/dumbo_octopus_fact.mp3"
+      }
+    },
+    "faceless_cusk": {
+      "name": "Faceless Cusk",
+      "category": "Ultra Deep Sea",
+      "fact": "The faceless cusk has no visible eyes and its mouth is hidden underneath its head!",
+      "files": {
+        "toy_image": "images/toy_mode/faceless_cusk.webp",
+        "real_image": "images/real_mode/faceless_cusk.webp",
+        "name_audio": "audio/names/faceless_cusk_name.mp3",
+        "fact_audio": "audio/facts/faceless_cusk_fact.mp3"
+      }
+    },
+    "abyssal_spiderfish": {
+      "name": "Abyssal Spiderfish",
+      "category": "Ultra Deep Sea",
+      "fact": "Spiderfish have extra-long fins that let them walk on the ocean floor like a spider!",
+      "files": {
+        "toy_image": "images/toy_mode/abyssal_spiderfish.webp",
+        "real_image": "images/real_mode/abyssal_spiderfish.webp",
+        "name_audio": "audio/names/abyssal_spiderfish_name.mp3",
+        "fact_audio": "audio/facts/abyssal_spiderfish_fact.mp3"
+      }
+    },
+    "sea_pig": {
+      "name": "Sea Pig",
+      "category": "Ultra Deep Sea",
+      "fact": "Sea pigs are actually a type of sea cucumber that walks on the ocean floor with tube feet!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_pig.webp",
+        "real_image": "images/real_mode/sea_pig.webp",
+        "name_audio": "audio/names/sea_pig_name.mp3",
+        "fact_audio": "audio/facts/sea_pig_fact.mp3"
+      }
+    },
+    "ghost_shark": {
+      "name": "Ghost Shark",
+      "category": "Ultra Deep Sea",
+      "fact": "Ghost sharks are ancient relatives of sharks that have been around for 400 million years!",
+      "files": {
+        "toy_image": "images/toy_mode/ghost_shark.webp",
+        "real_image": "images/real_mode/ghost_shark.webp",
+        "name_audio": "audio/names/ghost_shark_name.mp3",
+        "fact_audio": "audio/facts/ghost_shark_fact.mp3"
+      }
+    },
+    "deep_sea_amphipod": {
+      "name": "Deep Sea Amphipod",
+      "category": "Ultra Deep Sea",
+      "fact": "Deep sea amphipods can grow up to 34 centimeters long - much bigger than their shallow-water relatives!",
+      "files": {
+        "toy_image": "images/toy_mode/deep_sea_amphipod.webp",
+        "real_image": "images/real_mode/deep_sea_amphipod.webp",
+        "name_audio": "audio/names/deep_sea_amphipod_name.mp3",
+        "fact_audio": "audio/facts/deep_sea_amphipod_fact.mp3"
+      }
+    },
+    "glass_sponge": {
+      "name": "Glass Sponge",
+      "category": "Ultra Deep Sea",
+      "fact": "Glass sponges have skeletons made of silica, the same material glass is made from!",
+      "files": {
+        "toy_image": "images/toy_mode/glass_sponge.webp",
+        "real_image": "images/real_mode/glass_sponge.webp",
+        "name_audio": "audio/names/glass_sponge_name.mp3",
+        "fact_audio": "audio/facts/glass_sponge_fact.mp3"
+      }
+    },
+    "grenadier_fish": {
+      "name": "Grenadier Fish",
+      "category": "Ultra Deep Sea",
+      "fact": "Grenadier fish have huge heads and long, tapering bodies that look like a grenade!",
+      "files": {
+        "toy_image": "images/toy_mode/grenadier_fish.webp",
+        "real_image": "images/real_mode/grenadier_fish.webp",
+        "name_audio": "audio/names/grenadier_fish_name.mp3",
+        "fact_audio": "audio/facts/grenadier_fish_fact.mp3"
+      }
+    },
+    "cusk_eel": {
+      "name": "Cusk Eel",
+      "category": "Ultra Deep Sea",
+      "fact": "Despite their name, cusk eels are actually fish, not eels!",
+      "files": {
+        "toy_image": "images/toy_mode/cusk_eel.webp",
+        "real_image": "images/real_mode/cusk_eel.webp",
+        "name_audio": "audio/names/cusk_eel_name.mp3",
+        "fact_audio": "audio/facts/cusk_eel_fact.mp3"
+      }
+    },
+    "snipe_eel": {
+      "name": "Snipe Eel",
+      "category": "Ultra Deep Sea",
+      "fact": "Snipe eels have jaws that curve away from each other, making them look like a pair of scissors!",
+      "files": {
+        "toy_image": "images/toy_mode/snipe_eel.webp",
+        "real_image": "images/real_mode/snipe_eel.webp",
+        "name_audio": "audio/names/snipe_eel_name.mp3",
+        "fact_audio": "audio/facts/snipe_eel_fact.mp3"
+      }
+    },
+    "sea_angel": {
+      "name": "Sea Angel",
+      "category": "Ultra Deep Sea",
+      "fact": "Sea angels are actually swimming sea slugs that flutter through the water like angels!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_angel.webp",
+        "real_image": "images/real_mode/sea_angel.webp",
+        "name_audio": "audio/names/sea_angel_name.mp3",
+        "fact_audio": "audio/facts/sea_angel_fact.mp3"
+      }
+    },
+    "deep_sea_jellyfish": {
+      "name": "Deep Sea Jellyfish",
+      "category": "Ultra Deep Sea",
+      "fact": "Some deep sea jellyfish can glow with rainbow colors to attract prey!",
+      "files": {
+        "toy_image": "images/toy_mode/deep_sea_jellyfish.webp",
+        "real_image": "images/real_mode/deep_sea_jellyfish.webp",
+        "name_audio": "audio/names/deep_sea_jellyfish_name.mp3",
+        "fact_audio": "audio/facts/deep_sea_jellyfish_fact.mp3"
+      }
+    },
+    "basket_star": {
+      "name": "Basket Star",
+      "category": "Ultra Deep Sea",
+      "fact": "Basket stars are starfish with arms that branch out like a basket to catch floating food!",
+      "files": {
+        "toy_image": "images/toy_mode/basket_star.webp",
+        "real_image": "images/real_mode/basket_star.webp",
+        "name_audio": "audio/names/basket_star_name.mp3",
+        "fact_audio": "audio/facts/basket_star_fact.mp3"
+      }
+    },
+    "brisingid_starfish": {
+      "name": "Brisingid Starfish",
+      "category": "Ultra Deep Sea",
+      "fact": "Brisingid starfish have up to 20 long arms that they use like fishing nets!",
+      "files": {
+        "toy_image": "images/toy_mode/brisingid_starfish.webp",
+        "real_image": "images/real_mode/brisingid_starfish.webp",
+        "name_audio": "audio/names/brisingid_starfish_name.mp3",
+        "fact_audio": "audio/facts/brisingid_starfish_fact.mp3"
+      }
+    },
+    "sea_pen": {
+      "name": "Sea Pen",
+      "category": "Ultra Deep Sea",
+      "fact": "Sea pens are colonies of tiny animals that work together like a single organism!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_pen.webp",
+        "real_image": "images/real_mode/sea_pen.webp",
+        "name_audio": "audio/names/sea_pen_name.mp3",
+        "fact_audio": "audio/facts/sea_pen_fact.mp3"
+      }
+    },
+    "acorn_worm": {
+      "name": "Acorn Worm",
+      "category": "Ultra Deep Sea",
+      "fact": "Acorn worms are close relatives of vertebrates and may show how our ancestors evolved!",
+      "files": {
+        "toy_image": "images/toy_mode/acorn_worm.webp",
+        "real_image": "images/real_mode/acorn_worm.webp",
+        "name_audio": "audio/names/acorn_worm_name.mp3",
+        "fact_audio": "audio/facts/acorn_worm_fact.mp3"
+      }
+    },
+    "monophore": {
+      "name": "Monophore",
+      "category": "Ultra Deep Sea",
+      "fact": "Monophores are strange deep sea creatures that filter food from the water using special tentacles!",
+      "files": {
+        "toy_image": "images/toy_mode/monophore.webp",
+        "real_image": "images/real_mode/monophore.webp",
+        "name_audio": "audio/names/monophore_name.mp3",
+        "fact_audio": "audio/facts/monophore_fact.mp3"
+      }
+    },
+    "siphonophore": {
+      "name": "Siphonophore",
+      "category": "Ultra Deep Sea",
+      "fact": "The siphonophore can grow up to 50 meters long, making it longer than a blue whale!",
+      "files": {
+        "toy_image": "images/toy_mode/siphonophore.webp",
+        "real_image": "images/real_mode/siphonophore.webp",
+        "name_audio": "audio/names/siphonophore_name.mp3",
+        "fact_audio": "audio/facts/siphonophore_fact.mp3"
+      }
+    },
+    "black_swallower": {
+      "name": "Black Swallower",
+      "category": "Ultra Deep Sea",
+      "fact": "The black swallower can eat prey 10 times its own size by unhinging its jaw!",
+      "files": {
+        "toy_image": "images/toy_mode/black_swallower.webp",
+        "real_image": "images/real_mode/black_swallower.webp",
+        "name_audio": "audio/names/black_swallower_name.mp3",
+        "fact_audio": "audio/facts/black_swallower_fact.mp3"
+      }
+    },
+    "lizardfish": {
+      "name": "Lizardfish",
+      "category": "Ultra Deep Sea",
+      "fact": "Lizardfish have needle-like teeth and can change color to match their surroundings!",
+      "files": {
+        "toy_image": "images/toy_mode/lizardfish.webp",
+        "real_image": "images/real_mode/lizardfish.webp",
+        "name_audio": "audio/names/lizardfish_name.mp3",
+        "fact_audio": "audio/facts/lizardfish_fact.mp3"
+      }
+    },
+    "spookfish": {
+      "name": "Spookfish",
+      "category": "Ultra Deep Sea",
+      "fact": "Spookfish have a mirror-like lens in their eyes that helps them see in the dark!",
+      "files": {
+        "toy_image": "images/toy_mode/spookfish.webp",
+        "real_image": "images/real_mode/spookfish.webp",
+        "name_audio": "audio/names/spookfish_name.mp3",
+        "fact_audio": "audio/facts/spookfish_fact.mp3"
+      }
+    },
+    "anglerfish": {
+      "name": "Anglerfish",
+      "category": "Deep Sea",
+      "fact": "Female anglerfish have a glowing lure that attracts prey in the dark depths!",
+      "files": {
+        "toy_image": "images/toy_mode/anglerfish.webp",
+        "real_image": "images/real_mode/anglerfish.webp",
+        "name_audio": "audio/names/anglerfish_name.mp3",
+        "fact_audio": "audio/facts/anglerfish_fact.mp3"
+      }
+    },
+    "vampire_squid": {
+      "name": "Vampire Squid",
+      "category": "Deep Sea",
+      "fact": "Despite its scary name, the vampire squid eats only tiny particles called marine snow!",
+      "files": {
+        "toy_image": "images/toy_mode/vampire_squid.webp",
+        "real_image": "images/real_mode/vampire_squid.webp",
+        "name_audio": "audio/names/vampire_squid_name.mp3",
+        "fact_audio": "audio/facts/vampire_squid_fact.mp3"
+      }
+    },
+    "giant_squid": {
+      "name": "Giant Squid",
+      "category": "Deep Sea",
+      "fact": "Giant squids have eyes the size of dinner plates - the largest eyes in the animal kingdom!",
+      "files": {
+        "toy_image": "images/toy_mode/giant_squid.webp",
+        "real_image": "images/real_mode/giant_squid.webp",
+        "name_audio": "audio/names/giant_squid_name.mp3",
+        "fact_audio": "audio/facts/giant_squid_fact.mp3"
+      }
+    },
+    "gulper_eel": {
+      "name": "Gulper Eel",
+      "category": "Deep Sea",
+      "fact": "The gulper eel has a huge mouth that can swallow prey much larger than itself!",
+      "files": {
+        "toy_image": "images/toy_mode/gulper_eel.webp",
+        "real_image": "images/real_mode/gulper_eel.webp",
+        "name_audio": "audio/names/gulper_eel_name.mp3",
+        "fact_audio": "audio/facts/gulper_eel_fact.mp3"
+      }
+    },
+    "goblin_shark": {
+      "name": "Goblin Shark",
+      "category": "Deep Sea",
+      "fact": "The goblin shark has a jaw that shoots out like a spring to catch prey!",
+      "files": {
+        "toy_image": "images/toy_mode/goblin_shark.webp",
+        "real_image": "images/real_mode/goblin_shark.webp",
+        "name_audio": "audio/names/goblin_shark_name.mp3",
+        "fact_audio": "audio/facts/goblin_shark_fact.mp3"
+      }
+    },
+    "blobfish": {
+      "name": "Blobfish",
+      "category": "Deep Sea",
+      "fact": "Blobfish look normal in their deep-sea home but look blobby when brought to the surface!",
+      "files": {
+        "toy_image": "images/toy_mode/blobfish.webp",
+        "real_image": "images/real_mode/blobfish.webp",
+        "name_audio": "audio/names/blobfish_name.mp3",
+        "fact_audio": "audio/facts/blobfish_fact.mp3"
+      }
+    },
+    "lanternfish": {
+      "name": "Lanternfish",
+      "category": "Deep Sea",
+      "fact": "Lanternfish have light-producing organs called photophores that glow in the dark!",
+      "files": {
+        "toy_image": "images/toy_mode/lanternfish.webp",
+        "real_image": "images/real_mode/lanternfish.webp",
+        "name_audio": "audio/names/lanternfish_name.mp3",
+        "fact_audio": "audio/facts/lanternfish_fact.mp3"
+      }
+    },
+    "hatchetfish": {
+      "name": "Hatchetfish",
+      "category": "Deep Sea",
+      "fact": "Hatchetfish have bodies shaped like hatchets and can produce light to hide their shadow!",
+      "files": {
+        "toy_image": "images/toy_mode/hatchetfish.webp",
+        "real_image": "images/real_mode/hatchetfish.webp",
+        "name_audio": "audio/names/hatchetfish_name.mp3",
+        "fact_audio": "audio/facts/hatchetfish_fact.mp3"
+      }
+    },
+    "viperfish": {
+      "name": "Viperfish",
+      "category": "Deep Sea",
+      "fact": "Viperfish have huge fangs that are so long they can't fit inside their mouth!",
+      "files": {
+        "toy_image": "images/toy_mode/viperfish.webp",
+        "real_image": "images/real_mode/viperfish.webp",
+        "name_audio": "audio/names/viperfish_name.mp3",
+        "fact_audio": "audio/facts/viperfish_fact.mp3"
+      }
+    },
+    "dragonfish": {
+      "name": "Dragonfish",
+      "category": "Deep Sea",
+      "fact": "Dragonfish have a red light that only they can see, helping them hunt without being detected!",
+      "files": {
+        "toy_image": "images/toy_mode/dragonfish.webp",
+        "real_image": "images/real_mode/dragonfish.webp",
+        "name_audio": "audio/names/dragonfish_name.mp3",
+        "fact_audio": "audio/facts/dragonfish_fact.mp3"
+      }
+    },
+    "fangtooth": {
+      "name": "Fangtooth",
+      "category": "Deep Sea",
+      "fact": "Fangtooth fish have the largest teeth relative to body size of any fish!",
+      "files": {
+        "toy_image": "images/toy_mode/fangtooth.webp",
+        "real_image": "images/real_mode/fangtooth.webp",
+        "name_audio": "audio/names/fangtooth_name.mp3",
+        "fact_audio": "audio/facts/fangtooth_fact.mp3"
+      }
+    },
+    "frilled_shark": {
+      "name": "Frilled Shark",
+      "category": "Deep Sea",
+      "fact": "The frilled shark is called a 'living fossil' because it has changed little in 80 million years!",
+      "files": {
+        "toy_image": "images/toy_mode/frilled_shark.webp",
+        "real_image": "images/real_mode/frilled_shark.webp",
+        "name_audio": "audio/names/frilled_shark_name.mp3",
+        "fact_audio": "audio/facts/frilled_shark_fact.mp3"
+      }
+    },
+    "coffinfish": {
+      "name": "Coffinfish",
+      "category": "Deep Sea",
+      "fact": "Coffinfish can puff up like a balloon and have a lure on their head like an anglerfish!",
+      "files": {
+        "toy_image": "images/toy_mode/coffinfish.webp",
+        "real_image": "images/real_mode/coffinfish.webp",
+        "name_audio": "audio/names/coffinfish_name.mp3",
+        "fact_audio": "audio/facts/coffinfish_fact.mp3"
+      }
+    },
+    "barreleye": {
+      "name": "Barreleye",
+      "category": "Deep Sea",
+      "fact": "The barreleye has a transparent head so it can look up through its skull!",
+      "files": {
+        "toy_image": "images/toy_mode/barreleye.webp",
+        "real_image": "images/real_mode/barreleye.webp",
+        "name_audio": "audio/names/barreleye_name.mp3",
+        "fact_audio": "audio/facts/barreleye_fact.mp3"
+      }
+    },
+    "cookiecutter_shark": {
+      "name": "Cookiecutter Shark",
+      "category": "Deep Sea",
+      "fact": "Cookiecutter sharks bite circular holes in their prey, like a cookie cutter!",
+      "files": {
+        "toy_image": "images/toy_mode/cookiecutter_shark.webp",
+        "real_image": "images/real_mode/cookiecutter_shark.webp",
+        "name_audio": "audio/names/cookiecutter_shark_name.mp3",
+        "fact_audio": "audio/facts/cookiecutter_shark_fact.mp3"
+      }
+    },
+    "oarfish": {
+      "name": "Oarfish",
+      "category": "Deep Sea",
+      "fact": "Oarfish can grow up to 11 meters long and are probably the source of sea serpent legends!",
+      "files": {
+        "toy_image": "images/toy_mode/oarfish.webp",
+        "real_image": "images/real_mode/oarfish.webp",
+        "name_audio": "audio/names/oarfish_name.mp3",
+        "fact_audio": "audio/facts/oarfish_fact.mp3"
+      }
+    },
+    "big_red_jelly": {
+      "name": "Big Red Jelly",
+      "category": "Deep Sea",
+      "fact": "The big red jelly can grow up to 1 meter across and lives at depths of 650 meters!",
+      "files": {
+        "toy_image": "images/toy_mode/big_red_jelly.webp",
+        "real_image": "images/real_mode/big_red_jelly.webp",
+        "name_audio": "audio/names/big_red_jelly_name.mp3",
+        "fact_audio": "audio/facts/big_red_jelly_fact.mp3"
+      }
+    },
+    "colossal_squid": {
+      "name": "Colossal Squid",
+      "category": "Deep Sea",
+      "fact": "The colossal squid is heavier than a giant squid and has hooks instead of suckers!",
+      "files": {
+        "toy_image": "images/toy_mode/colossal_squid.webp",
+        "real_image": "images/real_mode/colossal_squid.webp",
+        "name_audio": "audio/names/colossal_squid_name.mp3",
+        "fact_audio": "audio/facts/colossal_squid_fact.mp3"
+      }
+    },
+    "six_gill_shark": {
+      "name": "Six-Gill Shark",
+      "category": "Deep Sea",
+      "fact": "Six-gill sharks are ancient predators that have been around since before the dinosaurs!",
+      "files": {
+        "toy_image": "images/toy_mode/six_gill_shark.webp",
+        "real_image": "images/real_mode/six_gill_shark.webp",
+        "name_audio": "audio/names/six_gill_shark_name.mp3",
+        "fact_audio": "audio/facts/six_gill_shark_fact.mp3"
+      }
+    },
+    "wolffish": {
+      "name": "Wolffish",
+      "category": "Deep Sea",
+      "fact": "Wolffish have powerful jaws that can crush crabs, sea urchins, and clams!",
+      "files": {
+        "toy_image": "images/toy_mode/wolffish.webp",
+        "real_image": "images/real_mode/wolffish.webp",
+        "name_audio": "audio/names/wolffish_name.mp3",
+        "fact_audio": "audio/facts/wolffish_fact.mp3"
+      }
+    },
+    "chimaera": {
+      "name": "Chimaera",
+      "category": "Deep Sea",
+      "fact": "Chimaeras are related to sharks and have a single gill opening on each side!",
+      "files": {
+        "toy_image": "images/toy_mode/chimaera.webp",
+        "real_image": "images/real_mode/chimaera.webp",
+        "name_audio": "audio/names/chimaera_name.mp3",
+        "fact_audio": "audio/facts/chimaera_fact.mp3"
+      }
+    },
+    "stoplight_loosejaw": {
+      "name": "Stoplight Loosejaw",
+      "category": "Deep Sea",
+      "fact": "This fish has a lower jaw that can detach and swing forward to catch prey!",
+      "files": {
+        "toy_image": "images/toy_mode/stoplight_loosejaw.webp",
+        "real_image": "images/real_mode/stoplight_loosejaw.webp",
+        "name_audio": "audio/names/stoplight_loosejaw_name.mp3",
+        "fact_audio": "audio/facts/stoplight_loosejaw_fact.mp3"
+      }
+    },
+    "flashlight_fish": {
+      "name": "Flashlight Fish",
+      "category": "Deep Sea",
+      "fact": "Flashlight fish have organs under their eyes that produce bright light!",
+      "files": {
+        "toy_image": "images/toy_mode/flashlight_fish.webp",
+        "real_image": "images/real_mode/flashlight_fish.webp",
+        "name_audio": "audio/names/flashlight_fish_name.mp3",
+        "fact_audio": "audio/facts/flashlight_fish_fact.mp3"
+      }
+    },
+    "japanese_spider_crab": {
+      "name": "Japanese Spider Crab",
+      "category": "Deep Sea",
+      "fact": "Japanese spider crabs can have a leg span of up to 3.7 meters!",
+      "files": {
+        "toy_image": "images/toy_mode/japanese_spider_crab.webp",
+        "real_image": "images/real_mode/japanese_spider_crab.webp",
+        "name_audio": "audio/names/japanese_spider_crab_name.mp3",
+        "fact_audio": "audio/facts/japanese_spider_crab_fact.mp3"
+      }
+    },
+    "nautilus": {
+      "name": "Nautilus",
+      "category": "Deep Sea",
+      "fact": "The nautilus has remained unchanged for 500 million years and uses jet propulsion to move!",
+      "files": {
+        "toy_image": "images/toy_mode/nautilus.webp",
+        "real_image": "images/real_mode/nautilus.webp",
+        "name_audio": "audio/names/nautilus_name.mp3",
+        "fact_audio": "audio/facts/nautilus_fact.mp3"
+      }
+    },
+    "sperm_whale": {
+      "name": "Sperm Whale",
+      "category": "Deep Sea",
+      "fact": "Sperm whales can dive to 3,000 meters and hold their breath for 90 minutes!",
+      "files": {
+        "toy_image": "images/toy_mode/sperm_whale.webp",
+        "real_image": "images/real_mode/sperm_whale.webp",
+        "name_audio": "audio/names/sperm_whale_name.mp3",
+        "fact_audio": "audio/facts/sperm_whale_fact.mp3"
+      }
+    },
+    "beaked_whale": {
+      "name": "Beaked Whale",
+      "category": "Deep Sea",
+      "fact": "Beaked whales can dive deeper than any other marine mammal - up to 2,992 meters!",
+      "files": {
+        "toy_image": "images/toy_mode/beaked_whale.webp",
+        "real_image": "images/real_mode/beaked_whale.webp",
+        "name_audio": "audio/names/beaked_whale_name.mp3",
+        "fact_audio": "audio/facts/beaked_whale_fact.mp3"
+      }
+    },
+    "elephant_seal": {
+      "name": "Elephant Seal",
+      "category": "Deep Sea",
+      "fact": "Elephant seals can dive to 1,500 meters and hold their breath for two hours!",
+      "files": {
+        "toy_image": "images/toy_mode/elephant_seal.webp",
+        "real_image": "images/real_mode/elephant_seal.webp",
+        "name_audio": "audio/names/elephant_seal_name.mp3",
+        "fact_audio": "audio/facts/elephant_seal_fact.mp3"
+      }
+    },
+    "clownfish": {
+      "name": "Clownfish",
+      "category": "Coral Reef",
+      "fact": "Clownfish are all born male and the largest one will turn into a female!",
+      "files": {
+        "toy_image": "images/toy_mode/clownfish.webp",
+        "real_image": "images/real_mode/clownfish.webp",
+        "name_audio": "audio/names/clownfish_name.mp3",
+        "fact_audio": "audio/facts/clownfish_fact.mp3"
+      }
+    },
+    "blue_tang": {
+      "name": "Blue Tang",
+      "category": "Coral Reef",
+      "fact": "Blue tangs can change color based on their mood - they get darker at night!",
+      "files": {
+        "toy_image": "images/toy_mode/blue_tang.webp",
+        "real_image": "images/real_mode/blue_tang.webp",
+        "name_audio": "audio/names/blue_tang_name.mp3",
+        "fact_audio": "audio/facts/blue_tang_fact.mp3"
+      }
+    },
+    "parrotfish": {
+      "name": "Parrotfish",
+      "category": "Coral Reef",
+      "fact": "Parrotfish sleep in a bubble of their own mucus to hide their scent from predators!",
+      "files": {
+        "toy_image": "images/toy_mode/parrotfish.webp",
+        "real_image": "images/real_mode/parrotfish.webp",
+        "name_audio": "audio/names/parrotfish_name.mp3",
+        "fact_audio": "audio/facts/parrotfish_fact.mp3"
+      }
+    },
+    "lionfish": {
+      "name": "Lionfish",
+      "category": "Coral Reef",
+      "fact": "Lionfish have venomous spines that can cause painful stings to humans!",
+      "files": {
+        "toy_image": "images/toy_mode/lionfish.webp",
+        "real_image": "images/real_mode/lionfish.webp",
+        "name_audio": "audio/names/lionfish_name.mp3",
+        "fact_audio": "audio/facts/lionfish_fact.mp3"
+      }
+    },
+    "seahorse": {
+      "name": "Seahorse",
+      "category": "Coral Reef",
+      "fact": "Seahorses are the only animals where males get pregnant and give birth!",
+      "files": {
+        "toy_image": "images/toy_mode/seahorse.webp",
+        "real_image": "images/real_mode/seahorse.webp",
+        "name_audio": "audio/names/seahorse_name.mp3",
+        "fact_audio": "audio/facts/seahorse_fact.mp3"
+      }
+    },
+    "moray_eel": {
+      "name": "Moray Eel",
+      "category": "Coral Reef",
+      "fact": "Moray eels have a second set of jaws in their throat that grab prey and pull it down!",
+      "files": {
+        "toy_image": "images/toy_mode/moray_eel.webp",
+        "real_image": "images/real_mode/moray_eel.webp",
+        "name_audio": "audio/names/moray_eel_name.mp3",
+        "fact_audio": "audio/facts/moray_eel_fact.mp3"
+      }
+    },
+    "pufferfish": {
+      "name": "Pufferfish",
+      "category": "Coral Reef",
+      "fact": "Pufferfish contain a poison 1,200 times more deadly than cyanide!",
+      "files": {
+        "toy_image": "images/toy_mode/pufferfish.webp",
+        "real_image": "images/real_mode/pufferfish.webp",
+        "name_audio": "audio/names/pufferfish_name.mp3",
+        "fact_audio": "audio/facts/pufferfish_fact.mp3"
+      }
+    },
+    "butterflyfish": {
+      "name": "Butterflyfish",
+      "category": "Coral Reef",
+      "fact": "Butterflyfish mate for life and can be seen swimming in pairs!",
+      "files": {
+        "toy_image": "images/toy_mode/butterflyfish.webp",
+        "real_image": "images/real_mode/butterflyfish.webp",
+        "name_audio": "audio/names/butterflyfish_name.mp3",
+        "fact_audio": "audio/facts/butterflyfish_fact.mp3"
+      }
+    },
+    "angelfish": {
+      "name": "Angelfish",
+      "category": "Coral Reef",
+      "fact": "Young angelfish have different colors and patterns than adult angelfish!",
+      "files": {
+        "toy_image": "images/toy_mode/angelfish.webp",
+        "real_image": "images/real_mode/angelfish.webp",
+        "name_audio": "audio/names/angelfish_name.mp3",
+        "fact_audio": "audio/facts/angelfish_fact.mp3"
+      }
+    },
+    "sea_turtle": {
+      "name": "Sea Turtle",
+      "category": "Coral Reef",
+      "fact": "Sea turtles can live over 100 years and return to the same beach where they were born to lay eggs!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_turtle.webp",
+        "real_image": "images/real_mode/sea_turtle.webp",
+        "name_audio": "audio/names/sea_turtle_name.mp3",
+        "fact_audio": "audio/facts/sea_turtle_fact.mp3"
+      }
+    },
+    "reef_shark": {
+      "name": "Reef Shark",
+      "category": "Coral Reef",
+      "fact": "Reef sharks can rest while swimming by using their tails to push water over their gills!",
+      "files": {
+        "toy_image": "images/toy_mode/reef_shark.webp",
+        "real_image": "images/real_mode/reef_shark.webp",
+        "name_audio": "audio/names/reef_shark_name.mp3",
+        "fact_audio": "audio/facts/reef_shark_fact.mp3"
+      }
+    },
+    "manta_ray": {
+      "name": "Manta Ray",
+      "category": "Coral Reef",
+      "fact": "Manta rays have the largest brain of any fish and can recognize themselves in mirrors!",
+      "files": {
+        "toy_image": "images/toy_mode/manta_ray.webp",
+        "real_image": "images/real_mode/manta_ray.webp",
+        "name_audio": "audio/names/manta_ray_name.mp3",
+        "fact_audio": "audio/facts/manta_ray_fact.mp3"
+      }
+    },
+    "cuttlefish": {
+      "name": "Cuttlefish",
+      "category": "Coral Reef",
+      "fact": "Cuttlefish can change color and pattern in less than a second to communicate or hide!",
+      "files": {
+        "toy_image": "images/toy_mode/cuttlefish.webp",
+        "real_image": "images/real_mode/cuttlefish.webp",
+        "name_audio": "audio/names/cuttlefish_name.mp3",
+        "fact_audio": "audio/facts/cuttlefish_fact.mp3"
+      }
+    },
+    "octopus": {
+      "name": "Octopus",
+      "category": "Coral Reef",
+      "fact": "Octopuses have three hearts and blue blood!",
+      "files": {
+        "toy_image": "images/toy_mode/octopus.webp",
+        "real_image": "images/real_mode/octopus.webp",
+        "name_audio": "audio/names/octopus_name.mp3",
+        "fact_audio": "audio/facts/octopus_fact.mp3"
+      }
+    },
+    "giant_clam": {
+      "name": "Giant Clam",
+      "category": "Coral Reef",
+      "fact": "Giant clams can live over 100 years and can weigh up to 200 kilograms!",
+      "files": {
+        "toy_image": "images/toy_mode/giant_clam.webp",
+        "real_image": "images/real_mode/giant_clam.webp",
+        "name_audio": "audio/names/giant_clam_name.mp3",
+        "fact_audio": "audio/facts/giant_clam_fact.mp3"
+      }
+    },
+    "boxfish": {
+      "name": "Boxfish",
+      "category": "Coral Reef",
+      "fact": "Boxfish release a toxin when stressed that can kill other fish nearby!",
+      "files": {
+        "toy_image": "images/toy_mode/boxfish.webp",
+        "real_image": "images/real_mode/boxfish.webp",
+        "name_audio": "audio/names/boxfish_name.mp3",
+        "fact_audio": "audio/facts/boxfish_fact.mp3"
+      }
+    },
+    "triggerfish": {
+      "name": "Triggerfish",
+      "category": "Coral Reef",
+      "fact": "Triggerfish can swim backward by using their second dorsal fin!",
+      "files": {
+        "toy_image": "images/toy_mode/triggerfish.webp",
+        "real_image": "images/real_mode/triggerfish.webp",
+        "name_audio": "audio/names/triggerfish_name.mp3",
+        "fact_audio": "audio/facts/triggerfish_fact.mp3"
+      }
+    },
+    "sea_anemone": {
+      "name": "Sea Anemone",
+      "category": "Coral Reef",
+      "fact": "Sea anemones can live for 50 years and some species can eat small fish!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_anemone.webp",
+        "real_image": "images/real_mode/sea_anemone.webp",
+        "name_audio": "audio/names/sea_anemone_name.mp3",
+        "fact_audio": "audio/facts/sea_anemone_fact.mp3"
+      }
+    },
+    "mandarinfish": {
+      "name": "Mandarinfish",
+      "category": "Coral Reef",
+      "fact": "Mandarinfish are covered in a toxic mucus that protects them from predators!",
+      "files": {
+        "toy_image": "images/toy_mode/mandarinfish.webp",
+        "real_image": "images/real_mode/mandarinfish.webp",
+        "name_audio": "audio/names/mandarinfish_name.mp3",
+        "fact_audio": "audio/facts/mandarinfish_fact.mp3"
+      }
+    },
+    "moorish_idol": {
+      "name": "Moorish Idol",
+      "category": "Coral Reef",
+      "fact": "Moorish idols can change color when they sleep or get excited!",
+      "files": {
+        "toy_image": "images/toy_mode/moorish_idol.webp",
+        "real_image": "images/real_mode/moorish_idol.webp",
+        "name_audio": "audio/names/moorish_idol_name.mp3",
+        "fact_audio": "audio/facts/moorish_idol_fact.mp3"
+      }
+    },
+    "napoleon_wrasse": {
+      "name": "Napoleon Wrasse",
+      "category": "Coral Reef",
+      "fact": "Napoleon wrasse can live over 30 years and are one of the largest reef fish!",
+      "files": {
+        "toy_image": "images/toy_mode/napoleon_wrasse.webp",
+        "real_image": "images/real_mode/napoleon_wrasse.webp",
+        "name_audio": "audio/names/napoleon_wrasse_name.mp3",
+        "fact_audio": "audio/facts/napoleon_wrasse_fact.mp3"
+      }
+    },
+    "cleaner_shrimp": {
+      "name": "Cleaner Shrimp",
+      "category": "Coral Reef",
+      "fact": "Cleaner shrimp set up cleaning stations where fish line up to have parasites removed!",
+      "files": {
+        "toy_image": "images/toy_mode/cleaner_shrimp.webp",
+        "real_image": "images/real_mode/cleaner_shrimp.webp",
+        "name_audio": "audio/names/cleaner_shrimp_name.mp3",
+        "fact_audio": "audio/facts/cleaner_shrimp_fact.mp3"
+      }
+    },
+    "stonefish": {
+      "name": "Stonefish",
+      "category": "Coral Reef",
+      "fact": "The stonefish is the most venomous fish in the world and can be fatal to humans!",
+      "files": {
+        "toy_image": "images/toy_mode/stonefish.webp",
+        "real_image": "images/real_mode/stonefish.webp",
+        "name_audio": "audio/names/stonefish_name.mp3",
+        "fact_audio": "audio/facts/stonefish_fact.mp3"
+      }
+    },
+    "barracuda": {
+      "name": "Barracuda",
+      "category": "Coral Reef",
+      "fact": "Barracudas can swim up to 60 km/h and have been known to leap out of the water!",
+      "files": {
+        "toy_image": "images/toy_mode/barracuda.webp",
+        "real_image": "images/real_mode/barracuda.webp",
+        "name_audio": "audio/names/barracuda_name.mp3",
+        "fact_audio": "audio/facts/barracuda_fact.mp3"
+      }
+    },
+    "trumpetfish": {
+      "name": "Trumpetfish",
+      "category": "Coral Reef",
+      "fact": "Trumpetfish often swim vertically to blend in with sea fans and corals!",
+      "files": {
+        "toy_image": "images/toy_mode/trumpetfish.webp",
+        "real_image": "images/real_mode/trumpetfish.webp",
+        "name_audio": "audio/names/trumpetfish_name.mp3",
+        "fact_audio": "audio/facts/trumpetfish_fact.mp3"
+      }
+    },
+    "nudibranch": {
+      "name": "Nudibranch",
+      "category": "Coral Reef",
+      "fact": "Nudibranchs are sea slugs that come in thousands of bright colors and patterns!",
+      "files": {
+        "toy_image": "images/toy_mode/nudibranch.webp",
+        "real_image": "images/real_mode/nudibranch.webp",
+        "name_audio": "audio/names/nudibranch_name.mp3",
+        "fact_audio": "audio/facts/nudibranch_fact.mp3"
+      }
+    },
+    "sea_fan": {
+      "name": "Sea Fan",
+      "category": "Coral Reef",
+      "fact": "Sea fans are actually colonies of tiny animals that create a fan-shaped structure!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_fan.webp",
+        "real_image": "images/real_mode/sea_fan.webp",
+        "name_audio": "audio/names/sea_fan_name.mp3",
+        "fact_audio": "audio/facts/sea_fan_fact.mp3"
+      }
+    },
+    "brain_coral": {
+      "name": "Brain Coral",
+      "category": "Coral Reef",
+      "fact": "Brain corals can live for over 900 years and grow very slowly!",
+      "files": {
+        "toy_image": "images/toy_mode/brain_coral.webp",
+        "real_image": "images/real_mode/brain_coral.webp",
+        "name_audio": "audio/names/brain_coral_name.mp3",
+        "fact_audio": "audio/facts/brain_coral_fact.mp3"
+      }
+    },
+    "bottlenose_dolphin": {
+      "name": "Bottlenose Dolphin",
+      "category": "Shallow Water",
+      "fact": "Dolphins have names for each other - they use unique whistle signatures to identify friends!",
+      "files": {
+        "toy_image": "images/toy_mode/bottlenose_dolphin.webp",
+        "real_image": "images/real_mode/bottlenose_dolphin.webp",
+        "name_audio": "audio/names/bottlenose_dolphin_name.mp3",
+        "fact_audio": "audio/facts/bottlenose_dolphin_fact.mp3"
+      }
+    },
+    "sea_otter": {
+      "name": "Sea Otter",
+      "category": "Shallow Water",
+      "fact": "Sea otters have the densest fur of any animal with up to 1 million hairs per square inch!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_otter.webp",
+        "real_image": "images/real_mode/sea_otter.webp",
+        "name_audio": "audio/names/sea_otter_name.mp3",
+        "fact_audio": "audio/facts/sea_otter_fact.mp3"
+      }
+    },
+    "manatee": {
+      "name": "Manatee",
+      "category": "Shallow Water",
+      "fact": "Manatees are known as sea cows and eat up to 10% of their body weight daily!",
+      "files": {
+        "toy_image": "images/toy_mode/manatee.webp",
+        "real_image": "images/real_mode/manatee.webp",
+        "name_audio": "audio/names/manatee_name.mp3",
+        "fact_audio": "audio/facts/manatee_fact.mp3"
+      }
+    },
+    "stingray": {
+      "name": "Stingray",
+      "category": "Shallow Water",
+      "fact": "Stingrays have sensors on their faces that can detect the electrical fields of prey!",
+      "files": {
+        "toy_image": "images/toy_mode/stingray.webp",
+        "real_image": "images/real_mode/stingray.webp",
+        "name_audio": "audio/names/stingray_name.mp3",
+        "fact_audio": "audio/facts/stingray_fact.mp3"
+      }
+    },
+    "starfish": {
+      "name": "Starfish",
+      "category": "Shallow Water",
+      "fact": "Starfish can regrow lost arms and some can even grow a whole new body from just one arm!",
+      "files": {
+        "toy_image": "images/toy_mode/starfish.webp",
+        "real_image": "images/real_mode/starfish.webp",
+        "name_audio": "audio/names/starfish_name.mp3",
+        "fact_audio": "audio/facts/starfish_fact.mp3"
+      }
+    },
+    "hermit_crab": {
+      "name": "Hermit Crab",
+      "category": "Shallow Water",
+      "fact": "Hermit crabs carry their homes on their backs and must find bigger shells as they grow!",
+      "files": {
+        "toy_image": "images/toy_mode/hermit_crab.webp",
+        "real_image": "images/real_mode/hermit_crab.webp",
+        "name_audio": "audio/names/hermit_crab_name.mp3",
+        "fact_audio": "audio/facts/hermit_crab_fact.mp3"
+      }
+    },
+    "lobster": {
+      "name": "Lobster",
+      "category": "Shallow Water",
+      "fact": "Lobsters can live over 100 years and don't show signs of aging!",
+      "files": {
+        "toy_image": "images/toy_mode/lobster.webp",
+        "real_image": "images/real_mode/lobster.webp",
+        "name_audio": "audio/names/lobster_name.mp3",
+        "fact_audio": "audio/facts/lobster_fact.mp3"
+      }
+    },
+    "sea_urchin": {
+      "name": "Sea Urchin",
+      "category": "Shallow Water",
+      "fact": "Sea urchins have teeth that grow continuously and are made of the hardest material in nature!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_urchin.webp",
+        "real_image": "images/real_mode/sea_urchin.webp",
+        "name_audio": "audio/names/sea_urchin_name.mp3",
+        "fact_audio": "audio/facts/sea_urchin_fact.mp3"
+      }
+    },
+    "sand_dollar": {
+      "name": "Sand Dollar",
+      "category": "Shallow Water",
+      "fact": "Sand dollars are flattened sea urchins that use tiny spines to move and bury themselves!",
+      "files": {
+        "toy_image": "images/toy_mode/sand_dollar.webp",
+        "real_image": "images/real_mode/sand_dollar.webp",
+        "name_audio": "audio/names/sand_dollar_name.mp3",
+        "fact_audio": "audio/facts/sand_dollar_fact.mp3"
+      }
+    },
+    "pelican": {
+      "name": "Pelican",
+      "category": "Shallow Water",
+      "fact": "Pelicans can hold up to 11 liters of water in their throat pouch!",
+      "files": {
+        "toy_image": "images/toy_mode/pelican.webp",
+        "real_image": "images/real_mode/pelican.webp",
+        "name_audio": "audio/names/pelican_name.mp3",
+        "fact_audio": "audio/facts/pelican_fact.mp3"
+      }
+    },
+    "seagull": {
+      "name": "Seagull",
+      "category": "Shallow Water",
+      "fact": "Seagulls can drink salt water because they have special glands that remove the salt!",
+      "files": {
+        "toy_image": "images/toy_mode/seagull.webp",
+        "real_image": "images/real_mode/seagull.webp",
+        "name_audio": "audio/names/seagull_name.mp3",
+        "fact_audio": "audio/facts/seagull_fact.mp3"
+      }
+    },
+    "horseshoe_crab": {
+      "name": "Horseshoe Crab",
+      "category": "Shallow Water",
+      "fact": "Horseshoe crabs have been around for 450 million years, longer than dinosaurs!",
+      "files": {
+        "toy_image": "images/toy_mode/horseshoe_crab.webp",
+        "real_image": "images/real_mode/horseshoe_crab.webp",
+        "name_audio": "audio/names/horseshoe_crab_name.mp3",
+        "fact_audio": "audio/facts/horseshoe_crab_fact.mp3"
+      }
+    },
+    "fiddler_crab": {
+      "name": "Fiddler Crab",
+      "category": "Shallow Water",
+      "fact": "Male fiddler crabs have one giant claw they wave to attract females!",
+      "files": {
+        "toy_image": "images/toy_mode/fiddler_crab.webp",
+        "real_image": "images/real_mode/fiddler_crab.webp",
+        "name_audio": "audio/names/fiddler_crab_name.mp3",
+        "fact_audio": "audio/facts/fiddler_crab_fact.mp3"
+      }
+    },
+    "flounder": {
+      "name": "Flounder",
+      "category": "Shallow Water",
+      "fact": "Flounder are born with eyes on both sides of their head, but one eye moves to the top as they grow!",
+      "files": {
+        "toy_image": "images/toy_mode/flounder.webp",
+        "real_image": "images/real_mode/flounder.webp",
+        "name_audio": "audio/names/flounder_name.mp3",
+        "fact_audio": "audio/facts/flounder_fact.mp3"
+      }
+    },
+    "barnacle": {
+      "name": "Barnacle",
+      "category": "Shallow Water",
+      "fact": "Barnacles stand on their heads and kick food into their mouth with their feet!",
+      "files": {
+        "toy_image": "images/toy_mode/barnacle.webp",
+        "real_image": "images/real_mode/barnacle.webp",
+        "name_audio": "audio/names/barnacle_name.mp3",
+        "fact_audio": "audio/facts/barnacle_fact.mp3"
+      }
+    },
+    "jellyfish": {
+      "name": "Jellyfish",
+      "category": "Shallow Water",
+      "fact": "Jellyfish are 95% water and have been around for over 500 million years!",
+      "files": {
+        "toy_image": "images/toy_mode/jellyfish.webp",
+        "real_image": "images/real_mode/jellyfish.webp",
+        "name_audio": "audio/names/jellyfish_name.mp3",
+        "fact_audio": "audio/facts/jellyfish_fact.mp3"
+      }
+    },
+    "sea_lion": {
+      "name": "Sea Lion",
+      "category": "Shallow Water",
+      "fact": "Sea lions can swim up to 40 km/h and can hold their breath for 20 minutes!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_lion.webp",
+        "real_image": "images/real_mode/sea_lion.webp",
+        "name_audio": "audio/names/sea_lion_name.mp3",
+        "fact_audio": "audio/facts/sea_lion_fact.mp3"
+      }
+    },
+    "harbor_seal": {
+      "name": "Harbor Seal",
+      "category": "Shallow Water",
+      "fact": "Harbor seals can sleep underwater and surface automatically to breathe without waking up!",
+      "files": {
+        "toy_image": "images/toy_mode/harbor_seal.webp",
+        "real_image": "images/real_mode/harbor_seal.webp",
+        "name_audio": "audio/names/harbor_seal_name.mp3",
+        "fact_audio": "audio/facts/harbor_seal_fact.mp3"
+      }
+    },
+    "great_white_shark": {
+      "name": "Great White Shark",
+      "category": "Shallow Water",
+      "fact": "Great white sharks can detect one drop of blood in 100 liters of water!",
+      "files": {
+        "toy_image": "images/toy_mode/great_white_shark.webp",
+        "real_image": "images/real_mode/great_white_shark.webp",
+        "name_audio": "audio/names/great_white_shark_name.mp3",
+        "fact_audio": "audio/facts/great_white_shark_fact.mp3"
+      }
+    },
+    "hammerhead_shark": {
+      "name": "Hammerhead Shark",
+      "category": "Shallow Water",
+      "fact": "Hammerhead sharks have eyes on the sides of their head, giving them 360-degree vision!",
+      "files": {
+        "toy_image": "images/toy_mode/hammerhead_shark.webp",
+        "real_image": "images/real_mode/hammerhead_shark.webp",
+        "name_audio": "audio/names/hammerhead_shark_name.mp3",
+        "fact_audio": "audio/facts/hammerhead_shark_fact.mp3"
+      }
+    },
+    "tiger_shark": {
+      "name": "Tiger Shark",
+      "category": "Shallow Water",
+      "fact": "Tiger sharks will eat anything - tires, license plates, and even suits of armor have been found in their stomachs!",
+      "files": {
+        "toy_image": "images/toy_mode/tiger_shark.webp",
+        "real_image": "images/real_mode/tiger_shark.webp",
+        "name_audio": "audio/names/tiger_shark_name.mp3",
+        "fact_audio": "audio/facts/tiger_shark_fact.mp3"
+      }
+    },
+    "sea_sponge": {
+      "name": "Sea Sponge",
+      "category": "Shallow Water",
+      "fact": "Sea sponges can filter their entire body volume in less than a minute!",
+      "files": {
+        "toy_image": "images/toy_mode/sea_sponge.webp",
+        "real_image": "images/real_mode/sea_sponge.webp",
+        "name_audio": "audio/names/sea_sponge_name.mp3",
+        "fact_audio": "audio/facts/sea_sponge_fact.mp3"
+      }
+    },
+    "scallop": {
+      "name": "Scallop",
+      "category": "Shallow Water",
+      "fact": "Scallops have dozens of eyes and can swim by clapping their shells together!",
+      "files": {
+        "toy_image": "images/toy_mode/scallop.webp",
+        "real_image": "images/real_mode/scallop.webp",
+        "name_audio": "audio/names/scallop_name.mp3",
+        "fact_audio": "audio/facts/scallop_fact.mp3"
+      }
+    },
+    "oyster": {
+      "name": "Oyster",
+      "category": "Shallow Water",
+      "fact": "Oysters can change their sex multiple times during their lifetime!",
+      "files": {
+        "toy_image": "images/toy_mode/oyster.webp",
+        "real_image": "images/real_mode/oyster.webp",
+        "name_audio": "audio/names/oyster_name.mp3",
+        "fact_audio": "audio/facts/oyster_fact.mp3"
+      }
+    },
+    "mussel": {
+      "name": "Mussel",
+      "category": "Shallow Water",
+      "fact": "Mussels produce byssal threads, often called 'beards', that are as strong as steel!",
+      "files": {
+        "toy_image": "images/toy_mode/mussel.webp",
+        "real_image": "images/real_mode/mussel.webp",
+        "name_audio": "audio/names/mussel_name.mp3",
+        "fact_audio": "audio/facts/mussel_fact.mp3"
+      }
+    },
+    "conch_snail": {
+      "name": "Conch Snail",
+      "category": "Shallow Water",
+      "fact": "Conch snails have eyes on stalks and can jump by using their foot like a spring!",
+      "files": {
+        "toy_image": "images/toy_mode/conch_snail.webp",
+        "real_image": "images/real_mode/conch_snail.webp",
+        "name_audio": "audio/names/conch_snail_name.mp3",
+        "fact_audio": "audio/facts/conch_snail_fact.mp3"
+      }
+    },
+    "krill": {
+      "name": "Krill",
+      "category": "Shallow Water",
+      "fact": "Krill are the most abundant animal species on Earth with a total weight of 500 million tons!",
+      "files": {
+        "toy_image": "images/toy_mode/krill.webp",
+        "real_image": "images/real_mode/krill.webp",
+        "name_audio": "audio/names/krill_name.mp3",
+        "fact_audio": "audio/facts/krill_fact.mp3"
+      }
+    },
+    "plankton": {
+      "name": "Plankton",
+      "category": "Shallow Water",
+      "fact": "Plankton produce half of the oxygen we breathe!",
+      "files": {
+        "toy_image": "images/toy_mode/plankton.webp",
+        "real_image": "images/real_mode/plankton.webp",
+        "name_audio": "audio/names/plankton_name.mp3",
+        "fact_audio": "audio/facts/plankton_fact.mp3"
+      }
+    },
+    "cow": {
+      "name": "Cow",
+      "category": "Farm",
+      "fact": "Cows have best friends and get stressed when they're separated!",
+      "files": {
+        "toy_image": "images/toy_mode/cow.webp",
+        "real_image": "images/real_mode/cow.webp",
+        "name_audio": "audio/names/cow_name.mp3",
+        "fact_audio": "audio/facts/cow_fact.mp3"
+      }
+    },
+    "pig": {
+      "name": "Pig",
+      "category": "Farm",
+      "fact": "Pigs are smarter than dogs and can learn to play video games!",
+      "files": {
+        "toy_image": "images/toy_mode/pig.webp",
+        "real_image": "images/real_mode/pig.webp",
+        "name_audio": "audio/names/pig_name.mp3",
+        "fact_audio": "audio/facts/pig_fact.mp3"
+      }
+    },
+    "sheep": {
+      "name": "Sheep",
+      "category": "Farm",
+      "fact": "Sheep can recognize up to 50 different human faces and remember them for years!",
+      "files": {
+        "toy_image": "images/toy_mode/sheep.webp",
+        "real_image": "images/real_mode/sheep.webp",
+        "name_audio": "audio/names/sheep_name.mp3",
+        "fact_audio": "audio/facts/sheep_fact.mp3"
+      }
+    },
+    "goat": {
+      "name": "Goat",
+      "category": "Farm",
+      "fact": "Goats have accents - their bleats change depending on their social group!",
+      "files": {
+        "toy_image": "images/toy_mode/goat.webp",
+        "real_image": "images/real_mode/goat.webp",
+        "name_audio": "audio/names/goat_name.mp3",
+        "fact_audio": "audio/facts/goat_fact.mp3"
+      }
+    },
+    "chicken": {
+      "name": "Chicken",
+      "category": "Farm",
+      "fact": "Chickens have over 30 different vocalizations and can dream!",
+      "files": {
+        "toy_image": "images/toy_mode/chicken.webp",
+        "real_image": "images/real_mode/chicken.webp",
+        "name_audio": "audio/names/chicken_name.mp3",
+        "fact_audio": "audio/facts/chicken_fact.mp3"
+      }
+    },
+    "rooster": {
+      "name": "Rooster",
+      "category": "Farm",
+      "fact": "Roosters can tell time and often crow just before sunrise!",
+      "files": {
+        "toy_image": "images/toy_mode/rooster.webp",
+        "real_image": "images/real_mode/rooster.webp",
+        "name_audio": "audio/names/rooster_name.mp3",
+        "fact_audio": "audio/facts/rooster_fact.mp3"
+      }
+    },
+    "duck": {
+      "name": "Duck",
+      "category": "Farm",
+      "fact": "Ducklings will follow the first moving thing they see - even if it's not their mother!",
+      "files": {
+        "toy_image": "images/toy_mode/duck.webp",
+        "real_image": "images/real_mode/duck.webp",
+        "name_audio": "audio/names/duck_name.mp3",
+        "fact_audio": "audio/facts/duck_fact.mp3"
+      }
+    },
+    "goose": {
+      "name": "Goose",
+      "category": "Farm",
+      "fact": "Geese mate for life and mourn their dead partners!",
+      "files": {
+        "toy_image": "images/toy_mode/goose.webp",
+        "real_image": "images/real_mode/goose.webp",
+        "name_audio": "audio/names/goose_name.mp3",
+        "fact_audio": "audio/facts/goose_fact.mp3"
+      }
+    },
+    "turkey": {
+      "name": "Turkey",
+      "category": "Farm",
+      "fact": "Wild turkeys can fly up to 88 km/h but domestic turkeys can't fly!",
+      "files": {
+        "toy_image": "images/toy_mode/turkey.webp",
+        "real_image": "images/real_mode/turkey.webp",
+        "name_audio": "audio/names/turkey_name.mp3",
+        "fact_audio": "audio/facts/turkey_fact.mp3"
+      }
+    },
+    "horse": {
+      "name": "Horse",
+      "category": "Farm",
+      "fact": "Horses can sleep standing up using a system of tendons and ligaments!",
+      "files": {
+        "toy_image": "images/toy_mode/horse.webp",
+        "real_image": "images/real_mode/horse.webp",
+        "name_audio": "audio/names/horse_name.mp3",
+        "fact_audio": "audio/facts/horse_fact.mp3"
+      }
+    },
+    "donkey": {
+      "name": "Donkey",
+      "category": "Farm",
+      "fact": "Donkeys have incredible memories and can recognize places they haven't seen in 25 years!",
+      "files": {
+        "toy_image": "images/toy_mode/donkey.webp",
+        "real_image": "images/real_mode/donkey.webp",
+        "name_audio": "audio/names/donkey_name.mp3",
+        "fact_audio": "audio/facts/donkey_fact.mp3"
+      }
+    },
+    "pony": {
+      "name": "Pony",
+      "category": "Farm",
+      "fact": "Ponies are stronger than horses relative to their size!",
+      "files": {
+        "toy_image": "images/toy_mode/pony.webp",
+        "real_image": "images/real_mode/pony.webp",
+        "name_audio": "audio/names/pony_name.mp3",
+        "fact_audio": "audio/facts/pony_fact.mp3"
+      }
+    },
+    "llama": {
+      "name": "Llama",
+      "category": "Farm",
+      "fact": "Llamas can carry up to 30% of their body weight and will spit when angry!",
+      "files": {
+        "toy_image": "images/toy_mode/llama.webp",
+        "real_image": "images/real_mode/llama.webp",
+        "name_audio": "audio/names/llama_name.mp3",
+        "fact_audio": "audio/facts/llama_fact.mp3"
+      }
+    },
+    "alpaca": {
+      "name": "Alpaca",
+      "category": "Farm",
+      "fact": "Alpaca fiber is fire-resistant and comes in 22 natural colors!",
+      "files": {
+        "toy_image": "images/toy_mode/alpaca.webp",
+        "real_image": "images/real_mode/alpaca.webp",
+        "name_audio": "audio/names/alpaca_name.mp3",
+        "fact_audio": "audio/facts/alpaca_fact.mp3"
+      }
+    },
+    "border_collie": {
+      "name": "Border Collie",
+      "category": "Domestic",
+      "fact": "Border collies are the smartest dog breed and can learn over 1,000 words!",
+      "files": {
+        "toy_image": "images/toy_mode/border_collie.webp",
+        "real_image": "images/real_mode/border_collie.webp",
+        "name_audio": "audio/names/border_collie_name.mp3",
+        "fact_audio": "audio/facts/border_collie_fact.mp3"
+      }
+    },
+    "golden_retriever": {
+      "name": "Golden Retriever",
+      "category": "Domestic",
+      "fact": "Golden retrievers have 'soft mouths' and can carry eggs without breaking them!",
+      "files": {
+        "toy_image": "images/toy_mode/golden_retriever.webp",
+        "real_image": "images/real_mode/golden_retriever.webp",
+        "name_audio": "audio/names/golden_retriever_name.mp3",
+        "fact_audio": "audio/facts/golden_retriever_fact.mp3"
+      }
+    },
+    "tabby_cat": {
+      "name": "Tabby Cat",
+      "category": "Domestic",
+      "fact": "Tabby cats have an M pattern on their forehead that's believed to be from Mohammed's blessing!",
+      "files": {
+        "toy_image": "images/toy_mode/tabby_cat.webp",
+        "real_image": "images/real_mode/tabby_cat.webp",
+        "name_audio": "audio/names/tabby_cat_name.mp3",
+        "fact_audio": "audio/facts/tabby_cat_fact.mp3"
+      }
+    },
+    "siamese_cat": {
+      "name": "Siamese Cat",
+      "category": "Domestic",
+      "fact": "Siamese cats are born white and develop their points as they get older!",
+      "files": {
+        "toy_image": "images/toy_mode/siamese_cat.webp",
+        "real_image": "images/real_mode/siamese_cat.webp",
+        "name_audio": "audio/names/siamese_cat_name.mp3",
+        "fact_audio": "audio/facts/siamese_cat_fact.mp3"
+      }
+    },
+    "goldfish": {
+      "name": "Goldfish",
+      "category": "Domestic",
+      "fact": "Goldfish can recognize faces and can be trained to push levers for food!",
+      "files": {
+        "toy_image": "images/toy_mode/goldfish.webp",
+        "real_image": "images/real_mode/goldfish.webp",
+        "name_audio": "audio/names/goldfish_name.mp3",
+        "fact_audio": "audio/facts/goldfish_fact.mp3"
+      }
+    },
+    "hamster": {
+      "name": "Hamster",
+      "category": "Domestic",
+      "fact": "Hamsters have pouches in their cheeks that can stretch to their shoulders!",
+      "files": {
+        "toy_image": "images/toy_mode/hamster.webp",
+        "real_image": "images/real_mode/hamster.webp",
+        "name_audio": "audio/names/hamster_name.mp3",
+        "fact_audio": "audio/facts/hamster_fact.mp3"
+      }
+    },
+    "guinea_pig": {
+      "name": "Guinea Pig",
+      "category": "Domestic",
+      "fact": "Guinea pigs can't make their own vitamin C and must get it from food!",
+      "files": {
+        "toy_image": "images/toy_mode/guinea_pig.webp",
+        "real_image": "images/real_mode/guinea_pig.webp",
+        "name_audio": "audio/names/guinea_pig_name.mp3",
+        "fact_audio": "audio/facts/guinea_pig_fact.mp3"
+      }
+    },
+    "rabbit": {
+      "name": "Rabbit",
+      "category": "Domestic",
+      "fact": "Rabbits can jump nearly 1 meter high and have 360-degree vision!",
+      "files": {
+        "toy_image": "images/toy_mode/rabbit.webp",
+        "real_image": "images/real_mode/rabbit.webp",
+        "name_audio": "audio/names/rabbit_name.mp3",
+        "fact_audio": "audio/facts/rabbit_fact.mp3"
+      }
+    },
+    "ferret": {
+      "name": "Ferret",
+      "category": "Domestic",
+      "fact": "Ferrets sleep up to 18 hours a day and are most active at dawn and dusk!",
+      "files": {
+        "toy_image": "images/toy_mode/ferret.webp",
+        "real_image": "images/real_mode/ferret.webp",
+        "name_audio": "audio/names/ferret_name.mp3",
+        "fact_audio": "audio/facts/ferret_fact.mp3"
+      }
+    },
+    "parakeet": {
+      "name": "Parakeet",
+      "category": "Domestic",
+      "fact": "Parakeets can learn over 100 words and live up to 20 years!",
+      "files": {
+        "toy_image": "images/toy_mode/parakeet.webp",
+        "real_image": "images/real_mode/parakeet.webp",
+        "name_audio": "audio/names/parakeet_name.mp3",
+        "fact_audio": "audio/facts/parakeet_fact.mp3"
+      }
+    },
+    "cockatiel": {
+      "name": "Cockatiel",
+      "category": "Domestic",
+      "fact": "Male cockatiels are better at talking and females are better at whistling!",
+      "files": {
+        "toy_image": "images/toy_mode/cockatiel.webp",
+        "real_image": "images/real_mode/cockatiel.webp",
+        "name_audio": "audio/names/cockatiel_name.mp3",
+        "fact_audio": "audio/facts/cockatiel_fact.mp3"
+      }
+    },
+    "turtle": {
+      "name": "Turtle",
+      "category": "Domestic",
+      "fact": "Turtles can breathe through their butt when underwater!",
+      "files": {
+        "toy_image": "images/toy_mode/turtle.webp",
+        "real_image": "images/real_mode/turtle.webp",
+        "name_audio": "audio/names/turtle_name.mp3",
+        "fact_audio": "audio/facts/turtle_fact.mp3"
+      }
+    },
+    "pot_bellied_pig": {
+      "name": "Pot-bellied Pig",
+      "category": "Domestic",
+      "fact": "Pot-bellied pigs can learn to use a litter box and respond to their name!",
+      "files": {
+        "toy_image": "images/toy_mode/pot_bellied_pig.webp",
+        "real_image": "images/real_mode/pot_bellied_pig.webp",
+        "name_audio": "audio/names/pot_bellied_pig_name.mp3",
+        "fact_audio": "audio/facts/pot_bellied_pig_fact.mp3"
+      }
+    },
+    "mule": {
+      "name": "Mule",
+      "category": "Farm",
+      "fact": "Mules are smarter than horses and have better endurance than donkeys!",
+      "files": {
+        "toy_image": "images/toy_mode/mule.webp",
+        "real_image": "images/real_mode/mule.webp",
+        "name_audio": "audio/names/mule_name.mp3",
+        "fact_audio": "audio/facts/mule_fact.mp3"
+      }
+    },
+    "brown_bear": {
+      "name": "Brown Bear",
+      "category": "Forest",
+      "fact": "Brown bears can run up to 48 km/h and eat up to 40 kg of food per day!",
+      "files": {
+        "toy_image": "images/toy_mode/brown_bear.webp",
+        "real_image": "images/real_mode/brown_bear.webp",
+        "name_audio": "audio/names/brown_bear_name.mp3",
+        "fact_audio": "audio/facts/brown_bear_fact.mp3"
+      }
+    },
+    "black_bear": {
+      "name": "Black Bear",
+      "category": "Forest",
+      "fact": "Black bears can climb trees even as adults and are excellent swimmers!",
+      "files": {
+        "toy_image": "images/toy_mode/black_bear.webp",
+        "real_image": "images/real_mode/black_bear.webp",
+        "name_audio": "audio/names/black_bear_name.mp3",
+        "fact_audio": "audio/facts/black_bear_fact.mp3"
+      }
+    },
+    "moose": {
+      "name": "Moose",
+      "category": "Forest",
+      "fact": "Moose antlers can grow up to 2 meters wide and fall off every winter!",
+      "files": {
+        "toy_image": "images/toy_mode/moose.webp",
+        "real_image": "images/real_mode/moose.webp",
+        "name_audio": "audio/names/moose_name.mp3",
+        "fact_audio": "audio/facts/moose_fact.mp3"
+      }
+    },
+    "elk": {
+      "name": "Elk",
+      "category": "Forest",
+      "fact": "Elk can jump 2.4 meters high and their antlers can grow 2.5 cm per day!",
+      "files": {
+        "toy_image": "images/toy_mode/elk.webp",
+        "real_image": "images/real_mode/elk.webp",
+        "name_audio": "audio/names/elk_name.mp3",
+        "fact_audio": "audio/facts/elk_fact.mp3"
+      }
+    },
+    "white_tailed_deer": {
+      "name": "White-Tailed Deer",
+      "category": "Forest",
+      "fact": "White-tailed deer can run up to 48 km/h and jump 3 meters high!",
+      "files": {
+        "toy_image": "images/toy_mode/white_tailed_deer.webp",
+        "real_image": "images/real_mode/white_tailed_deer.webp",
+        "name_audio": "audio/names/white_tailed_deer_name.mp3",
+        "fact_audio": "audio/facts/white_tailed_deer_fact.mp3"
+      }
+    },
+    "red_fox": {
+      "name": "Red Fox",
+      "category": "Forest",
+      "fact": "Red foxes have 28 different calls and can hear a watch ticking from 40 meters away!",
+      "files": {
+        "toy_image": "images/toy_mode/red_fox.webp",
+        "real_image": "images/real_mode/red_fox.webp",
+        "name_audio": "audio/names/red_fox_name.mp3",
+        "fact_audio": "audio/facts/red_fox_fact.mp3"
+      }
+    },
+    "wolf": {
+      "name": "Wolf",
+      "category": "Forest",
+      "fact": "Wolves can run for hours at 8 km/h and have 200 million scent cells!",
+      "files": {
+        "toy_image": "images/toy_mode/wolf.webp",
+        "real_image": "images/real_mode/wolf.webp",
+        "name_audio": "audio/names/wolf_name.mp3",
+        "fact_audio": "audio/facts/wolf_fact.mp3"
+      }
+    },
+    "coyote": {
+      "name": "Coyote",
+      "category": "Forest",
+      "fact": "Coyotes can mate with dogs and wolves and can jump 4 meters high!",
+      "files": {
+        "toy_image": "images/toy_mode/coyote.webp",
+        "real_image": "images/real_mode/coyote.webp",
+        "name_audio": "audio/names/coyote_name.mp3",
+        "fact_audio": "audio/facts/coyote_fact.mp3"
+      }
+    },
+    "bobcat": {
+      "name": "Bobcat",
+      "category": "Forest",
+      "fact": "Bobcats can leap 3 meters to catch prey and have excellent night vision!",
+      "files": {
+        "toy_image": "images/toy_mode/bobcat.webp",
+        "real_image": "images/real_mode/bobcat.webp",
+        "name_audio": "audio/names/bobcat_name.mp3",
+        "fact_audio": "audio/facts/bobcat_fact.mp3"
+      }
+    },
+    "lynx": {
+      "name": "Lynx",
+      "category": "Forest",
+      "fact": "Lynx have huge paws that work like snowshoes to help them walk on snow!",
+      "files": {
+        "toy_image": "images/toy_mode/lynx.webp",
+        "real_image": "images/real_mode/lynx.webp",
+        "name_audio": "audio/names/lynx_name.mp3",
+        "fact_audio": "audio/facts/lynx_fact.mp3"
+      }
+    },
+    "squirrel": {
+      "name": "Squirrel",
+      "category": "Forest",
+      "fact": "Squirrels can find buried nuts under a foot of snow using their sense of smell!",
+      "files": {
+        "toy_image": "images/toy_mode/squirrel.webp",
+        "real_image": "images/real_mode/squirrel.webp",
+        "name_audio": "audio/names/squirrel_name.mp3",
+        "fact_audio": "audio/facts/squirrel_fact.mp3"
+      }
+    },
+    "chipmunk": {
+      "name": "Chipmunk",
+      "category": "Forest",
+      "fact": "Chipmunks can carry food in their cheek pouches and store up to 8 kg of nuts for winter!",
+      "files": {
+        "toy_image": "images/toy_mode/chipmunk.webp",
+        "real_image": "images/real_mode/chipmunk.webp",
+        "name_audio": "audio/names/chipmunk_name.mp3",
+        "fact_audio": "audio/facts/chipmunk_fact.mp3"
+      }
+    },
+    "beaver": {
+      "name": "Beaver",
+      "category": "Forest",
+      "fact": "Beavers can hold their breath for 15 minutes and their teeth never stop growing!",
+      "files": {
+        "toy_image": "images/toy_mode/beaver.webp",
+        "real_image": "images/real_mode/beaver.webp",
+        "name_audio": "audio/names/beaver_name.mp3",
+        "fact_audio": "audio/facts/beaver_fact.mp3"
+      }
+    },
+    "river_otter": {
+      "name": "River Otter",
+      "category": "Forest",
+      "fact": "River otters have waterproof fur and can close their nostrils and ears underwater!",
+      "files": {
+        "toy_image": "images/toy_mode/river_otter.webp",
+        "real_image": "images/real_mode/river_otter.webp",
+        "name_audio": "audio/names/river_otter_name.mp3",
+        "fact_audio": "audio/facts/river_otter_fact.mp3"
+      }
+    },
+    "porcupine": {
+      "name": "Porcupine",
+      "category": "Forest",
+      "fact": "Porcupines have up to 30,000 quills that they can shoot out when threatened!",
+      "files": {
+        "toy_image": "images/toy_mode/porcupine.webp",
+        "real_image": "images/real_mode/porcupine.webp",
+        "name_audio": "audio/names/porcupine_name.mp3",
+        "fact_audio": "audio/facts/porcupine_fact.mp3"
+      }
+    },
+    "skunk": {
+      "name": "Skunk",
+      "category": "Forest",
+      "fact": "Skunk spray can be detected up to 3.5 km away and can cause temporary blindness!",
+      "files": {
+        "toy_image": "images/toy_mode/skunk.webp",
+        "real_image": "images/real_mode/skunk.webp",
+        "name_audio": "audio/names/skunk_name.mp3",
+        "fact_audio": "audio/facts/skunk_fact.mp3"
+      }
+    },
+    "badger": {
+      "name": "Badger",
+      "category": "Forest",
+      "fact": "Badgers can dig through concrete and their jaws can lock onto prey with incredible force!",
+      "files": {
+        "toy_image": "images/toy_mode/badger.webp",
+        "real_image": "images/real_mode/badger.webp",
+        "name_audio": "audio/names/badger_name.mp3",
+        "fact_audio": "audio/facts/badger_fact.mp3"
+      }
+    },
+    "woodpecker": {
+      "name": "Woodpecker",
+      "category": "Forest",
+      "fact": "Woodpeckers can peck 20 times per second and have shock-absorbing skulls!",
+      "files": {
+        "toy_image": "images/toy_mode/woodpecker.webp",
+        "real_image": "images/real_mode/woodpecker.webp",
+        "name_audio": "audio/names/woodpecker_name.mp3",
+        "fact_audio": "audio/facts/woodpecker_fact.mp3"
+      }
+    },
+    "blue_jay": {
+      "name": "Blue Jay",
+      "category": "Forest",
+      "fact": "Blue jays can mimic hawk calls to scare other birds away from food!",
+      "files": {
+        "toy_image": "images/toy_mode/blue_jay.webp",
+        "real_image": "images/real_mode/blue_jay.webp",
+        "name_audio": "audio/names/blue_jay_name.mp3",
+        "fact_audio": "audio/facts/blue_jay_fact.mp3"
+      }
+    },
+    "cardinal": {
+      "name": "Cardinal",
+      "category": "Forest",
+      "fact": "Cardinals don't molt their feathers so they stay bright red all year!",
+      "files": {
+        "toy_image": "images/toy_mode/cardinal.webp",
+        "real_image": "images/real_mode/cardinal.webp",
+        "name_audio": "audio/names/cardinal_name.mp3",
+        "fact_audio": "audio/facts/cardinal_fact.mp3"
+      }
+    },
+    "eagle": {
+      "name": "Eagle",
+      "category": "Forest",
+      "fact": "Eagles can see 4-7 times better than humans and can spot a rabbit from 3 km away!",
+      "files": {
+        "toy_image": "images/toy_mode/eagle.webp",
+        "real_image": "images/real_mode/eagle.webp",
+        "name_audio": "audio/names/eagle_name.mp3",
+        "fact_audio": "audio/facts/eagle_fact.mp3"
+      }
+    },
+    "hawk": {
+      "name": "Hawk",
+      "category": "Forest",
+      "fact": "Hawks can see in ultraviolet and track prey by following urine trails!",
+      "files": {
+        "toy_image": "images/toy_mode/hawk.webp",
+        "real_image": "images/real_mode/hawk.webp",
+        "name_audio": "audio/names/hawk_name.mp3",
+        "fact_audio": "audio/facts/hawk_fact.mp3"
+      }
+    },
+    "falcon": {
+      "name": "Falcon",
+      "category": "Forest",
+      "fact": "Peregrine falcons are the fastest animals, diving at over 320 km/h!",
+      "files": {
+        "toy_image": "images/toy_mode/falcon.webp",
+        "real_image": "images/real_mode/falcon.webp",
+        "name_audio": "audio/names/falcon_name.mp3",
+        "fact_audio": "audio/facts/falcon_fact.mp3"
+      }
+    },
+    "wild_boar": {
+      "name": "Wild Boar",
+      "category": "Forest",
+      "fact": "Wild boars have tough skin that can stop arrows and they're excellent swimmers!",
+      "files": {
+        "toy_image": "images/toy_mode/wild_boar.webp",
+        "real_image": "images/real_mode/wild_boar.webp",
+        "name_audio": "audio/names/wild_boar_name.mp3",
+        "fact_audio": "audio/facts/wild_boar_fact.mp3"
+      }
+    },
+    "hedgehog": {
+      "name": "Hedgehog",
+      "category": "Forest",
+      "fact": "Hedgehogs are immune to snake venom and can eat poisonous snakes!",
+      "files": {
+        "toy_image": "images/toy_mode/hedgehog.webp",
+        "real_image": "images/real_mode/hedgehog.webp",
+        "name_audio": "audio/names/hedgehog_name.mp3",
+        "fact_audio": "audio/facts/hedgehog_fact.mp3"
+      }
+    },
+    "mole": {
+      "name": "Mole",
+      "category": "Forest",
+      "fact": "Moles can dig 15 meters of tunnel per hour and have a special thumb for digging!",
+      "files": {
+        "toy_image": "images/toy_mode/mole.webp",
+        "real_image": "images/real_mode/mole.webp",
+        "name_audio": "audio/names/mole_name.mp3",
+        "fact_audio": "audio/facts/mole_fact.mp3"
+      }
+    },
+    "salamander": {
+      "name": "Salamander",
+      "category": "Forest",
+      "fact": "Some salamanders can regrow entire limbs, including bones, muscles, and nerves!",
+      "files": {
+        "toy_image": "images/toy_mode/salamander.webp",
+        "real_image": "images/real_mode/salamander.webp",
+        "name_audio": "audio/names/salamander_name.mp3",
+        "fact_audio": "audio/facts/salamander_fact.mp3"
+      }
+    },
+    "turkey_vulture": {
+      "name": "Turkey Vulture",
+      "category": "Forest",
+      "fact": "Turkey vultures can eat diseased animals without getting sick and use vomit as defense!",
+      "files": {
+        "toy_image": "images/toy_mode/turkey_vulture.webp",
+        "real_image": "images/real_mode/turkey_vulture.webp",
+        "name_audio": "audio/names/turkey_vulture_name.mp3",
+        "fact_audio": "audio/facts/turkey_vulture_fact.mp3"
+      }
+    },
+    "bengal_tiger": {
+      "name": "Bengal Tiger",
+      "category": "Jungle",
+      "fact": "Tigers have stripes on their skin as well as their fur - no two tigers have the same pattern!",
+      "files": {
+        "toy_image": "images/toy_mode/bengal_tiger.webp",
+        "real_image": "images/real_mode/bengal_tiger.webp",
+        "name_audio": "audio/names/bengal_tiger_name.mp3",
+        "fact_audio": "audio/facts/bengal_tiger_fact.mp3"
+      }
+    },
+    "jaguar": {
+      "name": "Jaguar",
+      "category": "Jungle",
+      "fact": "Jaguars have the strongest bite of all big cats and can crush turtle shells!",
+      "files": {
+        "toy_image": "images/toy_mode/jaguar.webp",
+        "real_image": "images/real_mode/jaguar.webp",
+        "name_audio": "audio/names/jaguar_name.mp3",
+        "fact_audio": "audio/facts/jaguar_fact.mp3"
+      }
+    },
+    "leopard": {
+      "name": "Leopard",
+      "category": "Jungle",
+      "fact": "Leopards can carry prey 3 times their own weight up trees!",
+      "files": {
+        "toy_image": "images/toy_mode/leopard.webp",
+        "real_image": "images/real_mode/leopard.webp",
+        "name_audio": "audio/names/leopard_name.mp3",
+        "fact_audio": "audio/facts/leopard_fact.mp3"
+      }
+    },
+    "gorilla": {
+      "name": "Gorilla",
+      "category": "Jungle",
+      "fact": "Gorillas can learn sign language and have unique fingerprints like humans!",
+      "files": {
+        "toy_image": "images/toy_mode/gorilla.webp",
+        "real_image": "images/real_mode/gorilla.webp",
+        "name_audio": "audio/names/gorilla_name.mp3",
+        "fact_audio": "audio/facts/gorilla_fact.mp3"
+      }
+    },
+    "chimpanzee": {
+      "name": "Chimpanzee",
+      "category": "Jungle",
+      "fact": "Chimpanzees use tools, teach their young, and have been seen using medicine!",
+      "files": {
+        "toy_image": "images/toy_mode/chimpanzee.webp",
+        "real_image": "images/real_mode/chimpanzee.webp",
+        "name_audio": "audio/names/chimpanzee_name.mp3",
+        "fact_audio": "audio/facts/chimpanzee_fact.mp3"
+      }
+    },
+    "orangutan": {
+      "name": "Orangutan",
+      "category": "Jungle",
+      "fact": "Orangutans share 97% of DNA with humans and build nests in trees every night!",
+      "files": {
+        "toy_image": "images/toy_mode/orangutan.webp",
+        "real_image": "images/real_mode/orangutan.webp",
+        "name_audio": "audio/names/orangutan_name.mp3",
+        "fact_audio": "audio/facts/orangutan_fact.mp3"
+      }
+    },
+    "howler_monkey": {
+      "name": "Howler Monkey",
+      "category": "Jungle",
+      "fact": "Howler monkeys are the loudest land animals - their calls can be heard 5 km away!",
+      "files": {
+        "toy_image": "images/toy_mode/howler_monkey.webp",
+        "real_image": "images/real_mode/howler_monkey.webp",
+        "name_audio": "audio/names/howler_monkey_name.mp3",
+        "fact_audio": "audio/facts/howler_monkey_fact.mp3"
+      }
+    },
+    "spider_monkey": {
+      "name": "Spider Monkey",
+      "category": "Jungle",
+      "fact": "Spider monkeys have a prehensile tail that works like a fifth arm!",
+      "files": {
+        "toy_image": "images/toy_mode/spider_monkey.webp",
+        "real_image": "images/real_mode/spider_monkey.webp",
+        "name_audio": "audio/names/spider_monkey_name.mp3",
+        "fact_audio": "audio/facts/spider_monkey_fact.mp3"
+      }
+    },
+    "capuchin_monkey": {
+      "name": "Capuchin Monkey",
+      "category": "Jungle",
+      "fact": "Capuchin monkeys use tools to crack nuts and even use medicinal plants!",
+      "files": {
+        "toy_image": "images/toy_mode/capuchin_monkey.webp",
+        "real_image": "images/real_mode/capuchin_monkey.webp",
+        "name_audio": "audio/names/capuchin_monkey_name.mp3",
+        "fact_audio": "audio/facts/capuchin_monkey_fact.mp3"
+      }
+    },
+    "lemur": {
+      "name": "Lemur",
+      "category": "Jungle",
+      "fact": "Lemurs have long tails for balance and communicate with scent markings!",
+      "files": {
+        "toy_image": "images/toy_mode/lemur.webp",
+        "real_image": "images/real_mode/lemur.webp",
+        "name_audio": "audio/names/lemur_name.mp3",
+        "fact_audio": "audio/facts/lemur_fact.mp3"
+      }
+    },
+    "sloth": {
+      "name": "Sloth",
+      "category": "Jungle",
+      "fact": "Sloths are so slow that algae grows on their fur, helping them blend in!",
+      "files": {
+        "toy_image": "images/toy_mode/sloth.webp",
+        "real_image": "images/real_mode/sloth.webp",
+        "name_audio": "audio/names/sloth_name.mp3",
+        "fact_audio": "audio/facts/sloth_fact.mp3"
+      }
+    },
+    "anteater": {
+      "name": "Anteater",
+      "category": "Jungle",
+      "fact": "Anteaters can eat 35,000 ants per day and have a 60 cm long tongue!",
+      "files": {
+        "toy_image": "images/toy_mode/anteater.webp",
+        "real_image": "images/real_mode/anteater.webp",
+        "name_audio": "audio/names/anteater_name.mp3",
+        "fact_audio": "audio/facts/anteater_fact.mp3"
+      }
+    },
+    "armadillo": {
+      "name": "Armadillo",
+      "category": "Jungle",
+      "fact": "Armadillos can jump 1 meter high when startled and always have identical quadruplets!",
+      "files": {
+        "toy_image": "images/toy_mode/armadillo.webp",
+        "real_image": "images/real_mode/armadillo.webp",
+        "name_audio": "audio/names/armadillo_name.mp3",
+        "fact_audio": "audio/facts/armadillo_fact.mp3"
+      }
+    },
+    "tapir": {
+      "name": "Tapir",
+      "category": "Jungle",
+      "fact": "Tapirs are related to horses and rhinos and can use their nose as a snorkel!",
+      "files": {
+        "toy_image": "images/toy_mode/tapir.webp",
+        "real_image": "images/real_mode/tapir.webp",
+        "name_audio": "audio/names/tapir_name.mp3",
+        "fact_audio": "audio/facts/tapir_fact.mp3"
+      }
+    },
+    "toucan": {
+      "name": "Toucan",
+      "category": "Jungle",
+      "fact": "A toucan's bill is one-third of its body length but is so light it can't affect balance!",
+      "files": {
+        "toy_image": "images/toy_mode/toucan.webp",
+        "real_image": "images/real_mode/toucan.webp",
+        "name_audio": "audio/names/toucan_name.mp3",
+        "fact_audio": "audio/facts/toucan_fact.mp3"
+      }
+    },
+    "macaw": {
+      "name": "Macaw",
+      "category": "Jungle",
+      "fact": "Macaws can live over 80 years and mate for life!",
+      "files": {
+        "toy_image": "images/toy_mode/macaw.webp",
+        "real_image": "images/real_mode/macaw.webp",
+        "name_audio": "audio/names/macaw_name.mp3",
+        "fact_audio": "audio/facts/macaw_fact.mp3"
+      }
+    },
+    "parrot": {
+      "name": "Parrot",
+      "category": "Jungle",
+      "fact": "Some parrots can live over 100 years and learn over 100 words!",
+      "files": {
+        "toy_image": "images/toy_mode/parrot.webp",
+        "real_image": "images/real_mode/parrot.webp",
+        "name_audio": "audio/names/parrot_name.mp3",
+        "fact_audio": "audio/facts/parrot_fact.mp3"
+      }
+    },
+    "hummingbird": {
+      "name": "Hummingbird",
+      "category": "Jungle",
+      "fact": "Hummingbirds beat their wings 80 times per second and are the only birds that can fly backward!",
+      "files": {
+        "toy_image": "images/toy_mode/hummingbird.webp",
+        "real_image": "images/real_mode/hummingbird.webp",
+        "name_audio": "audio/names/hummingbird_name.mp3",
+        "fact_audio": "audio/facts/hummingbird_fact.mp3"
+      }
+    },
+    "green_iguana": {
+      "name": "Green Iguana",
+      "category": "Jungle",
+      "fact": "Iguanas can hold their breath for 30 minutes and have a third eye on top of their head!",
+      "files": {
+        "toy_image": "images/toy_mode/green_iguana.webp",
+        "real_image": "images/real_mode/green_iguana.webp",
+        "name_audio": "audio/names/green_iguana_name.mp3",
+        "fact_audio": "audio/facts/green_iguana_fact.mp3"
+      }
+    },
+    "chameleon": {
+      "name": "Chameleon",
+      "category": "Jungle",
+      "fact": "Chameleons change color based on mood and temperature, not just camouflage!",
+      "files": {
+        "toy_image": "images/toy_mode/chameleon.webp",
+        "real_image": "images/real_mode/chameleon.webp",
+        "name_audio": "audio/names/chameleon_name.mp3",
+        "fact_audio": "audio/facts/chameleon_fact.mp3"
+      }
+    },
+    "boa_constrictor": {
+      "name": "Boa Constrictor",
+      "category": "Jungle",
+      "fact": "Boa constrictors have heat-sensing pits and can swallow prey larger than their head!",
+      "files": {
+        "toy_image": "images/toy_mode/boa_constrictor.webp",
+        "real_image": "images/real_mode/boa_constrictor.webp",
+        "name_audio": "audio/names/boa_constrictor_name.mp3",
+        "fact_audio": "audio/facts/boa_constrictor_fact.mp3"
+      }
+    },
+    "python": {
+      "name": "Python",
+      "category": "Jungle",
+      "fact": "Pythons can go a year without eating and have flexible jaws that unhinge to swallow large prey!",
+      "files": {
+        "toy_image": "images/toy_mode/python.webp",
+        "real_image": "images/real_mode/python.webp",
+        "name_audio": "audio/names/python_name.mp3",
+        "fact_audio": "audio/facts/python_fact.mp3"
+      }
+    },
+    "anaconda": {
+      "name": "Anaconda",
+      "category": "Jungle",
+      "fact": "Anacondas give birth to live young and can stay underwater for 10 minutes!",
+      "files": {
+        "toy_image": "images/toy_mode/anaconda.webp",
+        "real_image": "images/real_mode/anaconda.webp",
+        "name_audio": "audio/names/anaconda_name.mp3",
+        "fact_audio": "audio/facts/anaconda_fact.mp3"
+      }
+    },
+    "poison_dart_frog": {
+      "name": "Poison Dart Frog",
+      "category": "Jungle",
+      "fact": "One golden poison dart frog has enough poison to kill 10 humans!",
+      "files": {
+        "toy_image": "images/toy_mode/poison_dart_frog.webp",
+        "real_image": "images/real_mode/poison_dart_frog.webp",
+        "name_audio": "audio/names/poison_dart_frog_name.mp3",
+        "fact_audio": "audio/facts/poison_dart_frog_fact.mp3"
+      }
+    },
+    "red_eyed_tree_frog": {
+      "name": "Red-Eyed Tree Frog",
+      "category": "Jungle",
+      "fact": "Red-eyed tree frogs flash their bright colors to startle predators, then escape!",
+      "files": {
+        "toy_image": "images/toy_mode/red_eyed_tree_frog.webp",
+        "real_image": "images/real_mode/red_eyed_tree_frog.webp",
+        "name_audio": "audio/names/red_eyed_tree_frog_name.mp3",
+        "fact_audio": "audio/facts/red_eyed_tree_frog_fact.mp3"
+      }
+    },
+    "tarantula": {
+      "name": "Tarantula",
+      "category": "Jungle",
+      "fact": "Tarantulas can regenerate lost legs and some species can live 30 years!",
+      "files": {
+        "toy_image": "images/toy_mode/tarantula.webp",
+        "real_image": "images/real_mode/tarantula.webp",
+        "name_audio": "audio/names/tarantula_name.mp3",
+        "fact_audio": "audio/facts/tarantula_fact.mp3"
+      }
+    },
+    "leafcutter_ant": {
+      "name": "Leafcutter Ant",
+      "category": "Jungle",
+      "fact": "Leafcutter ants don't eat leaves - they use them to grow fungus that they eat!",
+      "files": {
+        "toy_image": "images/toy_mode/leafcutter_ant.webp",
+        "real_image": "images/real_mode/leafcutter_ant.webp",
+        "name_audio": "audio/names/leafcutter_ant_name.mp3",
+        "fact_audio": "audio/facts/leafcutter_ant_fact.mp3"
+      }
+    },
+    "okapi": {
+      "name": "Okapi",
+      "category": "Jungle",
+      "fact": "Okapis are the only living relatives of giraffes and have zebra-striped legs!",
+      "files": {
+        "toy_image": "images/toy_mode/okapi.webp",
+        "real_image": "images/real_mode/okapi.webp",
+        "name_audio": "audio/names/okapi_name.mp3",
+        "fact_audio": "audio/facts/okapi_fact.mp3"
+      }
+    },
+    "barn_owl": {
+      "name": "Barn Owl",
+      "category": "Nocturnal",
+      "fact": "Barn owls have asymmetrical ears that help them pinpoint sounds in complete darkness!",
+      "files": {
+        "toy_image": "images/toy_mode/barn_owl.webp",
+        "real_image": "images/real_mode/barn_owl.webp",
+        "name_audio": "audio/names/barn_owl_name.mp3",
+        "fact_audio": "audio/facts/barn_owl_fact.mp3"
+      }
+    },
+    "great_horned_owl": {
+      "name": "Great Horned Owl",
+      "category": "Nocturnal",
+      "fact": "Great horned owls can't move their eyes, so they can turn their heads 270 degrees!",
+      "files": {
+        "toy_image": "images/toy_mode/great_horned_owl.webp",
+        "real_image": "images/real_mode/great_horned_owl.webp",
+        "name_audio": "audio/names/great_horned_owl_name.mp3",
+        "fact_audio": "audio/facts/great_horned_owl_fact.mp3"
+      }
+    },
+    "fruit_bat": {
+      "name": "Fruit Bat",
+      "category": "Nocturnal",
+      "fact": "Fruit bats are essential pollinators for over 300 plant species!",
+      "files": {
+        "toy_image": "images/toy_mode/fruit_bat.webp",
+        "real_image": "images/real_mode/fruit_bat.webp",
+        "name_audio": "audio/names/fruit_bat_name.mp3",
+        "fact_audio": "audio/facts/fruit_bat_fact.mp3"
+      }
+    },
+    "vampire_bat": {
+      "name": "Vampire Bat",
+      "category": "Nocturnal",
+      "fact": "Vampire bats can walk, run, and jump and share blood with other bats who couldn't find food!",
+      "files": {
+        "toy_image": "images/toy_mode/vampire_bat.webp",
+        "real_image": "images/real_mode/vampire_bat.webp",
+        "name_audio": "audio/names/vampire_bat_name.mp3",
+        "fact_audio": "audio/facts/vampire_bat_fact.mp3"
+      }
+    },
+    "raccoon": {
+      "name": "Raccoon",
+      "category": "Nocturnal",
+      "fact": "Raccoons have 'hands' with five fingers and can remember solutions to tasks for 3 years!",
+      "files": {
+        "toy_image": "images/toy_mode/raccoon.webp",
+        "real_image": "images/real_mode/raccoon.webp",
+        "name_audio": "audio/names/raccoon_name.mp3",
+        "fact_audio": "audio/facts/raccoon_fact.mp3"
+      }
+    },
+    "opossum": {
+      "name": "Opossum",
+      "category": "Nocturnal",
+      "fact": "Opossums play dead when threatened and can have up to 20 babies at once!",
+      "files": {
+        "toy_image": "images/toy_mode/opossum.webp",
+        "real_image": "images/real_mode/opossum.webp",
+        "name_audio": "audio/names/opossum_name.mp3",
+        "fact_audio": "audio/facts/opossum_fact.mp3"
+      }
+    },
+    "aye_aye": {
+      "name": "Aye-Aye",
+      "category": "Nocturnal",
+      "fact": "Aye-ayes have a long middle finger they use to tap on wood and find insects!",
+      "files": {
+        "toy_image": "images/toy_mode/aye_aye.webp",
+        "real_image": "images/real_mode/aye_aye.webp",
+        "name_audio": "audio/names/aye_aye_name.mp3",
+        "fact_audio": "audio/facts/aye_aye_fact.mp3"
+      }
+    },
+    "tarsier": {
+      "name": "Tarsier",
+      "category": "Nocturnal",
+      "fact": "Tarsiers have the largest eyes relative to body size of any mammal!",
+      "files": {
+        "toy_image": "images/toy_mode/tarsier.webp",
+        "real_image": "images/real_mode/tarsier.webp",
+        "name_audio": "audio/names/tarsier_name.mp3",
+        "fact_audio": "audio/facts/tarsier_fact.mp3"
+      }
+    },
+    "bush_baby": {
+      "name": "Bush Baby",
+      "category": "Nocturnal",
+      "fact": "Bush babies can leap 2.5 meters and have huge ears that help them hunt insects!",
+      "files": {
+        "toy_image": "images/toy_mode/bush_baby.webp",
+        "real_image": "images/real_mode/bush_baby.webp",
+        "name_audio": "audio/names/bush_baby_name.mp3",
+        "fact_audio": "audio/facts/bush_baby_fact.mp3"
+      }
+    },
+    "sugar_glider": {
+      "name": "Sugar Glider",
+      "category": "Nocturnal",
+      "fact": "Sugar gliders can glide up to 45 meters using a membrane between their legs!",
+      "files": {
+        "toy_image": "images/toy_mode/sugar_glider.webp",
+        "real_image": "images/real_mode/sugar_glider.webp",
+        "name_audio": "audio/names/sugar_glider_name.mp3",
+        "fact_audio": "audio/facts/sugar_glider_fact.mp3"
+      }
+    },
+    "kinkajou": {
+      "name": "Kinkajou",
+      "category": "Nocturnal",
+      "fact": "Kinkajous have a 5-inch long tongue they use to reach nectar in flowers!",
+      "files": {
+        "toy_image": "images/toy_mode/kinkajou.webp",
+        "real_image": "images/real_mode/kinkajou.webp",
+        "name_audio": "audio/names/kinkajou_name.mp3",
+        "fact_audio": "audio/facts/kinkajou_fact.mp3"
+      }
+    },
+    "fennec_fox": {
+      "name": "Fennec Fox",
+      "category": "Nocturnal",
+      "fact": "Fennec foxes have huge ears that help them hear prey underground and release heat!",
+      "files": {
+        "toy_image": "images/toy_mode/fennec_fox.webp",
+        "real_image": "images/real_mode/fennec_fox.webp",
+        "name_audio": "audio/names/fennec_fox_name.mp3",
+        "fact_audio": "audio/facts/fennec_fox_fact.mp3"
+      }
+    },
+    "hyena": {
+      "name": "Hyena",
+      "category": "Nocturnal",
+      "fact": "Hyenas are more closely related to cats than dogs and can digest bones completely!",
+      "files": {
+        "toy_image": "images/toy_mode/hyena.webp",
+        "real_image": "images/real_mode/hyena.webp",
+        "name_audio": "audio/names/hyena_name.mp3",
+        "fact_audio": "audio/facts/hyena_fact.mp3"
+      }
+    },
+    "aardvark": {
+      "name": "Aardvark",
+      "category": "Nocturnal",
+      "fact": "Aardvarks can dig 1 meter in 5 minutes and eat 50,000 termites per night!",
+      "files": {
+        "toy_image": "images/toy_mode/aardvark.webp",
+        "real_image": "images/real_mode/aardvark.webp",
+        "name_audio": "audio/names/aardvark_name.mp3",
+        "fact_audio": "audio/facts/aardvark_fact.mp3"
+      }
+    },
+    "pangolin": {
+      "name": "Pangolin",
+      "category": "Nocturnal",
+      "fact": "Pangolins are the only mammals covered in scales and can roll into a ball for protection!",
+      "files": {
+        "toy_image": "images/toy_mode/pangolin.webp",
+        "real_image": "images/real_mode/pangolin.webp",
+        "name_audio": "audio/names/pangolin_name.mp3",
+        "fact_audio": "audio/facts/pangolin_fact.mp3"
+      }
+    },
+    "tasmanian_devil": {
+      "name": "Tasmanian Devil",
+      "category": "Nocturnal",
+      "fact": "Tasmanian devils have the strongest bite relative to body size of any mammal!",
+      "files": {
+        "toy_image": "images/toy_mode/tasmanian_devil.webp",
+        "real_image": "images/real_mode/tasmanian_devil.webp",
+        "name_audio": "audio/names/tasmanian_devil_name.mp3",
+        "fact_audio": "audio/facts/tasmanian_devil_fact.mp3"
+      }
+    },
+    "wombat": {
+      "name": "Wombat",
+      "category": "Nocturnal",
+      "fact": "Wombats have cube-shaped poop that doesn't roll away and they use it to mark territory!",
+      "files": {
+        "toy_image": "images/toy_mode/wombat.webp",
+        "real_image": "images/real_mode/wombat.webp",
+        "name_audio": "audio/names/wombat_name.mp3",
+        "fact_audio": "audio/facts/wombat_fact.mp3"
+      }
+    },
+    "koala": {
+      "name": "Koala",
+      "category": "Nocturnal",
+      "fact": "Koalas sleep 22 hours a day and have fingerprints almost identical to humans!",
+      "files": {
+        "toy_image": "images/toy_mode/koala.webp",
+        "real_image": "images/real_mode/koala.webp",
+        "name_audio": "audio/names/koala_name.mp3",
+        "fact_audio": "audio/facts/koala_fact.mp3"
+      }
+    },
+    "scorpion": {
+      "name": "Scorpion",
+      "category": "Nocturnal",
+      "fact": "Scorpions glow under UV light and can survive a year without food!",
+      "files": {
+        "toy_image": "images/toy_mode/scorpion.webp",
+        "real_image": "images/real_mode/scorpion.webp",
+        "name_audio": "audio/names/scorpion_name.mp3",
+        "fact_audio": "audio/facts/scorpion_fact.mp3"
+      }
+    },
+    "firefly": {
+      "name": "Firefly",
+      "category": "Nocturnal",
+      "fact": "Fireflies flash in patterns to attract mates and some synchronize their flashes!",
+      "files": {
+        "toy_image": "images/toy_mode/firefly.webp",
+        "real_image": "images/real_mode/firefly.webp",
+        "name_audio": "audio/names/firefly_name.mp3",
+        "fact_audio": "audio/facts/firefly_fact.mp3"
+      }
+    },
+    "moth": {
+      "name": "Moth",
+      "category": "Nocturnal",
+      "fact": "Moths navigate by the moon and some can fly up to 60 km/h!",
+      "files": {
+        "toy_image": "images/toy_mode/moth.webp",
+        "real_image": "images/real_mode/moth.webp",
+        "name_audio": "audio/names/moth_name.mp3",
+        "fact_audio": "audio/facts/moth_fact.mp3"
+      }
+    },
+    "gecko": {
+      "name": "Gecko",
+      "category": "Nocturnal",
+      "fact": "Geckos can walk on walls using microscopic hairs that create molecular attraction!",
+      "files": {
+        "toy_image": "images/toy_mode/gecko.webp",
+        "real_image": "images/real_mode/gecko.webp",
+        "name_audio": "audio/names/gecko_name.mp3",
+        "fact_audio": "audio/facts/gecko_fact.mp3"
+      }
+    },
+    "cacomistle": {
+      "name": "Cacomistle",
+      "category": "Nocturnal",
+      "fact": "Cacomistles are related to raccoons and have rings on their tails like raccoons!",
+      "files": {
+        "toy_image": "images/toy_mode/cacomistle.webp",
+        "real_image": "images/real_mode/cacomistle.webp",
+        "name_audio": "audio/names/cacomistle_name.mp3",
+        "fact_audio": "audio/facts/cacomistle_fact.mp3"
+      }
+    },
+    "civet": {
+      "name": "Civet",
+      "category": "Nocturnal",
+      "fact": "Civets produce musk used in perfumes and some coffee beans pass through them!",
+      "files": {
+        "toy_image": "images/toy_mode/civet.webp",
+        "real_image": "images/real_mode/civet.webp",
+        "name_audio": "audio/names/civet_name.mp3",
+        "fact_audio": "audio/facts/civet_fact.mp3"
+      }
+    },
+    "genet": {
+      "name": "Genet",
+      "category": "Nocturnal",
+      "fact": "Genets can stand on their hind legs to look around and have retractable claws like cats!",
+      "files": {
+        "toy_image": "images/toy_mode/genet.webp",
+        "real_image": "images/real_mode/genet.webp",
+        "name_audio": "audio/names/genet_name.mp3",
+        "fact_audio": "audio/facts/genet_fact.mp3"
+      }
+    },
+    "mouse": {
+      "name": "Mouse",
+      "category": "Nocturnal",
+      "fact": "Mice can squeeze through holes as small as a pencil and have ultrasonic hearing!",
+      "files": {
+        "toy_image": "images/toy_mode/mouse.webp",
+        "real_image": "images/real_mode/mouse.webp",
+        "name_audio": "audio/names/mouse_name.mp3",
+        "fact_audio": "audio/facts/mouse_fact.mp3"
+      }
+    },
+    "rat": {
+      "name": "Rat",
+      "category": "Nocturnal",
+      "fact": "Rats are excellent swimmers, can hold their breath for 3 minutes, and laugh when tickled!",
+      "files": {
+        "toy_image": "images/toy_mode/rat.webp",
+        "real_image": "images/real_mode/rat.webp",
+        "name_audio": "audio/names/rat_name.mp3",
+        "fact_audio": "audio/facts/rat_fact.mp3"
+      }
+    },
+    "jerboa": {
+      "name": "Jerboa",
+      "category": "Nocturnal",
+      "fact": "Jerboas can hop 3 meters high and use their tail for balance!",
+      "files": {
+        "toy_image": "images/toy_mode/jerboa.webp",
+        "real_image": "images/real_mode/jerboa.webp",
+        "name_audio": "audio/names/jerboa_name.mp3",
+        "fact_audio": "audio/facts/jerboa_fact.mp3"
+      }
+    },
+    "polar_bear": {
+      "name": "Polar Bear",
+      "category": "Arctic",
+      "fact": "Polar bears have black skin under their white fur to absorb heat!",
+      "files": {
+        "toy_image": "images/toy_mode/polar_bear.webp",
+        "real_image": "images/real_mode/polar_bear.webp",
+        "name_audio": "audio/names/polar_bear_name.mp3",
+        "fact_audio": "audio/facts/polar_bear_fact.mp3"
+      }
+    },
+    "arctic_fox": {
+      "name": "Arctic Fox",
+      "category": "Arctic",
+      "fact": "Arctic foxes change color - white in winter, brown or gray in summer!",
+      "files": {
+        "toy_image": "images/toy_mode/arctic_fox.webp",
+        "real_image": "images/real_mode/arctic_fox.webp",
+        "name_audio": "audio/names/arctic_fox_name.mp3",
+        "fact_audio": "audio/facts/arctic_fox_fact.mp3"
+      }
+    },
+    "arctic_wolf": {
+      "name": "Arctic Wolf",
+      "category": "Arctic",
+      "fact": "Arctic wolves can survive temperatures of -70°C and have two layers of fur!",
+      "files": {
+        "toy_image": "images/toy_mode/arctic_wolf.webp",
+        "real_image": "images/real_mode/arctic_wolf.webp",
+        "name_audio": "audio/names/arctic_wolf_name.mp3",
+        "fact_audio": "audio/facts/arctic_wolf_fact.mp3"
+      }
+    },
+    "arctic_hare": {
+      "name": "Arctic Hare",
+      "category": "Arctic",
+      "fact": "Arctic hares can run up to 60 km/h and change from brown to white for winter!",
+      "files": {
+        "toy_image": "images/toy_mode/arctic_hare.webp",
+        "real_image": "images/real_mode/arctic_hare.webp",
+        "name_audio": "audio/names/arctic_hare_name.mp3",
+        "fact_audio": "audio/facts/arctic_hare_fact.mp3"
+      }
+    },
+    "walrus": {
+      "name": "Walrus",
+      "category": "Arctic",
+      "fact": "Walruses use their tusks to haul out of water and can weigh up to 1,500 kg!",
+      "files": {
+        "toy_image": "images/toy_mode/walrus.webp",
+        "real_image": "images/real_mode/walrus.webp",
+        "name_audio": "audio/names/walrus_name.mp3",
+        "fact_audio": "audio/facts/walrus_fact.mp3"
+      }
+    },
+    "narwhal": {
+      "name": "Narwhal",
+      "category": "Arctic",
+      "fact": "Narwhals have a 3-meter long tooth that looks like a unicorn horn!",
+      "files": {
+        "toy_image": "images/toy_mode/narwhal.webp",
+        "real_image": "images/real_mode/narwhal.webp",
+        "name_audio": "audio/names/narwhal_name.mp3",
+        "fact_audio": "audio/facts/narwhal_fact.mp3"
+      }
+    },
+    "beluga_whale": {
+      "name": "Beluga Whale",
+      "category": "Arctic",
+      "fact": "Beluga whales can change the shape of their forehead and are called 'canaries of the sea' for their songs!",
+      "files": {
+        "toy_image": "images/toy_mode/beluga_whale.webp",
+        "real_image": "images/real_mode/beluga_whale.webp",
+        "name_audio": "audio/names/beluga_whale_name.mp3",
+        "fact_audio": "audio/facts/beluga_whale_fact.mp3"
+      }
+    },
+    "bowhead_whale": {
+      "name": "Bowhead Whale",
+      "category": "Arctic",
+      "fact": "Bowhead whales can live over 200 years, making them the longest-living mammals!",
+      "files": {
+        "toy_image": "images/toy_mode/bowhead_whale.webp",
+        "real_image": "images/real_mode/bowhead_whale.webp",
+        "name_audio": "audio/names/bowhead_whale_name.mp3",
+        "fact_audio": "audio/facts/bowhead_whale_fact.mp3"
+      }
+    },
+    "orca": {
+      "name": "Orca",
+      "category": "Arctic",
+      "fact": "Orcas are actually dolphins and each pod has its own unique dialect!",
+      "files": {
+        "toy_image": "images/toy_mode/orca.webp",
+        "real_image": "images/real_mode/orca.webp",
+        "name_audio": "audio/names/orca_name.mp3",
+        "fact_audio": "audio/facts/orca_fact.mp3"
+      }
+    },
+    "harp_seal": {
+      "name": "Harp Seal",
+      "category": "Arctic",
+      "fact": "Harp seal pups can swim within minutes of birth and have pure white fur for the first few weeks!",
+      "files": {
+        "toy_image": "images/toy_mode/harp_seal.webp",
+        "real_image": "images/real_mode/harp_seal.webp",
+        "name_audio": "audio/names/harp_seal_name.mp3",
+        "fact_audio": "audio/facts/harp_seal_fact.mp3"
+      }
+    },
+    "leopard_seal": {
+      "name": "Leopard Seal",
+      "category": "Arctic",
+      "fact": "Leopard seals are the only seals that eat warm-blooded prey like penguins!",
+      "files": {
+        "toy_image": "images/toy_mode/leopard_seal.webp",
+        "real_image": "images/real_mode/leopard_seal.webp",
+        "name_audio": "audio/names/leopard_seal_name.mp3",
+        "fact_audio": "audio/facts/leopard_seal_fact.mp3"
+      }
+    },
+    "weddell_seal": {
+      "name": "Weddell Seal",
+      "category": "Arctic",
+      "fact": "Weddell seals can dive to 600 meters and use their teeth to chew holes in ice to breathe!",
+      "files": {
+        "toy_image": "images/toy_mode/weddell_seal.webp",
+        "real_image": "images/real_mode/weddell_seal.webp",
+        "name_audio": "audio/names/weddell_seal_name.mp3",
+        "fact_audio": "audio/facts/weddell_seal_fact.mp3"
+      }
+    },
+    "emperor_penguin": {
+      "name": "Emperor Penguin",
+      "category": "Arctic",
+      "fact": "Emperor penguins can dive to 500 meters and males incubate eggs on their feet for 64 days!",
+      "files": {
+        "toy_image": "images/toy_mode/emperor_penguin.webp",
+        "real_image": "images/real_mode/emperor_penguin.webp",
+        "name_audio": "audio/names/emperor_penguin_name.mp3",
+        "fact_audio": "audio/facts/emperor_penguin_fact.mp3"
+      }
+    },
+    "adelie_penguin": {
+      "name": "Adelie Penguin",
+      "category": "Arctic",
+      "fact": "Adelie penguins use pebbles to build nests and will steal them from each other!",
+      "files": {
+        "toy_image": "images/toy_mode/adelie_penguin.webp",
+        "real_image": "images/real_mode/adelie_penguin.webp",
+        "name_audio": "audio/names/adelie_penguin_name.mp3",
+        "fact_audio": "audio/facts/adelie_penguin_fact.mp3"
+      }
+    },
+    "rockhopper_penguin": {
+      "name": "Rockhopper Penguin",
+      "category": "Arctic",
+      "fact": "Rockhopper penguins have spiky feathers on their heads and can jump 2.5 meters high!",
+      "files": {
+        "toy_image": "images/toy_mode/rockhopper_penguin.webp",
+        "real_image": "images/real_mode/rockhopper_penguin.webp",
+        "name_audio": "audio/names/rockhopper_penguin_name.mp3",
+        "fact_audio": "audio/facts/rockhopper_penguin_fact.mp3"
+      }
+    },
+    "puffin": {
+      "name": "Puffin",
+      "category": "Arctic",
+      "fact": "Puffins can hold up to 10 fish in their beak at once!",
+      "files": {
+        "toy_image": "images/toy_mode/puffin.webp",
+        "real_image": "images/real_mode/puffin.webp",
+        "name_audio": "audio/names/puffin_name.mp3",
+        "fact_audio": "audio/facts/puffin_fact.mp3"
+      }
+    },
+    "snowy_owl": {
+      "name": "Snowy Owl",
+      "category": "Arctic",
+      "fact": "Snowy owls have feathers on their feet like snowshoes and hunt 24 hours a day in summer!",
+      "files": {
+        "toy_image": "images/toy_mode/snowy_owl.webp",
+        "real_image": "images/real_mode/snowy_owl.webp",
+        "name_audio": "audio/names/snowy_owl_name.mp3",
+        "fact_audio": "audio/facts/snowy_owl_fact.mp3"
+      }
+    },
+    "musk_ox": {
+      "name": "Musk Ox",
+      "category": "Arctic",
+      "fact": "Musk oxen have underwool that's 8 times warmer than sheep's wool!",
+      "files": {
+        "toy_image": "images/toy_mode/musk_ox.webp",
+        "real_image": "images/real_mode/musk_ox.webp",
+        "name_audio": "audio/names/musk_ox_name.mp3",
+        "fact_audio": "audio/facts/musk_ox_fact.mp3"
+      }
+    },
+    "reindeer": {
+      "name": "Reindeer",
+      "category": "Arctic",
+      "fact": "Reindeer are the only deer species where both males and females have antlers!",
+      "files": {
+        "toy_image": "images/toy_mode/reindeer.webp",
+        "real_image": "images/real_mode/reindeer.webp",
+        "name_audio": "audio/names/reindeer_name.mp3",
+        "fact_audio": "audio/facts/reindeer_fact.mp3"
+      }
+    },
+    "caribou": {
+      "name": "Caribou",
+      "category": "Arctic",
+      "fact": "Caribou can travel 5,000 km per year - the longest land migration of any animal!",
+      "files": {
+        "toy_image": "images/toy_mode/caribou.webp",
+        "real_image": "images/real_mode/caribou.webp",
+        "name_audio": "audio/names/caribou_name.mp3",
+        "fact_audio": "audio/facts/caribou_fact.mp3"
+      }
+    },
+    "lemming": {
+      "name": "Lemming",
+      "category": "Arctic",
+      "fact": "Contrary to myth, lemmings don't commit mass suicide - they migrate when populations get too high!",
+      "files": {
+        "toy_image": "images/toy_mode/lemming.webp",
+        "real_image": "images/real_mode/lemming.webp",
+        "name_audio": "audio/names/lemming_name.mp3",
+        "fact_audio": "audio/facts/lemming_fact.mp3"
+      }
+    },
+    "ptarmigan": {
+      "name": "Ptarmigan",
+      "category": "Arctic",
+      "fact": "Ptarmigans have feathered feet that act like snowshoes and change color with seasons!",
+      "files": {
+        "toy_image": "images/toy_mode/ptarmigan.webp",
+        "real_image": "images/real_mode/ptarmigan.webp",
+        "name_audio": "audio/names/ptarmigan_name.mp3",
+        "fact_audio": "audio/facts/ptarmigan_fact.mp3"
+      }
+    },
+    "wolverine": {
+      "name": "Wolverine",
+      "category": "Arctic",
+      "fact": "Wolverines can take down prey 10 times their size and have teeth strong enough to break bones!",
+      "files": {
+        "toy_image": "images/toy_mode/wolverine.webp",
+        "real_image": "images/real_mode/wolverine.webp",
+        "name_audio": "audio/names/wolverine_name.mp3",
+        "fact_audio": "audio/facts/wolverine_fact.mp3"
+      }
+    },
+    "stoat": {
+      "name": "Stoat",
+      "category": "Arctic",
+      "fact": "Stoats turn white in winter and perform hypnotic dances to mesmerize rabbits!",
+      "files": {
+        "toy_image": "images/toy_mode/stoat.webp",
+        "real_image": "images/real_mode/stoat.webp",
+        "name_audio": "audio/names/stoat_name.mp3",
+        "fact_audio": "audio/facts/stoat_fact.mp3"
+      }
+    },
+    "ermine": {
+      "name": "Ermine",
+      "category": "Arctic",
+      "fact": "Ermines are stoats in their white winter coat and were once used to make royal robes!",
+      "files": {
+        "toy_image": "images/toy_mode/ermine.webp",
+        "real_image": "images/real_mode/ermine.webp",
+        "name_audio": "audio/names/ermine_name.mp3",
+        "fact_audio": "audio/facts/ermine_fact.mp3"
+      }
+    },
+    "snow_goose": {
+      "name": "Snow Goose",
+      "category": "Arctic",
+      "fact": "Snow geese fly in formation that saves 70% energy for birds behind the leader!",
+      "files": {
+        "toy_image": "images/toy_mode/snow_goose.webp",
+        "real_image": "images/real_mode/snow_goose.webp",
+        "name_audio": "audio/names/snow_goose_name.mp3",
+        "fact_audio": "audio/facts/snow_goose_fact.mp3"
+      }
+    },
+    "albatross": {
+      "name": "Albatross",
+      "category": "Arctic",
+      "fact": "Albatrosses can fly for hours without flapping their wings and can sleep while flying!",
+      "files": {
+        "toy_image": "images/toy_mode/albatross.webp",
+        "real_image": "images/real_mode/albatross.webp",
+        "name_audio": "audio/names/albatross_name.mp3",
+        "fact_audio": "audio/facts/albatross_fact.mp3"
+      }
+    },
+    "krill_antarctic": {
+      "name": "Krill (Antarctic)",
+      "category": "Arctic",
+      "fact": "Antarctic krill can live for 10 years and use their bodies as a solar panel by eating ice algae!",
+      "files": {
+        "toy_image": "images/toy_mode/krill_antarctic.webp",
+        "real_image": "images/real_mode/krill_antarctic.webp",
+        "name_audio": "audio/names/krill_antarctic_name.mp3",
+        "fact_audio": "audio/facts/krill_antarctic_fact.mp3"
+      }
+    }
+  }
+}

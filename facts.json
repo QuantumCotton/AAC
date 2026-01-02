@@ -1,0 +1,2539 @@
+[
+  /* --- MARINE: ULTRA DEEP SEA --- */
+  {
+    "name": "Mariana Snailfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am the deepest swimming fish in the whole ocean! I look like a pink tadpole.",
+    "fact_level_2": {
+      "size_details": "Length: up to 11 inches. Weight: ~0.5 lbs (No significant gender difference).",
+      "unique_fact": "It has transparent skin that lets you see its liver!",
+      "habitat": "The Mariana Trench (26,000+ feet deep)"
+    }
+  },
+  {
+    "name": "Giant Tube Worm",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have no mouth and no tummy! I live near hot underwater volcanoes.",
+    "fact_level_2": {
+      "size_details": "Length: up to 8 ft. Weight: N/A (Colonial).",
+      "unique_fact": "They survive on chemicals from the Earth's core, not sunlight.",
+      "habitat": "Hydrothermal Vents"
+    }
+  },
+  {
+    "name": "Comb Jelly",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I don't sting like a jellyfish. I have rainbow lights running down my sides!",
+    "fact_level_2": {
+      "size_details": "Length: 4 inches to 5 feet. Weight: Negligible.",
+      "unique_fact": "They are the largest animals to swim using cilia (tiny hairs).",
+      "habitat": "Open Ocean (Surface to Deep)"
+    }
+  },
+  {
+    "name": "Deep Sea Cucumber",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I crawl on the bottom of the ocean and eat the sand to clean it!",
+    "fact_level_2": {
+      "size_details": "Length: 4-12 inches. Weight: ~1 lb.",
+      "unique_fact": "Some can glow in the dark to warn predators.",
+      "habitat": "Abyssal Plains"
+    }
+  },
+  {
+    "name": "Zombie Worm",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I don't eat brains! I like to eat old bones I find on the sea floor.",
+    "fact_level_2": {
+      "size_details": "Length: 1-3 inches. Males are microscopic.",
+      "unique_fact": "They dissolve bone using acid secreted from their skin.",
+      "habitat": "Whale Falls"
+    }
+  },
+  {
+    "name": "Ping Pong Tree Sponge",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I look like a weird tree with ping pong balls for leaves!",
+    "fact_level_2": {
+      "size_details": "Height: up to 20 inches.",
+      "unique_fact": "Unlike most sponges, it is carnivorous and eats tiny shrimp.",
+      "habitat": "Deep Sea Mud (8,000-9,000 ft)"
+    }
+  },
+  {
+    "name": "Tripod Fish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have three long stilts that let me stand on the mud without sinking!",
+    "fact_level_2": {
+      "size_details": "Length: 12-14 inches. Stilt Length: up to 3 ft.",
+      "unique_fact": "It stands facing the current to catch food drifting by.",
+      "habitat": "Abyssal Plains"
+    }
+  },
+  {
+    "name": "Dumbo Octopus",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I flap my ear-fins to fly through the water like a cartoon elephant!",
+    "fact_level_2": {
+      "size_details": "Length: 8-12 inches. Weight: <1 lb.",
+      "unique_fact": "It swallows its prey whole instead of chewing.",
+      "habitat": "Deep Ocean (10,000-13,000 ft)"
+    }
+  },
+  {
+    "name": "Faceless Cusk",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have no face! My mouth is underneath my head so I can scoop up food.",
+    "fact_level_2": {
+      "size_details": "Length: ~18 inches. Weight: Unknown.",
+      "unique_fact": "It was rediscovered in 2017 after being missing for 140 years.",
+      "habitat": "Abyssal Waters off Australia"
+    }
+  },
+  {
+    "name": "Abyssal Spiderfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have super long fins that feel the water like spider legs!",
+    "fact_level_2": {
+      "size_details": "Length: ~8 inches. Fin Span: ~2 feet.",
+      "unique_fact": "It uses its long fins to detect movement in pitch blackness.",
+      "habitat": "Deep Atlantic & Pacific"
+    }
+  },
+  {
+    "name": "Sea Pig",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a squishy pink tube with little legs. I look like a wet piglet!",
+    "fact_level_2": {
+      "size_details": "Length: 4-6 inches. Weight: Light.",
+      "unique_fact": "They often gather in herds of hundreds on the sea floor.",
+      "habitat": "Abyssal Plains (Global)"
+    }
+  },
+  {
+    "name": "Ghost Shark",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am also called a Chimaera. I have lines on my skin that look like stitches.",
+    "fact_level_2": {
+      "size_details": "Length: 2-5 feet. Weight: 5-15 lbs.",
+      "unique_fact": "Their skeleton is made of cartilage, not bone.",
+      "habitat": "Temperate Deep Waters"
+    }
+  },
+  {
+    "name": "Deep Sea Amphipod",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a giant version of a sand flea. I can be as big as your shoe!",
+    "fact_level_2": {
+      "size_details": "Length: up to 13 inches.",
+      "unique_fact": "It can survive pressure that would crush a car.",
+      "habitat": "Hadalan Zone (Trenches)"
+    }
+  },
+  {
+    "name": "Glass Sponge",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "My body is made of silica, which is the same stuff as glass windows!",
+    "fact_level_2": {
+      "size_details": "Height: up to 3 feet. Structure: Fragile.",
+      "unique_fact": "They can live for thousands of years.",
+      "habitat": "Deep Antarctic Waters"
+    }
+  },
+  {
+    "name": "Grenadier Fish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "People call me a Rat-tail because my body tapers off into a long point.",
+    "fact_level_2": {
+      "size_details": "Length: 1-2 feet. Weight: 2-5 lbs.",
+      "unique_fact": "They have a huge head to house their sensory systems.",
+      "habitat": "Continental Slopes"
+    }
+  },
+  {
+    "name": "Cusk Eel",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am not a real eel, but I am very wiggly and slippery!",
+    "fact_level_2": {
+      "size_details": "Length: up to 6 feet.",
+      "unique_fact": "The deepest fish ever recorded (27,000 ft) is a type of Cusk Eel.",
+      "habitat": "Bottom Dweller (Benthic)"
+    }
+  },
+  {
+    "name": "Snipe Eel",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "My jaws curve away from each other so I can't close my mouth!",
+    "fact_level_2": {
+      "size_details": "Length: up to 5 feet. Weight: Very light (<1 lb).",
+      "unique_fact": "It tangles its curved jaws into shrimp antennae to catch them.",
+      "habitat": "Mesopelagic to Bathypelagic"
+    }
+  },
+  {
+    "name": "Sea Angel",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a swimming slug with little wings that make me look like an angel.",
+    "fact_level_2": {
+      "size_details": "Length: 1-2 inches. Weight: Tiny.",
+      "unique_fact": "Despite the name, they are voracious predators of Sea Butterflies.",
+      "habitat": "Polar Seas"
+    }
+  },
+  {
+    "name": "Deep Sea Jellyfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I glow red in the dark, which makes me invisible to other fish.",
+    "fact_level_2": {
+      "size_details": "Bell Width: 1-3 feet. Tentacles: 10+ feet.",
+      "unique_fact": "Red light doesn't travel far underwater, so red animals look black.",
+      "habitat": "The Midnight Zone"
+    }
+  },
+  {
+    "name": "Basket Star",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I look like a mess of tangled tree roots wiggling in the water.",
+    "fact_level_2": {
+      "size_details": "Arm Span: up to 2 feet. Weight: 2-4 lbs.",
+      "unique_fact": "It curls into a tight ball during the day to hide.",
+      "habitat": "Deep Current Areas"
+    }
+  },
+  {
+    "name": "Brisingid Starfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have so many arms! I raise them up to catch food falling from above.",
+    "fact_level_2": {
+      "size_details": "Arm Span: 1-2 feet. Arms: 6-18.",
+      "unique_fact": "It is named after 'Brisingamen', the necklace of the goddess Freya.",
+      "habitat": "Deep Sea Cliffs"
+    }
+  },
+  {
+    "name": "Sea Pen",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I look like an old-fashioned feather pen stuck in the sand.",
+    "fact_level_2": {
+      "size_details": "Height: 1-6 feet.",
+      "unique_fact": "They can uproot themselves and drift away if attacked.",
+      "habitat": "Soft Sea Floors"
+    }
+  },
+  {
+    "name": "Acorn Worm",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I smell like medicine (iodine) to stop fish from eating me!",
+    "fact_level_2": {
+      "size_details": "Length: 3 inches to 8 feet.",
+      "unique_fact": "They breathe through their skin.",
+      "habitat": "Deep Burrows"
+    }
+  },
+  {
+    "name": "Football Fish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a round, spiky fish. Females have a lantern on their head!",
+    "fact_level_2": {
+      "size_details": "Female: 24 inches. Male: 1.5 inches.",
+      "unique_fact": "The male latches onto the female and stays there forever.",
+      "habitat": "Tropical Deep Waters"
+    }
+  },
+  {
+    "name": "Siphonophore",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am not one animal, but thousands of tiny clones holding hands!",
+    "fact_level_2": {
+      "size_details": "Length: up to 150 feet (Longer than a Blue Whale).",
+      "unique_fact": "Each segment has a specific job: eating, swimming, or floating.",
+      "habitat": "Open Ocean"
+    }
+  },
+  {
+    "name": "Black Swallower",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have a stretchy tummy that can hold a fish twice my size!",
+    "fact_level_2": {
+      "size_details": "Length: 10 inches. Weight: <1 lb.",
+      "unique_fact": "Sometimes they swallow so much food they float to the surface.",
+      "habitat": "North Atlantic Deep"
+    }
+  },
+  {
+    "name": "Lizardfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have rows of sharp teeth, even on my tongue!",
+    "fact_level_2": {
+      "size_details": "Length: 1-2 feet. Weight: 2-4 lbs.",
+      "unique_fact": "They are one of the few deep sea fish that are hermaphrodites.",
+      "habitat": "Deep Reefs"
+    }
+  },
+  {
+    "name": "Spookfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "My head is see-through and my eyes can look up and down at the same time.",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "It uses mirrors in its eyes to see, unlike any other animal.",
+      "habitat": "Tropical Deep Waters"
+    }
+  },
+
+  /* --- MARINE: DEEP SEA (Twilight Zone) --- */
+  {
+    "name": "Anglerfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a fishing pole on my head with a glowing light to catch yummy fish.",
+    "fact_level_2": {
+      "size_details": "Female: Up to 3.3 ft. Male: Tiny (inches).",
+      "unique_fact": "The light comes from glowing bacteria living inside the lure.",
+      "habitat": "Midnight Zone"
+    }
+  },
+  {
+    "name": "Vampire Squid",
+    "category": "Deep Sea",
+    "fact_level_1": "I wrap my red cape around myself when I am scared. I don't drink blood!",
+    "fact_level_2": {
+      "size_details": "Length: 1 foot. Weight: 1 lb.",
+      "unique_fact": "It eats 'marine snow' (poop and dead scraps) falling from above.",
+      "habitat": "Oxygen Minimum Zone"
+    }
+  },
+  {
+    "name": "Giant Squid",
+    "category": "Deep Sea",
+    "fact_level_1": "My eye is as big as a dinner plate! I battle sperm whales.",
+    "fact_level_2": {
+      "size_details": "Length: 43 ft (Female), 33 ft (Male). Weight: 600 lbs.",
+      "unique_fact": "It has the largest eyes in the animal kingdom.",
+      "habitat": "Deep Oceans Globally"
+    }
+  },
+  {
+    "name": "Gulper Eel",
+    "category": "Deep Sea",
+    "fact_level_1": "My mouth is huge like a pelican! I can swallow things bigger than me.",
+    "fact_level_2": {
+      "size_details": "Length: 2-3 feet. Weight: ~2 lbs.",
+      "unique_fact": "It has a glowing red light at the end of its tail.",
+      "habitat": "Temperate Deep Seas"
+    }
+  },
+  {
+    "name": "Goblin Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "I can shoot my jaw out of my face to grab a snack!",
+    "fact_level_2": {
+      "size_details": "Length: 10-13 feet. Weight: 460 lbs.",
+      "unique_fact": "Its long nose is full of electrical sensors.",
+      "habitat": "Continental Slopes"
+    }
+  },
+  {
+    "name": "Blobfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I look sad and squishy because I have no muscles. I just float!",
+    "fact_level_2": {
+      "size_details": "Length: 12 inches. Weight: 20 lbs.",
+      "unique_fact": "Under pressure deep down, it looks like a normal fish.",
+      "habitat": "Deep Waters off Australia"
+    }
+  },
+  {
+    "name": "Lanternfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have tiny lights all over my belly. There are billions of us!",
+    "fact_level_2": {
+      "size_details": "Length: 2-6 inches. Weight: Ounces.",
+      "unique_fact": "They account for 65% of all deep sea fish biomass.",
+      "habitat": "Worldwide Oceans"
+    }
+  },
+  {
+    "name": "Hatchetfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I am as thin as a coin and look like a silver hatchet.",
+    "fact_level_2": {
+      "size_details": "Length: 1-4 inches.",
+      "unique_fact": "They use 'counter-illumination' to hide their shadow from below.",
+      "habitat": "Tropical Oceans"
+    }
+  },
+  {
+    "name": "Viperfish",
+    "category": "Deep Sea",
+    "fact_level_1": "My teeth are so long they curve over my face like a cage.",
+    "fact_level_2": {
+      "size_details": "Length: 12-24 inches.",
+      "unique_fact": "It swims at high speed to impale prey on its teeth.",
+      "habitat": "Mesopelagic Zone"
+    }
+  },
+  {
+    "name": "Dragonfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I look scary, but I am very small—only the size of a banana!",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "Some species produce red light, which acts like night-vision sniper scopes.",
+      "habitat": "Deep Atlantic"
+    }
+  },
+  {
+    "name": "Fangtooth",
+    "category": "Deep Sea",
+    "fact_level_1": "I have the biggest teeth compared to my body size of any fish.",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "It has special pockets in its brain so its teeth don't puncture its skull.",
+      "habitat": "Deep Tropical Waters"
+    }
+  },
+  {
+    "name": "Frilled Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "I look like an eel but I am a shark with 300 needle teeth.",
+    "fact_level_2": {
+      "size_details": "Length: 5-6 feet. Weight: 200 lbs.",
+      "unique_fact": "It is a 'living fossil' unchanged for 80 million years.",
+      "habitat": "Deep Atlantic & Pacific"
+    }
+  },
+  {
+    "name": "Coffinfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I can puff up like a balloon and hold my breath to look big.",
+    "fact_level_2": {
+      "size_details": "Length: 4-8 inches.",
+      "unique_fact": "It walks on the sea floor using its tiny fins.",
+      "habitat": "Deep Sea Slope"
+    }
+  },
+  {
+    "name": "Barreleye",
+    "category": "Deep Sea",
+    "fact_level_1": "My head is a clear bubble! The green balls inside are my eyes.",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "Its eyes can rotate to look forward or straight up.",
+      "habitat": "North Pacific"
+    }
+  },
+  {
+    "name": "Cookiecutter Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "I am small, but I take round bites out of big whales like a cookie cutter!",
+    "fact_level_2": {
+      "size_details": "Length: 16-22 inches.",
+      "unique_fact": "It glows green to trick fish into coming close.",
+      "habitat": "Warm Deep Waters"
+    }
+  },
+  {
+    "name": "Oarfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I am the longest bony fish in the world. Sailors used to think I was a sea serpent.",
+    "fact_level_2": {
+      "size_details": "Length: up to 36 ft. Weight: 600 lbs.",
+      "unique_fact": "It swims vertically (straight up) to spot food silhouettes.",
+      "habitat": "Mesopelagic Zone"
+    }
+  },
+  {
+    "name": "Big Red Jelly",
+    "category": "Deep Sea",
+    "fact_level_1": "I am a giant red jellyfish that doesn't have stinging tentacles.",
+    "fact_level_2": {
+      "size_details": "Diameter: 3 ft.",
+      "unique_fact": "Instead of stinging, it uses 'feeding arms' to grab prey.",
+      "habitat": "Deep Pacific"
+    }
+  },
+  {
+    "name": "Colossal Squid",
+    "category": "Deep Sea",
+    "fact_level_1": "I am heavier than the Giant Squid and have spinning hooks on my arms!",
+    "fact_level_2": {
+      "size_details": "Length: 46 ft. Weight: 1,090 lbs.",
+      "unique_fact": "It hunts by waiting in the dark, conserving energy for months.",
+      "habitat": "Antarctic Ocean"
+    }
+  },
+  {
+    "name": "Six-Gill Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "Most sharks have 5 gills, but I have 6! I move very slowly.",
+    "fact_level_2": {
+      "size_details": "Length: up to 16 ft. Weight: 1,300 lbs.",
+      "unique_fact": "It is a scavenger that eats anything dead it finds.",
+      "habitat": "Deep Waters Globally"
+    }
+  },
+  {
+    "name": "Wolffish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have strong teeth to crush seashells. My blood has natural antifreeze!",
+    "fact_level_2": {
+      "size_details": "Length: 5 ft. Weight: 40 lbs.",
+      "unique_fact": "They produce a natural protein that keeps their blood from freezing.",
+      "habitat": "North Atlantic"
+    }
+  },
+  {
+    "name": "Chimaera",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a venomous spine on my back and fly through the water.",
+    "fact_level_2": {
+      "size_details": "Length: 3-5 ft.",
+      "unique_fact": "They detect magnetic fields to find buried clams.",
+      "habitat": "Deep Ocean Floor"
+    }
+  },
+  {
+    "name": "Stoplight Loosejaw",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a red light under my eye like a stoplight!",
+    "fact_level_2": {
+      "size_details": "Length: 4-6 inches.",
+      "unique_fact": "Its jaw is hinged so openly it offers no water resistance when striking.",
+      "habitat": "Deep Atlantic"
+    }
+  },
+  {
+    "name": "Flashlight Fish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a pocket of glowing light under my eye that I can blink on and off.",
+    "fact_level_2": {
+      "size_details": "Length: 10 inches.",
+      "unique_fact": "It blinks the light to confuse predators while it escapes.",
+      "habitat": "Deep Reef Caves"
+    }
+  },
+  {
+    "name": "Japanese Spider Crab",
+    "category": "Deep Sea",
+    "fact_level_1": "I have the longest legs of any crab. I can step over a small car!",
+    "fact_level_2": {
+      "size_details": "Leg Span: 12 ft. Weight: 40 lbs.",
+      "unique_fact": "It can live to be 100 years old.",
+      "habitat": "Deep Waters off Japan"
+    }
+  },
+  {
+    "name": "Nautilus",
+    "category": "Deep Sea",
+    "fact_level_1": "I live in a beautiful spiral shell and swim backwards.",
+    "fact_level_2": {
+      "size_details": "Diameter: 8-10 inches.",
+      "unique_fact": "It adjusts its buoyancy by pumping gas into its shell chambers.",
+      "habitat": "Deep Slopes of Indo-Pacific"
+    }
+  },
+  {
+    "name": "Sperm Whale",
+    "category": "Deep Sea",
+    "fact_level_1": "I have the biggest brain of any animal and I dive super deep.",
+    "fact_level_2": {
+      "size_details": "Male: 52 ft / 45 tons. Female: 36 ft / 15 tons.",
+      "unique_fact": "It hunts using echolocation clicks that are louder than a jet engine.",
+      "habitat": "Worldwide Oceans"
+    }
+  },
+  {
+    "name": "Beaked Whale",
+    "category": "Deep Sea",
+    "fact_level_1": "I look like a dolphin but I have a beak like a goose.",
+    "fact_level_2": {
+      "size_details": "Length: 15-20 ft. Weight: 2-3 tons.",
+      "unique_fact": "It holds the record for the deepest dive of any mammal (9,800 ft).",
+      "habitat": "Deep Offshore Waters"
+    }
+  },
+  {
+    "name": "Elephant Seal",
+    "category": "Deep Sea",
+    "fact_level_1": "My nose looks like an elephant trunk! I make loud roaring noises.",
+    "fact_level_2": {
+      "size_details": "Male: 16 ft / 8,800 lbs. Female: 10 ft / 2,000 lbs.",
+      "unique_fact": "They can hold their breath for 2 hours.",
+      "habitat": "Pacific Coast & Deep Sea"
+    }
+  },
+
+  /* --- MARINE: CORAL REEF --- */
+  {
+    "name": "Clownfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I live in a sea anemone. Its stingers don't hurt me!",
+    "fact_level_2": {
+      "size_details": "Length: 3-4 inches. Female is larger.",
+      "unique_fact": "All clownfish are born male; the dominant one becomes female.",
+      "habitat": "Indo-Pacific Reefs"
+    }
+  },
+  {
+    "name": "Blue Tang",
+    "category": "Coral Reef",
+    "fact_level_1": "I am bright blue with a yellow tail. I love to eat algae.",
+    "fact_level_2": {
+      "size_details": "Length: 10-12 inches.",
+      "unique_fact": "It has a sharp spine at the base of its tail for defense.",
+      "habitat": "Indo-Pacific Reefs"
+    }
+  },
+  {
+    "name": "Parrotfish",
+    "category": "Coral Reef",
+    "fact_level_1": "My teeth look like a beak! I crunch on coral and poop out white sand.",
+    "fact_level_2": {
+      "size_details": "Length: 1-4 feet. Weight: up to 45 lbs.",
+      "unique_fact": "One parrotfish produces 200 lbs of sand per year.",
+      "habitat": "Tropical Reefs"
+    }
+  },
+  {
+    "name": "Lionfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I have beautiful stripes and long fins, but don't touch! They are sharp.",
+    "fact_level_2": {
+      "size_details": "Length: 12-15 inches. Weight: 2.5 lbs.",
+      "unique_fact": "They are an invasive species taking over the Caribbean.",
+      "habitat": "Reefs (Global)"
+    }
+  },
+  {
+    "name": "Seahorse",
+    "category": "Coral Reef",
+    "fact_level_1": "I am a fish, but I have a horse head and a monkey tail.",
+    "fact_level_2": {
+      "size_details": "Height: 0.6 to 14 inches.",
+      "unique_fact": "The male seahorse is the one who carries the babies in a pouch.",
+      "habitat": "Seagrass Beds"
+    }
+  },
+  {
+    "name": "Moray Eel",
+    "category": "Coral Reef",
+    "fact_level_1": "I hide in holes and open my mouth to breathe.",
+    "fact_level_2": {
+      "size_details": "Length: 3-10 feet. Weight: up to 66 lbs.",
+      "unique_fact": "They have a second set of jaws inside their throat (Pharyngeal jaws).",
+      "habitat": "Reef Crevices"
+    }
+  },
+  {
+    "name": "Pufferfish",
+    "category": "Coral Reef",
+    "fact_level_1": "When I get scared, I puff up into a spiky ball so fish can't eat me!",
+    "fact_level_2": {
+      "size_details": "Length: 1 inch to 2 feet.",
+      "unique_fact": "They are one of the most poisonous vertebrates in the world.",
+      "habitat": "Tropical Waters"
+    }
+  },
+  {
+    "name": "Butterflyfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I have a black spot on my tail that looks like an eye to trick predators.",
+    "fact_level_2": {
+      "size_details": "Length: 4-8 inches.",
+      "unique_fact": "They mate for life and swim in pairs.",
+      "habitat": "Coral Reefs"
+    }
+  },
+  {
+    "name": "Angelfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I am very flat so I can slip between rocks. I have bright colors!",
+    "fact_level_2": {
+      "size_details": "Length: 8-24 inches.",
+      "unique_fact": "The Emperor Angelfish completely changes color as it grows up.",
+      "habitat": "Tropical Reefs"
+    }
+  },
+  {
+    "name": "Sea Turtle",
+    "category": "Coral Reef",
+    "fact_level_1": "I carry my house on my back. I love to eat jellyfish!",
+    "fact_level_2": {
+      "size_details": "Length: 3-5 feet. Weight: 250-400 lbs.",
+      "unique_fact": "They return to the exact same beach where they were born to lay eggs.",
+      "habitat": "Tropical Oceans"
+    }
+  },
+  {
+    "name": "Reef Shark",
+    "category": "Coral Reef",
+    "fact_level_1": "I am a shark, but I am friendly. I have a black tip on my fin.",
+    "fact_level_2": {
+      "size_details": "Length: 5 feet. Weight: 30 lbs.",
+      "unique_fact": "They are timid and easily scared away by splashing.",
+      "habitat": "Shallow Reefs"
+    }
+  },
+  {
+    "name": "Manta Ray",
+    "category": "Coral Reef",
+    "fact_level_1": "I am a giant ocean bird! I glide through the water with huge wings.",
+    "fact_level_2": {
+      "size_details": "Wingspan: up to 29 feet. Weight: 5,300 lbs.",
+      "unique_fact": "They have the largest brain of any fish.",
+      "habitat": "Open Ocean & Reefs"
+    }
+  },
+  {
+    "name": "Cuttlefish",
+    "category": "Coral Reef",
+    "fact_level_1": "I can change the color of my skin in one second to hide!",
+    "fact_level_2": {
+      "size_details": "Length: 6-20 inches.",
+      "unique_fact": "They have a W-shaped pupil.",
+      "habitat": "Shallow Coastal Waters"
+    }
+  },
+  {
+    "name": "Octopus",
+    "category": "Coral Reef",
+    "fact_level_1": "I have 8 arms and 3 hearts! I can squeeze through tiny holes.",
+    "fact_level_2": {
+      "size_details": "Size varies. Giant Pacific: 16 ft arm span.",
+      "unique_fact": "It tastes with its suckers.",
+      "habitat": "Reefs & Ocean Floor"
+    }
+  },
+  {
+    "name": "Giant Clam",
+    "category": "Coral Reef",
+    "fact_level_1": "I am a huge seashell that stays in one spot forever.",
+    "fact_level_2": {
+      "size_details": "Length: 4 feet. Weight: 440 lbs.",
+      "unique_fact": "It gets food from sunlight using algae in its skin.",
+      "habitat": "South Pacific Reefs"
+    }
+  },
+  {
+    "name": "Boxfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I am shaped like a square box with polka dots!",
+    "fact_level_2": {
+      "size_details": "Length: 18 inches.",
+      "unique_fact": "Its square shape makes it very stable in choppy water.",
+      "habitat": "Coral Reefs"
+    }
+  },
+  {
+    "name": "Triggerfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I have a spine on my back that locks me into rocks so I can't be pulled out.",
+    "fact_level_2": {
+      "size_details": "Length: 8-20 inches.",
+      "unique_fact": "Titan Triggerfish are known to bite divers' fins.",
+      "habitat": "Tropical Reefs"
+    }
+  },
+  {
+    "name": "Sea Anemone",
+    "category": "Coral Reef",
+    "fact_level_1": "I look like a flower, but I am an animal that sticks to rocks.",
+    "fact_level_2": {
+      "size_details": "Diameter: 0.5 inches to 6 feet.",
+      "unique_fact": "They can detach and crawl slowly if they don't like their spot.",
+      "habitat": "Reefs & Tidepools"
+    }
+  },
+  {
+    "name": "Mandarinfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I have the most colorful pattern in the ocean, like a painting!",
+    "fact_level_2": {
+      "size_details": "Length: 2-3 inches.",
+      "unique_fact": "They do a special mating dance at sunset.",
+      "habitat": "Protected Lagoons"
+    }
+  },
+  {
+    "name": "Moorish Idol",
+    "category": "Coral Reef",
+    "fact_level_1": "I have a long white streamer on my back and black stripes.",
+    "fact_level_2": {
+      "size_details": "Length: 9 inches.",
+      "unique_fact": "It was the star character 'Gill' in Finding Nemo.",
+      "habitat": "Tropical Reefs"
+    }
+  },
+  {
+    "name": "Napoleon Wrasse",
+    "category": "Coral Reef",
+    "fact_level_1": "I am a giant blue fish with a big bump on my forehead.",
+    "fact_level_2": {
+      "size_details": "Length: 6 feet. Weight: 400 lbs.",
+      "unique_fact": "They can live for 30 years.",
+      "habitat": "Indo-Pacific Reefs"
+    }
+  },
+  {
+    "name": "Cleaner Shrimp",
+    "category": "Coral Reef",
+    "fact_level_1": "I wave my antennae to tell fish I want to clean their teeth!",
+    "fact_level_2": {
+      "size_details": "Length: 2 inches.",
+      "unique_fact": "Fish line up at 'cleaning stations' to let the shrimp work.",
+      "habitat": "Reef Crevices"
+    }
+  },
+  {
+    "name": "Stonefish",
+    "category": "Coral Reef",
+    "fact_level_1": "I look exactly like a rock. Don't step on me!",
+    "fact_level_2": {
+      "size_details": "Length: 12-16 inches.",
+      "unique_fact": "It is the most venomous fish in the world.",
+      "habitat": "Reef Bottoms"
+    }
+  },
+  {
+    "name": "Barracuda",
+    "category": "Coral Reef",
+    "fact_level_1": "I am long and silver like a torpedo with lots of teeth.",
+    "fact_level_2": {
+      "size_details": "Length: up to 5 feet.",
+      "unique_fact": "They are attracted to shiny objects like jewelry.",
+      "habitat": "Open Reef Water"
+    }
+  },
+  {
+    "name": "Trumpetfish",
+    "category": "Coral Reef",
+    "fact_level_1": "I am long and skinny like a stick. I float upside down!",
+    "fact_level_2": {
+      "size_details": "Length: 20-30 inches.",
+      "unique_fact": "It sucks up prey like a vacuum cleaner.",
+      "habitat": "Coral Reefs"
+    }
+  },
+  {
+    "name": "Nudibranch",
+    "category": "Coral Reef",
+    "fact_level_1": "I am a colorful sea slug. I can be pink, blue, or yellow!",
+    "fact_level_2": {
+      "size_details": "Length: 0.25 to 12 inches.",
+      "unique_fact": "They steal poison from the food they eat and use it for defense.",
+      "habitat": "Seafloors Globally"
+    }
+  },
+  {
+    "name": "Sea Fan",
+    "category": "Coral Reef",
+    "fact_level_1": "I look like a purple leaf waving in the water.",
+    "fact_level_2": {
+      "size_details": "Height: 2-3 feet.",
+      "unique_fact": "It is actually a colony of tiny polyps, not a plant.",
+      "habitat": "Reef Slopes"
+    }
+  },
+  {
+    "name": "Brain Coral",
+    "category": "Coral Reef",
+    "fact_level_1": "I am a hard rock that looks like a human brain!",
+    "fact_level_2": {
+      "size_details": "Diameter: up to 6 feet.",
+      "unique_fact": "It grows very slowly and can live for 900 years.",
+      "habitat": "Shallow Warm Seas"
+    }
+  },
+
+  /* --- MARINE: SHALLOW WATER --- */
+  {
+    "name": "Bottlenose Dolphin",
+    "category": "Shallow Water",
+    "fact_level_1": "I am super smart! I love to jump out of the waves and play.",
+    "fact_level_2": {
+      "size_details": "Length: 6-13 ft. Weight: 330-1400 lbs.",
+      "unique_fact": "They give themselves unique names (whistles).",
+      "habitat": "Coastal Oceans"
+    }
+  },
+  {
+    "name": "Sea Otter",
+    "category": "Shallow Water",
+    "fact_level_1": "I float on my back and hold hands with my friends so we don't drift away.",
+    "fact_level_2": {
+      "size_details": "Length: 4 ft. Weight: 60-90 lbs (Male is heavier).",
+      "unique_fact": "They use rocks as tools to crack open clams.",
+      "habitat": "Kelp Forests"
+    }
+  },
+  {
+    "name": "Manatee",
+    "category": "Shallow Water",
+    "fact_level_1": "I am a gentle sea cow. I eat grass underwater and move very slow.",
+    "fact_level_2": {
+      "size_details": "Length: 10 ft. Weight: 1,000 lbs.",
+      "unique_fact": "They have no natural predators.",
+      "habitat": "Coastal Rivers & Bays"
+    }
+  },
+  {
+    "name": "Stingray",
+    "category": "Shallow Water",
+    "fact_level_1": "I glide on the bottom like a flat pancake. I hide in the sand.",
+    "fact_level_2": {
+      "size_details": "Width: 5 ft. Weight: 200 lbs.",
+      "unique_fact": "Their eyes are on top of their head, but their mouth is on the bottom.",
+      "habitat": "Sandy Bottoms"
+    }
+  },
+  {
+    "name": "Starfish",
+    "category": "Shallow Water",
+    "fact_level_1": "I have 5 arms. If I lose one, I can grow it back!",
+    "fact_level_2": {
+      "size_details": "Size: 5-10 inches.",
+      "unique_fact": "It eats by pushing its stomach outside of its body.",
+      "habitat": "Tidepools"
+    }
+  },
+  {
+    "name": "Hermit Crab",
+    "category": "Shallow Water",
+    "fact_level_1": "I don't have my own shell, so I borrow empty ones to live in.",
+    "fact_level_2": {
+      "size_details": "Size: 1-4 inches.",
+      "unique_fact": "As they grow, they have to find a bigger shell to move into.",
+      "habitat": "Shores & Tidepools"
+    }
+  },
+  {
+    "name": "Lobster",
+    "category": "Shallow Water",
+    "fact_level_1": "I have two big claws. One is for pinching and one is for crushing!",
+    "fact_level_2": {
+      "size_details": "Length: 1-2 ft. Weight: 1-4 lbs.",
+      "unique_fact": "They taste with their legs.",
+      "habitat": "Rocky Ocean Floor"
+    }
+  },
+  {
+    "name": "Sea Urchin",
+    "category": "Shallow Water",
+    "fact_level_1": "I am a spiky ball! I use my spines to walk around.",
+    "fact_level_2": {
+      "size_details": "Diameter: 2-4 inches.",
+      "unique_fact": "In some places, otters use them as play balls.",
+      "habitat": "Rocky Reefs"
+    }
+  },
+  {
+    "name": "Sand Dollar",
+    "category": "Shallow Water",
+    "fact_level_1": "When I am alive, I am fuzzy and purple. When I dry out, I turn white.",
+    "fact_level_2": {
+      "size_details": "Diameter: 3 inches.",
+      "unique_fact": "The 'star' pattern on top is actually for breathing.",
+      "habitat": "Sandy Sea Floors"
+    }
+  },
+  {
+    "name": "Pelican",
+    "category": "Shallow Water",
+    "fact_level_1": "I have a huge pouch under my beak to scoop up fish like a net.",
+    "fact_level_2": {
+      "size_details": "Wingspan: 7-9 ft. Weight: 10-30 lbs.",
+      "unique_fact": "They crash-dive into water from 60 feet up to stun fish.",
+      "habitat": "Coasts"
+    }
+  },
+  {
+    "name": "Seagull",
+    "category": "Shallow Water",
+    "fact_level_1": "I fly over the beach and make loud squawking noises.",
+    "fact_level_2": {
+      "size_details": "Wingspan: 4 ft.",
+      "unique_fact": "They can drink saltwater because special glands filter it out.",
+      "habitat": "Coasts"
+    }
+  },
+  {
+    "name": "Horseshoe Crab",
+    "category": "Shallow Water",
+    "fact_level_1": "I look like a helmet with a long tail. I am older than dinosaurs!",
+    "fact_level_2": {
+      "size_details": "Length: 18 inches. Female is larger.",
+      "unique_fact": "Their blood is blue and is used in medicine.",
+      "habitat": "Sandy Beaches"
+    }
+  },
+  {
+    "name": "Fiddler Crab",
+    "category": "Shallow Water",
+    "fact_level_1": "I am a boy crab with one tiny claw and one GIGANTIC claw!",
+    "fact_level_2": {
+      "size_details": "Length: 2 inches.",
+      "unique_fact": "If the big claw breaks off, the small one grows big to replace it.",
+      "habitat": "Salt Marshes"
+    }
+  },
+  {
+    "name": "Flounder",
+    "category": "Shallow Water",
+    "fact_level_1": "I lay flat on the sand. Both of my eyes are on one side of my head!",
+    "fact_level_2": {
+      "size_details": "Length: 10-20 inches.",
+      "unique_fact": "They are born with eyes on both sides, but one migrates as they grow.",
+      "habitat": "Sandy Bottoms"
+    }
+  },
+  {
+    "name": "Barnacle",
+    "category": "Shallow Water",
+    "fact_level_1": "I glue myself to rocks and boats. I kick my food into my mouth with my feet!",
+    "fact_level_2": {
+      "size_details": "Diameter: 1 inch.",
+      "unique_fact": "They have the strongest natural glue known to science.",
+      "habitat": "Intertidal Zones"
+    }
+  },
+  {
+    "name": "Jellyfish",
+    "category": "Shallow Water",
+    "fact_level_1": "I am soft and clear like Jell-O. I drift with the waves.",
+    "fact_level_2": {
+      "size_details": "Size varies greatly.",
+      "unique_fact": "They have no brain, heart, bones, or eyes.",
+      "habitat": "All Oceans"
+    }
+  },
+  {
+    "name": "Sea Lion",
+    "category": "Shallow Water",
+    "fact_level_1": "I have ear flaps and I can walk on my flippers like a dog.",
+    "fact_level_2": {
+      "size_details": "Male: 800 lbs. Female: 250 lbs.",
+      "unique_fact": "They are known as the 'dogs of the sea' because they bark.",
+      "habitat": "Coastal Rocks & Piers"
+    }
+  },
+  {
+    "name": "Harbor Seal",
+    "category": "Shallow Water",
+    "fact_level_1": "I have a spotted coat and no ear flaps. I wiggle on my belly to move.",
+    "fact_level_2": {
+      "size_details": "Length: 6 ft. Weight: 300 lbs.",
+      "unique_fact": "They sleep underwater and only come up to breathe.",
+      "habitat": "Cold Coasts"
+    }
+  },
+  {
+    "name": "Great White Shark",
+    "category": "Shallow Water",
+    "fact_level_1": "I am the biggest predator fish! I have rows of jagged teeth.",
+    "fact_level_2": {
+      "size_details": "Length: 15-20 ft. Weight: 2,500-5,000 lbs.",
+      "unique_fact": "They can smell one drop of blood in 25 gallons of water.",
+      "habitat": "Cool Coastal Waters"
+    }
+  },
+  {
+    "name": "Hammerhead Shark",
+    "category": "Shallow Water",
+    "fact_level_1": "My head is shaped like a hammer with an eye on each end!",
+    "fact_level_2": {
+      "size_details": "Length: 10-14 ft. Weight: 500 lbs.",
+      "unique_fact": "The wide head helps them scan the ocean floor for stingrays.",
+      "habitat": "Warm Coasts"
+    }
+  },
+  {
+    "name": "Tiger Shark",
+    "category": "Shallow Water",
+    "fact_level_1": "I have stripes on my side. I will eat almost anything I find!",
+    "fact_level_2": {
+      "size_details": "Length: 10-14 ft. Weight: 850-1,400 lbs.",
+      "unique_fact": "They are nicknamed 'garbage cans of the sea'.",
+      "habitat": "Tropical Waters"
+    }
+  },
+  {
+    "name": "Sea Sponge",
+    "category": "Shallow Water",
+    "fact_level_1": "I sit on the ocean floor and filter water. I have lots of holes!",
+    "fact_level_2": {
+      "size_details": "Size varies.",
+      "unique_fact": "If you push a sponge through a sieve, it will reassemble itself.",
+      "habitat": "Ocean Floor"
+    }
+  },
+  {
+    "name": "Scallop",
+    "category": "Shallow Water",
+    "fact_level_1": "I can swim by clapping my shell open and shut!",
+    "fact_level_2": {
+      "size_details": "Diameter: 2-6 inches.",
+      "unique_fact": "They have up to 100 tiny blue eyes along the edge of their shell.",
+      "habitat": "Sandy Bottoms"
+    }
+  },
+  {
+    "name": "Oyster",
+    "category": "Shallow Water",
+    "fact_level_1": "I have a rough, bumpy shell. Sometimes I make a pearl inside!",
+    "fact_level_2": {
+      "size_details": "Length: 3-8 inches.",
+      "unique_fact": "One oyster filters 50 gallons of water a day.",
+      "habitat": "Brackish Bays"
+    }
+  },
+  {
+    "name": "Mussel",
+    "category": "Shallow Water",
+    "fact_level_1": "I am black and shiny. I cling to pier pilings in big groups.",
+    "fact_level_2": {
+      "size_details": "Length: 2-4 inches.",
+      "unique_fact": "They use 'byssal threads' (beards) to anchor themselves.",
+      "habitat": "Intertidal Rocks"
+    }
+  },
+  {
+    "name": "Conch Snail",
+    "category": "Shallow Water",
+    "fact_level_1": "I have a big pink shell that sounds like the ocean if you listen to it.",
+    "fact_level_2": {
+      "size_details": "Length: 6-12 inches.",
+      "unique_fact": "They have eyes on the ends of long stalks.",
+      "habitat": "Seagrass Beds"
+    }
+  },
+  {
+    "name": "Krill",
+    "category": "Shallow Water",
+    "fact_level_1": "I am a tiny pink shrimp. Whales eat millions of me for lunch!",
+    "fact_level_2": {
+      "size_details": "Length: 2 inches.",
+      "unique_fact": "They swarm in groups so dense they can be seen from space.",
+      "habitat": "Cold Oceans"
+    }
+  },
+  {
+    "name": "Plankton",
+    "category": "Shallow Water",
+    "fact_level_1": "I am microscopic! I float in the water and feed the whole ocean.",
+    "fact_level_2": {
+      "size_details": "Microscopic.",
+      "unique_fact": "Phytoplankton produce 50% of the world's oxygen.",
+      "habitat": "Sunlit Surface Waters"
+    }
+  },
+
+  /* --- DOMESTIC & FARM --- */
+  {
+    "name": "Cow",
+    "category": "Farm",
+    "fact_level_1": "Moo! I give delicious milk. I love to chew grass all day.",
+    "fact_level_2": {
+      "size_details": "Height: 5 ft. Weight: 1,500 lbs.",
+      "unique_fact": "Cows have best friends and get stressed when separated.",
+      "habitat": "Pastures"
+    }
+  },
+  {
+    "name": "Pig",
+    "category": "Farm",
+    "fact_level_1": "Oink! I love to roll in the mud to keep cool.",
+    "fact_level_2": {
+      "size_details": "Weight: 300-700 lbs.",
+      "unique_fact": "Pigs are smarter than dogs and can play video games.",
+      "habitat": "Farms"
+    }
+  },
+  {
+    "name": "Sheep",
+    "category": "Farm",
+    "fact_level_1": "Baa! I have a fluffy wool coat that keeps me warm in winter.",
+    "fact_level_2": {
+      "size_details": "Weight: 100-200 lbs.",
+      "unique_fact": "Sheep have rectangular pupils.",
+      "habitat": "Grasslands"
+    }
+  },
+  {
+    "name": "Goat",
+    "category": "Farm",
+    "fact_level_1": "Maah! I have horns and a beard. I can climb on top of anything!",
+    "fact_level_2": {
+      "size_details": "Weight: 100-200 lbs.",
+      "unique_fact": "Goats discovered coffee beans (according to legend).",
+      "habitat": "Rocky Hills & Farms"
+    }
+  },
+  {
+    "name": "Chicken",
+    "category": "Farm",
+    "fact_level_1": "Cluck cluck! I lay eggs for breakfast. I scratch the dirt for bugs.",
+    "fact_level_2": {
+      "size_details": "Weight: 5-8 lbs.",
+      "unique_fact": "Chickens can remember over 100 different faces.",
+      "habitat": "Farms"
+    }
+  },
+  {
+    "name": "Rooster",
+    "category": "Farm",
+    "fact_level_1": "Cock-a-doodle-doo! I wake up the farm when the sun comes up.",
+    "fact_level_2": {
+      "size_details": "Weight: 6-9 lbs.",
+      "unique_fact": "The rooster's wattle (red skin) helps him stay cool.",
+      "habitat": "Farms"
+    }
+  },
+  {
+    "name": "Duck",
+    "category": "Farm",
+    "fact_level_1": "Quack! I have webbed feet for swimming and waterproof feathers.",
+    "fact_level_2": {
+      "size_details": "Weight: 2-4 lbs.",
+      "unique_fact": "Duck feathers are so waterproof that the down underneath stays dry.",
+      "habitat": "Ponds & Farms"
+    }
+  },
+  {
+    "name": "Goose",
+    "category": "Farm",
+    "fact_level_1": "Honk! I have a long neck. I am a very good guard for the farm.",
+    "fact_level_2": {
+      "size_details": "Weight: 10-20 lbs.",
+      "unique_fact": "Geese fly in a V-formation to save energy.",
+      "habitat": "Lakes & Farms"
+    }
+  },
+  {
+    "name": "Turkey",
+    "category": "Farm",
+    "fact_level_1": "Gobble gobble! I fan out my big tail feathers to show off.",
+    "fact_level_2": {
+      "size_details": "Male: 20 lbs. Female: 10 lbs.",
+      "unique_fact": "Benjamin Franklin wanted the Turkey to be the US national bird.",
+      "habitat": "Forests & Farms"
+    }
+  },
+  {
+    "name": "Horse",
+    "category": "Farm",
+    "fact_level_1": "Neigh! I can run very fast. I sleep standing up!",
+    "fact_level_2": {
+      "size_details": "Height: 5-6 ft (at shoulder). Weight: 1,000 lbs.",
+      "unique_fact": "Horses have the biggest eyes of any land mammal.",
+      "habitat": "Fields & Stables"
+    }
+  },
+  {
+    "name": "Donkey",
+    "category": "Farm",
+    "fact_level_1": "Hee-haw! I have long ears. I am very strong and can carry heavy things.",
+    "fact_level_2": {
+      "size_details": "Height: 3-5 ft. Weight: 400-500 lbs.",
+      "unique_fact": "A donkey's bray can be heard 60 miles away in the desert.",
+      "habitat": "Farms"
+    }
+  },
+  {
+    "name": "Pony",
+    "category": "Farm",
+    "fact_level_1": "I am a small horse with short legs and a thick mane.",
+    "fact_level_2": {
+      "size_details": "Height: <4.8 ft.",
+      "unique_fact": "Ponies are pound-for-pound stronger than large horses.",
+      "habitat": "Farms"
+    }
+  },
+  {
+    "name": "Llama",
+    "category": "Farm",
+    "fact_level_1": "I have a long fluffy neck. If I get mad, I might spit!",
+    "fact_level_2": {
+      "size_details": "Height: 6 ft. Weight: 300-400 lbs.",
+      "unique_fact": "Llamas are used as guards to protect sheep from coyotes.",
+      "habitat": "Andes Mountains & Farms"
+    }
+  },
+  {
+    "name": "Alpaca",
+    "category": "Farm",
+    "fact_level_1": "I look like a small llama with super soft wool.",
+    "fact_level_2": {
+      "size_details": "Height: 3 ft (shoulder). Weight: 150 lbs.",
+      "unique_fact": "They hum when they are happy or curious.",
+      "habitat": "Highlands & Farms"
+    }
+  },
+  {
+    "name": "Border Collie",
+    "category": "Domestic",
+    "fact_level_1": "I am a sheepdog! I love to run and herd animals.",
+    "fact_level_2": {
+      "size_details": "Weight: 30-45 lbs.",
+      "unique_fact": "Considered the smartest dog breed in the world.",
+      "habitat": "Farms & Homes"
+    }
+  },
+  {
+    "name": "Golden Retriever",
+    "category": "Domestic",
+    "fact_level_1": "I am a friendly dog with gold fur. I love to play fetch!",
+    "fact_level_2": {
+      "size_details": "Weight: 65-75 lbs.",
+      "unique_fact": "They have a 'soft mouth' and can carry a raw egg without breaking it.",
+      "habitat": "Homes"
+    }
+  },
+  {
+    "name": "Tabby Cat",
+    "category": "Domestic",
+    "fact_level_1": "Meow! I have stripes like a little tiger and soft paws.",
+    "fact_level_2": {
+      "size_details": "Weight: 8-12 lbs.",
+      "unique_fact": "All tabby cats have an 'M' mark on their forehead.",
+      "habitat": "Homes"
+    }
+  },
+  {
+    "name": "Siamese Cat",
+    "category": "Domestic",
+    "fact_level_1": "I have blue eyes and dark ears. I talk a lot!",
+    "fact_level_2": {
+      "size_details": "Weight: 8-10 lbs.",
+      "unique_fact": "Their fur color is determined by their body temperature.",
+      "habitat": "Homes"
+    }
+  },
+  {
+    "name": "Goldfish",
+    "category": "Domestic",
+    "fact_level_1": "Bloop! I am orange and shiny. I live in a bowl or pond.",
+    "fact_level_2": {
+      "size_details": "Length: 2-6 inches.",
+      "unique_fact": "They can recognize their owners.",
+      "habitat": "Freshwater"
+    }
+  },
+  {
+    "name": "Hamster",
+    "category": "Domestic",
+    "fact_level_1": "I stuff food in my cheeks! I love to run on my wheel.",
+    "fact_level_2": {
+      "size_details": "Length: 5 inches.",
+      "unique_fact": "Their cheek pouches extend all the way to their hips.",
+      "habitat": "Homes"
+    }
+  },
+  {
+    "name": "Guinea Pig",
+    "category": "Domestic",
+    "fact_level_1": "Wheek wheek! I am fuzzy and I love to eat carrots.",
+    "fact_level_2": {
+      "size_details": "Weight: 2 lbs.",
+      "unique_fact": "They are not pigs and they are not from Guinea (they are from Peru).",
+      "habitat": "Homes"
+    }
+  },
+  {
+    "name": "Rabbit",
+    "category": "Domestic",
+    "fact_level_1": "Hop hop! I have long ears and a fluffy tail.",
+    "fact_level_2": {
+      "size_details": "Weight: 2-10 lbs.",
+      "unique_fact": "A rabbit's teeth never stop growing.",
+      "habitat": "Burrows & Homes"
+    }
+  },
+  {
+    "name": "Ferret",
+    "category": "Domestic",
+    "fact_level_1": "I am long and slinky. I do a 'war dance' when I am excited!",
+    "fact_level_2": {
+      "size_details": "Length: 20 inches.",
+      "unique_fact": "They sleep for 18 hours a day.",
+      "habitat": "Homes"
+    }
+  },
+  {
+    "name": "Parakeet",
+    "category": "Domestic",
+    "fact_level_1": "I am a small colorful bird. I can learn to whistle!",
+    "fact_level_2": {
+      "size_details": "Length: 7 inches.",
+      "unique_fact": "They can learn hundreds of words.",
+      "habitat": "Australia & Homes"
+    }
+  },
+  {
+    "name": "Cockatiel",
+    "category": "Domestic",
+    "fact_level_1": "I have a yellow crest on my head and orange cheeks.",
+    "fact_level_2": {
+      "size_details": "Length: 12 inches.",
+      "unique_fact": "Their crest goes up when they are surprised.",
+      "habitat": "Australia & Homes"
+    }
+  },
+  {
+    "name": "Turtle",
+    "category": "Domestic",
+    "fact_level_1": "I walk very slow. If I get scared, I pull my head into my shell.",
+    "fact_level_2": {
+      "size_details": "Size varies.",
+      "unique_fact": "The shell is actually part of their skeleton (ribcage).",
+      "habitat": "Ponds & Homes"
+    }
+  },
+  {
+    "name": "Pot-bellied Pig",
+    "category": "Domestic",
+    "fact_level_1": "I am a small pet pig with a round belly.",
+    "fact_level_2": {
+      "size_details": "Weight: 100 lbs.",
+      "unique_fact": "They can be house-trained like a dog.",
+      "habitat": "Homes"
+    }
+  },
+  {
+    "name": "Mule",
+    "category": "Farm",
+    "fact_level_1": "My mom was a horse and my dad was a donkey.",
+    "fact_level_2": {
+      "size_details": "Weight: 800-1000 lbs.",
+      "unique_fact": "They are sterile (cannot have babies) and have tougher skin than horses.",
+      "habitat": "Farms"
+    }
+  },
+
+  /* --- FOREST --- */
+  {
+    "name": "Brown Bear",
+    "category": "Forest",
+    "fact_level_1": "I am big and fuzzy. I love to eat honey and catch fish!",
+    "fact_level_2": {
+      "size_details": "Height: 7-9 ft standing. Weight: 600-900 lbs.",
+      "unique_fact": "They can run up to 35 mph (faster than a horse in a sprint).",
+      "habitat": "Northern Forests"
+    }
+  },
+  {
+    "name": "Black Bear",
+    "category": "Forest",
+    "fact_level_1": "I am smaller than a brown bear and I am very good at climbing trees.",
+    "fact_level_2": {
+      "size_details": "Male: 250 lbs. Female: 150 lbs.",
+      "unique_fact": "Their claws are short and curved, perfect for climbing bark.",
+      "habitat": "North American Forests"
+    }
+  },
+  {
+    "name": "Moose",
+    "category": "Forest",
+    "fact_level_1": "I am huge! I have giant flat antlers on my head.",
+    "fact_level_2": {
+      "size_details": "Height: 6.5 ft (shoulder). Weight: 1,000-1,500 lbs.",
+      "unique_fact": "They can dive underwater to eat plants at the bottom of lakes.",
+      "habitat": "Northern Forests"
+    }
+  },
+  {
+    "name": "Elk",
+    "category": "Forest",
+    "fact_level_1": "I make a loud bugle sound that echoes in the mountains.",
+    "fact_level_2": {
+      "size_details": "Height: 5 ft. Weight: 700 lbs.",
+      "unique_fact": "They grow a new set of antlers every year.",
+      "habitat": "Forests & Mountains"
+    }
+  },
+  {
+    "name": "White-Tailed Deer",
+    "category": "Forest",
+    "fact_level_1": "When I run, I lift my white tail like a flag to warn my friends!",
+    "fact_level_2": {
+      "size_details": "Weight: 150 lbs (Male).",
+      "unique_fact": "Fawns have spots to look like sunlight on the forest floor.",
+      "habitat": "Forests"
+    }
+  },
+  {
+    "name": "Red Fox",
+    "category": "Forest",
+    "fact_level_1": "I am clever and quick. I have a bushy tail called a brush.",
+    "fact_level_2": {
+      "size_details": "Weight: 10-15 lbs.",
+      "unique_fact": "They can hear a mouse squeak from 100 yards away.",
+      "habitat": "Forests & Urban Areas"
+    }
+  },
+  {
+    "name": "Wolf",
+    "category": "Forest",
+    "fact_level_1": "Awoooo! I howl at the moon to talk to my pack.",
+    "fact_level_2": {
+      "size_details": "Weight: 80-100 lbs.",
+      "unique_fact": "The pack is a family led by a mom and dad (alphas).",
+      "habitat": "Forests & Tundra"
+    }
+  },
+  {
+    "name": "Coyote",
+    "category": "Forest",
+    "fact_level_1": "I am a wild dog that yips and howls at night.",
+    "fact_level_2": {
+      "size_details": "Weight: 20-50 lbs.",
+      "unique_fact": "They are incredibly adaptable and live in major cities.",
+      "habitat": "Everywhere"
+    }
+  },
+  {
+    "name": "Bobcat",
+    "category": "Forest",
+    "fact_level_1": "I am a wild cat with a short, stubby tail and ear tufts.",
+    "fact_level_2": {
+      "size_details": "Weight: 20-30 lbs.",
+      "unique_fact": "They can leap 10 feet in the air.",
+      "habitat": "Forests & Swamps"
+    }
+  },
+  {
+    "name": "Lynx",
+    "category": "Forest",
+    "fact_level_1": "I have huge paws that work like snowshoes in the winter.",
+    "fact_level_2": {
+      "size_details": "Weight: 20-40 lbs.",
+      "unique_fact": "The tufts on their ears act like hearing aids.",
+      "habitat": "Snowy Forests"
+    }
+  },
+  {
+    "name": "Squirrel",
+    "category": "Forest",
+    "fact_level_1": "I scurry up trees and bury acorns for the winter.",
+    "fact_level_2": {
+      "size_details": "Length: 10 inches. Weight: 1 lb.",
+      "unique_fact": "They plant thousands of trees by forgetting where they buried nuts.",
+      "habitat": "Trees"
+    }
+  },
+  {
+    "name": "Chipmunk",
+    "category": "Forest",
+    "fact_level_1": "I am small with stripes on my back. I fill my cheeks with nuts!",
+    "fact_level_2": {
+      "size_details": "Length: 5 inches. Weight: 3 oz.",
+      "unique_fact": "They hibernate in underground burrows.",
+      "habitat": "Forest Floors"
+    }
+  },
+  {
+    "name": "Beaver",
+    "category": "Forest",
+    "fact_level_1": "I build dams with sticks. I slap my flat tail on the water to warn danger.",
+    "fact_level_2": {
+      "size_details": "Weight: 40-60 lbs.",
+      "unique_fact": "Their teeth are orange because they are reinforced with iron.",
+      "habitat": "Rivers & Ponds"
+    }
+  },
+  {
+    "name": "River Otter",
+    "category": "Forest",
+    "fact_level_1": "I love to slide down muddy banks into the river. Wee!",
+    "fact_level_2": {
+      "size_details": "Length: 3-4 ft. Weight: 20 lbs.",
+      "unique_fact": "They can hold their breath for 8 minutes.",
+      "habitat": "Rivers"
+    }
+  },
+  {
+    "name": "Porcupine",
+    "category": "Forest",
+    "fact_level_1": "I am covered in sharp quills. Don't touch!",
+    "fact_level_2": {
+      "size_details": "Weight: 12-35 lbs.",
+      "unique_fact": "They cannot shoot their quills; you have to touch them to get stuck.",
+      "habitat": "Forests"
+    }
+  },
+  {
+    "name": "Skunk",
+    "category": "Forest",
+    "fact_level_1": "I have a white stripe. If you scare me, I make a very stinky smell!",
+    "fact_level_2": {
+      "size_details": "Weight: 6-10 lbs.",
+      "unique_fact": "The spray is oily and can be smelled from a mile away.",
+      "habitat": "Forest Edges"
+    }
+  },
+  {
+    "name": "Badger",
+    "category": "Forest",
+    "fact_level_1": "I have a black and white face. I am very grumpy and dig holes fast.",
+    "fact_level_2": {
+      "size_details": "Weight: 15-25 lbs.",
+      "unique_fact": "They sometimes hunt together with coyotes.",
+      "habitat": "Open Forests"
+    }
+  },
+  {
+    "name": "Woodpecker",
+    "category": "Forest",
+    "fact_level_1": "Knock knock! I peck holes in trees to find bugs.",
+    "fact_level_2": {
+      "size_details": "Length: 6-18 inches.",
+      "unique_fact": "Their tongue wraps around their skull to protect their brain from impact.",
+      "habitat": "Forests"
+    }
+  },
+  {
+    "name": "Blue Jay",
+    "category": "Forest",
+    "fact_level_1": "I am bright blue and very noisy. I like to bully other birds.",
+    "fact_level_2": {
+      "size_details": "Length: 10 inches.",
+      "unique_fact": "They can mimic the scream of a hawk to scare other birds away.",
+      "habitat": "Forests"
+    }
+  },
+  {
+    "name": "Cardinal",
+    "category": "Forest",
+    "fact_level_1": "I am a bright red bird with a black mask.",
+    "fact_level_2": {
+      "size_details": "Length: 8 inches.",
+      "unique_fact": "Only the males are bright red; females are brown.",
+      "habitat": "Forests"
+    }
+  },
+  {
+    "name": "Eagle",
+    "category": "Forest",
+    "fact_level_1": "I soar high in the sky and have sharp eyes to spot fish.",
+    "fact_level_2": {
+      "size_details": "Wingspan: 7 ft. Weight: 10 lbs.",
+      "unique_fact": "Their nests (aeries) can weigh up to 1 ton.",
+      "habitat": "Near Lakes & Rivers"
+    }
+  },
+  {
+    "name": "Hawk",
+    "category": "Forest",
+    "fact_level_1": "I am a fast hunter with sharp claws called talons.",
+    "fact_level_2": {
+      "size_details": "Wingspan: 4 ft. Weight: 2-3 lbs.",
+      "unique_fact": "They can see ultraviolet light to track mouse urine trails.",
+      "habitat": "Open Woods"
+    }
+  },
+  {
+    "name": "Falcon",
+    "category": "Forest",
+    "fact_level_1": "I am the fastest animal in the world when I dive!",
+    "fact_level_2": {
+      "size_details": "Wingspan: 3 ft.",
+      "unique_fact": "The Peregrine Falcon dives at 240 mph.",
+      "habitat": "Cliffs & Skyscrapers"
+    }
+  },
+  {
+    "name": "Wild Boar",
+    "category": "Forest",
+    "fact_level_1": "I am a hairy wild pig with tusks coming out of my mouth.",
+    "fact_level_2": {
+      "size_details": "Weight: 200 lbs.",
+      "unique_fact": "They are the ancestors of domestic pigs.",
+      "habitat": "Forests"
+    }
+  },
+  {
+    "name": "Hedgehog",
+    "category": "Forest",
+    "fact_level_1": "I am a little ball of spikes. I curl up when I sleep.",
+    "fact_level_2": {
+      "size_details": "Length: 8 inches.",
+      "unique_fact": "They are immune to snake venom.",
+      "habitat": "Hedgerows"
+    }
+  },
+  {
+    "name": "Mole",
+    "category": "Forest",
+    "fact_level_1": "I live underground. My big hands are like shovels for digging.",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "They can dig 18 feet of tunnel in one hour.",
+      "habitat": "Underground"
+    }
+  },
+  {
+    "name": "Salamander",
+    "category": "Forest",
+    "fact_level_1": "I look like a slimy lizard. I hide under wet logs.",
+    "fact_level_2": {
+      "size_details": "Length: 4-8 inches.",
+      "unique_fact": "If they lose a tail or leg, they can grow a new one perfectly.",
+      "habitat": "Damp Forests"
+    }
+  },
+  {
+    "name": "Turkey Vulture",
+    "category": "Forest",
+    "fact_level_1": "I have a bald red head. I clean up the forest by eating dead things.",
+    "fact_level_2": {
+      "size_details": "Wingspan: 6 ft.",
+      "unique_fact": "They have an incredible sense of smell to find food.",
+      "habitat": "Open Areas"
+    }
+  },
+
+  /* --- JUNGLE & RAINFOREST --- */
+  {
+    "name": "Bengal Tiger",
+    "category": "Jungle",
+    "fact_level_1": "I am the biggest cat! I have orange fur with black stripes.",
+    "fact_level_2": {
+      "size_details": "Length: 9-10 ft. Weight: 400-500 lbs.",
+      "unique_fact": "No two tigers have the same stripe pattern.",
+      "habitat": "Asian Jungles"
+    }
+  },
+  {
+    "name": "Jaguar",
+    "category": "Jungle",
+    "fact_level_1": "I have spots called rosettes. I love to swim in the river!",
+    "fact_level_2": {
+      "size_details": "Length: 6 ft. Weight: 200 lbs.",
+      "unique_fact": "They have the strongest bite of any big cat, capable of crushing turtle shells.",
+      "habitat": "Amazon Rainforest"
+    }
+  },
+  {
+    "name": "Leopard",
+    "category": "Jungle",
+    "fact_level_1": "I am very strong. I carry my food up into trees so lions can't steal it.",
+    "fact_level_2": {
+      "size_details": "Weight: 60-160 lbs.",
+      "unique_fact": "They are the most elusive and secretive of big cats.",
+      "habitat": "Africa & Asia"
+    }
+  },
+  {
+    "name": "Gorilla",
+    "category": "Jungle",
+    "fact_level_1": "I am a gentle giant. I beat my chest to show I am strong.",
+    "fact_level_2": {
+      "size_details": "Height: 5.5 ft. Weight: 350-450 lbs (Silverback).",
+      "unique_fact": "They share 98% of their DNA with humans.",
+      "habitat": "African Rainforests"
+    }
+  },
+  {
+    "name": "Chimpanzee",
+    "category": "Jungle",
+    "fact_level_1": "I am very smart. I use sticks to fish for termites!",
+    "fact_level_2": {
+      "size_details": "Height: 4 ft. Weight: 90-130 lbs.",
+      "unique_fact": "They can learn sign language to talk to humans.",
+      "habitat": "African Forests"
+    }
+  },
+  {
+    "name": "Orangutan",
+    "category": "Jungle",
+    "fact_level_1": "I have long red hair and long arms for swinging in trees.",
+    "fact_level_2": {
+      "size_details": "Height: 4.5 ft. Weight: 170 lbs.",
+      "unique_fact": "Their name means 'Person of the Forest' in Malay.",
+      "habitat": "Borneo & Sumatra"
+    }
+  },
+  {
+    "name": "Howler Monkey",
+    "category": "Jungle",
+    "fact_level_1": "I am the loudest monkey! My roar sounds like the wind.",
+    "fact_level_2": {
+      "size_details": "Length: 2-3 ft. Weight: 15-22 lbs.",
+      "unique_fact": "Their howl can be heard for 3 miles through dense jungle.",
+      "habitat": "South American Rainforests"
+    }
+  },
+  {
+    "name": "Spider Monkey",
+    "category": "Jungle",
+    "fact_level_1": "I have a tail that works like an extra hand to grab branches.",
+    "fact_level_2": {
+      "size_details": "Weight: 13-20 lbs.",
+      "unique_fact": "They have no thumbs, only four fingers.",
+      "habitat": "Tropical Forests"
+    }
+  },
+  {
+    "name": "Capuchin Monkey",
+    "category": "Jungle",
+    "fact_level_1": "I am a cheeky little monkey. I sometimes appear in movies!",
+    "fact_level_2": {
+      "size_details": "Weight: 6-9 lbs.",
+      "unique_fact": "They rub onions or citrus on their fur to repel bugs.",
+      "habitat": "Central & South America"
+    }
+  },
+  {
+    "name": "Lemur",
+    "category": "Jungle",
+    "fact_level_1": "I have big eyes and a black-and-white ringed tail.",
+    "fact_level_2": {
+      "size_details": "Weight: 5-7 lbs.",
+      "unique_fact": "They only live on the island of Madagascar.",
+      "habitat": "Madagascar"
+    }
+  },
+  {
+    "name": "Sloth",
+    "category": "Jungle",
+    "fact_level_1": "I move veeeery sloooowly. Moss grows on my fur!",
+    "fact_level_2": {
+      "size_details": "Weight: 9-17 lbs.",
+      "unique_fact": "They only come down from the tree once a week to poop.",
+      "habitat": "Canopy Trees"
+    }
+  },
+  {
+    "name": "Anteater",
+    "category": "Jungle",
+    "fact_level_1": "I have a long nose and a sticky tongue to lick up ants.",
+    "fact_level_2": {
+      "size_details": "Length: 6-7 ft. Weight: 60-90 lbs.",
+      "unique_fact": "Their tongue is 2 feet long and flicks 150 times a minute.",
+      "habitat": "Grasslands & Rainforests"
+    }
+  },
+  {
+    "name": "Armadillo",
+    "category": "Jungle",
+    "fact_level_1": "I wear a suit of armor. I curl into a ball if I am scared.",
+    "fact_level_2": {
+      "size_details": "Weight: 10-15 lbs.",
+      "unique_fact": "They are the only animal besides humans that can get leprosy.",
+      "habitat": "Warm Forests"
+    }
+  },
+  {
+    "name": "Tapir",
+    "category": "Jungle",
+    "fact_level_1": "I look like a pig with a short elephant trunk.",
+    "fact_level_2": {
+      "size_details": "Weight: 300-600 lbs.",
+      "unique_fact": "Their babies are striped like watermelons for camouflage.",
+      "habitat": "Jungle Rivers"
+    }
+  },
+  {
+    "name": "Toucan",
+    "category": "Jungle",
+    "fact_level_1": "I have a giant colorful beak. I love fruit loops (just kidding, I like fruit!)",
+    "fact_level_2": {
+      "size_details": "Beak Length: 8 inches.",
+      "unique_fact": "The beak is hollow and light, not heavy.",
+      "habitat": "Rainforest Canopy"
+    }
+  },
+  {
+    "name": "Macaw",
+    "category": "Jungle",
+    "fact_level_1": "I am a big red, blue, and yellow parrot. I am very loud!",
+    "fact_level_2": {
+      "size_details": "Length: 3 ft.",
+      "unique_fact": "They mate for life and can live for 60-80 years.",
+      "habitat": "Rainforests"
+    }
+  },
+  {
+    "name": "Parrot",
+    "category": "Jungle",
+    "fact_level_1": "I can copy what you say! 'Polly wants a cracker!'",
+    "fact_level_2": {
+      "size_details": "Size varies.",
+      "unique_fact": "They are zygodactyl (two toes front, two toes back) for gripping.",
+      "habitat": "Tropical Regions"
+    }
+  },
+  {
+    "name": "Hummingbird",
+    "category": "Jungle",
+    "fact_level_1": "I flap my wings so fast I hum! I can fly backwards.",
+    "fact_level_2": {
+      "size_details": "Weight: Less than a nickel.",
+      "unique_fact": "They have the fastest heart rate of any bird (1,200 beats/min).",
+      "habitat": "Americas"
+    }
+  },
+  {
+    "name": "Green Iguana",
+    "category": "Jungle",
+    "fact_level_1": "I am a big green lizard with spikes on my back.",
+    "fact_level_2": {
+      "size_details": "Length: up to 6 ft.",
+      "unique_fact": "They have a 'third eye' on top of their head to sense light.",
+      "habitat": "Tree Branches"
+    }
+  },
+  {
+    "name": "Chameleon",
+    "category": "Jungle",
+    "fact_level_1": "I change colors to match my mood. My eyes look two ways at once!",
+    "fact_level_2": {
+      "size_details": "Length: 5-20 inches.",
+      "unique_fact": "Their tongue shoots out longer than their body.",
+      "habitat": "Africa & Asia"
+    }
+  },
+  {
+    "name": "Boa Constrictor",
+    "category": "Jungle",
+    "fact_level_1": "I am a big snake. I squeeze my yummy hugs tight!",
+    "fact_level_2": {
+      "size_details": "Length: 10-13 ft. Weight: 60 lbs.",
+      "unique_fact": "They give birth to live babies, not eggs.",
+      "habitat": "Tropical Forests"
+    }
+  },
+  {
+    "name": "Python",
+    "category": "Jungle",
+    "fact_level_1": "I am the longest snake. I can swallow a whole deer!",
+    "fact_level_2": {
+      "size_details": "Length: up to 20 ft.",
+      "unique_fact": "Pythons have heat pits on their lips to sense warm blood.",
+      "habitat": "Asia & Africa"
+    }
+  },
+  {
+    "name": "Anaconda",
+    "category": "Jungle",
+    "fact_level_1": "I am the heaviest snake in the world. I live in the water.",
+    "fact_level_2": {
+      "size_details": "Length: 17 ft. Weight: 200-500 lbs.",
+      "unique_fact": "Their eyes are on top of their head so they can hide underwater.",
+      "habitat": "Amazon Swamps"
+    }
+  },
+  {
+    "name": "Poison Dart Frog",
+    "category": "Jungle",
+    "fact_level_1": "I am bright blue or yellow. Don't touch me, I am poisonous!",
+    "fact_level_2": {
+      "size_details": "Length: 1 inch.",
+      "unique_fact": "They get their poison from the ants they eat.",
+      "habitat": "Rainforest Floor"
+    }
+  },
+  {
+    "name": "Red-Eyed Tree Frog",
+    "category": "Jungle",
+    "fact_level_1": "I have giant red eyes and orange feet. I stick to leaves!",
+    "fact_level_2": {
+      "size_details": "Length: 2-3 inches.",
+      "unique_fact": "They sleep on the underside of leaves to hide their bright colors.",
+      "habitat": "Rainforest Canopy"
+    }
+  },
+  {
+    "name": "Tarantula",
+    "category": "Jungle",
+    "fact_level_1": "I am a big hairy spider. I am actually quite gentle.",
+    "fact_level_2": {
+      "size_details": "Leg Span: 5-11 inches.",
+      "unique_fact": "They can flick itchy hairs from their abdomen at attackers.",
+      "habitat": "Burrows"
+    }
+  },
+  {
+    "name": "Leafcutter Ant",
+    "category": "Jungle",
+    "fact_level_1": "I carry leaves bigger than me to my nest to grow fungus.",
+    "fact_level_2": {
+      "size_details": "Length: 0.5 inches.",
+      "unique_fact": "They are farmers; they don't eat the leaves, they eat the mushroom that grows on them.",
+      "habitat": "Forest Floor"
+    }
+  },
+  {
+    "name": "Okapi",
+    "category": "Jungle",
+    "fact_level_1": "I look like a zebra mixed with a giraffe!",
+    "fact_level_2": {
+      "size_details": "Height: 5 ft. Weight: 550 lbs.",
+      "unique_fact": "It is the only living relative of the giraffe.",
+      "habitat": "Congo Rainforest"
+    }
+  },
+
+  /* --- NOCTURNAL --- */
+  {
+    "name": "Barn Owl",
+    "category": "Nocturnal",
+    "fact_level_1": "I have a face shaped like a heart. I fly silently!",
+    "fact_level_2": {
+      "size_details": "Wingspan: 3 ft.",
+      "unique_fact": "One ear is higher than the other to pinpoint sound in 3D.",
+      "habitat": "Barns & Trees"
+    }
+  },
+  {
+    "name": "Great Horned Owl",
+    "category": "Nocturnal",
+    "fact_level_1": "I have tufts on my head that look like horns. 'Hoo-h'hoo!'",
+    "fact_level_2": {
+      "size_details": "Wingspan: 4-5 ft.",
+      "unique_fact": "They are the only animal that regularly eats skunks.",
+      "habitat": "Forests"
+    }
+  },
+  {
+    "name": "Fruit Bat",
+    "category": "Nocturnal",
+    "fact_level_1": "I am a 'Flying Fox'. I eat fruit and sleep upside down.",
+    "fact_level_2": {
+      "size_details": "Wingspan: up to 5 ft.",
+      "unique_fact": "They don't use echolocation; they use their big eyes and nose.",
+      "habitat": "Tropics"
+    }
+  },
+  {
+    "name": "Vampire Bat",
+    "category": "Nocturnal",
+    "fact_level_1": "I drink tiny sips of blood from sleeping cows. Spooky!",
+    "fact_level_2": {
+      "size_details": "Wingspan: 7 inches.",
+      "unique_fact": "Their saliva has a medicine (Draculin) that stops blood clotting.",
+      "habitat": "Caves"
+    }
+  },
+  {
+    "name": "Raccoon",
+    "category": "Nocturnal",
+    "fact_level_1": "I have a black mask. I wash my food in the water.",
+    "fact_level_2": {
+      "size_details": "Weight: 10-30 lbs.",
+      "unique_fact": "Their front paws are incredibly sensitive, even underwater.",
+      "habitat": "Forests & Cities"
+    }
+  },
+  {
+    "name": "Opossum",
+    "category": "Nocturnal",
+    "fact_level_1": "I carry my babies on my back. If I am scared, I play dead!",
+    "fact_level_2": {
+      "size_details": "Weight: 6-12 lbs.",
+      "unique_fact": "They eat 5,000 ticks every season.",
+      "habitat": "North America"
+    }
+  },
+  {
+    "name": "Aye-Aye",
+    "category": "Nocturnal",
+    "fact_level_1": "I have a super long middle finger to tap on trees and find bugs.",
+    "fact_level_2": {
+      "size_details": "Weight: 5 lbs.",
+      "unique_fact": "Locals used to think they were bad luck.",
+      "habitat": "Madagascar"
+    }
+  },
+  {
+    "name": "Tarsier",
+    "category": "Nocturnal",
+    "fact_level_1": "My eyes are huge! Each eye is bigger than my brain.",
+    "fact_level_2": {
+      "size_details": "Length: 4 inches.",
+      "unique_fact": "They are the only entirely carnivorous primate.",
+      "habitat": "Southeast Asia"
+    }
+  },
+  {
+    "name": "Bush Baby",
+    "category": "Nocturnal",
+    "fact_level_1": "I am cute and bouncy. I cry like a human baby!",
+    "fact_level_2": {
+      "size_details": "Weight: <1 lb.",
+      "unique_fact": "They can fold their ears flat to protect them when jumping.",
+      "habitat": "African Savannah"
+    }
+  },
+  {
+    "name": "Sugar Glider",
+    "category": "Nocturnal",
+    "fact_level_1": "I have skin flaps that let me glide from tree to tree.",
+    "fact_level_2": {
+      "size_details": "Weight: 4-5 oz.",
+      "unique_fact": "They are marsupials like kangaroos.",
+      "habitat": "Australia"
+    }
+  },
+  {
+    "name": "Kinkajou",
+    "category": "Nocturnal",
+    "fact_level_1": "I look like a monkey bear! I love honey.",
+    "fact_level_2": {
+      "size_details": "Weight: 4-7 lbs.",
+      "unique_fact": "They can turn their feet backwards to run down trees head-first.",
+      "habitat": "Rainforest Canopy"
+    }
+  },
+  {
+    "name": "Fennec Fox",
+    "category": "Nocturnal",
+    "fact_level_1": "I have the biggest ears for such a tiny head!",
+    "fact_level_2": {
+      "size_details": "Weight: 2-3 lbs.",
+      "unique_fact": "Their ears radiate heat to keep them cool in the desert.",
+      "habitat": "Sahara Desert"
+    }
+  },
+  {
+    "name": "Hyena",
+    "category": "Nocturnal",
+    "fact_level_1": "I make a sound like I am laughing! He-he-he!",
+    "fact_level_2": {
+      "size_details": "Weight: 100-140 lbs (Female is larger).",
+      "unique_fact": "They have jaws strong enough to crush bone.",
+      "habitat": "African Savannah"
+    }
+  },
+  {
+    "name": "Aardvark",
+    "category": "Nocturnal",
+    "fact_level_1": "I have rabbit ears and a pig nose. I dig for termites.",
+    "fact_level_2": {
+      "size_details": "Weight: 130-180 lbs.",
+      "unique_fact": "One aardvark can eat 50,000 insects in one night.",
+      "habitat": "Africa"
+    }
+  },
+  {
+    "name": "Pangolin",
+    "category": "Nocturnal",
+    "fact_level_1": "I am a pinecone lizard! I have hard scales.",
+    "fact_level_2": {
+      "size_details": "Weight: 5-70 lbs (varies by species).",
+      "unique_fact": "It walks on its knuckles to protect its claws.",
+      "habitat": "Asia & Africa"
+    }
+  },
+  {
+    "name": "Tasmanian Devil",
+    "category": "Nocturnal",
+    "fact_level_1": "I spin and scream when I eat! I have red ears.",
+    "fact_level_2": {
+      "size_details": "Weight: 15-25 lbs.",
+      "unique_fact": "They store fat in their tails.",
+      "habitat": "Tasmania"
+    }
+  },
+  {
+    "name": "Wombat",
+    "category": "Nocturnal",
+    "fact_level_1": "I look like a sturdy bear. My poop is shaped like a cube!",
+    "fact_level_2": {
+      "size_details": "Weight: 50-80 lbs.",
+      "unique_fact": "Their pouch faces backwards so they don't dig dirt onto their babies.",
+      "habitat": "Australia"
+    }
+  },
+  {
+    "name": "Koala",
+    "category": "Nocturnal",
+    "fact_level_1": "I sleep all day in eucalyptus trees. I am very picky about food.",
+    "fact_level_2": {
+      "size_details": "Weight: 15-30 lbs.",
+      "unique_fact": "They have fingerprints almost identical to humans.",
+      "habitat": "Eucalyptus Forests"
+    }
+  },
+  {
+    "name": "Scorpion",
+    "category": "Nocturnal",
+    "fact_level_1": "I have pincers and a tail with a stinger. I glow under UV light!",
+    "fact_level_2": {
+      "size_details": "Length: 2-8 inches.",
+      "unique_fact": "They can survive a year without food.",
+      "habitat": "Deserts"
+    }
+  },
+  {
+    "name": "Firefly",
+    "category": "Nocturnal",
+    "fact_level_1": "I am a beetle with a glowing butt to find my friends.",
+    "fact_level_2": {
+      "size_details": "Length: 1 inch.",
+      "unique_fact": "Their light is 'cold light'—it produces no heat.",
+      "habitat": "Fields & Forests"
+    }
+  },
+  {
+    "name": "Moth",
+    "category": "Nocturnal",
+    "fact_level_1": "I am fuzzy and fly at night. I love lamps!",
+    "fact_level_2": {
+      "size_details": "Size varies.",
+      "unique_fact": "Some moths have no mouths and cannot eat as adults.",
+      "habitat": "Global"
+    }
+  },
+  {
+    "name": "Gecko",
+    "category": "Nocturnal",
+    "fact_level_1": "I can walk on the ceiling! My toes are sticky.",
+    "fact_level_2": {
+      "size_details": "Length: 3-6 inches.",
+      "unique_fact": "They clean their eyes by licking them.",
+      "habitat": "Warm Climates"
+    }
+  },
+  {
+    "name": "Cacomistle",
+    "category": "Nocturnal",
+    "fact_level_1": "I look like a cat mixed with a raccoon. I am very shy.",
+    "fact_level_2": {
+      "size_details": "Length: 12 inches.",
+      "unique_fact": "Miners used to keep them as pets to catch mice.",
+      "habitat": "Southwestern US"
+    }
+  },
+  {
+    "name": "Civet",
+    "category": "Nocturnal",
+    "fact_level_1": "I look like a spotted cat with a long nose.",
+    "fact_level_2": {
+      "size_details": "Weight: 3-10 lbs.",
+      "unique_fact": "Expensive coffee (Kopi Luwak) is made from beans they poop out.",
+      "habitat": "Asian Jungles"
+    }
+  },
+  {
+    "name": "Genet",
+    "category": "Nocturnal",
+    "fact_level_1": "I am long and spotted. I can squeeze through tiny spaces.",
+    "fact_level_2": {
+      "size_details": "Weight: 4 lbs.",
+      "unique_fact": "They can stand on their hind legs to check their surroundings.",
+      "habitat": "Africa"
+    }
+  },
+  {
+    "name": "Mouse",
+    "category": "Nocturnal",
+    "fact_level_1": "Squeak! I am tiny and grey. I love cheese.",
+    "fact_level_2": {
+      "size_details": "Length: 3 inches.",
+      "unique_fact": "A mouse can have 10 litters of babies a year.",
+      "habitat": "Fields & Homes"
+    }
+  },
+  {
+    "name": "Rat",
+    "category": "Nocturnal",
+    "fact_level_1": "I am bigger than a mouse and very smart.",
+    "fact_level_2": {
+      "size_details": "Length: 9-11 inches.",
+      "unique_fact": "Rats giggle when you tickle them (ultrasonic sound).",
+      "habitat": "Cities & Fields"
+    }
+  },
+  {
+    "name": "Jerboa",
+    "category": "Nocturnal",
+    "fact_level_1": "I look like a mouse with kangaroo legs!",
+    "fact_level_2": {
+      "size_details": "Length: 4 inches.",
+      "unique_fact": "They can jump 10 feet in a single bound.",
+      "habitat": "Deserts"
+    }
+  },
+
+  /* --- ARCTIC & POLAR --- */
+  {
+    "name": "Polar Bear",
+    "category": "Arctic",
+    "fact_level_1": "I am the King of the Arctic. My skin is black but my fur is white!",
+    "fact_level_2": {
+      "size_details": "Male: 1000-1500 lbs. Female: 500-700 lbs.",
+      "unique_fact": "Their fur is actually transparent, not white.",
+      "habitat": "Arctic Ice"
+    }
+  },
+  {
+    "name": "Arctic Fox",
+    "category": "Arctic",
+    "fact_level_1": "My fur is white in winter and brown in summer to hide.",
+    "fact_level_2": {
+      "size_details": "Weight: 6-10 lbs.",
+      "unique_fact": "They have fur on the bottom of their feet.",
+      "habitat": "Tundra"
+    }
+  },
+  {
+    "name": "Arctic Wolf",
+    "category": "Arctic",
+    "fact_level_1": "I have thick white fur to keep me warm in the snow.",
+    "fact_level_2": {
+      "size_details": "Weight: 100-150 lbs.",
+      "unique_fact": "They have smaller ears than grey wolves to save heat.",
+      "habitat": "Arctic Circle"
+    }
+  },
+  {
+    "name": "Arctic Hare",
+    "category": "Arctic",
+    "fact_level_1": "I am a big fluffy bunny. I run super fast!",
+    "fact_level_2": {
+      "size_details": "Weight: 8-10 lbs.",
+      "unique_fact": "They sometimes gather in groups of hundreds to keep warm.",
+      "habitat": "Tundra"
+    }
+  },
+  {
+    "name": "Walrus",
+    "category": "Arctic",
+    "fact_level_1": "I have long tusks and a moustache. I am very blubbery.",
+    "fact_level_2": {
+      "size_details": "Weight: 2,000-3,000 lbs.",
+      "unique_fact": "They use their tusks to pull themselves out of the water onto ice.",
+      "habitat": "Arctic Coasts"
+    }
+  },
+  {
+    "name": "Narwhal",
+    "category": "Arctic",
+    "fact_level_1": "I am the Unicorn of the Sea! I have a long spiral horn.",
+    "fact_level_2": {
+      "size_details": "Length: 15 ft. Weight: 3,500 lbs.",
+      "unique_fact": "The 'horn' is actually a tooth growing through its lip.",
+      "habitat": "Arctic Waters"
+    }
+  },
+  {
+    "name": "Beluga Whale",
+    "category": "Arctic",
+    "fact_level_1": "I am white and squishy. I can wiggle my melon head.",
+    "fact_level_2": {
+      "size_details": "Length: 13-20 ft. Weight: 3,000 lbs.",
+      "unique_fact": "They are called 'sea canaries' because they chirp so much.",
+      "habitat": "Arctic Waters"
+    }
+  },
+  {
+    "name": "Bowhead Whale",
+    "category": "Arctic",
+    "fact_level_1": "I have a huge mouth curved like a bow. I break ice with my head!",
+    "fact_level_2": {
+      "size_details": "Length: 60 ft. Weight: 75-100 tons.",
+      "unique_fact": "They can live over 200 years.",
+      "habitat": "Arctic Oceans"
+    }
+  },
+  {
+    "name": "Orca",
+    "category": "Arctic",
+    "fact_level_1": "I am a Killer Whale. I am black and white and hunt in a team.",
+    "fact_level_2": {
+      "size_details": "Male: 26 ft / 6 tons. Female: 20 ft / 4 tons.",
+      "unique_fact": "Orca pods have their own unique culture and hunting style.",
+      "habitat": "Global Oceans"
+    }
+  },
+  {
+    "name": "Harp Seal",
+    "category": "Arctic",
+    "fact_level_1": "When I am a baby, I am a fluffy white puffball!",
+    "fact_level_2": {
+      "size_details": "Weight: 300 lbs.",
+      "unique_fact": "Mothers identify their babies by scent.",
+      "habitat": "North Atlantic Ice"
+    }
+  },
+  {
+    "name": "Leopard Seal",
+    "category": "Arctic",
+    "fact_level_1": "I have spots like a leopard. I am a fierce hunter.",
+    "fact_level_2": {
+      "size_details": "Length: 10 ft. Weight: 1,000 lbs.",
+      "unique_fact": "They are the only seal that eats other seals.",
+      "habitat": "Antarctic Waters"
+    }
+  },
+  {
+    "name": "Weddell Seal",
+    "category": "Arctic",
+    "fact_level_1": "I live in Antarctica. I am smiling and cute!",
+    "fact_level_2": {
+      "size_details": "Weight: 800-1,000 lbs.",
+      "unique_fact": "They use their teeth to grind breathing holes in the ice.",
+      "habitat": "Antarctica"
+    }
+  },
+  {
+    "name": "Emperor Penguin",
+    "category": "Arctic",
+    "fact_level_1": "I am the biggest penguin. Dads hold the egg on their feet.",
+    "fact_level_2": {
+      "size_details": "Height: 4 ft. Weight: 50-100 lbs.",
+      "unique_fact": "They trek 70 miles over ice to reach their breeding grounds.",
+      "habitat": "Antarctica"
+    }
+  },
+  {
+    "name": "Adelie Penguin",
+    "category": "Arctic",
+    "fact_level_1": "I am small with a white ring around my eye. I slide on my tummy!",
+    "fact_level_2": {
+      "size_details": "Height: 2 ft.",
+      "unique_fact": "They steal rocks from neighbors to build their nests.",
+      "habitat": "Antarctic Coasts"
+    }
+  },
+  {
+    "name": "Rockhopper Penguin",
+    "category": "Arctic",
+    "fact_level_1": "I have crazy yellow eyebrows! I hop over rocks.",
+    "fact_level_2": {
+      "size_details": "Height: 20 inches.",
+      "unique_fact": "They are the feistiest penguin and will attack anything.",
+      "habitat": "Sub-Antarctic Islands"
+    }
+  },
+  {
+    "name": "Puffin",
+    "category": "Arctic",
+    "fact_level_1": "I look like a colorful clown. I can carry 10 fish in my beak!",
+    "fact_level_2": {
+      "size_details": "Height: 10 inches.",
+      "unique_fact": "Their colorful beak fades to grey in the winter.",
+      "habitat": "North Atlantic Cliffs"
+    }
+  },
+  {
+    "name": "Snowy Owl",
+    "category": "Arctic",
+    "fact_level_1": "I am white like snow. I hunt during the day!",
+    "fact_level_2": {
+      "size_details": "Wingspan: 5 ft.",
+      "unique_fact": "Unlike most owls, they nest on the ground.",
+      "habitat": "Arctic Tundra"
+    }
+  },
+  {
+    "name": "Musk Ox",
+    "category": "Arctic",
+    "fact_level_1": "I am super shaggy! I smell like musk.",
+    "fact_level_2": {
+      "size_details": "Weight: 600-800 lbs.",
+      "unique_fact": "Their fur (qiviut) is 8 times warmer than sheep's wool.",
+      "habitat": "Arctic Tundra"
+    }
+  },
+  {
+    "name": "Reindeer",
+    "category": "Arctic",
+    "fact_level_1": "I pull Santa's sleigh! My nose is warm and fuzzy.",
+    "fact_level_2": {
+      "size_details": "Weight: 350-400 lbs.",
+      "unique_fact": "Their eyes change color from gold (summer) to blue (winter).",
+      "habitat": "Arctic Regions"
+    }
+  },
+  {
+    "name": "Caribou",
+    "category": "Arctic",
+    "fact_level_1": "I migrate thousands of miles every year in a big herd.",
+    "fact_level_2": {
+      "size_details": "Weight: 350-400 lbs.",
+      "unique_fact": "Caribou is just another name for Reindeer in North America.",
+      "habitat": "North America"
+    }
+  },
+  {
+    "name": "Lemming",
+    "category": "Arctic",
+    "fact_level_1": "I am a small fuzzy ball. I dig tunnels under the snow.",
+    "fact_level_2": {
+      "size_details": "Length: 5 inches.",
+      "unique_fact": "They do not actually commit mass suicide (that's a myth).",
+      "habitat": "Tundra"
+    }
+  },
+  {
+    "name": "Ptarmigan",
+    "category": "Arctic",
+    "fact_level_1": "I am a chubby bird. I turn white in winter to match the snow.",
+    "fact_level_2": {
+      "size_details": "Length: 12 inches.",
+      "unique_fact": "They have feathers on their feet to walk on snow.",
+      "habitat": "Rocky Tundra"
+    }
+  },
+  {
+    "name": "Wolverine",
+    "category": "Arctic",
+    "fact_level_1": "I look like a small bear, but I am fierce!",
+    "fact_level_2": {
+      "size_details": "Weight: 30-40 lbs.",
+      "unique_fact": "They can take down prey 10 times their size (like moose).",
+      "habitat": "Northern Forests"
+    }
+  },
+  {
+    "name": "Stoat",
+    "category": "Arctic",
+    "fact_level_1": "I dance to confuse bunnies before I catch them!",
+    "fact_level_2": {
+      "size_details": "Weight: 10 oz.",
+      "unique_fact": "In winter, their white fur is known as 'Ermine'.",
+      "habitat": "Northern Hemisphere"
+    }
+  },
+  {
+    "name": "Ermine",
+    "category": "Arctic",
+    "fact_level_1": "I am a stoat wearing my white winter coat. My tail tip is black!",
+    "fact_level_2": {
+      "size_details": "Weight: 10 oz.",
+      "unique_fact": "Royalty used to wear ermine fur on their robes.",
+      "habitat": "Cold Climates"
+    }
+  },
+  {
+    "name": "Snow Goose",
+    "category": "Arctic",
+    "fact_level_1": "I fly in huge white clouds with my friends.",
+    "fact_level_2": {
+      "size_details": "Weight: 6 lbs.",
+      "unique_fact": "They have 'grinning patches' (black lips) on their beaks.",
+      "habitat": "Arctic Tundra"
+    }
+  },
+  {
+    "name": "Albatross",
+    "category": "Arctic",
+    "fact_level_1": "I have the biggest wings of any bird. I glide over the ocean.",
+    "fact_level_2": {
+      "size_details": "Wingspan: 11 ft.",
+      "unique_fact": "They can fly for years without touching land.",
+      "habitat": "Southern Oceans"
+    }
+  },
+  {
+    "name": "Antarctic Krill",
+    "category": "Arctic",
+    "fact_level_1": "I am food for whales! I have light organs on my body.",
+    "fact_level_2": {
+      "size_details": "Length: 2 inches.",
+      "unique_fact": "Their total biomass weighs more than all humans combined.",
+      "habitat": "Antarctic Waters"
+    }
+  }
+]

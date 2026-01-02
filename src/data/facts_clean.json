@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Mariana Snailfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am the deepest swimming fish in the whole ocean! I look like a pink tadpole.",
+    "fact_level_2": {
+      "size_details": "Length: up to 11 inches. Weight: ~0.5 lbs (No significant gender difference).",
+      "unique_fact": "It has transparent skin that lets you see its liver!",
+      "habitat": "The Mariana Trench (26,000+ feet deep)"
+    }
+  },
+  {
+    "name": "Giant Tube Worm",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have no mouth and no tummy! I live near hot underwater volcanoes.",
+    "fact_level_2": {
+      "size_details": "Length: up to 8 ft. Weight: N/A (Colonial).",
+      "unique_fact": "They survive on chemicals from the Earth's core, not sunlight.",
+      "habitat": "Hydrothermal Vents"
+    }
+  },
+  {
+    "name": "Comb Jelly",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I don't sting like a jellyfish. I have rainbow lights running down my sides!",
+    "fact_level_2": {
+      "size_details": "Length: 4 inches to 5 feet. Weight: Negligible.",
+      "unique_fact": "They are the largest animals to swim using cilia (tiny hairs).",
+      "habitat": "Open Ocean (Surface to Deep)"
+    }
+  },
+  {
+    "name": "Deep Sea Cucumber",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I crawl on the bottom of the ocean and eat the sand to clean it!",
+    "fact_level_2": {
+      "size_details": "Length: 4-12 inches. Weight: ~1 lb.",
+      "unique_fact": "Some can glow in the dark to warn predators.",
+      "habitat": "Abyssal Plains"
+    }
+  },
+  {
+    "name": "Zombie Worm",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I don't eat brains! I like to eat old bones I find on the sea floor.",
+    "fact_level_2": {
+      "size_details": "Length: 1-3 inches. Males are microscopic.",
+      "unique_fact": "They dissolve bone using acid secreted from their skin.",
+      "habitat": "Whale Falls"
+    }
+  },
+  {
+    "name": "Ping Pong Tree Sponge",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I look like a weird tree with ping pong balls for leaves!",
+    "fact_level_2": {
+      "size_details": "Height: up to 20 inches.",
+      "unique_fact": "Unlike most sponges, it is carnivorous and eats tiny shrimp.",
+      "habitat": "Deep Sea Mud (8,000-9,000 ft)"
+    }
+  },
+  {
+    "name": "Tripod Fish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have three long stilts that let me stand on the mud without sinking!",
+    "fact_level_2": {
+      "size_details": "Length: 12-14 inches. Stilt Length: up to 3 ft.",
+      "unique_fact": "It stands facing the current to catch food drifting by.",
+      "habitat": "Abyssal Plains"
+    }
+  },
+  {
+    "name": "Dumbo Octopus",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I flap my ear-fins to fly through the water like a cartoon elephant!",
+    "fact_level_2": {
+      "size_details": "Length: 8-12 inches. Weight: <1 lb.",
+      "unique_fact": "It swallows its prey whole instead of chewing.",
+      "habitat": "Deep Ocean (10,000-13,000 ft)"
+    }
+  },
+  {
+    "name": "Faceless Cusk",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have no face! My mouth is underneath my head so I can scoop up food.",
+    "fact_level_2": {
+      "size_details": "Length: ~18 inches. Weight: Unknown.",
+      "unique_fact": "It was rediscovered in 2017 after being missing for 140 years.",
+      "habitat": "Abyssal Waters off Australia"
+    }
+  },
+  {
+    "name": "Abyssal Spiderfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have super long fins that feel the water like spider legs!",
+    "fact_level_2": {
+      "size_details": "Length: ~8 inches. Fin Span: ~2 feet.",
+      "unique_fact": "It uses its long fins to detect movement in pitch blackness.",
+      "habitat": "Deep Atlantic & Pacific"
+    }
+  },
+  {
+    "name": "Sea Pig",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a squishy pink tube with little legs. I look like a wet piglet!",
+    "fact_level_2": {
+      "size_details": "Length: 4-6 inches. Weight: Light.",
+      "unique_fact": "They often gather in herds of hundreds on the sea floor.",
+      "habitat": "Abyssal Plains (Global)"
+    }
+  },
+  {
+    "name": "Ghost Shark",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am also called a Chimaera. I have lines on my skin that look like stitches.",
+    "fact_level_2": {
+      "size_details": "Length: 2-5 feet. Weight: 5-15 lbs.",
+      "unique_fact": "Their skeleton is made of cartilage, not bone.",
+      "habitat": "Temperate Deep Waters"
+    }
+  },
+  {
+    "name": "Deep Sea Amphipod",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a giant version of a sand flea. I can be as big as your shoe!",
+    "fact_level_2": {
+      "size_details": "Length: up to 13 inches.",
+      "unique_fact": "It can survive pressure that would crush a car.",
+      "habitat": "Hadalan Zone (Trenches)"
+    }
+  },
+  {
+    "name": "Glass Sponge",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "My body is made of silica, which is the same stuff as glass windows!",
+    "fact_level_2": {
+      "size_details": "Height: up to 3 feet. Structure: Fragile.",
+      "unique_fact": "They can live for thousands of years.",
+      "habitat": "Deep Antarctic Waters"
+    }
+  },
+  {
+    "name": "Grenadier Fish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "People call me a Rat-tail because my body tapers off into a long point.",
+    "fact_level_2": {
+      "size_details": "Length: 1-2 feet. Weight: 2-5 lbs.",
+      "unique_fact": "They have a huge head to house their sensory systems.",
+      "habitat": "Continental Slopes"
+    }
+  },
+  {
+    "name": "Cusk Eel",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am not a real eel, but I am very wiggly and slippery!",
+    "fact_level_2": {
+      "size_details": "Length: up to 6 feet.",
+      "unique_fact": "The deepest fish ever recorded (27,000 ft) is a type of Cusk Eel.",
+      "habitat": "Bottom Dweller (Benthic)"
+    }
+  },
+  {
+    "name": "Snipe Eel",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "My jaws curve away from each other so I can't close my mouth!",
+    "fact_level_2": {
+      "size_details": "Length: up to 5 feet. Weight: Very light (<1 lb).",
+      "unique_fact": "It tangles its curved jaws into shrimp antennae to catch them.",
+      "habitat": "Mesopelagic to Bathypelagic"
+    }
+  },
+  {
+    "name": "Sea Angel",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a swimming slug with little wings that make me look like an angel.",
+    "fact_level_2": {
+      "size_details": "Length: 1-2 inches. Weight: Tiny.",
+      "unique_fact": "Despite the name, they are voracious predators of Sea Butterflies.",
+      "habitat": "Polar Seas"
+    }
+  },
+  {
+    "name": "Deep Sea Jellyfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I glow red in the dark, which makes me invisible to other fish.",
+    "fact_level_2": {
+      "size_details": "Bell Width: 1-3 feet. Tentacles: 10+ feet.",
+      "unique_fact": "Red light doesn't travel far underwater, so red animals look black.",
+      "habitat": "The Midnight Zone"
+    }
+  },
+  {
+    "name": "Basket Star",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I look like a mess of tangled tree roots wiggling in the water.",
+    "fact_level_2": {
+      "size_details": "Arm Span: up to 2 feet. Weight: 2-4 lbs.",
+      "unique_fact": "It curls into a tight ball during the day to hide.",
+      "habitat": "Deep Current Areas"
+    }
+  },
+  {
+    "name": "Brisingid Starfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have so many arms! I raise them up to catch food falling from above.",
+    "fact_level_2": {
+      "size_details": "Arm Span: 1-2 feet. Arms: 6-18.",
+      "unique_fact": "It is named after 'Brisingamen', the necklace of the goddess Freya.",
+      "habitat": "Deep Sea Cliffs"
+    }
+  },
+  {
+    "name": "Sea Pen",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I look like an old-fashioned feather pen stuck in the sand.",
+    "fact_level_2": {
+      "size_details": "Height: 1-6 feet.",
+      "unique_fact": "They can uproot themselves and drift away if attacked.",
+      "habitat": "Soft Sea Floors"
+    }
+  },
+  {
+    "name": "Acorn Worm",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I smell like medicine (iodine) to stop fish from eating me!",
+    "fact_level_2": {
+      "size_details": "Length: 3 inches to 8 feet.",
+      "unique_fact": "They breathe through their skin.",
+      "habitat": "Deep Burrows"
+    }
+  },
+  {
+    "name": "Football Fish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am a round, spiky fish. Females have a lantern on their head!",
+    "fact_level_2": {
+      "size_details": "Female: 24 inches. Male: 1.5 inches.",
+      "unique_fact": "The male latches onto the female and stays there forever.",
+      "habitat": "Tropical Deep Waters"
+    }
+  },
+  {
+    "name": "Siphonophore",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I am not one animal, but thousands of tiny clones holding hands!",
+    "fact_level_2": {
+      "size_details": "Length: up to 150 feet (Longer than a Blue Whale).",
+      "unique_fact": "Each segment has a specific job: eating, swimming, or floating.",
+      "habitat": "Open Ocean"
+    }
+  },
+  {
+    "name": "Black Swallower",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have a stretchy tummy that can hold a fish twice my size!",
+    "fact_level_2": {
+      "size_details": "Length: 10 inches. Weight: <1 lb.",
+      "unique_fact": "Sometimes they swallow so much food they float to the surface.",
+      "habitat": "North Atlantic Deep"
+    }
+  },
+  {
+    "name": "Lizardfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "I have rows of sharp teeth, even on my tongue!",
+    "fact_level_2": {
+      "size_details": "Length: 1-2 feet. Weight: 2-4 lbs.",
+      "unique_fact": "They are one of the few deep sea fish that are hermaphrodites.",
+      "habitat": "Deep Reefs"
+    }
+  },
+  {
+    "name": "Spookfish",
+    "category": "Ultra Deep Sea",
+    "fact_level_1": "My head is see-through and my eyes can look up and down at the same time.",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "It uses mirrors in its eyes to see, unlike any other animal.",
+      "habitat": "Tropical Deep Waters"
+    }
+  },
+  {
+    "name": "Anglerfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a fishing pole on my head with a glowing light to catch yummy fish.",
+    "fact_level_2": {
+      "size_details": "Female: Up to 3.3 ft. Male: Tiny (inches).",
+      "unique_fact": "The light comes from glowing bacteria living inside the lure.",
+      "habitat": "Midnight Zone"
+    }
+  },
+  {
+    "name": "Vampire Squid",
+    "category": "Deep Sea",
+    "fact_level_1": "I wrap my red cape around myself when I am scared. I don't drink blood!",
+    "fact_level_2": {
+      "size_details": "Length: 1 foot. Weight: 1 lb.",
+      "unique_fact": "It eats 'marine snow' (poop and dead scraps) falling from above.",
+      "habitat": "Oxygen Minimum Zone"
+    }
+  },
+  {
+    "name": "Giant Squid",
+    "category": "Deep Sea",
+    "fact_level_1": "My eye is as big as a dinner plate! I battle sperm whales.",
+    "fact_level_2": {
+      "size_details": "Length: 43 ft (Female), 33 ft (Male). Weight: 600 lbs.",
+      "unique_fact": "It has the largest eyes in the animal kingdom.",
+      "habitat": "Deep Oceans Globally"
+    }
+  },
+  {
+    "name": "Gulper Eel",
+    "category": "Deep Sea",
+    "fact_level_1": "My mouth is huge like a pelican! I can swallow things bigger than me.",
+    "fact_level_2": {
+      "size_details": "Length: 2-3 feet. Weight: ~2 lbs.",
+      "unique_fact": "It has a glowing red light at the end of its tail.",
+      "habitat": "Temperate Deep Seas"
+    }
+  },
+  {
+    "name": "Goblin Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "I can shoot my jaw out of my face to grab a snack!",
+    "fact_level_2": {
+      "size_details": "Length: 10-13 feet. Weight: 460 lbs.",
+      "unique_fact": "Its long nose is full of electrical sensors.",
+      "habitat": "Continental Slopes"
+    }
+  },
+  {
+    "name": "Blobfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I look sad and squishy because I have no muscles. I just float!",
+    "fact_level_2": {
+      "size_details": "Length: 12 inches. Weight: 20 lbs.",
+      "unique_fact": "Under pressure deep down, it looks like a normal fish.",
+      "habitat": "Deep Waters off Australia"
+    }
+  },
+  {
+    "name": "Lanternfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have tiny lights all over my belly. There are billions of us!",
+    "fact_level_2": {
+      "size_details": "Length: 2-6 inches. Weight: Ounces.",
+      "unique_fact": "They account for 65% of all deep sea fish biomass.",
+      "habitat": "Worldwide Oceans"
+    }
+  },
+  {
+    "name": "Hatchetfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I am as thin as a coin and look like a silver hatchet.",
+    "fact_level_2": {
+      "size_details": "Length: 1-4 inches.",
+      "unique_fact": "They use 'counter-illumination' to hide their shadow from below.",
+      "habitat": "Tropical Oceans"
+    }
+  },
+  {
+    "name": "Viperfish",
+    "category": "Deep Sea",
+    "fact_level_1": "My teeth are so long they curve over my face like a cage.",
+    "fact_level_2": {
+      "size_details": "Length: 12-24 inches.",
+      "unique_fact": "It swims at high speed to impale prey on its teeth.",
+      "habitat": "Mesopelagic Zone"
+    }
+  },
+  {
+    "name": "Dragonfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I look scary, but I am very small—only the size of a banana!",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "Some species produce red light, which acts like night-vision sniper scopes.",
+      "habitat": "Deep Atlantic"
+    }
+  },
+  {
+    "name": "Fangtooth",
+    "category": "Deep Sea",
+    "fact_level_1": "I have the biggest teeth compared to my body size of any fish.",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "It has special pockets in its brain so its teeth don't puncture its skull.",
+      "habitat": "Deep Tropical Waters"
+    }
+  },
+  {
+    "name": "Frilled Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "I look like an eel but I am a shark with 300 needle teeth.",
+    "fact_level_2": {
+      "size_details": "Length: 5-6 feet. Weight: 200 lbs.",
+      "unique_fact": "It is a 'living fossil' unchanged for 80 million years.",
+      "habitat": "Deep Atlantic & Pacific"
+    }
+  },
+  {
+    "name": "Coffinfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I can puff up like a balloon and hold my breath to look big.",
+    "fact_level_2": {
+      "size_details": "Length: 4-8 inches.",
+      "unique_fact": "It walks on the sea floor using its tiny fins.",
+      "habitat": "Deep Sea Slope"
+    }
+  },
+  {
+    "name": "Barreleye",
+    "category": "Deep Sea",
+    "fact_level_1": "My head is a clear bubble! The green balls inside are my eyes.",
+    "fact_level_2": {
+      "size_details": "Length: 6 inches.",
+      "unique_fact": "Its eyes can rotate to look forward or straight up.",
+      "habitat": "North Pacific"
+    }
+  },
+  {
+    "name": "Cookiecutter Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "I am small, but I take round bites out of big whales like a cookie cutter!",
+    "fact_level_2": {
+      "size_details": "Length: 16-22 inches.",
+      "unique_fact": "It glows green to trick fish into coming close.",
+      "habitat": "Warm Deep Waters"
+    }
+  },
+  {
+    "name": "Oarfish",
+    "category": "Deep Sea",
+    "fact_level_1": "I am the longest bony fish in the world. Sailors used to think I was a sea serpent.",
+    "fact_level_2": {
+      "size_details": "Length: up to 36 ft. Weight: 600 lbs.",
+      "unique_fact": "It swims vertically (straight up) to spot food silhouettes.",
+      "habitat": "Mesopelagic Zone"
+    }
+  },
+  {
+    "name": "Big Red Jelly",
+    "category": "Deep Sea",
+    "fact_level_1": "I am a giant red jellyfish that doesn't have stinging tentacles.",
+    "fact_level_2": {
+      "size_details": "Diameter: 3 ft.",
+      "unique_fact": "Instead of stinging, it uses 'feeding arms' to grab prey.",
+      "habitat": "Deep Pacific"
+    }
+  },
+  {
+    "name": "Colossal Squid",
+    "category": "Deep Sea",
+    "fact_level_1": "I am heavier than the Giant Squid and have spinning hooks on my arms!",
+    "fact_level_2": {
+      "size_details": "Length: 46 ft. Weight: 1,090 lbs.",
+      "unique_fact": "It hunts by waiting in the dark, conserving energy for months.",
+      "habitat": "Antarctic Ocean"
+    }
+  },
+  {
+    "name": "Six-Gill Shark",
+    "category": "Deep Sea",
+    "fact_level_1": "Most sharks have 5 gills, but I have 6! I move very slowly.",
+    "fact_level_2": {
+      "size_details": "Length: up to 16 ft. Weight: 1,300 lbs.",
+      "unique_fact": "It is a scavenger that eats anything dead it finds.",
+      "habitat": "Deep Waters Globally"
+    }
+  },
+  {
+    "name": "Wolffish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have strong teeth to crush seashells. My blood has natural antifreeze!",
+    "fact_level_2": {
+      "size_details": "Length: 5 ft. Weight: 40 lbs.",
+      "unique_fact": "They produce a natural protein that keeps their blood from freezing.",
+      "habitat": "North Atlantic"
+    }
+  },
+  {
+    "name": "Chimaera",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a venomous spine on my back and fly through the water.",
+    "fact_level_2": {
+      "size_details": "Length: 3-5 ft.",
+      "unique_fact": "They detect magnetic fields to find buried clams.",
+      "habitat": "Deep Ocean Floor"
+    }
+  },
+  {
+    "name": "Stoplight Loosejaw",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a red light under my eye like a stoplight!",
+    "fact_level_2": {
+      "size_details": "Length: 4-6 inches.",
+      "unique_fact": "Its jaw is hinged so openly it offers no water resistance when striking.",
+      "habitat": "Deep Atlantic"
+    }
+  },
+  {
+    "name": "Flashlight Fish",
+    "category": "Deep Sea",
+    "fact_level_1": "I have a pocket of glowing light under my eye that I can blink on and off.",
+    "fact_level_2": {
+      "size_details": "Length: 10 inches.",
+      "unique_fact": "It blinks the light to confuse predators while it escapes.",
+      "habitat": "Deep Reef Caves"
+    }
+  },
+  {
+    "name": "Japanese Spider Crab",
+    "category": "Deep Sea",
+    "fact_level_1": "I have the longest legs of any crab. I can step over a small car!",
+    "fact_level_2": {
+      "size_details": "Leg Span: 12 ft. Weight: 40 lbs.",
+      "unique_fact": "It can live to be 100 years old.",
+      "habitat": "Deep Waters off Japan"
+    }
+  },
+  {
+    "name": "Nautilus",
+    "category": "Deep Sea",
+    "fact_level_1": "I live in a beautiful spiral shell and swim backwards.",
+    "fact_level_2": {
+      "size_details": "Diameter: 8-10 inches.",
+      "unique_fact": "It adjusts its buoyancy by pumping gas into its shell chambers.",
+      "habitat": "Deep Slopes of Indo-Pacific"
+    }
+  },
+  {
+    "name": "Sperm Whale",
+    "category": "Deep Sea",
+    "fact_level_1": "I have the biggest brain of any animal and I dive super deep.",
+    "fact_level_2": {
+      "size_details": "Male: 52 ft / 45 tons. Female: 36 ft / 15 tons.",
+      "unique_fact": "It hunts using echolocation clicks that are louder than a jet engine.",
+      "habitat": "Worldwide Oceans"
+    }
+  },
+  {
+    "name": "Beaked Whale",
+    "category": "Deep Sea",
+    "fact_level_1": "I look like a dolphin but I have a beak like a goose.",
+    "fact_level_2": {
+      "size_details": "Length: 15-20 ft. Weight: 2-3 tons.",
+      "unique_fact": "It holds the record for the deepest dive of any mammal (9,800 ft).",
+      "habitat": "Deep Offshore Waters"
+    }
+  },
+  {
+    "name": "Elephant Seal",
+    "category": "Deep Sea",
+    "fact_level_1": "My nose looks like an elephant trunk! I make loud roaring noises.",
+    "fact_level_2": {
+      "size_details": "Male: 16 ft / 8,800 lbs. Female: 10 ft / 2,000 lbs.",
+      "unique_fact": "They can hold their breath for 2 hours.",
+      "habitat": "Pacific Coast & Deep Sea"
+    }
+  }
+]

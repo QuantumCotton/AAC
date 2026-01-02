@@ -1,0 +1,95 @@
+{
+  "continents": [
+    {
+      "id": "africa",
+      "name": "Africa",
+      "color": "#F4A460",
+      "emoji": "🦁",
+      "places": [
+        {"name": "Sahara Desert", "type": "habitat", "fact": "The biggest hot desert in the world with sand dunes as tall as buildings!"},
+        {"name": "Victoria Falls", "type": "landmark", "fact": "One of the biggest waterfalls - called 'The Smoke that Thunders'!"},
+        {"name": "Cairo", "type": "city", "fact": "Has ancient pyramids nearby and sits on the famous Nile River!"},
+        {"name": "Mount Kilimanjaro", "type": "landmark", "fact": "Tallest mountain in Africa with snow on top even near the equator!"},
+        {"name": "Serengeti", "type": "habitat", "fact": "Home to big animal migrations with lions, zebras and wildebeest!"}
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Asia",
+      "color": "#FF6B6B",
+      "emoji": "🐼",
+      "places": [
+        {"name": "Great Wall of China", "type": "landmark", "fact": "Super long wall over 13,000 miles - built to keep out invaders!"},
+        {"name": "Taj Mahal", "type": "landmark", "fact": "Beautiful white marble building in India built for love!"},
+        {"name": "Mount Everest", "type": "landmark", "fact": "The tallest mountain in the whole world at 29,032 feet!"},
+        {"name": "Tokyo", "type": "city", "fact": "Has lots of lights, robots and is one of the biggest cities!"},
+        {"name": "Ganges River", "type": "habitat", "fact": "A holy river in India where millions of people bathe!"}
+      ]
+    },
+    {
+      "id": "europe",
+      "name": "Europe",
+      "color": "#4ECDC4",
+      "emoji": "🏰",
+      "places": [
+        {"name": "Eiffel Tower", "type": "landmark", "fact": "Lights up at night in Paris, France - 1,063 feet tall!"},
+        {"name": "Big Ben", "type": "landmark", "fact": "Huge clock tower in London that chimes every hour!"},
+        {"name": "Colosseum", "type": "landmark", "fact": "Ancient arena in Rome where gladiators fought - held 50,000 people!"},
+        {"name": "London", "type": "city", "fact": "Has red double-decker buses and the King's palace!"},
+        {"name": "Alps", "type": "habitat", "fact": "Snowy mountains for skiing across several countries!"}
+      ]
+    },
+    {
+      "id": "north_america",
+      "name": "North America",
+      "color": "#95E1D3",
+      "emoji": "🗽",
+      "places": [
+        {"name": "Statue of Liberty", "type": "landmark", "fact": "Holds a torch in New York Harbor - a gift from France!"},
+        {"name": "Grand Canyon", "type": "habitat", "fact": "Huge canyon carved by a river with rocks 1.8 billion years old!"},
+        {"name": "New York City", "type": "city", "fact": "Has tall skyscrapers, Times Square and Central Park!"},
+        {"name": "Niagara Falls", "type": "landmark", "fact": "Three waterfalls on the US-Canada border!"},
+        {"name": "Yellowstone", "type": "habitat", "fact": "Has geysers like Old Faithful - first national park ever!"}
+      ]
+    },
+    {
+      "id": "south_america",
+      "name": "South America",
+      "color": "#FFE66D",
+      "emoji": "🦜",
+      "places": [
+        {"name": "Amazon Rainforest", "type": "habitat", "fact": "Biggest rainforest with more animals than anywhere else!"},
+        {"name": "Machu Picchu", "type": "landmark", "fact": "Ancient Inca city on a mountain top in Peru!"},
+        {"name": "Rio de Janeiro", "type": "city", "fact": "Has Christ the Redeemer statue and famous beaches!"},
+        {"name": "Galapagos Islands", "type": "habitat", "fact": "Has unique animals like giant tortoises that inspired Darwin!"},
+        {"name": "Iguazu Falls", "type": "landmark", "fact": "Has 275 waterfalls - bigger than Niagara!"}
+      ]
+    },
+    {
+      "id": "oceania",
+      "name": "Oceania",
+      "color": "#87CEEB",
+      "emoji": "🦘",
+      "places": [
+        {"name": "Great Barrier Reef", "type": "habitat", "fact": "Huge coral reef home to 1,500 fish species - seen from space!"},
+        {"name": "Sydney Opera House", "type": "landmark", "fact": "Looks like white sails in Sydney, Australia!"},
+        {"name": "Uluru", "type": "landmark", "fact": "A big red rock sacred to Aboriginal people that changes color!"},
+        {"name": "Sydney", "type": "city", "fact": "Has famous harbor bridge and koalas nearby!"},
+        {"name": "Fiordland", "type": "habitat", "fact": "Deep fjords in New Zealand with penguins and seals!"}
+      ]
+    },
+    {
+      "id": "antarctica",
+      "name": "Antarctica",
+      "color": "#E8E8E8",
+      "emoji": "🐧",
+      "places": [
+        {"name": "South Pole", "type": "landmark", "fact": "The coldest place on Earth - no one lives there permanently!"},
+        {"name": "Ross Ice Shelf", "type": "habitat", "fact": "Huge floating ice the size of France with penguins!"},
+        {"name": "McMurdo Station", "type": "city", "fact": "Biggest research base in Antarctica with up to 1,000 scientists!"},
+        {"name": "Mount Erebus", "type": "landmark", "fact": "Active volcano with a lava lake in freezing cold Antarctica!"},
+        {"name": "Antarctic Peninsula", "type": "habitat", "fact": "Warmer part with whales, seals and lots of wildlife!"}
+      ]
+    }
+  ]
+}

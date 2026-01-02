@@ -1,0 +1,2310 @@
+{
+  "categories": [
+    {
+      "id": "core",
+      "name": "Core Words",
+      "emoji": "⭐",
+      "color": "#FF6B6B",
+      "symbols": [
+        {
+          "id": "core_i",
+          "text": "I",
+          "text_tl": "Ako",
+          "priority": 1,
+          "icon": "👤"
+        },
+        {
+          "id": "core_you",
+          "text": "You",
+          "text_tl": "Ikaw",
+          "priority": 1,
+          "icon": "👉"
+        },
+        {
+          "id": "core_want",
+          "text": "Want",
+          "text_tl": "Gusto",
+          "priority": 1,
+          "icon": "🙋"
+        },
+        {
+          "id": "core_need",
+          "text": "Need",
+          "text_tl": "Kailangan",
+          "priority": 1,
+          "icon": "🆘"
+        },
+        {
+          "id": "core_like",
+          "text": "Like",
+          "text_tl": "Gusto",
+          "priority": 1,
+          "icon": "👍"
+        },
+        {
+          "id": "core_dont_like",
+          "text": "Don't like",
+          "text_tl": "Ayaw",
+          "priority": 1,
+          "icon": "👎"
+        },
+        {
+          "id": "core_more",
+          "text": "More",
+          "text_tl": "Pa",
+          "priority": 1,
+          "icon": "➕"
+        },
+        {
+          "id": "core_all_done",
+          "text": "All done",
+          "text_tl": "Tapos na",
+          "priority": 1,
+          "icon": "✅"
+        },
+        {
+          "id": "core_help",
+          "text": "Help",
+          "text_tl": "Tulong",
+          "priority": 1,
+          "icon": "🤝"
+        },
+        {
+          "id": "core_stop",
+          "text": "Stop",
+          "text_tl": "Tigil",
+          "priority": 1,
+          "icon": "✋"
+        },
+        {
+          "id": "core_go",
+          "text": "Go",
+          "text_tl": "Punta",
+          "priority": 1,
+          "icon": "🚀"
+        },
+        {
+          "id": "core_yes",
+          "text": "Yes",
+          "text_tl": "Oo",
+          "priority": 1,
+          "icon": "✓"
+        },
+        {
+          "id": "core_no",
+          "text": "No",
+          "text_tl": "Hindi",
+          "priority": 1,
+          "icon": "❌"
+        },
+        {
+          "id": "core_please",
+          "text": "Please",
+          "text_tl": "Paki",
+          "priority": 1,
+          "icon": "🙏"
+        },
+        {
+          "id": "core_thank_you",
+          "text": "Thank you",
+          "text_tl": "Salamat",
+          "priority": 1,
+          "icon": "💝"
+        },
+        {
+          "id": "core_sorry",
+          "text": "Sorry",
+          "text_tl": "Sorry",
+          "priority": 1,
+          "icon": "😔"
+        },
+        {
+          "id": "core_look",
+          "text": "Look",
+          "text_tl": "Tingnan",
+          "priority": 2,
+          "icon": "👀"
+        },
+        {
+          "id": "core_get",
+          "text": "Get",
+          "text_tl": "Kuha",
+          "priority": 2,
+          "icon": "✊"
+        },
+        {
+          "id": "core_put",
+          "text": "Put",
+          "text_tl": "Lagay",
+          "priority": 2,
+          "icon": "📥"
+        },
+        {
+          "id": "core_give",
+          "text": "Give",
+          "text_tl": "Bigay",
+          "priority": 2,
+          "icon": "🎁"
+        },
+        {
+          "id": "core_take",
+          "text": "Take",
+          "text_tl": "Kuha",
+          "priority": 2,
+          "icon": "🤲"
+        },
+        {
+          "id": "core_make",
+          "text": "Make",
+          "text_tl": "Gawa",
+          "priority": 2,
+          "icon": "🔨"
+        },
+        {
+          "id": "core_do",
+          "text": "Do",
+          "text_tl": "Gawin",
+          "priority": 2,
+          "icon": "⚡"
+        },
+        {
+          "id": "core_have",
+          "text": "Have",
+          "text_tl": "Meron",
+          "priority": 2,
+          "icon": "💎"
+        }
+      ]
+    },
+    {
+      "id": "feelings",
+      "name": "Feelings",
+      "emoji": "💭",
+      "color": "#4ECDC4",
+      "symbols": [
+        {
+          "id": "feel_happy",
+          "text": "Happy",
+          "text_tl": "Masaya",
+          "priority": 1,
+          "icon": "😊"
+        },
+        {
+          "id": "feel_sad",
+          "text": "Sad",
+          "text_tl": "Malungkot",
+          "priority": 1,
+          "icon": "😢"
+        },
+        {
+          "id": "feel_angry",
+          "text": "Angry",
+          "text_tl": "Galit",
+          "priority": 1,
+          "icon": "😠"
+        },
+        {
+          "id": "feel_scared",
+          "text": "Scared",
+          "text_tl": "Takot",
+          "priority": 1,
+          "icon": "😨"
+        },
+        {
+          "id": "feel_tired",
+          "text": "Tired",
+          "text_tl": "Pagod",
+          "priority": 1,
+          "icon": "😴"
+        },
+        {
+          "id": "feel_sick",
+          "text": "Sick",
+          "text_tl": "May sakit",
+          "priority": 1,
+          "icon": "🤒"
+        },
+        {
+          "id": "feel_hurt",
+          "text": "Hurt",
+          "text_tl": "Masakit",
+          "priority": 1,
+          "icon": "🤕"
+        },
+        {
+          "id": "feel_love",
+          "text": "Love",
+          "text_tl": "Mahal",
+          "priority": 1,
+          "icon": "❤️"
+        },
+        {
+          "id": "feel_excited",
+          "text": "Excited",
+          "text_tl": "Excited",
+          "priority": 1,
+          "icon": "🤩"
+        },
+        {
+          "id": "feel_bored",
+          "text": "Bored",
+          "text_tl": "Bored",
+          "priority": 2,
+          "icon": "😑"
+        },
+        {
+          "id": "feel_hungry",
+          "text": "Hungry",
+          "text_tl": "Gutom",
+          "priority": 1,
+          "icon": "🍽️"
+        },
+        {
+          "id": "feel_thirsty",
+          "text": "Thirsty",
+          "text_tl": "Uhaw",
+          "priority": 1,
+          "icon": "💧"
+        },
+        {
+          "id": "feel_cold",
+          "text": "Cold",
+          "text_tl": "Malamig",
+          "priority": 2,
+          "icon": "🥶"
+        },
+        {
+          "id": "feel_hot",
+          "text": "Hot",
+          "text_tl": "Mainit",
+          "priority": 2,
+          "icon": "🥵"
+        },
+        {
+          "id": "feel_nervous",
+          "text": "Nervous",
+          "text_tl": "Kinakabahan",
+          "priority": 2,
+          "icon": "😰"
+        },
+        {
+          "id": "feel_confused",
+          "text": "Confused",
+          "text_tl": "Naguguluhan",
+          "priority": 2,
+          "icon": "😕"
+        },
+        {
+          "id": "feel_frustrated",
+          "text": "Frustrated",
+          "text_tl": "Frustrado",
+          "priority": 2,
+          "icon": "😤"
+        },
+        {
+          "id": "feel_calm",
+          "text": "Calm",
+          "text_tl": "Kalmado",
+          "priority": 2,
+          "icon": "😌"
+        },
+        {
+          "id": "feel_proud",
+          "text": "Proud",
+          "text_tl": "Proud",
+          "priority": 2,
+          "icon": "🏆"
+        },
+        {
+          "id": "feel_silly",
+          "text": "Silly",
+          "text_tl": "Nakakatawa",
+          "priority": 2,
+          "icon": "🤪"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food & Drink",
+      "emoji": "🍽️",
+      "color": "#FFE66D",
+      "symbols": [
+        {
+          "id": "food_eat",
+          "text": "Eat",
+          "text_tl": "Kain",
+          "priority": 1,
+          "icon": "🍴"
+        },
+        {
+          "id": "food_drink",
+          "text": "Drink",
+          "text_tl": "Inom",
+          "priority": 1,
+          "icon": "🥤"
+        },
+        {
+          "id": "food_water",
+          "text": "Water",
+          "text_tl": "Tubig",
+          "priority": 1,
+          "icon": "💧"
+        },
+        {
+          "id": "food_milk",
+          "text": "Milk",
+          "text_tl": "Gatas",
+          "priority": 1,
+          "icon": "🥛"
+        },
+        {
+          "id": "food_juice",
+          "text": "Juice",
+          "text_tl": "Juice",
+          "priority": 1,
+          "icon": "🧃"
+        },
+        {
+          "id": "food_apple",
+          "text": "Apple",
+          "text_tl": "Mansanas",
+          "priority": 2,
+          "icon": "🍎"
+        },
+        {
+          "id": "food_banana",
+          "text": "Banana",
+          "text_tl": "Saging",
+          "priority": 2,
+          "icon": "🍌"
+        },
+        {
+          "id": "food_orange",
+          "text": "Orange",
+          "text_tl": "Dalandan",
+          "priority": 2,
+          "icon": "🍊"
+        },
+        {
+          "id": "food_grapes",
+          "text": "Grapes",
+          "text_tl": "Ubas",
+          "priority": 2,
+          "icon": "🍇"
+        },
+        {
+          "id": "food_strawberry",
+          "text": "Strawberry",
+          "text_tl": "Strawberry",
+          "priority": 2,
+          "icon": "🍓"
+        },
+        {
+          "id": "food_cookie",
+          "text": "Cookie",
+          "text_tl": "Cookie",
+          "priority": 1,
+          "icon": "🍪"
+        },
+        {
+          "id": "food_crackers",
+          "text": "Crackers",
+          "text_tl": "Crackers",
+          "priority": 2,
+          "icon": "🥨"
+        },
+        {
+          "id": "food_chips",
+          "text": "Chips",
+          "text_tl": "Chips",
+          "priority": 2,
+          "icon": "🍟"
+        },
+        {
+          "id": "food_candy",
+          "text": "Candy",
+          "text_tl": "Candy",
+          "priority": 2,
+          "icon": "🍬"
+        },
+        {
+          "id": "food_ice_cream",
+          "text": "Ice cream",
+          "text_tl": "Ice cream",
+          "priority": 1,
+          "icon": "🍦"
+        },
+        {
+          "id": "food_bread",
+          "text": "Bread",
+          "text_tl": "Tinapay",
+          "priority": 1,
+          "icon": "🍞"
+        },
+        {
+          "id": "food_rice",
+          "text": "Rice",
+          "text_tl": "Kanin",
+          "priority": 1,
+          "icon": "🍚"
+        },
+        {
+          "id": "food_noodles",
+          "text": "Noodles",
+          "text_tl": "Pancit",
+          "priority": 2,
+          "icon": "🍜"
+        },
+        {
+          "id": "food_chicken",
+          "text": "Chicken",
+          "text_tl": "Manok",
+          "priority": 1,
+          "icon": "🍗"
+        },
+        {
+          "id": "food_fish",
+          "text": "Fish",
+          "text_tl": "Isda",
+          "priority": 2,
+          "icon": "🐟"
+        },
+        {
+          "id": "food_meat",
+          "text": "Meat",
+          "text_tl": "Karne",
+          "priority": 2,
+          "icon": "🥩"
+        },
+        {
+          "id": "food_egg",
+          "text": "Egg",
+          "text_tl": "Itlog",
+          "priority": 1,
+          "icon": "🥚"
+        },
+        {
+          "id": "food_cheese",
+          "text": "Cheese",
+          "text_tl": "Keso",
+          "priority": 2,
+          "icon": "🧀"
+        },
+        {
+          "id": "food_pizza",
+          "text": "Pizza",
+          "text_tl": "Pizza",
+          "priority": 2,
+          "icon": "🍕"
+        },
+        {
+          "id": "food_sandwich",
+          "text": "Sandwich",
+          "text_tl": "Sandwich",
+          "priority": 2,
+          "icon": "🥪"
+        },
+        {
+          "id": "food_soup",
+          "text": "Soup",
+          "text_tl": "Sopas",
+          "priority": 2,
+          "icon": "🍲"
+        },
+        {
+          "id": "food_vegetables",
+          "text": "Vegetables",
+          "text_tl": "Gulay",
+          "priority": 2,
+          "icon": "🥦"
+        },
+        {
+          "id": "food_cereal",
+          "text": "Cereal",
+          "text_tl": "Cereal",
+          "priority": 2,
+          "icon": "🥣"
+        },
+        {
+          "id": "food_yogurt",
+          "text": "Yogurt",
+          "text_tl": "Yogurt",
+          "priority": 2,
+          "icon": "🥛"
+        },
+        {
+          "id": "food_snack",
+          "text": "Snack",
+          "text_tl": "Meryenda",
+          "priority": 1,
+          "icon": "🍿"
+        }
+      ]
+    },
+    {
+      "id": "actions",
+      "name": "Actions",
+      "emoji": "⚡",
+      "color": "#95E1D3",
+      "symbols": [
+        {
+          "id": "act_play",
+          "text": "Play",
+          "text_tl": "Laro",
+          "priority": 1,
+          "icon": "🎮"
+        },
+        {
+          "id": "act_read",
+          "text": "Read",
+          "text_tl": "Basa",
+          "priority": 1,
+          "icon": "📖"
+        },
+        {
+          "id": "act_watch",
+          "text": "Watch",
+          "text_tl": "Panood",
+          "priority": 1,
+          "icon": "📺"
+        },
+        {
+          "id": "act_listen",
+          "text": "Listen",
+          "text_tl": "Makinig",
+          "priority": 1,
+          "icon": "👂"
+        },
+        {
+          "id": "act_sleep",
+          "text": "Sleep",
+          "text_tl": "Tulog",
+          "priority": 1,
+          "icon": "😴"
+        },
+        {
+          "id": "act_wake_up",
+          "text": "Wake up",
+          "text_tl": "Gising",
+          "priority": 2,
+          "icon": "⏰"
+        },
+        {
+          "id": "act_bath",
+          "text": "Bath",
+          "text_tl": "Ligo",
+          "priority": 1,
+          "icon": "🛁"
+        },
+        {
+          "id": "act_brush_teeth",
+          "text": "Brush teeth",
+          "text_tl": "Sipilyo",
+          "priority": 2,
+          "icon": "🪥"
+        },
+        {
+          "id": "act_potty",
+          "text": "Potty",
+          "text_tl": "CR",
+          "priority": 1,
+          "icon": "🚽"
+        },
+        {
+          "id": "act_wash_hands",
+          "text": "Wash hands",
+          "text_tl": "Hugas kamay",
+          "priority": 2,
+          "icon": "🧼"
+        },
+        {
+          "id": "act_walk",
+          "text": "Walk",
+          "text_tl": "Lakad",
+          "priority": 1,
+          "icon": "🚶"
+        },
+        {
+          "id": "act_run",
+          "text": "Run",
+          "text_tl": "Takbo",
+          "priority": 2,
+          "icon": "🏃"
+        },
+        {
+          "id": "act_jump",
+          "text": "Jump",
+          "text_tl": "Talon",
+          "priority": 2,
+          "icon": "🦘"
+        },
+        {
+          "id": "act_sit",
+          "text": "Sit",
+          "text_tl": "Upo",
+          "priority": 1,
+          "icon": "🪑"
+        },
+        {
+          "id": "act_stand",
+          "text": "Stand",
+          "text_tl": "Tayo",
+          "priority": 2,
+          "icon": "🧍"
+        },
+        {
+          "id": "act_hug",
+          "text": "Hug",
+          "text_tl": "Yakap",
+          "priority": 1,
+          "icon": "🤗"
+        },
+        {
+          "id": "act_kiss",
+          "text": "Kiss",
+          "text_tl": "Halik",
+          "priority": 2,
+          "icon": "💋"
+        },
+        {
+          "id": "act_wave",
+          "text": "Wave",
+          "text_tl": "Kumaway",
+          "priority": 2,
+          "icon": "👋"
+        },
+        {
+          "id": "act_sing",
+          "text": "Sing",
+          "text_tl": "Kanta",
+          "priority": 1,
+          "icon": "🎤"
+        },
+        {
+          "id": "act_dance",
+          "text": "Dance",
+          "text_tl": "Sayaw",
+          "priority": 2,
+          "icon": "💃"
+        },
+        {
+          "id": "act_draw",
+          "text": "Draw",
+          "text_tl": "Guhit",
+          "priority": 1,
+          "icon": "🖍️"
+        },
+        {
+          "id": "act_color",
+          "text": "Color",
+          "text_tl": "Kulayan",
+          "priority": 2,
+          "icon": "🎨"
+        },
+        {
+          "id": "act_write",
+          "text": "Write",
+          "text_tl": "Sulat",
+          "priority": 2,
+          "icon": "✏️"
+        },
+        {
+          "id": "act_cut",
+          "text": "Cut",
+          "text_tl": "Gupit",
+          "priority": 2,
+          "icon": "✂️"
+        },
+        {
+          "id": "act_open",
+          "text": "Open",
+          "text_tl": "Bukas",
+          "priority": 1,
+          "icon": "📂"
+        },
+        {
+          "id": "act_close",
+          "text": "Close",
+          "text_tl": "Sara",
+          "priority": 2,
+          "icon": "📁"
+        },
+        {
+          "id": "act_push",
+          "text": "Push",
+          "text_tl": "Tulak",
+          "priority": 2,
+          "icon": "👐"
+        },
+        {
+          "id": "act_pull",
+          "text": "Pull",
+          "text_tl": "Hila",
+          "priority": 2,
+          "icon": "🤏"
+        },
+        {
+          "id": "act_throw",
+          "text": "Throw",
+          "text_tl": "Tapon",
+          "priority": 2,
+          "icon": "🤾"
+        },
+        {
+          "id": "act_catch",
+          "text": "Catch",
+          "text_tl": "Salo",
+          "priority": 2,
+          "icon": "🧤"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "name": "People",
+      "emoji": "👨‍👩‍👧",
+      "color": "#DDA0DD",
+      "symbols": [
+        {
+          "id": "ppl_me",
+          "text": "Me",
+          "text_tl": "Ako",
+          "priority": 1,
+          "icon": "👤"
+        },
+        {
+          "id": "ppl_you",
+          "text": "You",
+          "text_tl": "Ikaw",
+          "priority": 1,
+          "icon": "👉"
+        },
+        {
+          "id": "ppl_mama",
+          "text": "Mama",
+          "text_tl": "Mama",
+          "priority": 1,
+          "icon": "👩"
+        },
+        {
+          "id": "ppl_dada",
+          "text": "Dada",
+          "text_tl": "Papa",
+          "priority": 1,
+          "icon": "👨"
+        },
+        {
+          "id": "ppl_mommy",
+          "text": "Mommy",
+          "text_tl": "Mommy",
+          "priority": 1,
+          "icon": "👩‍👧"
+        },
+        {
+          "id": "ppl_daddy",
+          "text": "Daddy",
+          "text_tl": "Daddy",
+          "priority": 1,
+          "icon": "👨‍👧"
+        },
+        {
+          "id": "ppl_baby",
+          "text": "Baby",
+          "text_tl": "Baby",
+          "priority": 1,
+          "icon": "👶"
+        },
+        {
+          "id": "ppl_sister",
+          "text": "Sister",
+          "text_tl": "Ate",
+          "priority": 1,
+          "icon": "👧"
+        },
+        {
+          "id": "ppl_brother",
+          "text": "Brother",
+          "text_tl": "Kuya",
+          "priority": 1,
+          "icon": "👦"
+        },
+        {
+          "id": "ppl_grandma",
+          "text": "Grandma",
+          "text_tl": "Lola",
+          "priority": 1,
+          "icon": "👵"
+        },
+        {
+          "id": "ppl_grandpa",
+          "text": "Grandpa",
+          "text_tl": "Lolo",
+          "priority": 1,
+          "icon": "👴"
+        },
+        {
+          "id": "ppl_aunt",
+          "text": "Aunt",
+          "text_tl": "Tita",
+          "priority": 2,
+          "icon": "👩‍🦱"
+        },
+        {
+          "id": "ppl_uncle",
+          "text": "Uncle",
+          "text_tl": "Tito",
+          "priority": 2,
+          "icon": "👨‍🦱"
+        },
+        {
+          "id": "ppl_cousin",
+          "text": "Cousin",
+          "text_tl": "Pinsan",
+          "priority": 2,
+          "icon": "👫"
+        },
+        {
+          "id": "ppl_friend",
+          "text": "Friend",
+          "text_tl": "Kaibigan",
+          "priority": 1,
+          "icon": "🧑‍🤝‍🧑"
+        },
+        {
+          "id": "ppl_teacher",
+          "text": "Teacher",
+          "text_tl": "Teacher",
+          "priority": 1,
+          "icon": "👩‍🏫"
+        },
+        {
+          "id": "ppl_doctor",
+          "text": "Doctor",
+          "text_tl": "Doktor",
+          "priority": 2,
+          "icon": "👨‍⚕️"
+        },
+        {
+          "id": "ppl_therapist",
+          "text": "Therapist",
+          "text_tl": "Therapist",
+          "priority": 2,
+          "icon": "🧑‍⚕️"
+        },
+        {
+          "id": "ppl_helper",
+          "text": "Helper",
+          "text_tl": "Yaya",
+          "priority": 2,
+          "icon": "🙋‍♀️"
+        },
+        {
+          "id": "ppl_boy",
+          "text": "Boy",
+          "text_tl": "Lalaki",
+          "priority": 2,
+          "icon": "👦"
+        },
+        {
+          "id": "ppl_girl",
+          "text": "Girl",
+          "text_tl": "Babae",
+          "priority": 2,
+          "icon": "👧"
+        },
+        {
+          "id": "ppl_man",
+          "text": "Man",
+          "text_tl": "Lalaki",
+          "priority": 2,
+          "icon": "👨"
+        },
+        {
+          "id": "ppl_woman",
+          "text": "Woman",
+          "text_tl": "Babae",
+          "priority": 2,
+          "icon": "👩"
+        },
+        {
+          "id": "ppl_everyone",
+          "text": "Everyone",
+          "text_tl": "Lahat",
+          "priority": 2,
+          "icon": "👥"
+        }
+      ]
+    },
+    {
+      "id": "places",
+      "name": "Places",
+      "emoji": "🏠",
+      "color": "#87CEEB",
+      "symbols": [
+        {
+          "id": "place_home",
+          "text": "Home",
+          "text_tl": "Bahay",
+          "priority": 1,
+          "icon": "🏠"
+        },
+        {
+          "id": "place_school",
+          "text": "School",
+          "text_tl": "Eskwela",
+          "priority": 1,
+          "icon": "🏫"
+        },
+        {
+          "id": "place_park",
+          "text": "Park",
+          "text_tl": "Park",
+          "priority": 1,
+          "icon": "🏞️"
+        },
+        {
+          "id": "place_store",
+          "text": "Store",
+          "text_tl": "Tindahan",
+          "priority": 1,
+          "icon": "🏪"
+        },
+        {
+          "id": "place_mall",
+          "text": "Mall",
+          "text_tl": "Mall",
+          "priority": 2,
+          "icon": "🛒"
+        },
+        {
+          "id": "place_restaurant",
+          "text": "Restaurant",
+          "text_tl": "Kainan",
+          "priority": 2,
+          "icon": "🍽️"
+        },
+        {
+          "id": "place_hospital",
+          "text": "Hospital",
+          "text_tl": "Ospital",
+          "priority": 2,
+          "icon": "🏥"
+        },
+        {
+          "id": "place_church",
+          "text": "Church",
+          "text_tl": "Simbahan",
+          "priority": 2,
+          "icon": "⛪"
+        },
+        {
+          "id": "place_car",
+          "text": "Car",
+          "text_tl": "Kotse",
+          "priority": 1,
+          "icon": "🚗"
+        },
+        {
+          "id": "place_bus",
+          "text": "Bus",
+          "text_tl": "Bus",
+          "priority": 2,
+          "icon": "🚌"
+        },
+        {
+          "id": "place_outside",
+          "text": "Outside",
+          "text_tl": "Labas",
+          "priority": 1,
+          "icon": "🌳"
+        },
+        {
+          "id": "place_inside",
+          "text": "Inside",
+          "text_tl": "Loob",
+          "priority": 2,
+          "icon": "🏠"
+        },
+        {
+          "id": "place_bedroom",
+          "text": "Bedroom",
+          "text_tl": "Kwarto",
+          "priority": 1,
+          "icon": "🛏️"
+        },
+        {
+          "id": "place_bathroom",
+          "text": "Bathroom",
+          "text_tl": "Banyo",
+          "priority": 1,
+          "icon": "🚿"
+        },
+        {
+          "id": "place_kitchen",
+          "text": "Kitchen",
+          "text_tl": "Kusina",
+          "priority": 2,
+          "icon": "🍳"
+        },
+        {
+          "id": "place_living_room",
+          "text": "Living room",
+          "text_tl": "Sala",
+          "priority": 2,
+          "icon": "🛋️"
+        },
+        {
+          "id": "place_yard",
+          "text": "Yard",
+          "text_tl": "Bakuran",
+          "priority": 2,
+          "icon": "🌿"
+        },
+        {
+          "id": "place_pool",
+          "text": "Pool",
+          "text_tl": "Pool",
+          "priority": 2,
+          "icon": "🏊"
+        },
+        {
+          "id": "place_beach",
+          "text": "Beach",
+          "text_tl": "Beach",
+          "priority": 2,
+          "icon": "🏖️"
+        },
+        {
+          "id": "place_playground",
+          "text": "Playground",
+          "text_tl": "Playground",
+          "priority": 1,
+          "icon": "🛝"
+        }
+      ]
+    },
+    {
+      "id": "things",
+      "name": "Things",
+      "emoji": "🧸",
+      "color": "#F4A460",
+      "symbols": [
+        {
+          "id": "thing_toy",
+          "text": "Toy",
+          "text_tl": "Laruan",
+          "priority": 1,
+          "icon": "🧸"
+        },
+        {
+          "id": "thing_ball",
+          "text": "Ball",
+          "text_tl": "Bola",
+          "priority": 1,
+          "icon": "⚽"
+        },
+        {
+          "id": "thing_blocks",
+          "text": "Blocks",
+          "text_tl": "Blocks",
+          "priority": 2,
+          "icon": "🧱"
+        },
+        {
+          "id": "thing_doll",
+          "text": "Doll",
+          "text_tl": "Manika",
+          "priority": 2,
+          "icon": "🎎"
+        },
+        {
+          "id": "thing_car_toy",
+          "text": "Toy car",
+          "text_tl": "Kotse",
+          "priority": 2,
+          "icon": "🚙"
+        },
+        {
+          "id": "thing_puzzle",
+          "text": "Puzzle",
+          "text_tl": "Puzzle",
+          "priority": 2,
+          "icon": "🧩"
+        },
+        {
+          "id": "thing_book",
+          "text": "Book",
+          "text_tl": "Libro",
+          "priority": 1,
+          "icon": "📚"
+        },
+        {
+          "id": "thing_phone",
+          "text": "Phone",
+          "text_tl": "Phone",
+          "priority": 1,
+          "icon": "📱"
+        },
+        {
+          "id": "thing_tablet",
+          "text": "Tablet",
+          "text_tl": "Tablet",
+          "priority": 1,
+          "icon": "📲"
+        },
+        {
+          "id": "thing_tv",
+          "text": "TV",
+          "text_tl": "TV",
+          "priority": 1,
+          "icon": "📺"
+        },
+        {
+          "id": "thing_music",
+          "text": "Music",
+          "text_tl": "Musika",
+          "priority": 1,
+          "icon": "🎵"
+        },
+        {
+          "id": "thing_blanket",
+          "text": "Blanket",
+          "text_tl": "Kumot",
+          "priority": 1,
+          "icon": "🛏️"
+        },
+        {
+          "id": "thing_pillow",
+          "text": "Pillow",
+          "text_tl": "Unan",
+          "priority": 2,
+          "icon": "🛏️"
+        },
+        {
+          "id": "thing_bed",
+          "text": "Bed",
+          "text_tl": "Kama",
+          "priority": 1,
+          "icon": "🛏️"
+        },
+        {
+          "id": "thing_chair",
+          "text": "Chair",
+          "text_tl": "Upuan",
+          "priority": 2,
+          "icon": "🪑"
+        },
+        {
+          "id": "thing_table",
+          "text": "Table",
+          "text_tl": "Mesa",
+          "priority": 2,
+          "icon": "🪑"
+        },
+        {
+          "id": "thing_shoes",
+          "text": "Shoes",
+          "text_tl": "Sapatos",
+          "priority": 1,
+          "icon": "👟"
+        },
+        {
+          "id": "thing_clothes",
+          "text": "Clothes",
+          "text_tl": "Damit",
+          "priority": 1,
+          "icon": "👕"
+        },
+        {
+          "id": "thing_diaper",
+          "text": "Diaper",
+          "text_tl": "Diaper",
+          "priority": 1,
+          "icon": "🩲"
+        },
+        {
+          "id": "thing_cup",
+          "text": "Cup",
+          "text_tl": "Baso",
+          "priority": 1,
+          "icon": "🥤"
+        },
+        {
+          "id": "thing_plate",
+          "text": "Plate",
+          "text_tl": "Plato",
+          "priority": 2,
+          "icon": "🍽️"
+        },
+        {
+          "id": "thing_spoon",
+          "text": "Spoon",
+          "text_tl": "Kutsara",
+          "priority": 2,
+          "icon": "🥄"
+        },
+        {
+          "id": "thing_bag",
+          "text": "Bag",
+          "text_tl": "Bag",
+          "priority": 2,
+          "icon": "🎒"
+        },
+        {
+          "id": "thing_crayons",
+          "text": "Crayons",
+          "text_tl": "Crayons",
+          "priority": 2,
+          "icon": "🖍️"
+        },
+        {
+          "id": "thing_paper",
+          "text": "Paper",
+          "text_tl": "Papel",
+          "priority": 2,
+          "icon": "📄"
+        }
+      ]
+    },
+    {
+      "id": "descriptors",
+      "name": "Descriptors",
+      "emoji": "🎨",
+      "color": "#E8A87C",
+      "symbols": [
+        {
+          "id": "desc_big",
+          "text": "Big",
+          "text_tl": "Malaki",
+          "priority": 1,
+          "icon": "🔺"
+        },
+        {
+          "id": "desc_small",
+          "text": "Small",
+          "text_tl": "Maliit",
+          "priority": 1,
+          "icon": "🔹"
+        },
+        {
+          "id": "desc_hot",
+          "text": "Hot",
+          "text_tl": "Mainit",
+          "priority": 1,
+          "icon": "🔥"
+        },
+        {
+          "id": "desc_cold",
+          "text": "Cold",
+          "text_tl": "Malamig",
+          "priority": 1,
+          "icon": "❄️"
+        },
+        {
+          "id": "desc_fast",
+          "text": "Fast",
+          "text_tl": "Mabilis",
+          "priority": 2,
+          "icon": "⚡"
+        },
+        {
+          "id": "desc_slow",
+          "text": "Slow",
+          "text_tl": "Mabagal",
+          "priority": 2,
+          "icon": "🐢"
+        },
+        {
+          "id": "desc_loud",
+          "text": "Loud",
+          "text_tl": "Malakas",
+          "priority": 2,
+          "icon": "🔊"
+        },
+        {
+          "id": "desc_quiet",
+          "text": "Quiet",
+          "text_tl": "Tahimik",
+          "priority": 2,
+          "icon": "🤫"
+        },
+        {
+          "id": "desc_good",
+          "text": "Good",
+          "text_tl": "Mabuti",
+          "priority": 1,
+          "icon": "👍"
+        },
+        {
+          "id": "desc_bad",
+          "text": "Bad",
+          "text_tl": "Masama",
+          "priority": 2,
+          "icon": "👎"
+        },
+        {
+          "id": "desc_yucky",
+          "text": "Yucky",
+          "text_tl": "Yucky",
+          "priority": 1,
+          "icon": "🤢"
+        },
+        {
+          "id": "desc_yummy",
+          "text": "Yummy",
+          "text_tl": "Masarap",
+          "priority": 1,
+          "icon": "😋"
+        },
+        {
+          "id": "desc_pretty",
+          "text": "Pretty",
+          "text_tl": "Maganda",
+          "priority": 2,
+          "icon": "✨"
+        },
+        {
+          "id": "desc_funny",
+          "text": "Funny",
+          "text_tl": "Nakakatawa",
+          "priority": 2,
+          "icon": "😂"
+        },
+        {
+          "id": "desc_scary",
+          "text": "Scary",
+          "text_tl": "Nakakatakot",
+          "priority": 2,
+          "icon": "👻"
+        },
+        {
+          "id": "desc_soft",
+          "text": "Soft",
+          "text_tl": "Malambot",
+          "priority": 2,
+          "icon": "☁️"
+        },
+        {
+          "id": "desc_hard",
+          "text": "Hard",
+          "text_tl": "Matigas",
+          "priority": 2,
+          "icon": "🪨"
+        },
+        {
+          "id": "desc_wet",
+          "text": "Wet",
+          "text_tl": "Basa",
+          "priority": 2,
+          "icon": "💦"
+        },
+        {
+          "id": "desc_dry",
+          "text": "Dry",
+          "text_tl": "Tuyo",
+          "priority": 2,
+          "icon": "☀️"
+        },
+        {
+          "id": "desc_dirty",
+          "text": "Dirty",
+          "text_tl": "Marumi",
+          "priority": 2,
+          "icon": "💩"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "name": "Time",
+      "emoji": "⏰",
+      "color": "#C7B8EA",
+      "symbols": [
+        {
+          "id": "time_now",
+          "text": "Now",
+          "text_tl": "Ngayon",
+          "priority": 1,
+          "icon": "⏰"
+        },
+        {
+          "id": "time_later",
+          "text": "Later",
+          "text_tl": "Mamaya",
+          "priority": 1,
+          "icon": "⏳"
+        },
+        {
+          "id": "time_wait",
+          "text": "Wait",
+          "text_tl": "Sandali",
+          "priority": 1,
+          "icon": "⌛"
+        },
+        {
+          "id": "time_again",
+          "text": "Again",
+          "text_tl": "Ulit",
+          "priority": 1,
+          "icon": "🔄"
+        },
+        {
+          "id": "time_today",
+          "text": "Today",
+          "text_tl": "Ngayon",
+          "priority": 2,
+          "icon": "📅"
+        },
+        {
+          "id": "time_tomorrow",
+          "text": "Tomorrow",
+          "text_tl": "Bukas",
+          "priority": 2,
+          "icon": "📆"
+        },
+        {
+          "id": "time_yesterday",
+          "text": "Yesterday",
+          "text_tl": "Kahapon",
+          "priority": 2,
+          "icon": "◀️"
+        },
+        {
+          "id": "time_morning",
+          "text": "Morning",
+          "text_tl": "Umaga",
+          "priority": 1,
+          "icon": "🌅"
+        },
+        {
+          "id": "time_afternoon",
+          "text": "Afternoon",
+          "text_tl": "Hapon",
+          "priority": 2,
+          "icon": "☀️"
+        },
+        {
+          "id": "time_night",
+          "text": "Night",
+          "text_tl": "Gabi",
+          "priority": 1,
+          "icon": "🌙"
+        },
+        {
+          "id": "time_before",
+          "text": "Before",
+          "text_tl": "Bago",
+          "priority": 2,
+          "icon": "⏪"
+        },
+        {
+          "id": "time_after",
+          "text": "After",
+          "text_tl": "Pagkatapos",
+          "priority": 2,
+          "icon": "⏩"
+        },
+        {
+          "id": "time_first",
+          "text": "First",
+          "text_tl": "Una",
+          "priority": 1,
+          "icon": "1️⃣"
+        },
+        {
+          "id": "time_next",
+          "text": "Next",
+          "text_tl": "Susunod",
+          "priority": 1,
+          "icon": "➡️"
+        },
+        {
+          "id": "time_last",
+          "text": "Last",
+          "text_tl": "Huli",
+          "priority": 2,
+          "icon": "🏁"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "name": "Questions",
+      "emoji": "❓",
+      "color": "#9B59B6",
+      "symbols": [
+        {
+          "id": "q_what",
+          "text": "What?",
+          "text_tl": "Ano?",
+          "priority": 1,
+          "icon": "❓"
+        },
+        {
+          "id": "q_where",
+          "text": "Where?",
+          "text_tl": "Saan?",
+          "priority": 1,
+          "icon": "📍"
+        },
+        {
+          "id": "q_who",
+          "text": "Who?",
+          "text_tl": "Sino?",
+          "priority": 1,
+          "icon": "🤔"
+        },
+        {
+          "id": "q_when",
+          "text": "When?",
+          "text_tl": "Kailan?",
+          "priority": 1,
+          "icon": "🕐"
+        },
+        {
+          "id": "q_why",
+          "text": "Why?",
+          "text_tl": "Bakit?",
+          "priority": 1,
+          "icon": "💭"
+        },
+        {
+          "id": "q_how",
+          "text": "How?",
+          "text_tl": "Paano?",
+          "priority": 1,
+          "icon": "🔧"
+        },
+        {
+          "id": "q_which",
+          "text": "Which?",
+          "text_tl": "Alin?",
+          "priority": 2,
+          "icon": "👆"
+        },
+        {
+          "id": "q_can_i",
+          "text": "Can I?",
+          "text_tl": "Pwede ba?",
+          "priority": 1,
+          "icon": "🙋"
+        },
+        {
+          "id": "q_whats_this",
+          "text": "What's this?",
+          "text_tl": "Ano ito?",
+          "priority": 1,
+          "icon": "❔"
+        },
+        {
+          "id": "q_where_is",
+          "text": "Where is?",
+          "text_tl": "Nasaan?",
+          "priority": 1,
+          "icon": "🔍"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "Social",
+      "emoji": "👋",
+      "color": "#F06292",
+      "symbols": [
+        {
+          "id": "soc_hi",
+          "text": "Hi",
+          "text_tl": "Hi",
+          "priority": 1,
+          "icon": "👋"
+        },
+        {
+          "id": "soc_bye",
+          "text": "Bye",
+          "text_tl": "Bye",
+          "priority": 1,
+          "icon": "👋"
+        },
+        {
+          "id": "soc_good_morning",
+          "text": "Good morning",
+          "text_tl": "Magandang umaga",
+          "priority": 1,
+          "icon": "🌅"
+        },
+        {
+          "id": "soc_good_night",
+          "text": "Good night",
+          "text_tl": "Magandang gabi",
+          "priority": 1,
+          "icon": "🌙"
+        },
+        {
+          "id": "soc_how_are_you",
+          "text": "How are you?",
+          "text_tl": "Kamusta ka?",
+          "priority": 1,
+          "icon": "🤗"
+        },
+        {
+          "id": "soc_im_fine",
+          "text": "I'm fine",
+          "text_tl": "Ayos lang ako",
+          "priority": 1,
+          "icon": "👍"
+        },
+        {
+          "id": "soc_excuse_me",
+          "text": "Excuse me",
+          "text_tl": "Paumanhin",
+          "priority": 2,
+          "icon": "🙏"
+        },
+        {
+          "id": "soc_im_sorry",
+          "text": "I'm sorry",
+          "text_tl": "Patawad",
+          "priority": 1,
+          "icon": "😔"
+        },
+        {
+          "id": "soc_its_okay",
+          "text": "It's okay",
+          "text_tl": "Ayos lang",
+          "priority": 1,
+          "icon": "👌"
+        },
+        {
+          "id": "soc_i_love_you",
+          "text": "I love you",
+          "text_tl": "Mahal kita",
+          "priority": 1,
+          "icon": "❤️"
+        },
+        {
+          "id": "soc_my_turn",
+          "text": "My turn",
+          "text_tl": "Ako naman",
+          "priority": 1,
+          "icon": "🙋"
+        },
+        {
+          "id": "soc_your_turn",
+          "text": "Your turn",
+          "text_tl": "Ikaw naman",
+          "priority": 1,
+          "icon": "👉"
+        },
+        {
+          "id": "soc_lets_play",
+          "text": "Let's play",
+          "text_tl": "Maglaro tayo",
+          "priority": 1,
+          "icon": "🎮"
+        },
+        {
+          "id": "soc_come_here",
+          "text": "Come here",
+          "text_tl": "Halika dito",
+          "priority": 1,
+          "icon": "🤙"
+        },
+        {
+          "id": "soc_look_at_me",
+          "text": "Look at me",
+          "text_tl": "Tingnan mo ako",
+          "priority": 2,
+          "icon": "👀"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "name": "Body",
+      "emoji": "🦵",
+      "color": "#FFAB91",
+      "symbols": [
+        {
+          "id": "body_head",
+          "text": "Head",
+          "text_tl": "Ulo",
+          "priority": 1,
+          "icon": "🗣️"
+        },
+        {
+          "id": "body_eyes",
+          "text": "Eyes",
+          "text_tl": "Mata",
+          "priority": 1,
+          "icon": "👀"
+        },
+        {
+          "id": "body_ears",
+          "text": "Ears",
+          "text_tl": "Tenga",
+          "priority": 1,
+          "icon": "👂"
+        },
+        {
+          "id": "body_nose",
+          "text": "Nose",
+          "text_tl": "Ilong",
+          "priority": 1,
+          "icon": "👃"
+        },
+        {
+          "id": "body_mouth",
+          "text": "Mouth",
+          "text_tl": "Bibig",
+          "priority": 1,
+          "icon": "👄"
+        },
+        {
+          "id": "body_teeth",
+          "text": "Teeth",
+          "text_tl": "Ngipin",
+          "priority": 2,
+          "icon": "🦷"
+        },
+        {
+          "id": "body_hair",
+          "text": "Hair",
+          "text_tl": "Buhok",
+          "priority": 2,
+          "icon": "💇"
+        },
+        {
+          "id": "body_hand",
+          "text": "Hand",
+          "text_tl": "Kamay",
+          "priority": 1,
+          "icon": "🖐️"
+        },
+        {
+          "id": "body_arm",
+          "text": "Arm",
+          "text_tl": "Braso",
+          "priority": 2,
+          "icon": "💪"
+        },
+        {
+          "id": "body_leg",
+          "text": "Leg",
+          "text_tl": "Binti",
+          "priority": 2,
+          "icon": "🦵"
+        },
+        {
+          "id": "body_foot",
+          "text": "Foot",
+          "text_tl": "Paa",
+          "priority": 1,
+          "icon": "🦶"
+        },
+        {
+          "id": "body_tummy",
+          "text": "Tummy",
+          "text_tl": "Tiyan",
+          "priority": 1,
+          "icon": "🫃"
+        },
+        {
+          "id": "body_back",
+          "text": "Back",
+          "text_tl": "Likod",
+          "priority": 2,
+          "icon": "🔙"
+        },
+        {
+          "id": "body_bottom",
+          "text": "Bottom",
+          "text_tl": "Puwet",
+          "priority": 2,
+          "icon": "🍑"
+        },
+        {
+          "id": "body_finger",
+          "text": "Finger",
+          "text_tl": "Daliri",
+          "priority": 2,
+          "icon": "👆"
+        }
+      ]
+    }
+  ],
+  "commonPhrases": [
+    {
+      "id": "cp_iwant",
+      "text": "I want",
+      "text_tl": "Gusto ko"
+    },
+    {
+      "id": "cp_ineed",
+      "text": "I need",
+      "text_tl": "Kailangan ko"
+    },
+    {
+      "id": "cp_iam",
+      "text": "I am",
+      "text_tl": "Ako ay"
+    },
+    {
+      "id": "cp_cani",
+      "text": "Can I",
+      "text_tl": "Pwede ba"
+    },
+    {
+      "id": "cp_lets",
+      "text": "Let's",
+      "text_tl": "Tayo na"
+    },
+    {
+      "id": "cp_ihave",
+      "text": "I have",
+      "text_tl": "Meron ako"
+    },
+    {
+      "id": "cp_iwantto",
+      "text": "I want to",
+      "text_tl": "Gusto kong"
+    },
+    {
+      "id": "cp_ineedto",
+      "text": "I need to",
+      "text_tl": "Kailangan kong"
+    },
+    {
+      "id": "cp_canyou",
+      "text": "Can you",
+      "text_tl": "Pwede mo bang"
+    },
+    {
+      "id": "cp_pleasehelpme",
+      "text": "Please help me",
+      "text_tl": "Pakitulungan mo ako"
+    },
+    {
+      "id": "cp_ifeellike",
+      "text": "I feel like",
+      "text_tl": "Pakiramdam ko"
+    },
+    {
+      "id": "cp_letmesee",
+      "text": "Let me see",
+      "text_tl": "Tingnan ko"
+    }
+  ],
+  "letterHints": {
+    "A": "🍎",
+    "B": "🍌",
+    "C": "🐱",
+    "D": "🐶",
+    "E": "🥚",
+    "F": "🐟",
+    "G": "🍇",
+    "H": "🏠",
+    "I": "🍦",
+    "J": "🧃",
+    "K": "🪁",
+    "L": "🦁",
+    "M": "🌙",
+    "N": "🥜",
+    "O": "🍊",
+    "P": "🐷",
+    "Q": "👸",
+    "R": "🌈",
+    "S": "⭐",
+    "T": "🐢",
+    "U": "☂️",
+    "V": "🎻",
+    "W": "🐋",
+    "X": "❌",
+    "Y": "🪀",
+    "Z": "🦓"
+  },
+  "predictions": {
+    "A": [
+      {
+        "word": "Apple",
+        "icon": "🍎"
+      },
+      {
+        "word": "Again",
+        "icon": "🔄"
+      },
+      {
+        "word": "All done",
+        "icon": "✅"
+      },
+      {
+        "word": "Angry",
+        "icon": "😠"
+      }
+    ],
+    "B": [
+      {
+        "word": "Ball",
+        "icon": "⚽"
+      },
+      {
+        "word": "Bath",
+        "icon": "🛁"
+      },
+      {
+        "word": "Book",
+        "icon": "📚"
+      },
+      {
+        "word": "Banana",
+        "icon": "🍌"
+      },
+      {
+        "word": "Bye",
+        "icon": "👋"
+      }
+    ],
+    "C": [
+      {
+        "word": "Cookie",
+        "icon": "🍪"
+      },
+      {
+        "word": "Car",
+        "icon": "🚗"
+      },
+      {
+        "word": "Come here",
+        "icon": "👋"
+      },
+      {
+        "word": "Cold",
+        "icon": "❄️"
+      },
+      {
+        "word": "Can I",
+        "icon": "🙋"
+      }
+    ],
+    "D": [
+      {
+        "word": "Drink",
+        "icon": "🥤"
+      },
+      {
+        "word": "Done",
+        "icon": "✅"
+      },
+      {
+        "word": "Dada",
+        "icon": "👨"
+      },
+      {
+        "word": "Dog",
+        "icon": "🐶"
+      },
+      {
+        "word": "Dance",
+        "icon": "💃"
+      }
+    ],
+    "E": [
+      {
+        "word": "Eat",
+        "icon": "🍴"
+      },
+      {
+        "word": "Excited",
+        "icon": "🤩"
+      }
+    ],
+    "F": [
+      {
+        "word": "Food",
+        "icon": "🍽️"
+      },
+      {
+        "word": "Friend",
+        "icon": "👫"
+      },
+      {
+        "word": "Fast",
+        "icon": "⚡"
+      },
+      {
+        "word": "Funny",
+        "icon": "😄"
+      }
+    ],
+    "G": [
+      {
+        "word": "Go",
+        "icon": "🚀"
+      },
+      {
+        "word": "Good",
+        "icon": "👍"
+      },
+      {
+        "word": "Give",
+        "icon": "🎁"
+      },
+      {
+        "word": "Get",
+        "icon": "✋"
+      }
+    ],
+    "H": [
+      {
+        "word": "Help",
+        "icon": "🆘"
+      },
+      {
+        "word": "Happy",
+        "icon": "😊"
+      },
+      {
+        "word": "Hurt",
+        "icon": "🤕"
+      },
+      {
+        "word": "Hungry",
+        "icon": "🍽️"
+      },
+      {
+        "word": "Hug",
+        "icon": "🤗"
+      },
+      {
+        "word": "Home",
+        "icon": "🏠"
+      },
+      {
+        "word": "Hi",
+        "icon": "👋"
+      }
+    ],
+    "I": [
+      {
+        "word": "I want",
+        "icon": "🙋"
+      },
+      {
+        "word": "I need",
+        "icon": "🆘"
+      },
+      {
+        "word": "I love you",
+        "icon": "❤️"
+      },
+      {
+        "word": "Ice cream",
+        "icon": "🍦"
+      }
+    ],
+    "J": [
+      {
+        "word": "Juice",
+        "icon": "🧃"
+      },
+      {
+        "word": "Jump",
+        "icon": "🦘"
+      }
+    ],
+    "K": [
+      {
+        "word": "Kiss",
+        "icon": "💋"
+      },
+      {
+        "word": "Kitchen",
+        "icon": "🍳"
+      }
+    ],
+    "L": [
+      {
+        "word": "Love",
+        "icon": "❤️"
+      },
+      {
+        "word": "Look",
+        "icon": "👀"
+      },
+      {
+        "word": "Later",
+        "icon": "⏰"
+      },
+      {
+        "word": "Let's play",
+        "icon": "🎮"
+      }
+    ],
+    "M": [
+      {
+        "word": "Mama",
+        "icon": "👩"
+      },
+      {
+        "word": "More",
+        "icon": "➕"
+      },
+      {
+        "word": "Milk",
+        "icon": "🥛"
+      },
+      {
+        "word": "Me",
+        "icon": "👤"
+      },
+      {
+        "word": "Music",
+        "icon": "🎵"
+      },
+      {
+        "word": "My turn",
+        "icon": "🙋"
+      }
+    ],
+    "N": [
+      {
+        "word": "No",
+        "icon": "❌"
+      },
+      {
+        "word": "Need",
+        "icon": "🆘"
+      },
+      {
+        "word": "Now",
+        "icon": "⏰"
+      },
+      {
+        "word": "Night",
+        "icon": "🌙"
+      }
+    ],
+    "O": [
+      {
+        "word": "Open",
+        "icon": "📂"
+      },
+      {
+        "word": "Outside",
+        "icon": "🌳"
+      }
+    ],
+    "P": [
+      {
+        "word": "Play",
+        "icon": "🎮"
+      },
+      {
+        "word": "Please",
+        "icon": "🙏"
+      },
+      {
+        "word": "Potty",
+        "icon": "🚽"
+      },
+      {
+        "word": "Papa",
+        "icon": "👨"
+      },
+      {
+        "word": "Park",
+        "icon": "🏞️"
+      }
+    ],
+    "R": [
+      {
+        "word": "Read",
+        "icon": "📖"
+      },
+      {
+        "word": "Run",
+        "icon": "🏃"
+      }
+    ],
+    "S": [
+      {
+        "word": "Stop",
+        "icon": "✋"
+      },
+      {
+        "word": "Sleep",
+        "icon": "😴"
+      },
+      {
+        "word": "Sad",
+        "icon": "😢"
+      },
+      {
+        "word": "Sick",
+        "icon": "🤒"
+      },
+      {
+        "word": "Sorry",
+        "icon": "😔"
+      },
+      {
+        "word": "Snack",
+        "icon": "🍿"
+      }
+    ],
+    "T": [
+      {
+        "word": "Thank you",
+        "icon": "💝"
+      },
+      {
+        "word": "Tired",
+        "icon": "😴"
+      },
+      {
+        "word": "Toy",
+        "icon": "🧸"
+      },
+      {
+        "word": "TV",
+        "icon": "📺"
+      }
+    ],
+    "W": [
+      {
+        "word": "Want",
+        "icon": "🙋"
+      },
+      {
+        "word": "Water",
+        "icon": "💧"
+      },
+      {
+        "word": "Walk",
+        "icon": "🚶"
+      },
+      {
+        "word": "Watch",
+        "icon": "📺"
+      },
+      {
+        "word": "Wait",
+        "icon": "⏳"
+      }
+    ],
+    "Y": [
+      {
+        "word": "Yes",
+        "icon": "✅"
+      },
+      {
+        "word": "Yummy",
+        "icon": "😋"
+      },
+      {
+        "word": "Your turn",
+        "icon": "👉"
+      }
+    ]
+  }
+}

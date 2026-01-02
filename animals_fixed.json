@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "alpaca",
+    "name": "Alpaca",
+    "category": "Farm",
+    "fact": "Alpaca fiber is fire-resistant and comes in 22 natural colors!"
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken",
+    "category": "Farm",
+    "fact": "Chickens have over 30 different vocalizations and can dream!"
+  },
+  {
+    "id": "cow",
+    "name": "Cow",
+    "category": "Farm",
+    "fact": "Cows have best friends and get stressed when they're separated!"
+  },
+  {
+    "id": "donkey",
+    "name": "Donkey",
+    "category": "Farm",
+    "fact": "Donkeys have incredible memories and can recognize places they haven't seen in 25 years!"
+  },
+  {
+    "id": "duck",
+    "name": "Duck",
+    "category": "Farm",
+    "fact": "Ducklings will follow the first moving thing they see - even if it's not their mother!"
+  },
+  {
+    "id": "goat",
+    "name": "Goat",
+    "category": "Farm",
+    "fact": "Goats have accents - their bleats change depending on their social group!"
+  },
+  {
+    "id": "goose",
+    "name": "Goose",
+    "category": "Farm",
+    "fact": "Geese mate for life and mourn their dead partners!"
+  },
+  {
+    "id": "horse",
+    "name": "Horse",
+    "category": "Farm",
+    "fact": "Horses can sleep standing up using a system of tendons and ligaments!"
+  },
+  {
+    "id": "llama",
+    "name": "Llama",
+    "category": "Farm",
+    "fact": "Llamas can carry up to 30% of their body weight and will spit when angry!"
+  },
+  {
+    "id": "mule",
+    "name": "Mule",
+    "category": "Farm",
+    "fact": "Mules are smarter than horses and have better endurance than donkeys!"
+  },
+  {
+    "id": "pig",
+    "name": "Pig",
+    "category": "Farm",
+    "fact": "Pigs are smarter than dogs and can learn to play video games!"
+  },
+  {
+    "id": "pony",
+    "name": "Pony",
+    "category": "Farm",
+    "fact": "Ponies are stronger than horses relative to their size!"
+  },
+  {
+    "id": "rooster",
+    "name": "Rooster",
+    "category": "Farm",
+    "fact": "Roosters can tell time and often crow just before sunrise!"
+  },
+  {
+    "id": "sheep",
+    "name": "Sheep",
+    "category": "Farm",
+    "fact": "Sheep can recognize up to 50 different human faces and remember them for years!"
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "category": "Farm",
+    "fact": "Wild turkeys can fly up to 88 km/h but domestic turkeys can't fly!"
+  },
+  {
+    "id": "american_crow",
+    "name": "American Crow",
+    "category": "Domestic",
+    "fact": "Crows can recognize human faces and remember them for years!"
+  },
+  {
+    "id": "anole_lizard",
+    "name": "Anole Lizard",
+    "category": "Domestic",
+    "fact": "Anoles can change color from green to brown depending on their mood!"
+  },
+  {
+    "id": "ant",
+    "name": "Ant",
+    "category": "Domestic",
+    "fact": "Manta rays have the largest brain of any fish!"
+  },
+  {
+    "id": "border_collie",
+    "name": "Border Collie",
+    "category": "Domestic",
+    "fact": "Border collies are the smartest dog breed and can learn over 1,000 words!"
+  },
+  {
+    "id": "canada_goose",
+    "name": "Canada Goose",
+    "category": "Domestic",
+    "fact": "Canada geese fly in a V formation to save energy on long trips!"
+  },
+  {
+    "id": "cockatiel",
+    "name": "Cockatiel",
+    "category": "Domestic",
+    "fact": "Male cockatiels are better at talking and females are better at whistling!"
+  },
+  {
+    "id": "common_grackle",
+    "name": "Common Grackle",
+    "category": "Domestic",
+    "fact": "Grackles can mimic sounds including car alarms!"
+  },
+  {
+    "id": "coyote",
+    "name": "Coyote",
+    "category": "Domestic",
+    "fact": "Coyotes can mate with dogs and wolves and can jump 4 meters high!"
+  },
+  {
+    "id": "european_starling",
+    "name": "European Starling",
+    "category": "Domestic",
+    "fact": "Starlings can mimic human speech and sing complex songs!"
+  },
+  {
+    "id": "feral_cat",
+    "name": "Feral Cat",
+    "category": "Domestic",
+    "fact": "Feral Cats spend 70% of their lives sleeping!"
+  },
+  {
+    "id": "ferret",
+    "name": "Ferret",
+    "category": "Domestic",
+    "fact": "Ferrets sleep up to 18 hours a day and are most active at dawn and dusk!"
+  },
+  {
+    "id": "garden_snail",
+    "name": "Garden Snail",
+    "category": "Domestic",
+    "fact": "Garden snails have thousands of tiny teeth on their tongue!"
+  },
+  {
+    "id": "golden_retriever",
+    "name": "Golden Retriever",
+    "category": "Domestic",
+    "fact": "Golden retrievers have 'soft mouths' and can carry eggs without breaking them!"
+  },
+  {
+    "id": "goldfish",
+    "name": "Goldfish",
+    "category": "Domestic",
+    "fact": "Goldfish can recognize faces and can be trained to push levers for food!"
+  },
+  {
+    "id": "grey_squirrel",
+    "name": "Grey Squirrel",
+    "category": "Domestic",
+    "fact": "Grey Squirrels can find buried nuts even under snow!"
+  },
+  {
+    "id": "guinea_pig",
+    "name": "Guinea Pig",
+    "category": "Domestic",
+    "fact": "Guinea pigs can't make their own vitamin C and must get it from food!"
+  },
+  {
+    "id": "hamster",
+    "name": "Hamster",
+    "category": "Domestic",
+    "fact": "Hamsters have pouches in their cheeks that can stretch to their shoulders!"
+  },
+  {
+    "id": "honey_bee",
+    "name": "Honey Bee",
+    "category": "Domestic",
+    "fact": "Bees dance to tell other bees where to find flowers!"
+  },
+  {
+    "id": "house_finch",
+    "name": "House Finch",
+    "category": "Domestic",
+    "fact": "Male house finches get their red color from berries they eat!"
+  },
+  {
+    "id": "house_sparrow",
+    "name": "House Sparrow",
+    "category": "Domestic",
+    "fact": "House sparrows take dust baths to keep their feathers clean!"
+  },
+  {
+    "id": "magpie",
+    "name": "Magpie",
+    "category": "Domestic",
+    "fact": "Magpies are one of the few animals that can recognize themselves in a mirror!"
+  },
+  {
+    "id": "monarch_butterfly",
+    "name": "Monarch Butterfly",
+    "category": "Domestic",
+    "fact": "Monarch butterflies travel 3000 miles every year!"
+  },
+  {
+    "id": "parakeet",
+    "name": "Parakeet",
+    "category": "Domestic",
+    "fact": "Parakeets can learn over 100 words and live up to 20 years!"
+  },
+  {
+    "id": "parakeet_feral",
+    "name": "Parakeet (Feral)",
+    "category": "Domestic",
+    "fact": "Parakeets can learn over 100 words and live 20 years!"
+  },
+  {
+    "id": "peregrine_falcon",
+    "name": "Peregrine Falcon",
+    "category": "Domestic",
+    "fact": "Peregrine falcons are the fastest animals, diving at 240 mph!"
+  },
+  {
+    "id": "pot_bellied_pig",
+    "name": "Pot-bellied Pig",
+    "category": "Domestic",
+    "fact": "Pot-bellied pigs can learn to use a litter box and respond to their name!"
+  },
+  {
+    "id": "rabbit",
+    "name": "Rabbit",
+    "category": "Domestic",
+    "fact": "Rabbits can jump nearly 1 meter high and have 360-degree vision!"
+  },
+  {
+    "id": "red_tailed_hawk",
+    "name": "Red-tailed Hawk",
+    "category": "Domestic",
+    "fact": "Red-tailed hawk screams are used in movies for all eagles!"
+  },
+  {
+    "id": "rock_pigeon",
+    "name": "Rock Pigeon",
+    "category": "Domestic",
+    "fact": "Rock Pigeons are smarter than dogs!"
+  },
+  {
+    "id": "seagull",
+    "name": "Seagull",
+    "category": "Domestic",
+    "fact": "Seagulls can drink salt water because they have special glands that remove the salt!"
+  },
+  {
+    "id": "siamese_cat",
+    "name": "Siamese Cat",
+    "category": "Domestic",
+    "fact": "Siamese cats are born white and develop their points as they get older!"
+  },
+  {
+    "id": "tabby_cat",
+    "name": "Tabby Cat",
+    "category": "Domestic",
+    "fact": "Tabby cats have an M pattern on their forehead that's believed to be from Mohammed's blessing!"
+  },
+  {
+    "id": "turtle",
+    "name": "Turtle",
+    "category": "Domestic",
+    "fact": "Turtles can breathe through their butt when underwater!"
+  },
+  {
+    "id": "american_black_bear",
+    "name": "American Black Bear",
+    "category": "Forest",
+    "fact": "American Black Bears can smell food from 20 miles away!"
+  },
+  {
+    "id": "blue_jay",
+    "name": "Blue Jay",
+    "category": "Forest",
+    "fact": "Blue jays can mimic hawk calls to scare other birds away from food!"
+  },
+  {
+    "id": "bobcat",
+    "name": "Bobcat",
+    "category": "Forest",
+    "fact": "Bobcats spend 70% of their lives sleeping!"
+  },
+  {
+    "id": "box_turtle",
+    "name": "Box Turtle",
+    "category": "Forest",
+    "fact": "Box turtles can live over 100 years and remember where food grows!"
+  },
+  {
+    "id": "chipmunk",
+    "name": "Chipmunk",
+    "category": "Forest",
+    "fact": "Chipmunks can carry food in their cheek pouches and store up to 8 kg of nuts for winter!"
+  },
+  {
+    "id": "cooper_s_hawk",
+    "name": "Cooper's Hawk",
+    "category": "Forest",
+    "fact": "Coopers hawks can fly through dense forests at high speed!"
+  },
+  {
+    "id": "eastern_gray_squirrel",
+    "name": "Eastern Gray Squirrel",
+    "category": "Forest",
+    "fact": "Eastern Gray Squirrels can find buried nuts even under snow!"
+  },
+  {
+    "id": "elk",
+    "name": "Elk",
+    "category": "Forest",
+    "fact": "Elk can jump 2.4 meters high and their antlers can grow 2.5 cm per day!"
+  },
+  {
+    "id": "european_robin",
+    "name": "European Robin",
+    "category": "Forest",
+    "fact": "Robins can see magnetic fields to navigate!"
+  },
+  {
+    "id": "garter_snake",
+    "name": "Garter Snake",
+    "category": "Forest",
+    "fact": "Garter snakes are harmless and eat garden pests!"
+  },
+  {
+    "id": "moose",
+    "name": "Moose",
+    "category": "Forest",
+    "fact": "Moose antlers can grow up to 2 meters wide and fall off every winter!"
+  },
+  {
+    "id": "pileated_woodpecker",
+    "name": "Pileated Woodpecker",
+    "category": "Forest",
+    "fact": "Pileated woodpeckers make holes big enough for owls to use!"
+  },
+  {
+    "id": "pine_marten",
+    "name": "Pine Marten",
+    "category": "Forest",
+    "fact": "Pine martens can catch squirrels in trees!"
+  },
+  {
+    "id": "porcupine",
+    "name": "Porcupine",
+    "category": "Forest",
+    "fact": "Porcupines have up to 30,000 quills that they can shoot out when threatened!"
+  },
+  {
+    "id": "raven",
+    "name": "Raven",
+    "category": "Forest",
+    "fact": "Ravens can solve puzzles and even play tricks on each other!"
+  },
+  {
+    "id": "red_fox",
+    "name": "Red Fox",
+    "category": "Forest",
+    "fact": "Red Foxes can hear a mouse under the snow from far away!"
+  },
+  {
+    "id": "white_tailed_deer",
+    "name": "White-tailed Deer",
+    "category": "Forest",
+    "fact": "White-tailed Deer grow new antlers every single year!"
+  },
+  {
+    "id": "wild_boar",
+    "name": "Wild Boar",
+    "category": "Forest",
+    "fact": "Wild boars have tough skin that can stop arrows and they're excellent swimmers!"
+  },
+  {
+    "id": "wild_turkey",
+    "name": "Wild Turkey",
+    "category": "Forest",
+    "fact": "Wild turkeys can fly up to 55 miles per hour!"
+  },
+  {
+    "id": "wood_frog",
+    "name": "Wood Frog",
+    "category": "Forest",
+    "fact": "Wood frogs freeze solid in winter and thaw alive in spring!"
+  },
+  {
+    "id": "blue_morpho_butterfly",
+    "name": "Blue Morpho Butterfly",
+    "category": "Jungle",
+    "fact": "Blue morpho wings shimmer because of tiny scales, not pigment!"
+  },
+  {
+    "id": "capybara",
+    "name": "Capybara",
+    "category": "Jungle",
+    "fact": "Capybaras are the worlds largest rodents and love to swim!"
+  },
+  {
+    "id": "cassowary",
+    "name": "Cassowary",
+    "category": "Jungle",
+    "fact": "Cassowaries have a helmet-like crest and powerful kicks!"
+  },
+  {
+    "id": "chimpanzee",
+    "name": "Chimpanzee",
+    "category": "Jungle",
+    "fact": "Chimps use tools like sticks to catch termites!"
+  },
+  {
+    "id": "gorilla",
+    "name": "Gorilla",
+    "category": "Jungle",
+    "fact": "Gorillas can learn sign language!"
+  },
+  {
+    "id": "green_anaconda",
+    "name": "Green Anaconda",
+    "category": "Jungle",
+    "fact": "Green Anacondas can swallow animals bigger than their head!"
+  },
+  {
+    "id": "harpy_eagle",
+    "name": "Harpy Eagle",
+    "category": "Jungle",
+    "fact": "Harpy Eagles can spot a rabbit from 2 miles away!"
+  },
+  {
+    "id": "howler_monkey",
+    "name": "Howler Monkey",
+    "category": "Jungle",
+    "fact": "Howler Monkeys can turn their heads almost all the way around!"
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar",
+    "category": "Jungle",
+    "fact": "Jaguars have the strongest bite of all big cats!"
+  },
+  {
+    "id": "leafcutter_ant",
+    "name": "Leafcutter Ant",
+    "category": "Jungle",
+    "fact": "Leafcutter ants don't eat leaves - they use them to grow fungus that they eat!"
+  },
+  {
+    "id": "macaw",
+    "name": "Macaw",
+    "category": "Jungle",
+    "fact": "Macaws can live over 80 years and mate for life!"
+  },
+  {
+    "id": "okapi",
+    "name": "Okapi",
+    "category": "Jungle",
+    "fact": "Okapis are the only living relatives of giraffes and have zebra-striped legs!"
+  },
+  {
+    "id": "orangutan",
+    "name": "Orangutan",
+    "category": "Jungle",
+    "fact": "Orangutans build a new nest to sleep in every night!"
+  },
+  {
+    "id": "poison_dart_frog",
+    "name": "Poison Dart Frog",
+    "category": "Jungle",
+    "fact": "One tiny poison dart frog has enough venom to harm 10 people!"
+  },
+  {
+    "id": "rhinoceros_hornbill",
+    "name": "Rhinoceros Hornbill",
+    "category": "Jungle",
+    "fact": "Hornbills have a hollow horn that makes their calls louder!"
+  },
+  {
+    "id": "spider_monkey",
+    "name": "Spider Monkey",
+    "category": "Jungle",
+    "fact": "Spider monkeys have a prehensile tail that works like a fifth arm!"
+  },
+  {
+    "id": "tapir",
+    "name": "Tapir",
+    "category": "Jungle",
+    "fact": "Tapirs are related to horses and rhinos and can use their nose as a snorkel!"
+  },
+  {
+    "id": "three_toed_sloth",
+    "name": "Three-toed Sloth",
+    "category": "Jungle",
+    "fact": "Three-toed Sloths are so slow that algae grows on their fur!"
+  },
+  {
+    "id": "toucan",
+    "name": "Toucan",
+    "category": "Jungle",
+    "fact": "A toucan's bill is light and hollow like a honeycomb!"
+  },
+  {
+    "id": "tree_kangaroo",
+    "name": "Tree Kangaroo",
+    "category": "Jungle",
+    "fact": "Baby kangaroos are called joeys and live in mom's pouch!"
+  },
+  {
+    "id": "addax",
+    "name": "Addax",
+    "category": "Nocturnal",
+    "fact": "Addax can survive months in the desert without drinking water!"
+  },
+  {
+    "id": "arctic_fox",
+    "name": "Arctic Fox",
+    "category": "Nocturnal",
+    "fact": "Arctic Foxes can hear a mouse under the snow from far away!"
+  },
+  {
+    "id": "arctic_wolf",
+    "name": "Arctic Wolf",
+    "category": "Nocturnal",
+    "fact": "Wolves howl to talk to their pack from far away!"
+  },
+  {
+    "id": "aye_aye",
+    "name": "Aye-Aye",
+    "category": "Nocturnal",
+    "fact": "Aye-ayes have a long middle finger they use to tap on wood and find insects!"
+  },
+  {
+    "id": "badger",
+    "name": "Badger",
+    "category": "Nocturnal",
+    "fact": "Badgers can dig through concrete and their jaws can lock onto prey with incredible force!"
+  },
+  {
+    "id": "banded_coral_shrimp",
+    "name": "Banded Coral Shrimp",
+    "category": "Nocturnal",
+    "fact": "Cleaner shrimp set up stations where fish line up for cleaning!"
+  },
+  {
+    "id": "bark_scorpion",
+    "name": "Bark Scorpion",
+    "category": "Nocturnal",
+    "fact": "Bark scorpions can survive being frozen and thaw back to life!"
+  },
+  {
+    "id": "basket_star",
+    "name": "Basket Star",
+    "category": "Nocturnal",
+    "fact": "Basket stars are starfish with arms that branch out like a basket to catch floating food!"
+  },
+  {
+    "id": "big_brown_bat",
+    "name": "Big Brown Bat",
+    "category": "Nocturnal",
+    "fact": "Big Brown Bats are the only mammals that can truly fly!"
+  },
+  {
+    "id": "bigeye_soldierfish",
+    "name": "Bigeye Soldierfish",
+    "category": "Nocturnal",
+    "fact": "Soldierfish have huge eyes to see in the dark reef!"
+  },
+  {
+    "id": "bighorn_sheep",
+    "name": "Bighorn Sheep",
+    "category": "Nocturnal",
+    "fact": "Bighorn sheep rams crash heads at 20 miles per hour!"
+  },
+  {
+    "id": "black_crappie",
+    "name": "Black Crappie",
+    "category": "Nocturnal",
+    "fact": "Crappies build nests and guard their eggs!"
+  },
+  {
+    "id": "black_crowned_night_heron",
+    "name": "Black-crowned Night Heron",
+    "category": "Nocturnal",
+    "fact": "Night herons drop bait to lure fish!"
+  },
+  {
+    "id": "bobtail_squid",
+    "name": "Bobtail Squid",
+    "category": "Nocturnal",
+    "fact": "Bobtail squid glow in the dark to hide their shadow from predators!"
+  },
+  {
+    "id": "boreal_owl",
+    "name": "Boreal Owl",
+    "category": "Nocturnal",
+    "fact": "Boreal Owls can turn their heads almost all the way around!"
+  },
+  {
+    "id": "brittle_star",
+    "name": "Brittle Star",
+    "category": "Nocturnal",
+    "fact": "Brittle stars can drop their arms to escape and regrow them!"
+  },
+  {
+    "id": "brown_rat",
+    "name": "Brown Rat",
+    "category": "Nocturnal",
+    "fact": "Rats laugh when tickled and can be trained to play hide and seek!"
+  },
+  {
+    "id": "bullfrog",
+    "name": "Bullfrog",
+    "category": "Nocturnal",
+    "fact": "Bullfrogs can eat anything they can fit in their mouth, even birds!"
+  },
+  {
+    "id": "burbot",
+    "name": "Burbot",
+    "category": "Nocturnal",
+    "fact": "Burbot are the only freshwater fish in the cod family!"
+  },
+  {
+    "id": "cactus_wren",
+    "name": "Cactus Wren",
+    "category": "Nocturnal",
+    "fact": "Cactus wrens build nests inside spiny cacti for protection!"
+  },
+  {
+    "id": "california_spiny_lobster",
+    "name": "California Spiny Lobster",
+    "category": "Nocturnal",
+    "fact": "Spiny lobsters migrate in long single-file lines!"
+  },
+  {
+    "id": "camel_spider",
+    "name": "Camel Spider",
+    "category": "Nocturnal",
+    "fact": "Camel spiders are not spiders and cannot hurt humans!"
+  },
+  {
+    "id": "caracal",
+    "name": "Caracal",
+    "category": "Nocturnal",
+    "fact": "Caracals can leap 10 feet in the air to catch birds!"
+  },
+  {
+    "id": "cardinalfish",
+    "name": "Cardinalfish",
+    "category": "Nocturnal",
+    "fact": "Male cardinalfish carry eggs in their mouths!"
+  },
+  {
+    "id": "catfish",
+    "name": "Catfish",
+    "category": "Nocturnal",
+    "fact": "Catfishs spend 70% of their lives sleeping!"
+  },
+  {
+    "id": "cave_boa",
+    "name": "Cave Boa",
+    "category": "Nocturnal",
+    "fact": "Cave boas catch bats flying out of caves!"
+  },
+  {
+    "id": "cave_crayfish",
+    "name": "Cave Crayfish",
+    "category": "Nocturnal",
+    "fact": "Cave crayfish are white from living in darkness!"
+  },
+  {
+    "id": "cave_cricket",
+    "name": "Cave Cricket",
+    "category": "Nocturnal",
+    "fact": "Cave crickets have extra long antennae to feel in the dark!"
+  },
+  {
+    "id": "cave_rat",
+    "name": "Cave Rat",
+    "category": "Nocturnal",
+    "fact": "Cave rats help spread seeds near cave entrances!"
+  },
+  {
+    "id": "cave_salamander",
+    "name": "Cave Salamander",
+    "category": "Nocturnal",
+    "fact": "Cave salamanders glow orange and live 20 years!"
+  },
+  {
+    "id": "cave_shrimp",
+    "name": "Cave Shrimp",
+    "category": "Nocturnal",
+    "fact": "Cave shrimp are see-through and live in underground streams!"
+  },
+  {
+    "id": "cave_spider",
+    "name": "Cave Spider",
+    "category": "Nocturnal",
+    "fact": "Cave spiders spin webs in total darkness!"
+  },
+  {
+    "id": "cave_swiftlet",
+    "name": "Cave Swiftlet",
+    "category": "Nocturnal",
+    "fact": "Swiftlets build nests from their own saliva!"
+  },
+  {
+    "id": "centipede",
+    "name": "Centipede",
+    "category": "Nocturnal",
+    "fact": "Despite their name, centipedes never have exactly 100 legs!"
+  },
+  {
+    "id": "chuckwalla",
+    "name": "Chuckwalla",
+    "category": "Nocturnal",
+    "fact": "Chuckwallas puff up in rock cracks so predators cant pull them out!"
+  },
+  {
+    "id": "clouded_leopard",
+    "name": "Clouded Leopard",
+    "category": "Nocturnal",
+    "fact": "Clouded leopards can hang upside down from branches!"
+  },
+  {
+    "id": "common_octopus",
+    "name": "Common Octopus",
+    "category": "Nocturnal",
+    "fact": "Common Octopuses have three hearts and blue blood!"
+  },
+  {
+    "id": "common_snapping_turtle",
+    "name": "Common Snapping Turtle",
+    "category": "Nocturnal",
+    "fact": "Snapping turtles have a bite force of 1000 pounds!"
+  },
+  {
+    "id": "conger_eel",
+    "name": "Conger Eel",
+    "category": "Nocturnal",
+    "fact": "Conger eels can grow over 9 feet long!"
+  },
+  {
+    "id": "cookiecutter_shark",
+    "name": "Cookiecutter Shark",
+    "category": "Nocturnal",
+    "fact": "Cookiecutter Sharks have been around longer than trees!"
+  },
+  {
+    "id": "crayfish",
+    "name": "Crayfish",
+    "category": "Nocturnal",
+    "fact": "Crayfish can regenerate their claws if they lose them!"
+  },
+  {
+    "id": "decorator_crab",
+    "name": "Decorator Crab",
+    "category": "Nocturnal",
+    "fact": "Decorator crabs stick things to their shell for camouflage!"
+  },
+  {
+    "id": "deep_sea_hatchetfish",
+    "name": "Deep-sea Hatchetfish",
+    "category": "Nocturnal",
+    "fact": "Hatchetfish use lights to hide their shadow from below!"
+  },
+  {
+    "id": "desert_hedgehog",
+    "name": "Desert Hedgehog",
+    "category": "Nocturnal",
+    "fact": "Desert Hedgehogs have about 5,000 spines on their back!"
+  },
+  {
+    "id": "desert_tortoise",
+    "name": "Desert Tortoise",
+    "category": "Nocturnal",
+    "fact": "Desert tortoises dig burrows to escape the heat!"
+  },
+  {
+    "id": "dromedary_camel",
+    "name": "Dromedary Camel",
+    "category": "Nocturnal",
+    "fact": "Camels can drink 30 gallons of water in 13 minutes!"
+  },
+  {
+    "id": "eel",
+    "name": "Eel",
+    "category": "Nocturnal",
+    "fact": "Eels can travel over land when it rains to find new ponds!"
+  },
+  {
+    "id": "elf_owl",
+    "name": "Elf Owl",
+    "category": "Nocturnal",
+    "fact": "Elf Owls can turn their heads almost all the way around!"
+  },
+  {
+    "id": "emperor_scorpion",
+    "name": "Emperor Scorpion",
+    "category": "Nocturnal",
+    "fact": "Emperor scorpions glow bright blue under UV light!"
+  },
+  {
+    "id": "fennec_fox",
+    "name": "Fennec Fox",
+    "category": "Nocturnal",
+    "fact": "Fennec Foxes can hear a mouse under the snow from far away!"
+  },
+  {
+    "id": "firefly",
+    "name": "Firefly",
+    "category": "Nocturnal",
+    "fact": "Fireflies flash in patterns to attract mates and some synchronize their flashes!"
+  },
+  {
+    "id": "firefly_squid",
+    "name": "Firefly Squid",
+    "category": "Nocturnal",
+    "fact": "Firefly squid light up the ocean with blue glow!"
+  },
+  {
+    "id": "fishing_cat",
+    "name": "Fishing Cat",
+    "category": "Nocturnal",
+    "fact": "Fishing Cats spend 70% of their lives sleeping!"
+  },
+  {
+    "id": "flashlight_fish",
+    "name": "Flashlight Fish",
+    "category": "Nocturnal",
+    "fact": "Flashlight fish have organs under their eyes that produce bright light!"
+  },
+  {
+    "id": "flying_fox",
+    "name": "Flying Fox",
+    "category": "Nocturnal",
+    "fact": "Flying Foxes can hear a mouse under the snow from far away!"
+  },
+  {
+    "id": "flying_squirrel",
+    "name": "Flying Squirrel",
+    "category": "Nocturnal",
+    "fact": "Flying Squirrels can find buried nuts even under snow!"
+  },
+  {
+    "id": "freshwater_crab",
+    "name": "Freshwater Crab",
+    "category": "Nocturnal",
+    "fact": "Freshwater crabs can breathe air and walk on land!"
+  },
+  {
+    "id": "freshwater_shrimp",
+    "name": "Freshwater Shrimp",
+    "category": "Nocturnal",
+    "fact": "Freshwater shrimp keep water clean by eating algae!"
+  },
+  {
+    "id": "fruit_bat",
+    "name": "Fruit Bat",
+    "category": "Nocturnal",
+    "fact": "Fruit Bats are the only mammals that can truly fly!"
+  },
+  {
+    "id": "galago_bushbaby",
+    "name": "Galago (Bushbaby)",
+    "category": "Nocturnal",
+    "fact": "Bushbabies can jump 6 feet straight up!"
+  },
+  {
+    "id": "gecko",
+    "name": "Gecko",
+    "category": "Nocturnal",
+    "fact": "Geckos can walk on walls using microscopic hairs that create molecular attraction!"
+  },
+  {
+    "id": "ghost_crab",
+    "name": "Ghost Crab",
+    "category": "Nocturnal",
+    "fact": "Ghost crabs can run sideways at 10 miles per hour!"
+  },
+  {
+    "id": "giant_salamander",
+    "name": "Giant Salamander",
+    "category": "Nocturnal",
+    "fact": "Giant salamanders can grow over 5 feet long!"
+  },
+  {
+    "id": "gila_monster",
+    "name": "Gila Monster",
+    "category": "Nocturnal",
+    "fact": "Gila monsters are one of the only venomous lizards in the world!"
+  },
+  {
+    "id": "glowworm",
+    "name": "Glowworm",
+    "category": "Nocturnal",
+    "fact": "Glowworms light up cave ceilings like tiny stars!"
+  },
+  {
+    "id": "great_horned_owl",
+    "name": "Great Horned Owl",
+    "category": "Nocturnal",
+    "fact": "Great Horned Owls can turn their heads almost all the way around!"
+  },
+  {
+    "id": "greenland_shark",
+    "name": "Greenland Shark",
+    "category": "Nocturnal",
+    "fact": "Greenland Sharks have been around longer than trees!"
+  },
+  {
+    "id": "horned_lizard",
+    "name": "Horned Lizard",
+    "category": "Nocturnal",
+    "fact": "Horned lizards can squirt blood from their eyes to scare predators!"
+  },
+  {
+    "id": "horseshoe_crab",
+    "name": "Horseshoe Crab",
+    "category": "Nocturnal",
+    "fact": "Horseshoe Crabs can sleep standing up!"
+  },
+  {
+    "id": "house_mouse",
+    "name": "House Mouse",
+    "category": "Nocturnal",
+    "fact": "Mice can squeeze through holes as small as a dime!"
+  },
+  {
+    "id": "humboldt_squid",
+    "name": "Humboldt Squid",
+    "category": "Nocturnal",
+    "fact": "Humboldt squid hunt in packs and flash colors to talk!"
+  },
+  {
+    "id": "hyena_denning",
+    "name": "Hyena (Denning)",
+    "category": "Nocturnal",
+    "fact": "Hyenas have the strongest bite of almost any mammal!"
+  },
+  {
+    "id": "jerboa",
+    "name": "Jerboa",
+    "category": "Nocturnal",
+    "fact": "Jerboas can hop 3 meters high and use their tail for balance!"
+  },
+  {
+    "id": "kangaroo_rat",
+    "name": "Kangaroo Rat",
+    "category": "Nocturnal",
+    "fact": "Baby kangaroos are called joeys and live in mom's pouch!"
+  },
+  {
+    "id": "kinkajou",
+    "name": "Kinkajou",
+    "category": "Nocturnal",
+    "fact": "Kinkajous have a 5-inch long tongue they use to reach nectar in flowers!"
+  },
+  {
+    "id": "kit_fox",
+    "name": "Kit Fox",
+    "category": "Nocturnal",
+    "fact": "Kit Foxes can hear a mouse under the snow from far away!"
+  },
+  {
+    "id": "krill",
+    "name": "Krill",
+    "category": "Nocturnal",
+    "fact": "Krill are the most abundant animal species on Earth with a total weight of 500 million tons!"
+  },
+  {
+    "id": "lanternfish",
+    "name": "Lanternfish",
+    "category": "Nocturnal",
+    "fact": "Lanternfish have light-producing organs called photophores that glow in the dark!"
+  },
+  {
+    "id": "lionfish",
+    "name": "Lionfish",
+    "category": "Nocturnal",
+    "fact": "Lionfishs are the only cats that live in groups called prides!"
+  },
+  {
+    "id": "little_brown_bat",
+    "name": "Little Brown Bat",
+    "category": "Nocturnal",
+    "fact": "Little Brown Bats are the only mammals that can truly fly!"
+  },
+  {
+    "id": "luna_moth",
+    "name": "Luna Moth",
+    "category": "Nocturnal",
+    "fact": "Luna moths have no mouth and only live for about a week!"
+  },
+  {
+    "id": "lynx",
+    "name": "Lynx",
+    "category": "Nocturnal",
+    "fact": "Lynx have huge paws that work like snowshoes to help them walk on snow!"
+  },
+  {
+    "id": "margay",
+    "name": "Margay",
+    "category": "Nocturnal",
+    "fact": "Margays can mimic the sounds of baby monkeys to lure prey!"
+  },
+  {
+    "id": "marsh_owl",
+    "name": "Marsh Owl",
+    "category": "Nocturnal",
+    "fact": "Marsh Owls can turn their heads almost all the way around!"
+  },
+  {
+    "id": "meerkat",
+    "name": "Meerkat",
+    "category": "Nocturnal",
+    "fact": "Meerkats take turns standing guard while others look for food!"
+  },
+  {
+    "id": "mexican_free_tailed_bat",
+    "name": "Mexican Free-tailed Bat",
+    "category": "Nocturnal",
+    "fact": "Mexican Free-tailed Bats are the only mammals that can truly fly!"
+  },
+  {
+    "id": "mexican_tetra_blind_cave_fish",
+    "name": "Mexican Tetra (Blind Cave Fish)",
+    "category": "Nocturnal",
+    "fact": "Cave fish lost their eyes because they dont need them!"
+  },
+  {
+    "id": "millipede",
+    "name": "Millipede",
+    "category": "Nocturnal",
+    "fact": "Millipedes curl into a ball and release stinky chemicals when scared!"
+  },
+  {
+    "id": "mink",
+    "name": "Mink",
+    "category": "Nocturnal",
+    "fact": "Minks can swim underwater and catch fish with their sharp teeth!"
+  },
+  {
+    "id": "monitor_lizard",
+    "name": "Monitor Lizard",
+    "category": "Nocturnal",
+    "fact": "Monitor lizards have forked tongues like snakes to smell prey!"
+  },
+  {
+    "id": "moray_eel",
+    "name": "Moray Eel",
+    "category": "Nocturnal",
+    "fact": "Moray eels have a second set of jaws in their throat that grab prey and pull it down!"
+  },
+  {
+    "id": "moth",
+    "name": "Moth",
+    "category": "Nocturnal",
+    "fact": "Moths navigate by the moon and some can fly up to 60 km/h!"
+  },
+  {
+    "id": "necturus_mudpuppy",
+    "name": "Necturus (Mudpuppy)",
+    "category": "Nocturnal",
+    "fact": "Mudpuppies keep their gills their whole life!"
+  },
+  {
+    "id": "northern_collared_lemming",
+    "name": "Northern Collared Lemming",
+    "category": "Nocturnal",
+    "fact": "Lemmings are one of few rodents that turn white in winter!"
+  },
+  {
+    "id": "nudibranch",
+    "name": "Nudibranch",
+    "category": "Nocturnal",
+    "fact": "Nudibranchs are sea slugs that come in thousands of bright colors and patterns!"
+  },
+  {
+    "id": "oilbird",
+    "name": "Oilbird",
+    "category": "Nocturnal",
+    "fact": "Oilbirds use echolocation like bats to fly in dark caves!"
+  },
+  {
+    "id": "olm_proteus",
+    "name": "Olm (Proteus)",
+    "category": "Nocturnal",
+    "fact": "Olms can live 100 years and survive 10 years without food!"
+  },
+  {
+    "id": "ostrich",
+    "name": "Ostrich",
+    "category": "Nocturnal",
+    "fact": "Ostrich eyes are bigger than their brains!"
+  },
+  {
+    "id": "otter",
+    "name": "Otter",
+    "category": "Nocturnal",
+    "fact": "Otters hold hands while sleeping so they do not drift apart!"
+  },
+  {
+    "id": "pacific_hagfish",
+    "name": "Pacific Hagfish",
+    "category": "Nocturnal",
+    "fact": "Hagfish produce buckets of slime when attacked!"
+  },
+  {
+    "id": "peccary_javelina",
+    "name": "Peccary (Javelina)",
+    "category": "Nocturnal",
+    "fact": "Javelinas rub scent on each other to recognize family!"
+  },
+  {
+    "id": "possum",
+    "name": "Possum",
+    "category": "Nocturnal",
+    "fact": "Possums play dead so well that predators lose interest!"
+  },
+  {
+    "id": "pronghorn",
+    "name": "Pronghorn",
+    "category": "Nocturnal",
+    "fact": "Pronghorns are the second fastest land animal after cheetahs!"
+  },
+  {
+    "id": "raccoon",
+    "name": "Raccoon",
+    "category": "Nocturnal",
+    "fact": "Raccoons have 'hands' with five fingers and can remember solutions to tasks for 3 years!"
+  },
+  {
+    "id": "red_fox_urban",
+    "name": "Red Fox (Urban)",
+    "category": "Nocturnal",
+    "fact": "Red Fox (Urban)es can hear a mouse under the snow from far away!"
+  },
+  {
+    "id": "red_kangaroo",
+    "name": "Red Kangaroo",
+    "category": "Nocturnal",
+    "fact": "Baby kangaroos are called joeys and live in mom's pouch!"
+  },
+  {
+    "id": "reef_shark",
+    "name": "Reef Shark",
+    "category": "Nocturnal",
+    "fact": "Reef Sharks have been around longer than trees!"
+  },
+  {
+    "id": "roadrunner",
+    "name": "Roadrunner",
+    "category": "Nocturnal",
+    "fact": "Roadrunners can run 20 miles per hour and catch rattlesnakes!"
+  },
+  {
+    "id": "sand_cat",
+    "name": "Sand Cat",
+    "category": "Nocturnal",
+    "fact": "Sand Cats spend 70% of their lives sleeping!"
+  },
+  {
+    "id": "sea_cucumber",
+    "name": "Sea Cucumber",
+    "category": "Nocturnal",
+    "fact": "Sea cucumbers can eject their guts to escape predators, then regrow them!"
+  },
+  {
+    "id": "short_tailed_weasel",
+    "name": "Short-tailed Weasel",
+    "category": "Nocturnal",
+    "fact": "Weasels do a war dance to confuse their prey!"
+  },
+  {
+    "id": "sidewinder_rattlesnake",
+    "name": "Sidewinder Rattlesnake",
+    "category": "Nocturnal",
+    "fact": "Sidewinders move sideways to travel quickly over hot sand!"
+  },
+  {
+    "id": "skunk",
+    "name": "Skunk",
+    "category": "Nocturnal",
+    "fact": "Skunk spray can be detected up to 3.5 km away and can cause temporary blindness!"
+  },
+  {
+    "id": "slow_loris",
+    "name": "Slow Loris",
+    "category": "Nocturnal",
+    "fact": "Slow lorises are one of the few venomous mammals!"
+  },
+  {
+    "id": "snipe_eel",
+    "name": "Snipe Eel",
+    "category": "Nocturnal",
+    "fact": "Snipe eels have jaws that curve away from each other, making them look like a pair of scissors!"
+  },
+  {
+    "id": "spanish_dancer",
+    "name": "Spanish Dancer",
+    "category": "Nocturnal",
+    "fact": "Spanish dancer sea slugs swim by rippling like a flamenco dress!"
+  },
+  {
+    "id": "spectacled_caiman",
+    "name": "Spectacled Caiman",
+    "category": "Nocturnal",
+    "fact": "Caimans are related to alligators!"
+  },
+  {
+    "id": "spectacled_eider",
+    "name": "Spectacled Eider",
+    "category": "Nocturnal",
+    "fact": "Spectacled eiders have white goggle markings!"
+  },
+  {
+    "id": "spider_house",
+    "name": "Spider (House)",
+    "category": "Nocturnal",
+    "fact": "House spiders help by eating flies and mosquitoes!"
+  },
+  {
+    "id": "squirrelfish",
+    "name": "Squirrelfish",
+    "category": "Nocturnal",
+    "fact": "Squirrelfishs can find buried nuts even under snow!"
+  },
+  {
+    "id": "stoplight_loosejaw",
+    "name": "Stoplight Loosejaw",
+    "category": "Nocturnal",
+    "fact": "This fish has a lower jaw that can detach and swing forward to catch prey!"
+  },
+  {
+    "id": "striped_skunk",
+    "name": "Striped Skunk",
+    "category": "Nocturnal",
+    "fact": "Skunks warn predators by stomping their feet before spraying!"
+  },
+  {
+    "id": "sugar_glider",
+    "name": "Sugar Glider",
+    "category": "Nocturnal",
+    "fact": "Sugar gliders can glide up to 45 meters using a membrane between their legs!"
+  },
+  {
+    "id": "tarantula_hawk",
+    "name": "Tarantula Hawk",
+    "category": "Nocturnal",
+    "fact": "Tarantula hawks have one of the most painful stings of any insect!"
+  },
+  {
+    "id": "tarsier",
+    "name": "Tarsier",
+    "category": "Nocturnal",
+    "fact": "Tarsiers have the largest eyes relative to body size of any mammal!"
+  },
+  {
+    "id": "thorny_devil",
+    "name": "Thorny Devil",
+    "category": "Nocturnal",
+    "fact": "Thorny devils drink water through their skin!"
+  },
+  {
+    "id": "vampire_bat",
+    "name": "Vampire Bat",
+    "category": "Nocturnal",
+    "fact": "Vampire Bats are the only mammals that can truly fly!"
+  },
+  {
+    "id": "virginia_opossum",
+    "name": "Virginia Opossum",
+    "category": "Nocturnal",
+    "fact": "Opossums are immune to most snake venom!"
+  },
+  {
+    "id": "vulture",
+    "name": "Vulture",
+    "category": "Nocturnal",
+    "fact": "Vultures have stomach acid strong enough to kill diseases in rotten meat!"
+  },
+  {
+    "id": "walleye",
+    "name": "Walleye",
+    "category": "Nocturnal",
+    "fact": "Walleyes can see in almost complete darkness!"
+  },
+  {
+    "id": "water_shrew",
+    "name": "Water Shrew",
+    "category": "Nocturnal",
+    "fact": "Water shrews can run on top of water for short distances!"
+  },
+  {
+    "id": "whip_poor_will",
+    "name": "Whip-poor-will",
+    "category": "Nocturnal",
+    "fact": "Whip-poor-wills repeat their call up to 1000 times without stopping!"
+  },
+  {
+    "id": "wolverine",
+    "name": "Wolverine",
+    "category": "Nocturnal",
+    "fact": "Wolverines can take down prey 10 times their size and have teeth strong enough to break bones!"
+  },
+  {
+    "id": "adelie_penguin",
+    "name": "Adelie Penguin",
+    "category": "Arctic",
+    "fact": "Adelie Penguins propose to their mates with a pebble!"
+  },
+  {
+    "id": "arctic_hare",
+    "name": "Arctic Hare",
+    "category": "Arctic",
+    "fact": "Arctic hares can run up to 60 km/h and change from brown to white for winter!"
+  },
+  {
+    "id": "arctic_tern",
+    "name": "Arctic Tern",
+    "category": "Arctic",
+    "fact": "Arctic terns fly from pole to pole, the longest migration ever!"
+  },
+  {
+    "id": "atlantic_puffin",
+    "name": "Atlantic Puffin",
+    "category": "Arctic",
+    "fact": "Puffins can hold over 10 fish in their beak at once!"
+  },
+  {
+    "id": "beluga_whale",
+    "name": "Beluga Whale",
+    "category": "Arctic",
+    "fact": "Blue whales are the biggest animals that ever lived!"
+  },
+  {
+    "id": "crabeater_seal",
+    "name": "Crabeater Seal",
+    "category": "Arctic",
+    "fact": "Crabeater Seals can hold their breath for up to 2 hours!"
+  },
+  {
+    "id": "dall_sheep",
+    "name": "Dall Sheep",
+    "category": "Arctic",
+    "fact": "Dall sheep climb steep cliffs to escape predators!"
+  },
+  {
+    "id": "emperor_penguin",
+    "name": "Emperor Penguin",
+    "category": "Arctic",
+    "fact": "Emperor penguin dads keep eggs warm on their feet!"
+  },
+  {
+    "id": "ermine_stoat",
+    "name": "Ermine (Stoat)",
+    "category": "Arctic",
+    "fact": "Ermines turn white in winter except for their black tail!"
+  },
+  {
+    "id": "harp_seal",
+    "name": "Harp Seal",
+    "category": "Arctic",
+    "fact": "Harp Seals can hold their breath for up to 2 hours!"
+  },
+  {
+    "id": "lemming",
+    "name": "Lemming",
+    "category": "Arctic",
+    "fact": "Contrary to myth, lemmings don't commit mass suicide - they migrate when populations get too high!"
+  },
+  {
+    "id": "leopard_seal",
+    "name": "Leopard Seal",
+    "category": "Arctic",
+    "fact": "Leopard Seals can hold their breath for up to 2 hours!"
+  },
+  {
+    "id": "musk_ox",
+    "name": "Musk Ox",
+    "category": "Arctic",
+    "fact": "Musk oxen have underwool that's 8 times warmer than sheep's wool!"
+  },
+  {
+    "id": "narwhal",
+    "name": "Narwhal",
+    "category": "Arctic",
+    "fact": "Narwhals have a 3-meter long tooth that looks like a unicorn horn!"
+  },
+  {
+    "id": "polar_bear",
+    "name": "Polar Bear",
+    "category": "Arctic",
+    "fact": "Polar bears have black skin under their white fur!"
+  },
+  {
+    "id": "ptarmigan",
+    "name": "Ptarmigan",
+    "category": "Arctic",
+    "fact": "Ptarmigans have feathered feet that act like snowshoes and change color with seasons!"
+  },
+  {
+    "id": "reindeer_caribou",
+    "name": "Reindeer (Caribou)",
+    "category": "Arctic",
+    "fact": "Reindeer (Caribou) grow new antlers every single year!"
+  },
+  {
+    "id": "snowy_owl",
+    "name": "Snowy Owl",
+    "category": "Arctic",
+    "fact": "Snowy Owls can turn their heads almost all the way around!"
+  },
+  {
+    "id": "walrus",
+    "name": "Walrus",
+    "category": "Arctic",
+    "fact": "Walruses use their tusks to pull themselves onto ice!"
+  },
+  {
+    "id": "weddell_seal",
+    "name": "Weddell Seal",
+    "category": "Arctic",
+    "fact": "Weddell Seals can hold their breath for up to 2 hours!"
+  },
+  {
+    "id": "aggregate_anemone",
+    "name": "Aggregate Anemone",
+    "category": "Shallow Water",
+    "fact": "Anemones clone themselves by splitting in half!"
+  },
+  {
+    "id": "american_alligator",
+    "name": "American Alligator",
+    "category": "Shallow Water",
+    "fact": "American Alligators have been around since dinosaur times!"
+  },
+  {
+    "id": "arapaima",
+    "name": "Arapaima",
+    "category": "Shallow Water",
+    "fact": "Arapaima are giant fish that breathe air!"
+  },
+  {
+    "id": "axolotl",
+    "name": "Axolotl",
+    "category": "Shallow Water",
+    "fact": "Axolotls can regrow their legs, tail, and even parts of their brain!"
+  },
+  {
+    "id": "beaver",
+    "name": "Beaver",
+    "category": "Shallow Water",
+    "fact": "Beavers have orange teeth that never stop growing!"
+  },
+  {
+    "id": "black_oystercatcher",
+    "name": "Black Oystercatcher",
+    "category": "Shallow Water",
+    "fact": "Black Oystercatchers spend 70% of their lives sleeping!"
+  },
+  {
+    "id": "brown_trout",
+    "name": "Brown Trout",
+    "category": "Shallow Water",
+    "fact": "Brown trout can jump 6 feet over waterfalls!"
+  },
+  {
+    "id": "chiton",
+    "name": "Chiton",
+    "category": "Shallow Water",
+    "fact": "Chitons have eyes made of actual rock crystals!"
+  },
+  {
+    "id": "common_limpet",
+    "name": "Common Limpet",
+    "category": "Shallow Water",
+    "fact": "Limpets have the strongest teeth of any animal!"
+  },
+  {
+    "id": "dragonfly",
+    "name": "Dragonfly",
+    "category": "Shallow Water",
+    "fact": "Dragonflies can fly in any direction, even backwards!"
+  },
+  {
+    "id": "egret",
+    "name": "Egret",
+    "category": "Shallow Water",
+    "fact": "Egrets grow beautiful feathers called plumes during mating season!"
+  },
+  {
+    "id": "electric_eel",
+    "name": "Electric Eel",
+    "category": "Shallow Water",
+    "fact": "Electric eels can produce 600 volts of electricity!"
+  },
+  {
+    "id": "fiddler_crab",
+    "name": "Fiddler Crab",
+    "category": "Shallow Water",
+    "fact": "Male fiddler crabs have one giant claw they wave to attract females!"
+  },
+  {
+    "id": "flamingo",
+    "name": "Flamingo",
+    "category": "Shallow Water",
+    "fact": "Flamingos are pink because of the shrimp they eat!"
+  },
+  {
+    "id": "freshwater_dolphin",
+    "name": "Freshwater Dolphin",
+    "category": "Shallow Water",
+    "fact": "Freshwater Dolphins sleep with one eye open!"
+  },
+  {
+    "id": "gar",
+    "name": "Gar",
+    "category": "Shallow Water",
+    "fact": "Baby kangaroos are called joeys and live in mom's pouch!"
+  },
+  {
+    "id": "gooseneck_barnacle",
+    "name": "Gooseneck Barnacle",
+    "category": "Shallow Water",
+    "fact": "Gooseneck barnacles travel the world attached to ships!"
+  },
+  {
+    "id": "great_blue_heron",
+    "name": "Great Blue Heron",
+    "category": "Shallow Water",
+    "fact": "Great blue herons swallow fish whole, headfirst!"
+  },
+  {
+    "id": "green_frog",
+    "name": "Green Frog",
+    "category": "Shallow Water",
+    "fact": "Green frogs make a sound like plucking a banjo string!"
+  },
+  {
+    "id": "hellbender_salamander",
+    "name": "Hellbender Salamander",
+    "category": "Shallow Water",
+    "fact": "Hellbenders breathe through their wrinkly skin!"
+  },
+  {
+    "id": "hermit_crab",
+    "name": "Hermit Crab",
+    "category": "Shallow Water",
+    "fact": "Hermit crabs carry their homes on their backs and must find bigger shells as they grow!"
+  },
+  {
+    "id": "hippopotamus",
+    "name": "Hippopotamus",
+    "category": "Shallow Water",
+    "fact": "Hippos make their own pink sunscreen from their sweat!"
+  },
+  {
+    "id": "kingfisher",
+    "name": "Kingfisher",
+    "category": "Shallow Water",
+    "fact": "Kingfishers dive into water at 25 miles per hour to catch fish!"
+  },
+  {
+    "id": "koi",
+    "name": "Koi",
+    "category": "Shallow Water",
+    "fact": "Koi fish can live over 200 years and recognize their owners!"
+  },
+  {
+    "id": "largemouth_bass",
+    "name": "Largemouth Bass",
+    "category": "Shallow Water",
+    "fact": "Bass can eat prey almost as big as themselves!"
+  },
+  {
+    "id": "mallard_duck",
+    "name": "Mallard Duck",
+    "category": "Shallow Water",
+    "fact": "Mallard ducks sleep with one eye open to watch for danger!"
+  },
+  {
+    "id": "marine_iguana",
+    "name": "Marine Iguana",
+    "category": "Shallow Water",
+    "fact": "Marine iguanas sneeze out salt from the ocean water they drink!"
+  },
+  {
+    "id": "marsh_rabbit",
+    "name": "Marsh Rabbit",
+    "category": "Shallow Water",
+    "fact": "Marsh Rabbits can't vomit - they have to eat carefully!"
+  },
+  {
+    "id": "mudskipper",
+    "name": "Mudskipper",
+    "category": "Shallow Water",
+    "fact": "Mudskippers are fish that can walk on land using their fins!"
+  },
+  {
+    "id": "muskrat",
+    "name": "Muskrat",
+    "category": "Shallow Water",
+    "fact": "Muskrats can hold their breath for 20 minutes underwater!"
+  },
+  {
+    "id": "mussel",
+    "name": "Mussel",
+    "category": "Shallow Water",
+    "fact": "Mussels produce byssal threads, often called 'beards', that are as strong as steel!"
+  },
+  {
+    "id": "newt",
+    "name": "Newt",
+    "category": "Shallow Water",
+    "fact": "Newts can regrow lost limbs, eyes, and even parts of their heart!"
+  },
+  {
+    "id": "nile_crocodile",
+    "name": "Nile Crocodile",
+    "category": "Shallow Water",
+    "fact": "Nile Crocodiles can't stick out their tongue!"
+  },
+  {
+    "id": "nutria",
+    "name": "Nutria",
+    "category": "Shallow Water",
+    "fact": "Nutrias have orange teeth from the iron in their enamel!"
+  },
+  {
+    "id": "ochre_sea_star",
+    "name": "Ochre Sea Star",
+    "category": "Shallow Water",
+    "fact": "Sea stars can regrow arms and even whole bodies!"
+  },
+  {
+    "id": "painted_turtle",
+    "name": "Painted Turtle",
+    "category": "Shallow Water",
+    "fact": "Painted turtles can survive being frozen solid in winter!"
+  },
+  {
+    "id": "periwinkle_snail",
+    "name": "Periwinkle Snail",
+    "category": "Shallow Water",
+    "fact": "Periwinkles close their shell door to survive low tide!"
+  },
+  {
+    "id": "piranha",
+    "name": "Piranha",
+    "category": "Shallow Water",
+    "fact": "Piranhas bark like dogs to scare away predators!"
+  },
+  {
+    "id": "platypus",
+    "name": "Platypus",
+    "category": "Shallow Water",
+    "fact": "Platypuses are one of few mammals that lay eggs!"
+  },
+  {
+    "id": "purple_sea_urchin",
+    "name": "Purple Sea Urchin",
+    "category": "Shallow Water",
+    "fact": "Sea urchins have teeth that never stop growing!"
+  },
+  {
+    "id": "red_winged_blackbird",
+    "name": "Red-winged Blackbird",
+    "category": "Shallow Water",
+    "fact": "Male red-winged blackbirds flash their red shoulders to defend territory!"
+  },
+  {
+    "id": "river_otter",
+    "name": "River Otter",
+    "category": "Shallow Water",
+    "fact": "River otters have waterproof fur and can close their nostrils and ears underwater!"
+  },
+  {
+    "id": "roseate_spoonbill",
+    "name": "Roseate Spoonbill",
+    "category": "Shallow Water",
+    "fact": "Spoonbills swing their bills side to side to catch food!"
+  },
+  {
+    "id": "sally_lightfoot_crab",
+    "name": "Sally Lightfoot Crab",
+    "category": "Shallow Water",
+    "fact": "Sally Lightfoot crabs can run across water!"
+  },
+  {
+    "id": "saltwater_crocodile",
+    "name": "Saltwater Crocodile",
+    "category": "Shallow Water",
+    "fact": "Saltwater Crocodiles can't stick out their tongue!"
+  },
+  {
+    "id": "sea_lettuce",
+    "name": "Sea Lettuce",
+    "category": "Shallow Water",
+    "fact": "Sea lettuce is actually edible and tastes like spinach!"
+  },
+  {
+    "id": "sea_palm",
+    "name": "Sea Palm",
+    "category": "Shallow Water",
+    "fact": "Sea palms are seaweed that survive crashing waves!"
+  },
+  {
+    "id": "shoebill_stork",
+    "name": "Shoebill Stork",
+    "category": "Shallow Water",
+    "fact": "Shoebills can stand completely still for hours waiting for prey!"
+  },
+  {
+    "id": "shore_crab",
+    "name": "Shore Crab",
+    "category": "Shallow Water",
+    "fact": "Shore crabs can regenerate lost claws!"
+  },
+  {
+    "id": "sturgeon",
+    "name": "Sturgeon",
+    "category": "Shallow Water",
+    "fact": "Sturgeons have been around since the dinosaurs!"
+  },
+  {
+    "id": "swan",
+    "name": "Swan",
+    "category": "Shallow Water",
+    "fact": "Swans mate for life and can live over 20 years!"
+  },
+  {
+    "id": "tidepool_sculpin",
+    "name": "Tidepool Sculpin",
+    "category": "Shallow Water",
+    "fact": "Sculpins can breathe air when trapped in tide pools!"
+  },
+  {
+    "id": "water_buffalo",
+    "name": "Water Buffalo",
+    "category": "Shallow Water",
+    "fact": "Water buffaloes love to wallow in mud to stay cool!"
+  },
+  {
+    "id": "water_moccasin",
+    "name": "Water Moccasin",
+    "category": "Shallow Water",
+    "fact": "Water moccasins open their white mouths wide to scare predators!"
+  },
+  {
+    "id": "atlantic_bottlenose_dolphin",
+    "name": "Atlantic Bottlenose Dolphin",
+    "category": "Coral Reef",
+    "fact": "Dolphins talk to their friends using clicks and whistles!"
+  },
+  {
+    "id": "blue_tang",
+    "name": "Blue Tang",
+    "category": "Coral Reef",
+    "fact": "Blue tangs can change color based on their mood!"
+  },
+  {
+    "id": "butterflyfish",
+    "name": "Butterflyfish",
+    "category": "Coral Reef",
+    "fact": "Butterflyfish mate for life and can be seen swimming in pairs!"
+  },
+  {
+    "id": "clownfish",
+    "name": "Clownfish",
+    "category": "Coral Reef",
+    "fact": "Clownfish live in sea anemones that protect them from predators!"
+  },
+  {
+    "id": "cuttlefish",
+    "name": "Cuttlefish",
+    "category": "Coral Reef",
+    "fact": "Cuttlefish can change color and pattern in less than a second to communicate or hide!"
+  },
+  {
+    "id": "dugong",
+    "name": "Dugong",
+    "category": "Coral Reef",
+    "fact": "Dugongs are the only sea mammals that eat only plants!"
+  },
+  {
+    "id": "garden_eel",
+    "name": "Garden Eel",
+    "category": "Coral Reef",
+    "fact": "Garden eels live in colonies poking out of the sand!"
+  },
+  {
+    "id": "giant_clam",
+    "name": "Giant Clam",
+    "category": "Coral Reef",
+    "fact": "Giant clams can live over 100 years and can weigh up to 200 kilograms!"
+  },
+  {
+    "id": "great_barracuda",
+    "name": "Great Barracuda",
+    "category": "Coral Reef",
+    "fact": "Barracudas can swim up to 35 miles per hour!"
+  },
+  {
+    "id": "green_sea_turtle",
+    "name": "Green Sea Turtle",
+    "category": "Coral Reef",
+    "fact": "Sea turtles can hold their breath for over 5 hours!"
+  },
+  {
+    "id": "humphead_wrasse",
+    "name": "Humphead Wrasse",
+    "category": "Coral Reef",
+    "fact": "Humphead wrasse can live over 30 years!"
+  },
+  {
+    "id": "loggerhead_turtle",
+    "name": "Loggerhead Turtle",
+    "category": "Coral Reef",
+    "fact": "Loggerheads have powerful jaws to crush shellfish!"
+  },
+  {
+    "id": "manatee",
+    "name": "Manatee",
+    "category": "Coral Reef",
+    "fact": "Manatees are known as sea cows and eat up to 10% of their body weight daily!"
+  },
+  {
+    "id": "manta_ray",
+    "name": "Manta Ray",
+    "category": "Coral Reef",
+    "fact": "Manta rays have the largest brain of any fish!"
+  },
+  {
+    "id": "moorish_idol",
+    "name": "Moorish Idol",
+    "category": "Coral Reef",
+    "fact": "Moorish idols can change color when they sleep or get excited!"
+  },
+  {
+    "id": "parrotfish",
+    "name": "Parrotfish",
+    "category": "Coral Reef",
+    "fact": "Parrotfishs can live to be 80 years old!"
+  },
+  {
+    "id": "pufferfish",
+    "name": "Pufferfish",
+    "category": "Coral Reef",
+    "fact": "Pufferfish contain a poison 1,200 times more deadly than cyanide!"
+  },
+  {
+    "id": "sea_horse",
+    "name": "Sea Horse",
+    "category": "Coral Reef",
+    "fact": "Sea Horses can sleep standing up!"
+  },
+  {
+    "id": "spotted_eagle_ray",
+    "name": "Spotted Eagle Ray",
+    "category": "Coral Reef",
+    "fact": "Spotted Eagle Rays can spot a rabbit from 2 miles away!"
+  },
+  {
+    "id": "trumpetfish",
+    "name": "Trumpetfish",
+    "category": "Coral Reef",
+    "fact": "Trumpetfish often swim vertically to blend in with sea fans and corals!"
+  },
+  {
+    "id": "anglerfish",
+    "name": "Anglerfish",
+    "category": "Deep Sea",
+    "fact": "Female anglerfish have a glowing lure that attracts prey in the dark depths!"
+  },
+  {
+    "id": "barreleye",
+    "name": "Barreleye",
+    "category": "Deep Sea",
+    "fact": "The barreleye has a transparent head so it can look up through its skull!"
+  },
+  {
+    "id": "barreleye_fish",
+    "name": "Barreleye Fish",
+    "category": "Deep Sea",
+    "fact": "Barreleye fish have see-through heads!"
+  },
+  {
+    "id": "beaked_whale",
+    "name": "Beaked Whale",
+    "category": "Deep Sea",
+    "fact": "Beaked whales can dive deeper than any other marine mammal - up to 2,992 meters!"
+  },
+  {
+    "id": "big_red_jelly",
+    "name": "Big Red Jelly",
+    "category": "Deep Sea",
+    "fact": "The big red jelly can grow up to 1 meter across and lives at depths of 650 meters!"
+  },
+  {
+    "id": "blobfish",
+    "name": "Blobfish",
+    "category": "Deep Sea",
+    "fact": "Blobfish look normal in their deep-sea home but look blobby when brought to the surface!"
+  },
+  {
+    "id": "chimaera",
+    "name": "Chimaera",
+    "category": "Deep Sea",
+    "fact": "Chimaeras are related to sharks and have a single gill opening on each side!"
+  },
+  {
+    "id": "coffinfish",
+    "name": "Coffinfish",
+    "category": "Deep Sea",
+    "fact": "Coffinfish can puff up like a balloon and have a lure on their head like an anglerfish!"
+  },
+  {
+    "id": "colossal_squid",
+    "name": "Colossal Squid",
+    "category": "Deep Sea",
+    "fact": "The colossal squid is heavier than a giant squid and has hooks instead of suckers!"
+  },
+  {
+    "id": "dragonfish",
+    "name": "Dragonfish",
+    "category": "Deep Sea",
+    "fact": "Dragonfish have a red light that only they can see, helping them hunt without being detected!"
+  },
+  {
+    "id": "dumbo_octopus",
+    "name": "Dumbo Octopus",
+    "category": "Deep Sea",
+    "fact": "Dumbo Octopuses have three hearts and blue blood!"
+  },
+  {
+    "id": "elephant_seal",
+    "name": "Elephant Seal",
+    "category": "Deep Sea",
+    "fact": "Elephant seals can dive to 1,500 meters and hold their breath for two hours!"
+  },
+  {
+    "id": "elephant_shark",
+    "name": "Elephant Shark",
+    "category": "Deep Sea",
+    "fact": "Elephant Sharks can recognize themselves in a mirror!"
+  },
+  {
+    "id": "fangtooth",
+    "name": "Fangtooth",
+    "category": "Deep Sea",
+    "fact": "Fangtooth fish have the largest teeth relative to body size of any fish!"
+  },
+  {
+    "id": "frilled_shark",
+    "name": "Frilled Shark",
+    "category": "Deep Sea",
+    "fact": "Frilled Sharks have been around longer than trees!"
+  },
+  {
+    "id": "giant_isopod",
+    "name": "Giant Isopod",
+    "category": "Deep Sea",
+    "fact": "Giant isopods can go 5 years without eating!"
+  },
+  {
+    "id": "giant_squid",
+    "name": "Giant Squid",
+    "category": "Deep Sea",
+    "fact": "Giant squids have eyes the size of dinner plates - the largest eyes in the animal kingdom!"
+  },
+  {
+    "id": "goblin_shark",
+    "name": "Goblin Shark",
+    "category": "Deep Sea",
+    "fact": "Goblin Sharks have been around longer than trees!"
+  },
+  {
+    "id": "gulper_eel",
+    "name": "Gulper Eel",
+    "category": "Deep Sea",
+    "fact": "The gulper eel has a huge mouth that can swallow prey much larger than itself!"
+  },
+  {
+    "id": "hatchetfish",
+    "name": "Hatchetfish",
+    "category": "Deep Sea",
+    "fact": "Hatchetfish have bodies shaped like hatchets and can produce light to hide their shadow!"
+  },
+  {
+    "id": "japanese_spider_crab",
+    "name": "Japanese Spider Crab",
+    "category": "Deep Sea",
+    "fact": "Japanese spider crabs can have a leg span of up to 3.7 meters!"
+  },
+  {
+    "id": "nautilus",
+    "name": "Nautilus",
+    "category": "Deep Sea",
+    "fact": "The nautilus has remained unchanged for 500 million years and uses jet propulsion to move!"
+  },
+  {
+    "id": "oarfish",
+    "name": "Oarfish",
+    "category": "Deep Sea",
+    "fact": "Oarfish can grow up to 11 meters long and are probably the source of sea serpent legends!"
+  },
+  {
+    "id": "pacific_viperfish",
+    "name": "Pacific Viperfish",
+    "category": "Deep Sea",
+    "fact": "Viperfish have fangs so big they cant close their mouth!"
+  },
+  {
+    "id": "six_gill_shark",
+    "name": "Six-gill Shark",
+    "category": "Deep Sea",
+    "fact": "Six-gill Sharks have been around longer than trees!"
+  },
+  {
+    "id": "sperm_whale",
+    "name": "Sperm Whale",
+    "category": "Deep Sea",
+    "fact": "Blue whales are the biggest animals that ever lived!"
+  },
+  {
+    "id": "tripod_fish",
+    "name": "Tripod Fish",
+    "category": "Deep Sea",
+    "fact": "Tripod fish stand on three fin rays like a tripod to wait for food to drift by!"
+  },
+  {
+    "id": "vampire_squid",
+    "name": "Vampire Squid",
+    "category": "Deep Sea",
+    "fact": "Despite its scary name, the vampire squid eats only tiny particles called marine snow!"
+  },
+  {
+    "id": "viperfish",
+    "name": "Viperfish",
+    "category": "Deep Sea",
+    "fact": "Viperfish have huge fangs that are so long they can't fit inside their mouth!"
+  },
+  {
+    "id": "wolffish",
+    "name": "Wolffish",
+    "category": "Deep Sea",
+    "fact": "Wolffish have powerful jaws that can crush crabs, sea urchins, and clams!"
+  },
+  {
+    "id": "abyssal_spiderfish",
+    "name": "Abyssal Spiderfish",
+    "category": "Ultra Deep Sea",
+    "fact": "Spiderfish have extra-long fins that let them walk on the ocean floor like a spider!"
+  },
+  {
+    "id": "acorn_worm",
+    "name": "Acorn Worm",
+    "category": "Ultra Deep Sea",
+    "fact": "Acorn worms are close relatives of vertebrates and may show how our ancestors evolved!"
+  },
+  {
+    "id": "black_swallower",
+    "name": "Black Swallower",
+    "category": "Ultra Deep Sea",
+    "fact": "The black swallower can eat prey 10 times its own size by unhinging its jaw!"
+  },
+  {
+    "id": "brisingid_starfish",
+    "name": "Brisingid Starfish",
+    "category": "Ultra Deep Sea",
+    "fact": "Brisingid starfish have up to 20 long arms that they use like fishing nets!"
+  },
+  {
+    "id": "comb_jelly",
+    "name": "Comb Jelly",
+    "category": "Ultra Deep Sea",
+    "fact": "Comb jellies have been swimming in oceans for over 500 million years, making them one of the oldest animal groups!"
+  },
+  {
+    "id": "cusk_eel",
+    "name": "Cusk Eel",
+    "category": "Ultra Deep Sea",
+    "fact": "Despite their name, cusk eels are actually fish, not eels!"
+  },
+  {
+    "id": "deep_sea_amphipod",
+    "name": "Deep Sea Amphipod",
+    "category": "Ultra Deep Sea",
+    "fact": "Deep sea amphipods can grow up to 34 centimeters long - much bigger than their shallow-water relatives!"
+  },
+  {
+    "id": "deep_sea_cucumber",
+    "name": "Deep Sea Cucumber",
+    "category": "Ultra Deep Sea",
+    "fact": "Deep sea cucumbers can expel part of their internal organs to distract predators, then regrow them later!"
+  },
+  {
+    "id": "deep_sea_jellyfish",
+    "name": "Deep Sea Jellyfish",
+    "category": "Ultra Deep Sea",
+    "fact": "Some deep sea jellyfish can glow with rainbow colors to attract prey!"
+  },
+  {
+    "id": "faceless_cusk",
+    "name": "Faceless Cusk",
+    "category": "Ultra Deep Sea",
+    "fact": "The faceless cusk has no visible eyes and its mouth is hidden underneath its head!"
+  },
+  {
+    "id": "ghost_shark",
+    "name": "Ghost Shark",
+    "category": "Ultra Deep Sea",
+    "fact": "Ghost sharks are ancient relatives of sharks that have been around for 400 million years!"
+  },
+  {
+    "id": "giant_tube_worm",
+    "name": "Giant Tube Worm",
+    "category": "Ultra Deep Sea",
+    "fact": "Giant tube worms can grow up to 2.4 meters long and have no mouth or stomach - they absorb nutrients through their skin!"
+  },
+  {
+    "id": "glass_sponge",
+    "name": "Glass Sponge",
+    "category": "Ultra Deep Sea",
+    "fact": "Glass sponges have skeletons made of silica, the same material glass is made from!"
+  },
+  {
+    "id": "grenadier_fish",
+    "name": "Grenadier Fish",
+    "category": "Ultra Deep Sea",
+    "fact": "Grenadier fish have huge heads and long, tapering bodies that look like a grenade!"
+  },
+  {
+    "id": "lizardfish",
+    "name": "Lizardfish",
+    "category": "Ultra Deep Sea",
+    "fact": "Lizardfish have needle-like teeth and can change color to match their surroundings!"
+  },
+  {
+    "id": "mariana_snailfish",
+    "name": "Mariana Snailfish",
+    "category": "Ultra Deep Sea",
+    "fact": "The Mariana snailfish lives at depths of up to 8,000 meters and is one of the deepest-living fish ever found!"
+  },
+  {
+    "id": "monophore",
+    "name": "Monophore",
+    "category": "Ultra Deep Sea",
+    "fact": "Monophores are strange deep sea creatures that filter food from the water using special tentacles!"
+  },
+  {
+    "id": "ping_pong_tree_sponge",
+    "name": "Ping Pong Tree Sponge",
+    "category": "Ultra Deep Sea",
+    "fact": "This sponge has branches that look like ping pong paddles and can glow in the dark!"
+  },
+  {
+    "id": "sea_angel",
+    "name": "Sea Angel",
+    "category": "Ultra Deep Sea",
+    "fact": "Sea angels are actually swimming sea slugs that flutter through the water like angels!"
+  },
+  {
+    "id": "sea_pen",
+    "name": "Sea Pen",
+    "category": "Ultra Deep Sea",
+    "fact": "Sea pens are colonies of tiny animals that work together like a single organism!"
+  },
+  {
+    "id": "sea_pig",
+    "name": "Sea Pig",
+    "category": "Ultra Deep Sea",
+    "fact": "Sea pigs are actually a type of sea cucumber that walks on the ocean floor with tube feet!"
+  },
+  {
+    "id": "siphonophore",
+    "name": "Siphonophore",
+    "category": "Ultra Deep Sea",
+    "fact": "The siphonophore can grow up to 50 meters long, making it longer than a blue whale!"
+  },
+  {
+    "id": "spookfish",
+    "name": "Spookfish",
+    "category": "Ultra Deep Sea",
+    "fact": "Spookfish have a mirror-like lens in their eyes that helps them see in the dark!"
+  },
+  {
+    "id": "zombie_worm",
+    "name": "Zombie Worm",
+    "category": "Ultra Deep Sea",
+    "fact": "Zombie worms eat whale bones by drilling into them with acid!"
+  },
+  {
+    "name": "Amphipod",
+    "category": "Ocean",
+    "fact": "Amphipods are tiny shrimp-like creatures found everywhere in the ocean!",
+    "id": "new_0"
+  },
+  {
+    "name": "Bed Bug",
+    "category": "Urban",
+    "fact": "Bed bugs are tiny and hide during the day!",
+    "id": "new_1"
+  },
+  {
+    "name": "Cave Beetle",
+    "category": "Cave",
+    "fact": "Cave beetles have no eyes because they live in total darkness!",
+    "id": "new_2"
+  },
+  {
+    "name": "Cave Snail",
+    "category": "Cave",
+    "fact": "Cave snails are see-through and very rare!",
+    "id": "new_3"
+  },
+  {
+    "name": "Cockroach",
+    "category": "Urban",
+    "fact": "Cockroaches can live for a week without their head!",
+    "id": "new_4"
+  },
+  {
+    "name": "House Centipede",
+    "category": "Urban",
+    "fact": "House centipedes have 30 legs and eat other bugs!",
+    "id": "new_5"
+  },
+  {
+    "name": "Isopod",
+    "category": "Ocean",
+    "fact": "Isopods look like tiny armored tanks and roll into balls!",
+    "id": "new_6"
+  },
+  {
+    "name": "Lugworm",
+    "category": "Ocean",
+    "fact": "Lugworms make squiggly sand castles on the beach!",
+    "id": "new_7"
+  },
+  {
+    "name": "Mayfly",
+    "category": "Freshwater",
+    "fact": "Mayflies only live for one day as adults!",
+    "id": "new_8"
+  },
+  {
+    "name": "Mosquito",
+    "category": "Wetland",
+    "fact": "Only female mosquitoes bite - males drink flower nectar!",
+    "id": "new_9"
+  },
+  {
+    "name": "Planarian",
+    "category": "Freshwater",
+    "fact": "Planarians can regrow their whole body from a tiny piece!",
+    "id": "new_10"
+  },
+  {
+    "name": "Sandhopper",
+    "category": "Ocean",
+    "fact": "Sandhoppers jump 100 times their body length!",
+    "id": "new_11"
+  },
+  {
+    "name": "Silverfish",
+    "category": "Urban",
+    "fact": "Silverfish can live for a year without eating!",
+    "id": "new_12"
+  },
+  {
+    "name": "Velvet Worm",
+    "category": "Rainforest",
+    "fact": "Velvet worms shoot sticky slime to catch prey!",
+    "id": "new_13"
+  },
+  {
+    "name": "Water Scorpion",
+    "category": "Freshwater",
+    "fact": "Water scorpions breathe through a snorkel tail!",
+    "id": "new_14"
+  },
+  {
+    "name": "Water Strider",
+    "category": "Freshwater",
+    "fact": "Water striders walk on water using surface tension!",
+    "id": "new_15"
+  }
+]

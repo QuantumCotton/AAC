@@ -1,0 +1,1262 @@
+{
+  "mariana_snailfish": {
+    "name": "Mariana Snailfish",
+    "simple": "[curious] I'm a Mariana Snailfish. I am the deepest swimming fish in the whole ocean! I look like a pink tadpole.",
+    "updated_at": "2025-12-23T06:30:26.891935Z"
+  },
+  "giant_tube_worm": {
+    "name": "Giant Tube Worm",
+    "simple": "[excited] I'm a Giant Tube Worm. I have no mouth and no tummy! I live near hot underwater volcanoes.",
+    "updated_at": "2025-12-23T06:30:26.995013Z"
+  },
+  "comb_jelly": {
+    "name": "Comb Jelly",
+    "simple": "[curious] I'm a Comb Jelly. I don't sting like a jellyfish.",
+    "updated_at": "2025-12-23T06:30:27.141537Z"
+  },
+  "deep_sea_cucumber": {
+    "name": "Deep Sea Cucumber",
+    "simple": "[excited] I'm a Deep Sea Cucumber. I crawl on the bottom of the ocean and eat the sand to clean it.",
+    "updated_at": "2025-12-23T06:30:27.249499Z"
+  },
+  "zombie_worm": {
+    "name": "Zombie Worm",
+    "simple": "[curious] I'm a Zombie Worm. I don't eat brains! I like to eat old bones I find on the sea floor.",
+    "updated_at": "2025-12-23T06:30:27.349512Z"
+  },
+  "ping_pong_tree_sponge": {
+    "name": "Ping Pong Tree Sponge",
+    "simple": "[curious] I'm a Ping Pong Tree Sponge. I look like a weird tree with ping pong balls for leaves.",
+    "updated_at": "2025-12-23T06:30:27.449124Z"
+  },
+  "tripod_fish": {
+    "name": "Tripod Fish",
+    "simple": "[curious] I'm a Tripod Fish. I have three long stilts that let me stand on the mud without sinking.",
+    "updated_at": "2025-12-23T06:30:27.553490Z"
+  },
+  "dumbo_octopus": {
+    "name": "Dumbo Octopus",
+    "simple": "[excited] I'm a Dumbo Octopus. I flap my ear-fins to fly through the water like a cartoon elephant.",
+    "updated_at": "2025-12-23T06:30:27.660147Z"
+  },
+  "faceless_cusk": {
+    "name": "Faceless Cusk",
+    "simple": "[curious] I'm a Faceless Cusk. I have no face! My mouth is underneath my head so I can scoop up food.",
+    "updated_at": "2025-12-23T06:30:27.789963Z"
+  },
+  "abyssal_spiderfish": {
+    "name": "Abyssal Spiderfish",
+    "simple": "[thoughtful] I'm an Abyssal Spiderfish. I have super long fins that feel the water like spider legs.",
+    "updated_at": "2025-12-23T06:30:27.922788Z"
+  },
+  "sea_pig": {
+    "name": "Sea Pig",
+    "simple": "[thoughtful] I'm a Sea Pig. I am a squishy pink tube with little legs.",
+    "updated_at": "2025-12-23T06:30:28.635003Z"
+  },
+  "ghost_shark": {
+    "name": "Ghost Shark",
+    "simple": "[thoughtful] I'm a Ghost Shark. I am also called a Chimaera.",
+    "updated_at": "2025-12-23T06:30:28.736301Z"
+  },
+  "deep_sea_amphipod": {
+    "name": "Deep Sea Amphipod",
+    "simple": "[curious] I'm a Deep Sea Amphipod. I am a giant version of a sand flea.",
+    "updated_at": "2025-12-23T06:30:28.866939Z"
+  },
+  "glass_sponge": {
+    "name": "Glass Sponge",
+    "simple": "[excited] I'm a Glass Sponge. My body is made of silica, which is the same stuff as glass windows.",
+    "updated_at": "2025-12-23T06:30:28.972323Z"
+  },
+  "grenadier_fish": {
+    "name": "Grenadier Fish",
+    "simple": "[thoughtful] I'm a Grenadier Fish. People call me a Rat-tail because my body tapers off into a long point.",
+    "updated_at": "2025-12-23T06:30:29.080067Z"
+  },
+  "cusk_eel": {
+    "name": "Cusk Eel",
+    "simple": "[curious] I'm a Cusk Eel. I am not a real eel, but I am very wiggly and slippery.",
+    "updated_at": "2025-12-23T06:30:29.194544Z"
+  },
+  "snipe_eel": {
+    "name": "Snipe Eel",
+    "simple": "[curious] I'm a Snipe Eel. My jaws curve away from each other so I can't close my mouth.",
+    "updated_at": "2025-12-23T06:30:29.304019Z"
+  },
+  "sea_angel": {
+    "name": "Sea Angel",
+    "simple": "[curious] I'm a Sea Angel. I am a swimming slug with little wings that make me look like an angel.",
+    "updated_at": "2025-12-23T06:30:29.412356Z"
+  },
+  "deep_sea_jellyfish": {
+    "name": "Deep Sea Jellyfish",
+    "simple": "[curious] I'm a Deep Sea Jellyfish. I glow red in the dark, which makes me invisible to other fish.",
+    "updated_at": "2025-12-23T06:30:29.519585Z"
+  },
+  "basket_star": {
+    "name": "Basket Star",
+    "simple": "[excited] I'm a Basket Star. I look like a mess of tangled tree roots wiggling in the water.",
+    "updated_at": "2025-12-23T06:30:29.626968Z"
+  },
+  "brisingid_starfish": {
+    "name": "Brisingid Starfish",
+    "simple": "[excited] I'm a Brisingid Starfish. I have so many arms! I raise them up to catch food falling from above.",
+    "updated_at": "2025-12-23T06:30:30.344954Z"
+  },
+  "sea_pen": {
+    "name": "Sea Pen",
+    "simple": "[thoughtful] I'm a Sea Pen. I look like an old-fashioned feather pen stuck in the sand.",
+    "updated_at": "2025-12-23T06:30:30.448790Z"
+  },
+  "acorn_worm": {
+    "name": "Acorn Worm",
+    "simple": "[thoughtful] I'm an Acorn Worm. I smell like medicine (iodine) to stop fish from eating me.",
+    "updated_at": "2025-12-23T06:30:30.556188Z"
+  },
+  "monophore": {
+    "name": "Monophore",
+    "simple": "[thoughtful] I'm a Monophore. monophores are strange deep sea creatures that filter food from the water using tentacles.",
+    "updated_at": "2025-12-23T06:30:30.654175Z"
+  },
+  "siphonophore": {
+    "name": "Siphonophore",
+    "simple": "[thoughtful] I'm a Siphonophore. I am not one animal, but thousands of tiny clones holding hands.",
+    "updated_at": "2025-12-23T06:30:30.764976Z"
+  },
+  "black_swallower": {
+    "name": "Black Swallower",
+    "simple": "[curious] I'm a Black Swallower. I have a stretchy tummy that can hold a fish twice my size.",
+    "updated_at": "2025-12-23T06:30:30.869700Z"
+  },
+  "lizardfish": {
+    "name": "Lizardfish",
+    "simple": "[excited] I'm a Lizardfish. I have rows of sharp teeth, even on my tongue.",
+    "updated_at": "2025-12-23T06:30:30.975759Z"
+  },
+  "spookfish": {
+    "name": "Spookfish",
+    "simple": "[excited] I'm a Spookfish. My head is see-through and my eyes can look up and down at the same time.",
+    "updated_at": "2025-12-23T06:30:31.088849Z"
+  },
+  "anglerfish": {
+    "name": "Anglerfish",
+    "simple": "[curious] I'm an Anglerfish. I have a fishing pole on my head with a glowing light to catch yummy fish.",
+    "updated_at": "2025-12-23T06:30:31.191660Z"
+  },
+  "vampire_squid": {
+    "name": "Vampire Squid",
+    "simple": "[curious] I'm a Vampire Squid. I wrap my red cape around myself when I am scared.",
+    "updated_at": "2025-12-23T06:30:31.294005Z"
+  },
+  "giant_squid": {
+    "name": "Giant Squid",
+    "simple": "[curious] I'm a Giant Squid. My eye is as big as a dinner plate! I battle sperm whales.",
+    "updated_at": "2025-12-23T06:30:31.998973Z"
+  },
+  "gulper_eel": {
+    "name": "Gulper Eel",
+    "simple": "[excited] I'm a Gulper Eel. My mouth is huge like a pelican! I can swallow things bigger than me.",
+    "updated_at": "2025-12-23T06:30:32.105054Z"
+  },
+  "goblin_shark": {
+    "name": "Goblin Shark",
+    "simple": "[excited] I'm a Goblin Shark. I can shoot my jaw out of my face to grab a snack.",
+    "updated_at": "2025-12-23T06:30:32.204998Z"
+  },
+  "blobfish": {
+    "name": "Blobfish",
+    "simple": "[excited] I'm a Blobfish. I look sad and squishy because I have no muscles.",
+    "updated_at": "2025-12-23T06:30:32.327012Z"
+  },
+  "lanternfish": {
+    "name": "Lanternfish",
+    "simple": "[curious] I'm a Lanternfish. I have tiny lights all over my belly.",
+    "updated_at": "2025-12-23T06:30:32.451878Z"
+  },
+  "hatchetfish": {
+    "name": "Hatchetfish",
+    "simple": "[thoughtful] I'm a Hatchetfish. I am as thin as a coin and look like a silver hatchet.",
+    "updated_at": "2025-12-23T06:30:32.567914Z"
+  },
+  "viperfish": {
+    "name": "Viperfish",
+    "simple": "[excited] I'm a Viperfish. My teeth are so long they curve over my face like a cage.",
+    "updated_at": "2025-12-23T06:30:32.698308Z"
+  },
+  "dragonfish": {
+    "name": "Dragonfish",
+    "simple": "[thoughtful] I'm a Dragonfish. I look scary, but I am very small—only the size of a banana.",
+    "updated_at": "2025-12-23T06:30:32.811700Z"
+  },
+  "fangtooth": {
+    "name": "Fangtooth",
+    "simple": "[excited] I'm a Fangtooth. I have the biggest teeth compared to my body size of any fish.",
+    "updated_at": "2025-12-23T06:30:32.923358Z"
+  },
+  "frilled_shark": {
+    "name": "Frilled Shark",
+    "simple": "[thoughtful] I'm a Frilled Shark. I look like an eel but I am a shark with 300 needle teeth.",
+    "updated_at": "2025-12-23T06:30:33.077224Z"
+  },
+  "coffinfish": {
+    "name": "Coffinfish",
+    "simple": "[thoughtful] I'm a Coffinfish. I can puff up like a balloon and hold my breath to look big.",
+    "updated_at": "2025-12-23T06:30:33.794245Z"
+  },
+  "barreleye": {
+    "name": "Barreleye",
+    "simple": "[excited] I'm a Barreleye. My head is a clear bubble! The green balls inside are my eyes.",
+    "updated_at": "2025-12-23T06:30:33.894769Z"
+  },
+  "cookiecutter_shark": {
+    "name": "Cookiecutter Shark",
+    "simple": "[curious] I'm a Cookiecutter Shark. I am small, but I take round bites out of big whales like a cookie cutter.",
+    "updated_at": "2025-12-23T06:30:34.018695Z"
+  },
+  "oarfish": {
+    "name": "Oarfish",
+    "simple": "[excited] I'm an Oarfish. I am the longest bony fish in the world.",
+    "updated_at": "2025-12-23T06:30:34.119939Z"
+  },
+  "big_red_jelly": {
+    "name": "Big Red Jelly",
+    "simple": "[thoughtful] I'm a Big Red Jelly. I am a giant red jellyfish that doesn't have stinging tentacles.",
+    "updated_at": "2025-12-23T06:30:34.236278Z"
+  },
+  "colossal_squid": {
+    "name": "Colossal Squid",
+    "simple": "[curious] I'm a Colossal Squid. I am heavier than the Giant Squid and have spinning hooks on my arms.",
+    "updated_at": "2025-12-23T06:30:34.344887Z"
+  },
+  "six_gill_shark": {
+    "name": "Six-Gill Shark",
+    "simple": "[curious] I'm a Six-Gill Shark. Most sharks have 5 gills, but I have 6! I move very slowly.",
+    "updated_at": "2025-12-23T06:30:34.450414Z"
+  },
+  "wolffish": {
+    "name": "Wolffish",
+    "simple": "[thoughtful] I'm a Wolffish. I have strong teeth to crush seashells.",
+    "updated_at": "2025-12-23T06:30:34.564906Z"
+  },
+  "chimaera": {
+    "name": "Chimaera",
+    "simple": "[excited] I'm a Chimaera. I have a venomous spine on my back and fly through the water.",
+    "updated_at": "2025-12-23T06:30:34.683067Z"
+  },
+  "stoplight_loosejaw": {
+    "name": "Stoplight Loosejaw",
+    "simple": "[curious] I'm a Stoplight Loosejaw. I have a red light under my eye like a stoplight.",
+    "updated_at": "2025-12-23T06:30:34.789914Z"
+  },
+  "flashlight_fish": {
+    "name": "Flashlight Fish",
+    "simple": "[thoughtful] I'm a Flashlight Fish. I have a pocket of glowing light under my eye that I can blink on and off.",
+    "updated_at": "2025-12-23T06:30:35.512604Z"
+  },
+  "japanese_spider_crab": {
+    "name": "Japanese Spider Crab",
+    "simple": "[thoughtful] I'm a Japanese Spider Crab. I have the longest legs of any crab.",
+    "updated_at": "2025-12-23T06:30:35.620958Z"
+  },
+  "nautilus": {
+    "name": "Nautilus",
+    "simple": "[curious] I'm a Nautilus. I live in a beautiful spiral shell and swim backwards.",
+    "updated_at": "2025-12-23T06:30:35.728490Z"
+  },
+  "sperm_whale": {
+    "name": "Sperm Whale",
+    "simple": "[thoughtful] I'm a Sperm Whale. I have the biggest brain of any animal and I dive super deep.",
+    "updated_at": "2025-12-23T06:30:35.852990Z"
+  },
+  "beaked_whale": {
+    "name": "Beaked Whale",
+    "simple": "[excited] I'm a Beaked Whale. I look like a dolphin but I have a beak like a goose.",
+    "updated_at": "2025-12-23T06:30:35.963198Z"
+  },
+  "elephant_seal": {
+    "name": "Elephant Seal",
+    "simple": "[curious] I'm an Elephant Seal. My nose looks like an elephant trunk! I make loud roaring noises.",
+    "updated_at": "2025-12-23T06:30:36.091925Z"
+  },
+  "clownfish": {
+    "name": "Clownfish",
+    "simple": "[excited] I'm a Clownfish. I are all born male and the largest one will turn into a female.",
+    "updated_at": "2025-12-23T06:30:36.198758Z"
+  },
+  "blue_tang": {
+    "name": "Blue Tang",
+    "simple": "[curious] I'm a Blue Tang. Blue tangs can change color based on their mood - they get darker at night.",
+    "updated_at": "2025-12-23T06:30:36.307050Z"
+  },
+  "parrotfish": {
+    "name": "Parrotfish",
+    "simple": "[excited] I'm a Parrotfish. I sleep in a bubble of their own mucus to hide their scent from predators.",
+    "updated_at": "2025-12-23T06:30:36.411772Z"
+  },
+  "lionfish": {
+    "name": "Lionfish",
+    "simple": "[thoughtful] I'm a Lionfish. I have venomous spines that can cause painful stings to humans.",
+    "updated_at": "2025-12-23T06:30:36.517218Z"
+  },
+  "seahorse": {
+    "name": "Seahorse",
+    "simple": "[curious] I'm a Seahorse. Seahorses are the only animals where males get pregnant and give birth.",
+    "updated_at": "2025-12-23T06:30:37.234666Z"
+  },
+  "moray_eel": {
+    "name": "Moray Eel",
+    "simple": "[curious] I'm a Moray Eel. Moray eels have a second set of jaws in their throat that grab prey and pull it down.",
+    "updated_at": "2025-12-23T06:30:37.351821Z"
+  },
+  "pufferfish": {
+    "name": "Pufferfish",
+    "simple": "[curious] I'm a Pufferfish. I contain a poison 1,200 times more deadly than cyanide.",
+    "updated_at": "2025-12-23T06:30:37.462695Z"
+  },
+  "butterflyfish": {
+    "name": "Butterflyfish",
+    "simple": "[curious] I'm a Butterflyfish. I mate for life and can be seen swimming in pairs.",
+    "updated_at": "2025-12-23T06:30:37.568753Z"
+  },
+  "angelfish": {
+    "name": "Angelfish",
+    "simple": "[curious] I'm an Angelfish. Young angelfish have different colors and patterns than adult angelfish.",
+    "updated_at": "2025-12-23T06:30:37.670651Z"
+  },
+  "sea_turtle": {
+    "name": "Sea Turtle",
+    "simple": "[curious] I'm a Sea Turtle. Sea turtles can live over 100 years and return to the same beach where they were born to lay eggs.",
+    "updated_at": "2025-12-23T06:30:37.770721Z"
+  },
+  "reef_shark": {
+    "name": "Reef Shark",
+    "simple": "[curious] I'm a Reef Shark. Reef sharks can rest while swimming by using their tails to push water over their gills.",
+    "updated_at": "2025-12-23T06:30:37.880598Z"
+  },
+  "manta_ray": {
+    "name": "Manta Ray",
+    "simple": "[thoughtful] I'm a Manta Ray. Manta rays have the largest brain of any fish and can recognize themselves in mirrors.",
+    "updated_at": "2025-12-23T06:30:37.990592Z"
+  },
+  "cuttlefish": {
+    "name": "Cuttlefish",
+    "simple": "[curious] I'm a Cuttlefish. I can change color and pattern in less than a second to communicate or hide.",
+    "updated_at": "2025-12-23T06:30:38.089638Z"
+  },
+  "octopus": {
+    "name": "Octopus",
+    "simple": "[excited] I'm an Octopus. Octopuses have three hearts and blue blood.",
+    "updated_at": "2025-12-23T06:30:38.184840Z"
+  },
+  "giant_clam": {
+    "name": "Giant Clam",
+    "simple": "[excited] I'm a Giant Clam. Giant clams can live over 100 years and can weigh up to 200 kilograms.",
+    "updated_at": "2025-12-23T06:30:38.954202Z"
+  },
+  "boxfish": {
+    "name": "Boxfish",
+    "simple": "[thoughtful] I'm a Boxfish. I release a toxin when stressed that can kill other fish nearby.",
+    "updated_at": "2025-12-23T06:30:39.058233Z"
+  },
+  "triggerfish": {
+    "name": "Triggerfish",
+    "simple": "[curious] I'm a Triggerfish. I can swim backward by using their second dorsal fin.",
+    "updated_at": "2025-12-23T06:30:39.163954Z"
+  },
+  "sea_anemone": {
+    "name": "Sea Anemone",
+    "simple": "[excited] I'm a Sea Anemone. Sea anemones can live for 50 years and some species can eat small fish.",
+    "updated_at": "2025-12-23T06:30:39.278740Z"
+  },
+  "mandarinfish": {
+    "name": "Mandarinfish",
+    "simple": "[thoughtful] I'm a Mandarinfish. I are covered in a toxic mucus that protects them from predators.",
+    "updated_at": "2025-12-23T06:30:39.397178Z"
+  },
+  "moorish_idol": {
+    "name": "Moorish Idol",
+    "simple": "[excited] I'm a Moorish Idol. Moorish idols can change color when they sleep or get excited.",
+    "updated_at": "2025-12-23T06:30:39.511255Z"
+  },
+  "napoleon_wrasse": {
+    "name": "Napoleon Wrasse",
+    "simple": "[thoughtful] I'm a Napoleon Wrasse. I can live over 30 years and are one of the largest reef fish.",
+    "updated_at": "2025-12-23T06:30:39.616075Z"
+  },
+  "cleaner_shrimp": {
+    "name": "Cleaner Shrimp",
+    "simple": "[thoughtful] I'm a Cleaner Shrimp. I set up cleaning stations where fish line up to have parasites removed.",
+    "updated_at": "2025-12-23T06:30:39.728320Z"
+  },
+  "stonefish": {
+    "name": "Stonefish",
+    "simple": "[excited] I'm a Stonefish. I is the most venomous fish in the world and can be fatal to humans.",
+    "updated_at": "2025-12-23T06:30:39.836410Z"
+  },
+  "barracuda": {
+    "name": "Barracuda",
+    "simple": "[curious] I'm a Barracuda. Barracudas can swim up to 60 km/h and have been known to leap out of the water.",
+    "updated_at": "2025-12-23T06:30:39.940734Z"
+  },
+  "trumpetfish": {
+    "name": "Trumpetfish",
+    "simple": "[thoughtful] I'm a Trumpetfish. I often swim vertically to blend in with sea fans and corals.",
+    "updated_at": "2025-12-23T06:30:40.749429Z"
+  },
+  "nudibranch": {
+    "name": "Nudibranch",
+    "simple": "[excited] I'm a Nudibranch. Nudibranchs are sea slugs that come in thousands of bright colors and patterns.",
+    "updated_at": "2025-12-23T06:30:40.844866Z"
+  },
+  "sea_fan": {
+    "name": "Sea Fan",
+    "simple": "[curious] I'm a Sea Fan. Sea fans are actually colonies of tiny animals that create a fan-shaped structure.",
+    "updated_at": "2025-12-23T06:30:40.948329Z"
+  },
+  "brain_coral": {
+    "name": "Brain Coral",
+    "simple": "[thoughtful] I'm a Brain Coral. Brain corals can live for over 900 years and grow very slowly.",
+    "updated_at": "2025-12-23T06:30:41.046059Z"
+  },
+  "bottlenose_dolphin": {
+    "name": "Bottlenose Dolphin",
+    "simple": "I'm a Bottlenose Dolphin. I talk to my friends using clicks and whistles underwater!",
+    "updated_at": "2025-12-23T06:30:41.156048Z"
+  },
+  "sea_otter": {
+    "name": "Sea Otter",
+    "simple": "[curious] I'm a Sea Otter. Sea otters have the densest fur of any animal with up to 1 million hairs per square inch.",
+    "updated_at": "2025-12-23T06:30:41.272733Z"
+  },
+  "manatee": {
+    "name": "Manatee",
+    "simple": "[thoughtful] I'm a Manatee. Manatees are known as sea cows and eat up to 10% of their body weight daily.",
+    "updated_at": "2025-12-23T06:30:41.374368Z"
+  },
+  "stingray": {
+    "name": "Stingray",
+    "simple": "[thoughtful] I'm a Stingray. Stingrays have sensors on their faces that can detect the electrical fields of prey.",
+    "updated_at": "2025-12-23T06:30:41.474439Z"
+  },
+  "starfish": {
+    "name": "Starfish",
+    "simple": "[excited] I'm a Starfish. I can regrow lost arms and some can even grow a whole new body from just one arm.",
+    "updated_at": "2025-12-23T06:30:41.578430Z"
+  },
+  "hermit_crab": {
+    "name": "Hermit Crab",
+    "simple": "[curious] I'm a Hermit Crab. Hermit crabs carry their homes on their backs and must find bigger shells as they grow.",
+    "updated_at": "2025-12-23T06:30:41.693911Z"
+  },
+  "lobster": {
+    "name": "Lobster",
+    "simple": "[excited] I'm a Lobster. Lobsters can live over 100 years and don't show signs of aging.",
+    "updated_at": "2025-12-23T06:30:42.407142Z"
+  },
+  "sea_urchin": {
+    "name": "Sea Urchin",
+    "simple": "[excited] I'm a Sea Urchin. Sea urchins have teeth that grow continuously and are made of the hardest material in nature.",
+    "updated_at": "2025-12-23T06:30:42.531933Z"
+  },
+  "sand_dollar": {
+    "name": "Sand Dollar",
+    "simple": "[curious] I'm a Sand Dollar. Sand dollars are flattened sea urchins that use tiny spines to move and bury themselves.",
+    "updated_at": "2025-12-23T06:30:42.642352Z"
+  },
+  "pelican": {
+    "name": "Pelican",
+    "simple": "[curious] I'm a Pelican. Pelicans can hold up to 11 liters of water in their throat pouch.",
+    "updated_at": "2025-12-23T06:30:42.749617Z"
+  },
+  "seagull": {
+    "name": "Seagull",
+    "simple": "[thoughtful] I'm a Seagull. seagulls can drink salt water because they have glands that remove the salt.",
+    "updated_at": "2025-12-23T06:30:42.856001Z"
+  },
+  "horseshoe_crab": {
+    "name": "Horseshoe Crab",
+    "simple": "[curious] I'm a Horseshoe Crab. Horseshoe crabs have been around for 450 million years, longer than dinosaurs.",
+    "updated_at": "2025-12-23T06:30:42.967335Z"
+  },
+  "fiddler_crab": {
+    "name": "Fiddler Crab",
+    "simple": "[curious] I'm a Fiddler Crab. Male fiddler crabs have one giant claw they wave to attract females.",
+    "updated_at": "2025-12-23T06:30:43.068713Z"
+  },
+  "flounder": {
+    "name": "Flounder",
+    "simple": "[thoughtful] I'm a Flounder. I are born with eyes on both sides of their head, but one eye moves to the top as they grow.",
+    "updated_at": "2025-12-23T06:30:43.166973Z"
+  },
+  "barnacle": {
+    "name": "Barnacle",
+    "simple": "[thoughtful] I'm a Barnacle. Barnacles stand on their heads and kick food into their mouth with their feet.",
+    "updated_at": "2025-12-23T06:30:43.269630Z"
+  },
+  "jellyfish": {
+    "name": "Jellyfish",
+    "simple": "[excited] I'm a Jellyfish. I are 95% water and have been around for over 500 million years.",
+    "updated_at": "2025-12-23T06:30:43.379993Z"
+  },
+  "sea_lion": {
+    "name": "Sea Lion",
+    "simple": "[thoughtful] I'm a Sea Lion. Sea lions can swim up to 40 km/h and can hold their breath for 20 minutes.",
+    "updated_at": "2025-12-23T06:30:44.099963Z"
+  },
+  "harbor_seal": {
+    "name": "Harbor Seal",
+    "simple": "[thoughtful] I'm a Harbor Seal. Harbor seals can sleep underwater and surface automatically to breathe without waking up.",
+    "updated_at": "2025-12-23T06:30:44.207952Z"
+  },
+  "great_white_shark": {
+    "name": "Great White Shark",
+    "simple": "[curious] I'm a Great White Shark. Great white sharks can detect one drop of blood in 100 liters of water.",
+    "updated_at": "2025-12-23T06:30:44.318871Z"
+  },
+  "hammerhead_shark": {
+    "name": "Hammerhead Shark",
+    "simple": "[curious] I'm a Hammerhead Shark. Hammerhead sharks have eyes on the sides of their head, giving them 360-degree vision.",
+    "updated_at": "2025-12-23T06:30:44.425804Z"
+  },
+  "tiger_shark": {
+    "name": "Tiger Shark",
+    "simple": "[excited] I'm a Tiger Shark. Tiger sharks will eat anything - tires, license plates, and even suits of armor have been found in their stomachs.",
+    "updated_at": "2025-12-23T06:30:44.551561Z"
+  },
+  "sea_sponge": {
+    "name": "Sea Sponge",
+    "simple": "[excited] I'm a Sea Sponge. Sea sponges can filter their entire body volume in less than a minute.",
+    "updated_at": "2025-12-23T06:30:44.664985Z"
+  },
+  "scallop": {
+    "name": "Scallop",
+    "simple": "[curious] I'm a Scallop. Scallops have dozens of eyes and can swim by clapping their shells together.",
+    "updated_at": "2025-12-23T06:30:44.778464Z"
+  },
+  "oyster": {
+    "name": "Oyster",
+    "simple": "[curious] I'm an Oyster. Oysters can change their sex multiple times during their lifetime.",
+    "updated_at": "2025-12-23T06:30:44.886301Z"
+  },
+  "mussel": {
+    "name": "Mussel",
+    "simple": "[thoughtful] I'm a Mussel. Mussels produce byssal threads, often called 'beards', that are as strong as steel.",
+    "updated_at": "2025-12-23T06:30:44.987950Z"
+  },
+  "conch_snail": {
+    "name": "Conch Snail",
+    "simple": "[excited] I'm a Conch Snail. Conch snails have eyes on stalks and can jump by using their foot like a spring.",
+    "updated_at": "2025-12-23T06:30:45.109410Z"
+  },
+  "krill": {
+    "name": "Krill",
+    "simple": "[thoughtful] I'm a Krill. I are the most abundant animal species on Earth with a total weight of 500 million tons.",
+    "updated_at": "2025-12-23T06:30:45.814152Z"
+  },
+  "plankton": {
+    "name": "Plankton",
+    "simple": "[excited] I'm a Plankton. I produce half of the oxygen we breathe.",
+    "updated_at": "2025-12-23T06:30:45.924356Z"
+  },
+  "cow": {
+    "name": "Cow",
+    "simple": "[thoughtful] I'm a Cow. Cows have best friends and get stressed when they're separated.",
+    "updated_at": "2025-12-23T06:30:46.026874Z"
+  },
+  "pig": {
+    "name": "Pig",
+    "simple": "[thoughtful] I'm a Pig. Pigs are smarter than dogs and can learn to play video games.",
+    "updated_at": "2025-12-23T06:30:46.146035Z"
+  },
+  "sheep": {
+    "name": "Sheep",
+    "simple": "[thoughtful] I'm a Sheep. I can recognize up to 50 different human faces and remember them for years.",
+    "updated_at": "2025-12-23T06:30:46.243345Z"
+  },
+  "goat": {
+    "name": "Goat",
+    "simple": "[excited] I'm a Goat. Goats have accents - their bleats change depending on their social group.",
+    "updated_at": "2025-12-23T06:30:46.344276Z"
+  },
+  "chicken": {
+    "name": "Chicken",
+    "simple": "[thoughtful] I'm a Chicken. Chickens have over 30 different vocalizations and can dream.",
+    "updated_at": "2025-12-23T06:30:46.451677Z"
+  },
+  "rooster": {
+    "name": "Rooster",
+    "simple": "[thoughtful] I'm a Rooster. Roosters can tell time and often crow just before sunrise.",
+    "updated_at": "2025-12-23T06:30:46.557434Z"
+  },
+  "duck": {
+    "name": "Duck",
+    "simple": "[curious] I'm a Duck. Ducklings will follow the first moving thing they see - even if it's not their mother.",
+    "updated_at": "2025-12-23T06:30:46.669695Z"
+  },
+  "goose": {
+    "name": "Goose",
+    "simple": "[excited] I'm a Goose. Geese mate for life and mourn their dead partners.",
+    "updated_at": "2025-12-23T06:30:46.772199Z"
+  },
+  "turkey": {
+    "name": "Turkey",
+    "simple": "[excited] I'm a Turkey. Wild turkeys can fly up to 88 km/h but domestic turkeys can't fly.",
+    "updated_at": "2025-12-23T06:30:47.498997Z"
+  },
+  "horse": {
+    "name": "Horse",
+    "simple": "[thoughtful] I'm a Horse. Horses can sleep standing up using a system of tendons and ligaments.",
+    "updated_at": "2025-12-23T06:30:47.598224Z"
+  },
+  "donkey": {
+    "name": "Donkey",
+    "simple": "[thoughtful] I'm a Donkey. donkeys have memories and can recognize places they haven't seen in 25 years.",
+    "updated_at": "2025-12-23T06:30:47.706128Z"
+  },
+  "pony": {
+    "name": "Pony",
+    "simple": "[excited] I'm a Pony. Ponies are stronger than horses relative to their size.",
+    "updated_at": "2025-12-23T06:30:47.848843Z"
+  },
+  "llama": {
+    "name": "Llama",
+    "simple": "[curious] I'm a Llama. Llamas can carry up to 30% of their body weight and will spit when angry.",
+    "updated_at": "2025-12-23T06:30:47.951805Z"
+  },
+  "alpaca": {
+    "name": "Alpaca",
+    "simple": "[excited] I'm an Alpaca. I fiber is fire-resistant and comes in 22 natural colors.",
+    "updated_at": "2025-12-23T06:30:48.055027Z"
+  },
+  "border_collie": {
+    "name": "Border Collie",
+    "simple": "[curious] I'm a Border Collie. Border collies are the smartest dog breed and can learn over 1,000 words.",
+    "updated_at": "2025-12-23T06:30:48.195715Z"
+  },
+  "golden_retriever": {
+    "name": "Golden Retriever",
+    "simple": "[thoughtful] I'm a Golden Retriever. Golden retrievers have 'soft mouths' and can carry eggs without breaking them.",
+    "updated_at": "2025-12-23T06:30:48.304077Z"
+  },
+  "tabby_cat": {
+    "name": "Tabby Cat",
+    "simple": "[excited] I'm a Tabby Cat. Tabby cats have an M pattern on their forehead that's believed to be from Mohammed's blessing.",
+    "updated_at": "2025-12-23T06:30:48.405523Z"
+  },
+  "siamese_cat": {
+    "name": "Siamese Cat",
+    "simple": "[excited] I'm a Siamese Cat. Siamese cats are born white and develop their points as they get older.",
+    "updated_at": "2025-12-23T06:30:48.502583Z"
+  },
+  "goldfish": {
+    "name": "Goldfish",
+    "simple": "[thoughtful] I'm a Goldfish. I can recognize faces and can be trained to push levers for food.",
+    "updated_at": "2025-12-23T06:30:49.216183Z"
+  },
+  "hamster": {
+    "name": "Hamster",
+    "simple": "[curious] I'm a Hamster. Hamsters have pouches in their cheeks that can stretch to their shoulders.",
+    "updated_at": "2025-12-23T06:30:49.317078Z"
+  },
+  "guinea_pig": {
+    "name": "Guinea Pig",
+    "simple": "[excited] I'm a Guinea Pig. Guinea pigs can't make their own vitamin C and must get it from food.",
+    "updated_at": "2025-12-23T06:30:49.427447Z"
+  },
+  "rabbit": {
+    "name": "Rabbit",
+    "simple": "[excited] I'm a Rabbit. Rabbits can jump nearly 1 meter high and have 360-degree vision.",
+    "updated_at": "2025-12-23T06:30:49.536392Z"
+  },
+  "ferret": {
+    "name": "Ferret",
+    "simple": "[curious] I'm a Ferret. Ferrets sleep up to 18 hours a day and are most active at dawn and dusk.",
+    "updated_at": "2025-12-23T06:30:49.651036Z"
+  },
+  "parakeet": {
+    "name": "Parakeet",
+    "simple": "[thoughtful] I'm a Parakeet. Parakeets can learn over 100 words and live up to 20 years.",
+    "updated_at": "2025-12-23T06:30:49.758078Z"
+  },
+  "cockatiel": {
+    "name": "Cockatiel",
+    "simple": "[excited] I'm a Cockatiel. Male cockatiels are better at talking and females are better at whistling.",
+    "updated_at": "2025-12-23T06:30:49.866892Z"
+  },
+  "turtle": {
+    "name": "Turtle",
+    "simple": "[curious] I'm a Turtle. Turtles can breathe through their butt when underwater.",
+    "updated_at": "2025-12-23T06:30:49.978417Z"
+  },
+  "pot_bellied_pig": {
+    "name": "Pot-bellied Pig",
+    "simple": "[excited] I'm a Pot-bellied Pig. Pot-bellied pigs can learn to use a litter box and respond to their name.",
+    "updated_at": "2025-12-23T06:30:50.082912Z"
+  },
+  "mule": {
+    "name": "Mule",
+    "simple": "[curious] I'm a Mule. Mules are smarter than horses and have better endurance than donkeys.",
+    "updated_at": "2025-12-23T06:30:50.187130Z"
+  },
+  "brown_bear": {
+    "name": "Brown Bear",
+    "simple": "[excited] I'm a Brown Bear. Brown bears can run up to 48 km/h and eat up to 40 kg of food per day.",
+    "updated_at": "2025-12-23T06:30:50.954003Z"
+  },
+  "black_bear": {
+    "name": "Black Bear",
+    "simple": "[curious] I'm a Black Bear. Black bears can climb trees even as adults and are excellent swimmers.",
+    "updated_at": "2025-12-23T06:30:51.065252Z"
+  },
+  "moose": {
+    "name": "Moose",
+    "simple": "[excited] I'm a Moose. I antlers can grow up to 2 meters wide and fall off every winter.",
+    "updated_at": "2025-12-23T06:30:51.169925Z"
+  },
+  "elk": {
+    "name": "Elk",
+    "simple": "[excited] I'm an Elk. I can jump 2.",
+    "updated_at": "2025-12-23T06:30:51.276626Z"
+  },
+  "white_tailed_deer": {
+    "name": "White-Tailed Deer",
+    "simple": "[thoughtful] I'm a White-Tailed Deer. I can run up to 48 km/h and jump 3 meters high.",
+    "updated_at": "2025-12-23T06:30:51.386360Z"
+  },
+  "red_fox": {
+    "name": "Red Fox",
+    "simple": "[thoughtful] I'm a Red Fox. Red foxes have 28 different calls and can hear a watch ticking from 40 meters away.",
+    "updated_at": "2025-12-23T06:30:51.487833Z"
+  },
+  "wolf": {
+    "name": "Wolf",
+    "simple": "[thoughtful] I'm a Wolf. Wolves can run for hours at 8 km/h and have 200 million scent cells.",
+    "updated_at": "2025-12-23T06:30:51.599193Z"
+  },
+  "coyote": {
+    "name": "Coyote",
+    "simple": "[thoughtful] I'm a Coyote. Coyotes can mate with dogs and wolves and can jump 4 meters high.",
+    "updated_at": "2025-12-23T06:30:51.712849Z"
+  },
+  "bobcat": {
+    "name": "Bobcat",
+    "simple": "[excited] I'm a Bobcat. Bobcats can leap 3 meters to catch prey and have excellent night vision.",
+    "updated_at": "2025-12-23T06:30:51.810782Z"
+  },
+  "lynx": {
+    "name": "Lynx",
+    "simple": "[curious] I'm a Lynx. I have huge paws that work like snowshoes to help them walk on snow.",
+    "updated_at": "2025-12-23T06:30:51.926752Z"
+  },
+  "squirrel": {
+    "name": "Squirrel",
+    "simple": "[thoughtful] I'm a Squirrel. Squirrels can find buried nuts under a foot of snow using their sense of smell.",
+    "updated_at": "2025-12-23T06:30:52.647101Z"
+  },
+  "chipmunk": {
+    "name": "Chipmunk",
+    "simple": "[thoughtful] I'm a Chipmunk. Chipmunks can carry food in their cheek pouches and store up to 8 kg of nuts for winter.",
+    "updated_at": "2025-12-23T06:30:52.762537Z"
+  },
+  "beaver": {
+    "name": "Beaver",
+    "simple": "[thoughtful] I'm a Beaver. Beavers can hold their breath for 15 minutes and their teeth never stop growing.",
+    "updated_at": "2025-12-23T06:30:52.866081Z"
+  },
+  "river_otter": {
+    "name": "River Otter",
+    "simple": "[thoughtful] I'm a River Otter. River otters have waterproof fur and can close their nostrils and ears underwater.",
+    "updated_at": "2025-12-23T06:30:52.984704Z"
+  },
+  "porcupine": {
+    "name": "Porcupine",
+    "simple": "[curious] I'm a Porcupine. Porcupines have up to 30,000 quills that they can shoot out when threatened.",
+    "updated_at": "2025-12-23T06:30:53.091042Z"
+  },
+  "skunk": {
+    "name": "Skunk",
+    "simple": "[excited] I'm a Skunk. I spray can be detected up to 3.",
+    "updated_at": "2025-12-23T06:30:53.200340Z"
+  },
+  "badger": {
+    "name": "Badger",
+    "simple": "[excited] I'm a Badger. badgers can dig through concrete and their jaws can lock onto prey with force.",
+    "updated_at": "2025-12-23T06:30:53.309437Z"
+  },
+  "woodpecker": {
+    "name": "Woodpecker",
+    "simple": "[excited] I'm a Woodpecker. Woodpeckers can peck 20 times per second and have shock-absorbing skulls.",
+    "updated_at": "2025-12-23T06:30:53.423118Z"
+  },
+  "blue_jay": {
+    "name": "Blue Jay",
+    "simple": "[curious] I'm a Blue Jay. Blue jays can mimic hawk calls to scare other birds away from food.",
+    "updated_at": "2025-12-23T06:30:53.530021Z"
+  },
+  "cardinal": {
+    "name": "Cardinal",
+    "simple": "[thoughtful] I'm a Cardinal. Cardinals don't molt their feathers so they stay bright red all year.",
+    "updated_at": "2025-12-23T06:30:53.635436Z"
+  },
+  "eagle": {
+    "name": "Eagle",
+    "simple": "[curious] I'm an Eagle. Eagles can see 4-7 times better than humans and can spot a rabbit from 3 km away.",
+    "updated_at": "2025-12-23T06:30:54.345022Z"
+  },
+  "hawk": {
+    "name": "Hawk",
+    "simple": "[excited] I'm a Hawk. Hawks can see in ultraviolet and track prey by following urine trails.",
+    "updated_at": "2025-12-23T06:30:54.448795Z"
+  },
+  "falcon": {
+    "name": "Falcon",
+    "simple": "[curious] I'm a Falcon. Peregrine falcons are the fastest animals, diving at over 320 km/h.",
+    "updated_at": "2025-12-23T06:30:54.557555Z"
+  },
+  "wild_boar": {
+    "name": "Wild Boar",
+    "simple": "[thoughtful] I'm a Wild Boar. Wild boars have tough skin that can stop arrows and they're excellent swimmers.",
+    "updated_at": "2025-12-23T06:30:54.660896Z"
+  },
+  "hedgehog": {
+    "name": "Hedgehog",
+    "simple": "[thoughtful] I'm a Hedgehog. Hedgehogs are immune to snake venom and can eat poisonous snakes.",
+    "updated_at": "2025-12-23T06:30:54.765948Z"
+  },
+  "mole": {
+    "name": "Mole",
+    "simple": "[curious] I'm a Mole. moles can dig 15 meters of tunnel per hour and have a thumb for digging.",
+    "updated_at": "2025-12-23T06:30:54.891338Z"
+  },
+  "salamander": {
+    "name": "Salamander",
+    "simple": "[excited] I'm a Salamander. Some salamanders can regrow entire limbs, including bones, muscles, and nerves.",
+    "updated_at": "2025-12-23T06:30:55.071841Z"
+  },
+  "turkey_vulture": {
+    "name": "Turkey Vulture",
+    "simple": "[thoughtful] I'm a Turkey Vulture. Turkey vultures can eat diseased animals without getting sick and use vomit as defense.",
+    "updated_at": "2025-12-23T06:30:55.178291Z"
+  },
+  "bengal_tiger": {
+    "name": "Bengal Tiger",
+    "simple": "[curious] I'm a Bengal Tiger. Tigers have stripes on their skin as well as their fur - no two tigers have the same pattern.",
+    "updated_at": "2025-12-23T06:30:55.280472Z"
+  },
+  "jaguar": {
+    "name": "Jaguar",
+    "simple": "[excited] I'm a Jaguar. Jaguars have the strongest bite of all big cats and can crush turtle shells.",
+    "updated_at": "2025-12-23T06:30:55.412694Z"
+  },
+  "leopard": {
+    "name": "Leopard",
+    "simple": "[thoughtful] I'm a Leopard. Leopards can carry prey 3 times their own weight up trees.",
+    "updated_at": "2025-12-23T06:30:56.125109Z"
+  },
+  "gorilla": {
+    "name": "Gorilla",
+    "simple": "[thoughtful] I'm a Gorilla. Gorillas can learn sign language and have unique fingerprints like humans.",
+    "updated_at": "2025-12-23T06:30:56.231859Z"
+  },
+  "chimpanzee": {
+    "name": "Chimpanzee",
+    "simple": "[excited] I'm a Chimpanzee. Chimpanzees use tools, teach their young, and have been seen using medicine.",
+    "updated_at": "2025-12-23T06:30:56.347002Z"
+  },
+  "orangutan": {
+    "name": "Orangutan",
+    "simple": "[curious] I'm an Orangutan. Orangutans share 97% of DNA with humans and build nests in trees every night.",
+    "updated_at": "2025-12-23T06:30:56.454257Z"
+  },
+  "howler_monkey": {
+    "name": "Howler Monkey",
+    "simple": "[excited] I'm a Howler Monkey. Howler monkeys are the loudest land animals - their calls can be heard 5 km away.",
+    "updated_at": "2025-12-23T06:30:56.569772Z"
+  },
+  "spider_monkey": {
+    "name": "Spider Monkey",
+    "simple": "[curious] I'm a Spider Monkey. Spider monkeys have a prehensile tail that works like a fifth arm.",
+    "updated_at": "2025-12-23T06:30:56.691800Z"
+  },
+  "capuchin_monkey": {
+    "name": "Capuchin Monkey",
+    "simple": "[excited] I'm a Capuchin Monkey. Capuchin monkeys use tools to crack nuts and even use medicinal plants.",
+    "updated_at": "2025-12-23T06:30:56.799479Z"
+  },
+  "lemur": {
+    "name": "Lemur",
+    "simple": "[curious] I'm a Lemur. Lemurs have long tails for balance and communicate with scent markings.",
+    "updated_at": "2025-12-23T06:30:56.926611Z"
+  },
+  "sloth": {
+    "name": "Sloth",
+    "simple": "[thoughtful] I'm a Sloth. Sloths are so slow that algae grows on their fur, helping them blend in.",
+    "updated_at": "2025-12-23T06:30:57.033895Z"
+  },
+  "anteater": {
+    "name": "Anteater",
+    "simple": "[curious] I'm an Anteater. Anteaters can eat 35,000 ants per day and have a 60 cm long tongue.",
+    "updated_at": "2025-12-23T06:30:57.146457Z"
+  },
+  "armadillo": {
+    "name": "Armadillo",
+    "simple": "[excited] I'm an Armadillo. Armadillos can jump 1 meter high when startled and always have identical quadruplets.",
+    "updated_at": "2025-12-23T06:30:57.844892Z"
+  },
+  "tapir": {
+    "name": "Tapir",
+    "simple": "[excited] I'm a Tapir. Tapirs are related to horses and rhinos and can use their nose as a snorkel.",
+    "updated_at": "2025-12-23T06:30:57.944766Z"
+  },
+  "toucan": {
+    "name": "Toucan",
+    "simple": "[thoughtful] I'm a Toucan. A toucan's bill is one-third of its body length but is so light it can't affect balance.",
+    "updated_at": "2025-12-23T06:30:58.052645Z"
+  },
+  "macaw": {
+    "name": "Macaw",
+    "simple": "[thoughtful] I'm a Macaw. Macaws can live over 80 years and mate for life.",
+    "updated_at": "2025-12-23T06:30:58.153197Z"
+  },
+  "parrot": {
+    "name": "Parrot",
+    "simple": "[excited] I'm a Parrot. Some parrots can live over 100 years and learn over 100 words.",
+    "updated_at": "2025-12-23T06:30:58.260813Z"
+  },
+  "hummingbird": {
+    "name": "Hummingbird",
+    "simple": "[excited] I'm a Hummingbird. Hummingbirds beat their wings 80 times per second and are the only birds that can fly backward.",
+    "updated_at": "2025-12-23T06:30:58.384909Z"
+  },
+  "green_iguana": {
+    "name": "Green Iguana",
+    "simple": "[thoughtful] I'm a Green Iguana. Iguanas can hold their breath for 30 minutes and have a third eye on top of their head.",
+    "updated_at": "2025-12-23T06:30:58.486364Z"
+  },
+  "chameleon": {
+    "name": "Chameleon",
+    "simple": "[excited] I'm a Chameleon. Chameleons change color based on mood and temperature, not just camouflage.",
+    "updated_at": "2025-12-23T06:30:58.584199Z"
+  },
+  "boa_constrictor": {
+    "name": "Boa Constrictor",
+    "simple": "[curious] I'm a Boa Constrictor. Boa constrictors have heat-sensing pits and can swallow prey larger than their head.",
+    "updated_at": "2025-12-23T06:30:58.684836Z"
+  },
+  "python": {
+    "name": "Python",
+    "simple": "[thoughtful] I'm a Python. Pythons can go a year without eating and have flexible jaws that unhinge to swallow large prey.",
+    "updated_at": "2025-12-23T06:30:58.785483Z"
+  },
+  "anaconda": {
+    "name": "Anaconda",
+    "simple": "[thoughtful] I'm an Anaconda. Anacondas give birth to live young and can stay underwater for 10 minutes.",
+    "updated_at": "2025-12-23T06:30:59.494675Z"
+  },
+  "poison_dart_frog": {
+    "name": "Poison Dart Frog",
+    "simple": "[excited] I'm a Poison Dart Frog. One golden poison dart frog has enough poison to kill 10 humans.",
+    "updated_at": "2025-12-23T06:30:59.600160Z"
+  },
+  "red_eyed_tree_frog": {
+    "name": "Red-Eyed Tree Frog",
+    "simple": "[excited] I'm a Red-Eyed Tree Frog. Red-eyed tree frogs flash their bright colors to startle predators, then escape.",
+    "updated_at": "2025-12-23T06:30:59.709529Z"
+  },
+  "tarantula": {
+    "name": "Tarantula",
+    "simple": "[curious] I'm a Tarantula. Tarantulas can regenerate lost legs and some species can live 30 years.",
+    "updated_at": "2025-12-23T06:30:59.819031Z"
+  },
+  "leafcutter_ant": {
+    "name": "Leafcutter Ant",
+    "simple": "[excited] I'm a Leafcutter Ant. Leafcutter ants don't eat leaves - they use them to grow fungus that they eat.",
+    "updated_at": "2025-12-23T06:30:59.922859Z"
+  },
+  "okapi": {
+    "name": "Okapi",
+    "simple": "[excited] I'm an Okapi. Okapis are the only living relatives of giraffes and have zebra-striped legs.",
+    "updated_at": "2025-12-23T06:31:00.030990Z"
+  },
+  "barn_owl": {
+    "name": "Barn Owl",
+    "simple": "[curious] I'm a Barn Owl. Barn owls have asymmetrical ears that help them pinpoint sounds in complete darkness.",
+    "updated_at": "2025-12-23T06:31:00.428330Z"
+  },
+  "great_horned_owl": {
+    "name": "Great Horned Owl",
+    "simple": "[excited] I'm a Great Horned Owl. Great horned owls can't move their eyes, so they can turn their heads 270 degrees.",
+    "updated_at": "2025-12-23T06:31:00.533853Z"
+  },
+  "fruit_bat": {
+    "name": "Fruit Bat",
+    "simple": "[curious] I'm a Fruit Bat. Fruit bats are essential pollinators for over 300 plant species.",
+    "updated_at": "2025-12-23T06:31:00.703658Z"
+  },
+  "vampire_bat": {
+    "name": "Vampire Bat",
+    "simple": "[excited] I'm a Vampire Bat. Vampire bats can walk, run, and jump and share blood with other bats who couldn't find food.",
+    "updated_at": "2025-12-23T06:31:02.210575Z"
+  },
+  "raccoon": {
+    "name": "Raccoon",
+    "simple": "[curious] I'm a Raccoon. Raccoons have 'hands' with five fingers and can remember solutions to tasks for 3 years.",
+    "updated_at": "2025-12-23T06:31:02.929929Z"
+  },
+  "opossum": {
+    "name": "Opossum",
+    "simple": "[excited] I'm an Opossum. Opossums play dead when threatened and can have up to 20 babies at once.",
+    "updated_at": "2025-12-23T06:31:03.036441Z"
+  },
+  "aye_aye": {
+    "name": "Aye-Aye",
+    "simple": "[excited] I'm an Aye-Aye. Aye-ayes have a long middle finger they use to tap on wood and find insects.",
+    "updated_at": "2025-12-23T06:31:03.135294Z"
+  },
+  "tarsier": {
+    "name": "Tarsier",
+    "simple": "[curious] I'm a Tarsier. Tarsiers have the largest eyes relative to body size of any mammal.",
+    "updated_at": "2025-12-23T06:31:03.253581Z"
+  },
+  "bush_baby": {
+    "name": "Bush Baby",
+    "simple": "[excited] I'm a Bush Baby. Bush babies can leap 2.",
+    "updated_at": "2025-12-23T06:31:03.381835Z"
+  },
+  "sugar_glider": {
+    "name": "Sugar Glider",
+    "simple": "[curious] I'm a Sugar Glider. Sugar gliders can glide up to 45 meters using a membrane between their legs.",
+    "updated_at": "2025-12-23T06:31:03.499046Z"
+  },
+  "kinkajou": {
+    "name": "Kinkajou",
+    "simple": "[thoughtful] I'm a Kinkajou. Kinkajous have a 5-inch long tongue they use to reach nectar in flowers.",
+    "updated_at": "2025-12-23T06:31:03.603602Z"
+  },
+  "fennec_fox": {
+    "name": "Fennec Fox",
+    "simple": "[excited] I'm a Fennec Fox. Fennec foxes have huge ears that help them hear prey underground and release heat.",
+    "updated_at": "2025-12-23T06:31:03.712901Z"
+  },
+  "hyena": {
+    "name": "Hyena",
+    "simple": "[thoughtful] I'm a Hyena. Hyenas are more closely related to cats than dogs and can digest bones completely.",
+    "updated_at": "2025-12-23T06:31:03.809590Z"
+  },
+  "aardvark": {
+    "name": "Aardvark",
+    "simple": "[excited] I'm an Aardvark. Aardvarks can dig 1 meter in 5 minutes and eat 50,000 termites per night.",
+    "updated_at": "2025-12-23T06:31:04.043109Z"
+  },
+  "pangolin": {
+    "name": "Pangolin",
+    "simple": "[excited] I'm a Pangolin. Pangolins are the only mammals covered in scales and can roll into a ball for protection.",
+    "updated_at": "2025-12-23T06:31:04.760780Z"
+  },
+  "tasmanian_devil": {
+    "name": "Tasmanian Devil",
+    "simple": "[thoughtful] I'm a Tasmanian Devil. Tasmanian devils have the strongest bite relative to body size of any mammal.",
+    "updated_at": "2025-12-23T06:31:04.869827Z"
+  },
+  "wombat": {
+    "name": "Wombat",
+    "simple": "[thoughtful] I'm a Wombat. Wombats have cube-shaped poop that doesn't roll away and they use it to mark territory.",
+    "updated_at": "2025-12-23T06:31:04.976681Z"
+  },
+  "koala": {
+    "name": "Koala",
+    "simple": "[excited] I'm a Koala. Koalas sleep 22 hours a day and have fingerprints almost identical to humans.",
+    "updated_at": "2025-12-23T06:31:05.080973Z"
+  },
+  "scorpion": {
+    "name": "Scorpion",
+    "simple": "[excited] I'm a Scorpion. Scorpions glow under UV light and can survive a year without food.",
+    "updated_at": "2025-12-23T06:31:05.180801Z"
+  },
+  "firefly": {
+    "name": "Firefly",
+    "simple": "[curious] I'm a Firefly. Fireflies flash in patterns to attract mates and some synchronize their flashes.",
+    "updated_at": "2025-12-23T06:31:05.284300Z"
+  },
+  "moth": {
+    "name": "Moth",
+    "simple": "[thoughtful] I'm a Moth. Moths navigate by the moon and some can fly up to 60 km/h.",
+    "updated_at": "2025-12-23T06:31:05.388549Z"
+  },
+  "gecko": {
+    "name": "Gecko",
+    "simple": "[thoughtful] I'm a Gecko. Geckos can walk on walls using microscopic hairs that create molecular attraction.",
+    "updated_at": "2025-12-23T06:31:05.494947Z"
+  },
+  "cacomistle": {
+    "name": "Cacomistle",
+    "simple": "[excited] I'm a Cacomistle. Cacomistles are related to raccoons and have rings on their tails like raccoons.",
+    "updated_at": "2025-12-23T06:31:05.611053Z"
+  },
+  "civet": {
+    "name": "Civet",
+    "simple": "[thoughtful] I'm a Civet. Civets produce musk used in perfumes and some coffee beans pass through them.",
+    "updated_at": "2025-12-23T06:31:05.734093Z"
+  },
+  "genet": {
+    "name": "Genet",
+    "simple": "[curious] I'm a Genet. Genets can stand on their hind legs to look around and have retractable claws like cats.",
+    "updated_at": "2025-12-23T06:31:06.443030Z"
+  },
+  "mouse": {
+    "name": "Mouse",
+    "simple": "[excited] I'm a Mouse. Mice can squeeze through holes as small as a pencil and have ultrasonic hearing.",
+    "updated_at": "2025-12-23T06:31:06.561281Z"
+  },
+  "rat": {
+    "name": "Rat",
+    "simple": "[curious] I'm a Rat. Rats are excellent swimmers, can hold their breath for 3 minutes, and laugh when tickled.",
+    "updated_at": "2025-12-23T06:31:06.669017Z"
+  },
+  "jerboa": {
+    "name": "Jerboa",
+    "simple": "[curious] I'm a Jerboa. Jerboas can hop 3 meters high and use their tail for balance.",
+    "updated_at": "2025-12-23T06:31:06.780927Z"
+  },
+  "polar_bear": {
+    "name": "Polar Bear",
+    "simple": "[curious] I'm a Polar Bear. Polar bears have black skin under their white fur to absorb heat.",
+    "updated_at": "2025-12-23T06:31:06.884763Z"
+  },
+  "arctic_fox": {
+    "name": "Arctic Fox",
+    "simple": "[thoughtful] I'm an Arctic Fox. Arctic foxes change color - white in winter, brown or gray in summer.",
+    "updated_at": "2025-12-23T06:31:06.997002Z"
+  },
+  "arctic_wolf": {
+    "name": "Arctic Wolf",
+    "simple": "[excited] I'm an Arctic Wolf. Arctic wolves can survive temperatures of -70°C and have two layers of fur.",
+    "updated_at": "2025-12-23T06:31:07.107044Z"
+  },
+  "arctic_hare": {
+    "name": "Arctic Hare",
+    "simple": "[excited] I'm an Arctic Hare. Arctic hares can run up to 60 km/h and change from brown to white for winter.",
+    "updated_at": "2025-12-23T06:31:07.208685Z"
+  },
+  "walrus": {
+    "name": "Walrus",
+    "simple": "[excited] I'm a Walrus. Walruses use their tusks to haul out of water and can weigh up to 1,500 kg.",
+    "updated_at": "2025-12-23T06:31:07.312356Z"
+  },
+  "narwhal": {
+    "name": "Narwhal",
+    "simple": "[thoughtful] I'm a Narwhal. Narwhals have a 3-meter long tooth that looks like a unicorn horn.",
+    "updated_at": "2025-12-23T06:31:07.416300Z"
+  },
+  "beluga_whale": {
+    "name": "Beluga Whale",
+    "simple": "[curious] I'm a Beluga Whale. Beluga whales can change the shape of their forehead and are called 'canaries of the sea' for their songs.",
+    "updated_at": "2025-12-23T06:31:08.139147Z"
+  },
+  "bowhead_whale": {
+    "name": "Bowhead Whale",
+    "simple": "[excited] I'm a Bowhead Whale. Bowhead whales can live over 200 years, making them the longest-living mammals.",
+    "updated_at": "2025-12-23T06:31:08.238019Z"
+  },
+  "orca": {
+    "name": "Orca",
+    "simple": "[excited] I'm an Orca. Orcas are actually dolphins and each pod has its own unique dialect.",
+    "updated_at": "2025-12-23T06:31:08.339944Z"
+  },
+  "harp_seal": {
+    "name": "Harp Seal",
+    "simple": "[excited] I'm a Harp Seal. I pups can swim within minutes of birth and have pure white fur for the first few weeks.",
+    "updated_at": "2025-12-23T06:31:08.443895Z"
+  },
+  "leopard_seal": {
+    "name": "Leopard Seal",
+    "simple": "[thoughtful] I'm a Leopard Seal. Leopard seals are the only seals that eat warm-blooded prey like penguins.",
+    "updated_at": "2025-12-23T06:31:08.546848Z"
+  },
+  "weddell_seal": {
+    "name": "Weddell Seal",
+    "simple": "[thoughtful] I'm a Weddell Seal. Weddell seals can dive to 600 meters and use their teeth to chew holes in ice to breathe.",
+    "updated_at": "2025-12-23T06:31:08.648373Z"
+  },
+  "emperor_penguin": {
+    "name": "Emperor Penguin",
+    "simple": "[excited] I'm an Emperor Penguin. Emperor penguins can dive to 500 meters and males incubate eggs on their feet for 64 days.",
+    "updated_at": "2025-12-23T06:31:08.750382Z"
+  },
+  "adelie_penguin": {
+    "name": "Adelie Penguin",
+    "simple": "[excited] I'm an Adelie Penguin. Adelie penguins use pebbles to build nests and will steal them from each other.",
+    "updated_at": "2025-12-23T06:31:08.848313Z"
+  },
+  "rockhopper_penguin": {
+    "name": "Rockhopper Penguin",
+    "simple": "[curious] I'm a Rockhopper Penguin. Rockhopper penguins have spiky feathers on their heads and can jump 2.",
+    "updated_at": "2025-12-23T06:31:08.945122Z"
+  },
+  "puffin": {
+    "name": "Puffin",
+    "simple": "[curious] I'm a Puffin. Puffins can hold up to 10 fish in their beak at once.",
+    "updated_at": "2025-12-23T06:31:09.050612Z"
+  },
+  "snowy_owl": {
+    "name": "Snowy Owl",
+    "simple": "[excited] I'm a Snowy Owl. Snowy owls have feathers on their feet like snowshoes and hunt 24 hours a day in summer.",
+    "updated_at": "2025-12-23T06:31:09.774657Z"
+  },
+  "musk_ox": {
+    "name": "Musk Ox",
+    "simple": "[curious] I'm a Musk Ox. Musk oxen have underwool that's 8 times warmer than sheep's wool.",
+    "updated_at": "2025-12-23T06:31:09.872616Z"
+  },
+  "reindeer": {
+    "name": "Reindeer",
+    "simple": "[curious] I'm a Reindeer. I are the only deer species where both males and females have antlers.",
+    "updated_at": "2025-12-23T06:31:09.988116Z"
+  },
+  "caribou": {
+    "name": "Caribou",
+    "simple": "[curious] I'm a Caribou. I can travel 5,000 km per year - the longest land migration of any animal.",
+    "updated_at": "2025-12-23T06:31:10.098447Z"
+  },
+  "lemming": {
+    "name": "Lemming",
+    "simple": "[excited] I'm a Lemming. Contrary to myth, lemmings don't commit mass suicide - they migrate when populations get too high.",
+    "updated_at": "2025-12-23T06:31:10.204856Z"
+  },
+  "ptarmigan": {
+    "name": "Ptarmigan",
+    "simple": "[curious] I'm a Ptarmigan. Ptarmigans have feathered feet that act like snowshoes and change color with seasons.",
+    "updated_at": "2025-12-23T06:31:10.303969Z"
+  },
+  "wolverine": {
+    "name": "Wolverine",
+    "simple": "[curious] I'm a Wolverine. Wolverines can take down prey 10 times their size and have teeth strong enough to break bones.",
+    "updated_at": "2025-12-23T06:31:10.410389Z"
+  },
+  "stoat": {
+    "name": "Stoat",
+    "simple": "[curious] I'm a Stoat. Stoats turn white in winter and perform hypnotic dances to mesmerize rabbits.",
+    "updated_at": "2025-12-23T06:31:10.517342Z"
+  },
+  "ermine": {
+    "name": "Ermine",
+    "simple": "[excited] I'm an Ermine. Ermines are stoats in their white winter coat and were once used to make royal robes.",
+    "updated_at": "2025-12-23T06:31:10.613371Z"
+  },
+  "snow_goose": {
+    "name": "Snow Goose",
+    "simple": "[thoughtful] I'm a Snow Goose. Snow geese fly in formation that saves 70% energy for birds behind the leader.",
+    "updated_at": "2025-12-23T06:31:10.715585Z"
+  },
+  "albatross": {
+    "name": "Albatross",
+    "simple": "[thoughtful] I'm an Albatross. Albatrosses can fly for hours without flapping their wings and can sleep while flying.",
+    "updated_at": "2025-12-23T06:31:11.424645Z"
+  },
+  "krill_antarctic": {
+    "name": "Krill (Antarctic)",
+    "simple": "[curious] I'm a Krill (Antarctic). Antarctic krill can live for 10 years and use their bodies as a solar panel by eating ice algae.",
+    "updated_at": "2025-12-23T06:31:11.532813Z"
+  }
+}

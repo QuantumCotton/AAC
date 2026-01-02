@@ -1,0 +1,3429 @@
+{
+  "generated_at": "2025-12-23T08:09:31.371812Z",
+  "source_file": ".\\src\\data\\animals.json",
+  "total": 252,
+  "counts": {
+    "verified": 126,
+    "maybe": 94,
+    "unsure": 12,
+    "no_match": 20
+  },
+  "items": [
+    {
+      "name": "Mariana Snailfish",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Giant Tube Worm",
+      "status": "verified",
+      "best": {
+        "id": "Q133020",
+        "label": "Giant tube worm",
+        "description": "species of annelid",
+        "url": "http://www.wikidata.org/entity/Q133020",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Comb Jelly",
+      "status": "no_match",
+      "best": {
+        "id": "Q102778",
+        "label": "Ctenophora",
+        "description": "phylum of marine invertebrates",
+        "url": "http://www.wikidata.org/entity/Q102778",
+        "exact": false,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Deep Sea Cucumber",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Zombie Worm",
+      "status": "no_match",
+      "best": {
+        "id": "Q127483125",
+        "label": "Zombie Worms, Ploonets, and Other Things We’re Reading This Week",
+        "description": "scholarly article",
+        "url": "http://www.wikidata.org/entity/Q127483125",
+        "exact": false,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Ping Pong Tree Sponge",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Tripod Fish",
+      "status": "verified",
+      "best": {
+        "id": "Q556906",
+        "label": "tripod fish",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q556906",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 3
+    },
+    {
+      "name": "Dumbo Octopus",
+      "status": "verified",
+      "best": {
+        "id": "Q13647906",
+        "label": "Dumbo octopus",
+        "description": "species of mollusc",
+        "url": "http://www.wikidata.org/entity/Q13647906",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Faceless Cusk",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Abyssal Spiderfish",
+      "status": "verified",
+      "best": {
+        "id": "Q4670746",
+        "label": "Abyssal spiderfish",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q4670746",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Sea Pig",
+      "status": "maybe",
+      "best": {
+        "id": "Q2490972",
+        "label": "Scotoplanes globosa",
+        "description": "species of seep-sea holothuroid",
+        "url": "http://www.wikidata.org/entity/Q2490972",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Ghost Shark",
+      "status": "maybe",
+      "best": {
+        "id": "Q857994",
+        "label": "Callorhinchus milii",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q857994",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Deep Sea Amphipod",
+      "status": "no_match",
+      "best": {
+        "id": "Q99653501",
+        "label": "Deep-sea Amphipoda of the genus Lepechinella (Crustacea)",
+        "description": "scientific article published in 1973",
+        "url": "http://www.wikidata.org/entity/Q99653501",
+        "exact": false,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Glass Sponge",
+      "status": "maybe",
+      "best": {
+        "id": "Q2450907",
+        "label": "Caulophacus schulzei",
+        "description": "species of sponge",
+        "url": "http://www.wikidata.org/entity/Q2450907",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Grenadier Fish",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Cusk Eel",
+      "status": "maybe",
+      "best": {
+        "id": "Q809481",
+        "label": "Ophidiidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q809481",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Snipe Eel",
+      "status": "maybe",
+      "best": {
+        "id": "Q509685",
+        "label": "Nemichthyidae",
+        "description": "family of fishes in the order Anguilliformes",
+        "url": "http://www.wikidata.org/entity/Q509685",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Sea Angel",
+      "status": "maybe",
+      "best": {
+        "id": "Q2453516",
+        "label": "Clione limacina",
+        "description": "species of mollusc",
+        "url": "http://www.wikidata.org/entity/Q2453516",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Deep Sea Jellyfish",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Basket Star",
+      "status": "maybe",
+      "best": {
+        "id": "Q2197129",
+        "label": "Astrocladus euryale",
+        "description": "species of echinoderm",
+        "url": "http://www.wikidata.org/entity/Q2197129",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Brisingid Starfish",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Sea Pen",
+      "status": "no_match",
+      "best": {
+        "id": "Q3644778",
+        "label": "sea pens",
+        "description": "",
+        "url": "http://www.wikidata.org/entity/Q3644778",
+        "exact": false,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 5
+    },
+    {
+      "name": "Acorn Worm",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Monophore",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Siphonophore",
+      "status": "maybe",
+      "best": {
+        "id": "Q107265211",
+        "label": "Siphonophorella",
+        "description": "genus of myriapods",
+        "url": "http://www.wikidata.org/entity/Q107265211",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Black Swallower",
+      "status": "verified",
+      "best": {
+        "id": "Q142612",
+        "label": "Black swallower",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q142612",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Lizardfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q781440",
+        "label": "Aulopiformes",
+        "description": "order of fishes",
+        "url": "http://www.wikidata.org/entity/Q781440",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Spookfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q4338553",
+        "label": "barreleye",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q4338553",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 4
+    },
+    {
+      "name": "Anglerfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q206948",
+        "label": "Lophiiformes",
+        "description": "order of fish belonging to the bony fishes (Osteichthyes)",
+        "url": "http://www.wikidata.org/entity/Q206948",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Vampire Squid",
+      "status": "verified",
+      "best": {
+        "id": "Q2509902",
+        "label": "Vampire squid",
+        "description": "species of mollusc",
+        "url": "http://www.wikidata.org/entity/Q2509902",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 4
+    },
+    {
+      "name": "Giant Squid",
+      "status": "verified",
+      "best": {
+        "id": "Q13537131",
+        "label": "giant squid",
+        "description": "species of decapod cephalopods",
+        "url": "http://www.wikidata.org/entity/Q13537131",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Gulper Eel",
+      "status": "unsure",
+      "best": {
+        "id": "Q116890146",
+        "label": "Gulper eel",
+        "description": "Wikimedia disambiguation page",
+        "url": "http://www.wikidata.org/entity/Q116890146",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Goblin Shark",
+      "status": "verified",
+      "best": {
+        "id": "Q499461",
+        "label": "goblin shark",
+        "description": "deep-sea shark",
+        "url": "http://www.wikidata.org/entity/Q499461",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Blobfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q1210085",
+        "label": "Psychrolutidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q1210085",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 6
+    },
+    {
+      "name": "Lanternfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q930316",
+        "label": "Diaphus effulgens",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q930316",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Hatchetfish",
+      "status": "unsure",
+      "best": {
+        "id": "Q5681129",
+        "label": "Hatchetfish",
+        "description": "Wikimedia disambiguation page",
+        "url": "http://www.wikidata.org/entity/Q5681129",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 3
+    },
+    {
+      "name": "Viperfish",
+      "status": "verified",
+      "best": {
+        "id": "Q860394",
+        "label": "viperfish",
+        "description": "genus of fishes",
+        "url": "http://www.wikidata.org/entity/Q860394",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Dragonfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q657570",
+        "label": "Stomiiformes",
+        "description": "order of fishes",
+        "url": "http://www.wikidata.org/entity/Q657570",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Fangtooth",
+      "status": "verified",
+      "best": {
+        "id": "Q2140610",
+        "label": "fangtooth",
+        "description": "genus of fishes",
+        "url": "http://www.wikidata.org/entity/Q2140610",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 3
+    },
+    {
+      "name": "Frilled Shark",
+      "status": "maybe",
+      "best": {
+        "id": "Q194312",
+        "label": "Chlamydoselachus anguineus",
+        "description": "species of shark",
+        "url": "http://www.wikidata.org/entity/Q194312",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Coffinfish",
+      "status": "verified",
+      "best": {
+        "id": "Q2487841",
+        "label": "Coffinfish",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q2487841",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Barreleye",
+      "status": "verified",
+      "best": {
+        "id": "Q4338553",
+        "label": "barreleye",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q4338553",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Cookiecutter Shark",
+      "status": "verified",
+      "best": {
+        "id": "Q199372",
+        "label": "cookiecutter shark",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q199372",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Oarfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q1078201",
+        "label": "Regalecidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q1078201",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Big Red Jelly",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Colossal Squid",
+      "status": "verified",
+      "best": {
+        "id": "Q378330",
+        "label": "colossal squid",
+        "description": "species of mollusc",
+        "url": "http://www.wikidata.org/entity/Q378330",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Six-Gill Shark",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Wolffish",
+      "status": "maybe",
+      "best": {
+        "id": "Q604663",
+        "label": "Anarhichadidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q604663",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 4
+    },
+    {
+      "name": "Chimaera",
+      "status": "verified",
+      "best": {
+        "id": "Q19240",
+        "label": "Chimaera",
+        "description": "genus of cartilaginous fishes",
+        "url": "http://www.wikidata.org/entity/Q19240",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Stoplight Loosejaw",
+      "status": "maybe",
+      "best": {
+        "id": "Q134546",
+        "label": "stoplight loosejaws",
+        "description": "genus of fishes",
+        "url": "http://www.wikidata.org/entity/Q134546",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Flashlight Fish",
+      "status": "verified",
+      "best": {
+        "id": "Q1346261",
+        "label": "flashlight fish",
+        "description": "family of fish (Anomalopidae)",
+        "url": "http://www.wikidata.org/entity/Q1346261",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 3
+    },
+    {
+      "name": "Japanese Spider Crab",
+      "status": "maybe",
+      "best": {
+        "id": "Q273655",
+        "label": "Japanese spider crabs",
+        "description": "species of crab",
+        "url": "http://www.wikidata.org/entity/Q273655",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Nautilus",
+      "status": "verified",
+      "best": {
+        "id": "Q1324463",
+        "label": "Nautilus",
+        "description": "genus of molluscs",
+        "url": "http://www.wikidata.org/entity/Q1324463",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sperm Whale",
+      "status": "verified",
+      "best": {
+        "id": "Q81214",
+        "label": "sperm whale",
+        "description": "largest species of toothed whale",
+        "url": "http://www.wikidata.org/entity/Q81214",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Beaked Whale",
+      "status": "maybe",
+      "best": {
+        "id": "Q193106",
+        "label": "Ziphiidae",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q193106",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Elephant Seal",
+      "status": "verified",
+      "best": {
+        "id": "Q185231",
+        "label": "elephant seal",
+        "description": "genus of mammals",
+        "url": "http://www.wikidata.org/entity/Q185231",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Clownfish",
+      "status": "verified",
+      "best": {
+        "id": "Q472616",
+        "label": "Clownfish",
+        "description": "subfamily of fishes",
+        "url": "http://www.wikidata.org/entity/Q472616",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Blue Tang",
+      "status": "maybe",
+      "best": {
+        "id": "Q882618",
+        "label": "Acanthurus coeruleus",
+        "description": "surgeonfish",
+        "url": "http://www.wikidata.org/entity/Q882618",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Parrotfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q502220",
+        "label": "Scaridae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q502220",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Lionfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q475711",
+        "label": "Pterois",
+        "description": "genus of fish",
+        "url": "http://www.wikidata.org/entity/Q475711",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Seahorse",
+      "status": "verified",
+      "best": {
+        "id": "Q11709836",
+        "label": "seahorse",
+        "description": "type of fishes",
+        "url": "http://www.wikidata.org/entity/Q11709836",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Moray Eel",
+      "status": "maybe",
+      "best": {
+        "id": "Q35076",
+        "label": "Muraenidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q35076",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 5
+    },
+    {
+      "name": "Pufferfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q201701",
+        "label": "Tetraodontidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q201701",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Butterflyfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q271004",
+        "label": "Chaetodontidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q271004",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Angelfish",
+      "status": "verified",
+      "best": {
+        "id": "Q1949062",
+        "label": "Angelfish",
+        "description": "album by Angelfish",
+        "url": "http://www.wikidata.org/entity/Q1949062",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sea Turtle",
+      "status": "verified",
+      "best": {
+        "id": "Q219329",
+        "label": "sea turtle",
+        "description": "superfamily of reptiles",
+        "url": "http://www.wikidata.org/entity/Q219329",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Reef Shark",
+      "status": "unsure",
+      "best": {
+        "id": "Q2152655",
+        "label": "reef shark",
+        "description": "Wikimedia disambiguation page",
+        "url": "http://www.wikidata.org/entity/Q2152655",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Manta Ray",
+      "status": "maybe",
+      "best": {
+        "id": "Q1536199",
+        "label": "Manta",
+        "description": "genus of fishes",
+        "url": "http://www.wikidata.org/entity/Q1536199",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Cuttlefish",
+      "status": "maybe",
+      "best": {
+        "id": "Q135119",
+        "label": "Sepiidae",
+        "description": "family of molluscs",
+        "url": "http://www.wikidata.org/entity/Q135119",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Octopus",
+      "status": "verified",
+      "best": {
+        "id": "Q611843",
+        "label": "Octopus",
+        "description": "largest genus of octopuses",
+        "url": "http://www.wikidata.org/entity/Q611843",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Giant Clam",
+      "status": "maybe",
+      "best": {
+        "id": "Q751784",
+        "label": "Tridacna gigas",
+        "description": "species of clam",
+        "url": "http://www.wikidata.org/entity/Q751784",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Boxfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q755011",
+        "label": "Ostraciidae",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q755011",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 4
+    },
+    {
+      "name": "Triggerfish",
+      "status": "verified",
+      "best": {
+        "id": "Q504796",
+        "label": "triggerfish",
+        "description": "family Balistidae, about 40 species of often brightly colored fishes",
+        "url": "http://www.wikidata.org/entity/Q504796",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 6
+    },
+    {
+      "name": "Sea Anemone",
+      "status": "maybe",
+      "best": {
+        "id": "Q147256",
+        "label": "Actiniaria",
+        "description": "order of cnidarians",
+        "url": "http://www.wikidata.org/entity/Q147256",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Mandarinfish",
+      "status": "verified",
+      "best": {
+        "id": "Q77062",
+        "label": "Mandarinfish",
+        "description": "fish species of western Pacific Ocean",
+        "url": "http://www.wikidata.org/entity/Q77062",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Moorish Idol",
+      "status": "verified",
+      "best": {
+        "id": "Q941448",
+        "label": "Moorish idol",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q941448",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Napoleon Wrasse",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Cleaner Shrimp",
+      "status": "verified",
+      "best": {
+        "id": "Q3002557",
+        "label": "cleaner shrimp",
+        "description": "species of crustacean",
+        "url": "http://www.wikidata.org/entity/Q3002557",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 6
+    },
+    {
+      "name": "Stonefish",
+      "status": "maybe",
+      "best": {
+        "id": "Q1764110",
+        "label": "Helicolenus",
+        "description": "genus of fishes",
+        "url": "http://www.wikidata.org/entity/Q1764110",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Barracuda",
+      "status": "maybe",
+      "best": {
+        "id": "Q193921",
+        "label": "Sphyraena",
+        "description": "genus of fishes, the Barracudas",
+        "url": "http://www.wikidata.org/entity/Q193921",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Trumpetfish",
+      "status": "verified",
+      "best": {
+        "id": "Q1966255",
+        "label": "Trumpetfish",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q1966255",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Nudibranch",
+      "status": "maybe",
+      "best": {
+        "id": "Q733595",
+        "label": "Nudibranchia",
+        "description": "order of molluscs",
+        "url": "http://www.wikidata.org/entity/Q733595",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sea Fan",
+      "status": "maybe",
+      "best": {
+        "id": "Q1365073",
+        "label": "Gorgonacea",
+        "description": "order of cnidarians",
+        "url": "http://www.wikidata.org/entity/Q1365073",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Brain Coral",
+      "status": "maybe",
+      "best": {
+        "id": "Q134555",
+        "label": "Faviidae",
+        "description": "family of cnidarians in the order Scleractinia",
+        "url": "http://www.wikidata.org/entity/Q134555",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Bottlenose Dolphin",
+      "status": "verified",
+      "best": {
+        "id": "Q149069",
+        "label": "bottlenose dolphin",
+        "description": "genus of dolphin",
+        "url": "http://www.wikidata.org/entity/Q149069",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sea Otter",
+      "status": "verified",
+      "best": {
+        "id": "Q41407",
+        "label": "sea otter",
+        "description": "species of marine mammal",
+        "url": "http://www.wikidata.org/entity/Q41407",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Manatee",
+      "status": "maybe",
+      "best": {
+        "id": "Q40261",
+        "label": "West Indian manatee",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q40261",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Stingray",
+      "status": "maybe",
+      "best": {
+        "id": "Q5328202",
+        "label": "Myliobatoidei",
+        "description": "suborder of fishes",
+        "url": "http://www.wikidata.org/entity/Q5328202",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Starfish",
+      "status": "maybe",
+      "best": {
+        "id": "Q21120",
+        "label": "common starfish",
+        "description": "species of starfish",
+        "url": "http://www.wikidata.org/entity/Q21120",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Hermit Crab",
+      "status": "maybe",
+      "best": {
+        "id": "Q273291",
+        "label": "Paguroidea",
+        "description": "superfamily of crustaceans",
+        "url": "http://www.wikidata.org/entity/Q273291",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Lobster",
+      "status": "maybe",
+      "best": {
+        "id": "Q1038113",
+        "label": "Nephropidae",
+        "description": "family of large marine crustaceans",
+        "url": "http://www.wikidata.org/entity/Q1038113",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sea Urchin",
+      "status": "maybe",
+      "best": {
+        "id": "Q5640409",
+        "label": "Hakea petiolaris",
+        "description": "species of plant endemic to south West Australia",
+        "url": "http://www.wikidata.org/entity/Q5640409",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sand Dollar",
+      "status": "maybe",
+      "best": {
+        "id": "Q305013",
+        "label": "Echinodiscus bisperforatus",
+        "description": "species of echinoderm",
+        "url": "http://www.wikidata.org/entity/Q305013",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Pelican",
+      "status": "verified",
+      "best": {
+        "id": "Q19413",
+        "label": "pelican",
+        "description": "genus of birds",
+        "url": "http://www.wikidata.org/entity/Q19413",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Seagull",
+      "status": "maybe",
+      "best": {
+        "id": "Q27589",
+        "label": "Laridae",
+        "description": "family of birds",
+        "url": "http://www.wikidata.org/entity/Q27589",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Horseshoe Crab",
+      "status": "maybe",
+      "best": {
+        "id": "Q1133152",
+        "label": "Atlantic horseshoe crab",
+        "description": "species of arthropods",
+        "url": "http://www.wikidata.org/entity/Q1133152",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Fiddler Crab",
+      "status": "maybe",
+      "best": {
+        "id": "Q1329937",
+        "label": "Uca",
+        "description": "genus of crustaceans",
+        "url": "http://www.wikidata.org/entity/Q1329937",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Flounder",
+      "status": "verified",
+      "best": {
+        "id": "Q4246303",
+        "label": "flounder",
+        "description": "group of fish species",
+        "url": "http://www.wikidata.org/entity/Q4246303",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Barnacle",
+      "status": "verified",
+      "best": {
+        "id": "Q220457",
+        "label": "Barnacle",
+        "description": "infraclass of crustaceans",
+        "url": "http://www.wikidata.org/entity/Q220457",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Jellyfish",
+      "status": "unsure",
+      "best": {
+        "id": "Q30178",
+        "label": "jellyfish",
+        "description": "soft-bodied, aquatic invertebrates",
+        "url": "http://www.wikidata.org/entity/Q30178",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sea Lion",
+      "status": "verified",
+      "best": {
+        "id": "Q3887135",
+        "label": "sea lion",
+        "description": "subfamily of marine mammals",
+        "url": "http://www.wikidata.org/entity/Q3887135",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Harbor Seal",
+      "status": "maybe",
+      "best": {
+        "id": "Q26913",
+        "label": "Phoca vitulina",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q26913",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Great White Shark",
+      "status": "verified",
+      "best": {
+        "id": "Q129026",
+        "label": "great white shark",
+        "description": "species of large lamniform shark",
+        "url": "http://www.wikidata.org/entity/Q129026",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Hammerhead Shark",
+      "status": "maybe",
+      "best": {
+        "id": "Q208490",
+        "label": "hammerhead sharks",
+        "description": "family of fishes",
+        "url": "http://www.wikidata.org/entity/Q208490",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 5
+    },
+    {
+      "name": "Tiger Shark",
+      "status": "verified",
+      "best": {
+        "id": "Q188212",
+        "label": "tiger shark",
+        "description": "species of fish",
+        "url": "http://www.wikidata.org/entity/Q188212",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sea Sponge",
+      "status": "maybe",
+      "best": {
+        "id": "Q18960",
+        "label": "Porifera",
+        "description": "phylum of animals",
+        "url": "http://www.wikidata.org/entity/Q18960",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 3
+    },
+    {
+      "name": "Scallop",
+      "status": "verified",
+      "best": {
+        "id": "Q7360490",
+        "label": "scallop",
+        "description": "Name applied to numerous species of saltwater clams or marine bivalve mollusks in the Pectinidae family, the scallops. The common name scallop is also applied to species in other families of the superfamily Pectinoidea, including the thorny oysters.",
+        "url": "http://www.wikidata.org/entity/Q7360490",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Oyster",
+      "status": "verified",
+      "best": {
+        "id": "Q107411",
+        "label": "oyster",
+        "description": "salt-water bivalve mollusc",
+        "url": "http://www.wikidata.org/entity/Q107411",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Mussel",
+      "status": "verified",
+      "best": {
+        "id": "Q13042834",
+        "label": "mussel",
+        "description": "members of several families of clams or bivalve mollusks",
+        "url": "http://www.wikidata.org/entity/Q13042834",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Conch Snail",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    },
+    {
+      "name": "Krill",
+      "status": "verified",
+      "best": {
+        "id": "Q16667272",
+        "label": "krill",
+        "description": "planktonic crustaceans",
+        "url": "http://www.wikidata.org/entity/Q16667272",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Plankton",
+      "status": "maybe",
+      "best": {
+        "id": "Q3820498",
+        "label": "Planktonemertidae",
+        "description": "family of worms",
+        "url": "http://www.wikidata.org/entity/Q3820498",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Cow",
+      "status": "maybe",
+      "best": {
+        "id": "Q12418974",
+        "label": "cowpox virus",
+        "description": "species of virus",
+        "url": "http://www.wikidata.org/entity/Q12418974",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Pig",
+      "status": "maybe",
+      "best": {
+        "id": "Q58697",
+        "label": "Sus scrofa",
+        "description": "omnivore species of mammal",
+        "url": "http://www.wikidata.org/entity/Q58697",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sheep",
+      "status": "maybe",
+      "best": {
+        "id": "Q334149",
+        "label": "Fasciola hepatica",
+        "description": "parasitic flatworm in mammal livers",
+        "url": "http://www.wikidata.org/entity/Q334149",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Goat",
+      "status": "verified",
+      "best": {
+        "id": "Q2934",
+        "label": "goat",
+        "description": "domesticated mammal raised for its meat and milk",
+        "url": "http://www.wikidata.org/entity/Q2934",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Chicken",
+      "status": "verified",
+      "best": {
+        "id": "Q780",
+        "label": "chicken",
+        "description": "domesticated bird kept by humans primarily as a food source",
+        "url": "http://www.wikidata.org/entity/Q780",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Rooster",
+      "status": "verified",
+      "best": {
+        "id": "Q688973",
+        "label": "rooster",
+        "description": "heraldic animal",
+        "url": "http://www.wikidata.org/entity/Q688973",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Duck",
+      "status": "verified",
+      "best": {
+        "id": "Q3736439",
+        "label": "duck",
+        "description": "common name for many species in the bird family Anatidae",
+        "url": "http://www.wikidata.org/entity/Q3736439",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Goose",
+      "status": "verified",
+      "best": {
+        "id": "Q16529344",
+        "label": "goose",
+        "description": "common name for a group of birds",
+        "url": "http://www.wikidata.org/entity/Q16529344",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Turkey",
+      "status": "maybe",
+      "best": {
+        "id": "Q43794",
+        "label": "Meleagris",
+        "description": "North American genus of large birds",
+        "url": "http://www.wikidata.org/entity/Q43794",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Horse",
+      "status": "verified",
+      "best": {
+        "id": "Q726",
+        "label": "horse",
+        "description": "domesticated four-footed mammal from the equine family",
+        "url": "http://www.wikidata.org/entity/Q726",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Donkey",
+      "status": "maybe",
+      "best": {
+        "id": "Q19707",
+        "label": "Equus africanus asinus",
+        "description": "subspecies of mammal (donkey as a domesticated subspecies)",
+        "url": "http://www.wikidata.org/entity/Q19707",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Pony",
+      "status": "unsure",
+      "best": {
+        "id": "Q188828",
+        "label": "pony",
+        "description": "type of small horse",
+        "url": "http://www.wikidata.org/entity/Q188828",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Llama",
+      "status": "maybe",
+      "best": {
+        "id": "Q42569",
+        "label": "Lama glama",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q42569",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Alpaca",
+      "status": "verified",
+      "best": {
+        "id": "Q81564",
+        "label": "alpaca",
+        "description": "domesticated species of South American camelid",
+        "url": "http://www.wikidata.org/entity/Q81564",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Border Collie",
+      "status": "maybe",
+      "best": {
+        "id": "Q129835725",
+        "label": "blue border collie",
+        "description": "type of Puffle Creature in Club Penguin",
+        "url": "http://www.wikidata.org/entity/Q129835725",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Golden Retriever",
+      "status": "verified",
+      "best": {
+        "id": "Q5579731",
+        "label": "Golden Retriever",
+        "description": "song by Super Furry Animals",
+        "url": "http://www.wikidata.org/entity/Q5579731",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Tabby Cat",
+      "status": "unsure",
+      "best": {
+        "id": "Q1474329",
+        "label": "tabby cat",
+        "description": "domestic cat with a distinctive coat marked by stripes, dots, lines, or other patterns",
+        "url": "http://www.wikidata.org/entity/Q1474329",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 3
+    },
+    {
+      "name": "Siamese Cat",
+      "status": "unsure",
+      "best": {
+        "id": "Q123570862",
+        "label": "Siamese Cat",
+        "description": "1943 Hungarian musical comedy film directed by László Kalmár",
+        "url": "http://www.wikidata.org/entity/Q123570862",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": true
+      },
+      "results_count": 5
+    },
+    {
+      "name": "Goldfish",
+      "status": "verified",
+      "best": {
+        "id": "Q123141",
+        "label": "goldfish",
+        "description": "species of freshwater fish, common in aquariums",
+        "url": "http://www.wikidata.org/entity/Q123141",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Hamster",
+      "status": "maybe",
+      "best": {
+        "id": "Q204175",
+        "label": "Mesocricetus auratus",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q204175",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Guinea Pig",
+      "status": "verified",
+      "best": {
+        "id": "Q286088",
+        "label": "Guinea pig",
+        "description": "genus of mammals",
+        "url": "http://www.wikidata.org/entity/Q286088",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Rabbit",
+      "status": "verified",
+      "best": {
+        "id": "Q9394",
+        "label": "rabbit",
+        "description": "mammals of the family Leporidae",
+        "url": "http://www.wikidata.org/entity/Q9394",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Ferret",
+      "status": "maybe",
+      "best": {
+        "id": "Q178973",
+        "label": "Mustela putorius furo",
+        "description": "subspecies of mammal",
+        "url": "http://www.wikidata.org/entity/Q178973",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Parakeet",
+      "status": "verified",
+      "best": {
+        "id": "Q8329",
+        "label": "parakeet",
+        "description": "small to medium sized species of parrot",
+        "url": "http://www.wikidata.org/entity/Q8329",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Cockatiel",
+      "status": "verified",
+      "best": {
+        "id": "Q514809",
+        "label": "Cockatiel",
+        "description": "species of Australian cockatoo",
+        "url": "http://www.wikidata.org/entity/Q514809",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Turtle",
+      "status": "verified",
+      "best": {
+        "id": "Q32945370",
+        "label": "turtle",
+        "description": "animal with shell",
+        "url": "http://www.wikidata.org/entity/Q32945370",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Pot-bellied Pig",
+      "status": "no_match",
+      "best": {
+        "id": "Q114487001",
+        "label": "Pot-Bellied Pigs",
+        "description": "episode of Dr. Katz, Professional Therapist (S1 E1)",
+        "url": "http://www.wikidata.org/entity/Q114487001",
+        "exact": false,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Mule",
+      "status": "maybe",
+      "best": {
+        "id": "Q18035005",
+        "label": "HUWE1",
+        "description": "protein-coding gene in the species Homo sapiens",
+        "url": "http://www.wikidata.org/entity/Q18035005",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Brown Bear",
+      "status": "maybe",
+      "best": {
+        "id": "Q36341",
+        "label": "Ursus arctos",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q36341",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Black Bear",
+      "status": "maybe",
+      "best": {
+        "id": "Q122783",
+        "label": "American black bear",
+        "description": "species of bear",
+        "url": "http://www.wikidata.org/entity/Q122783",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Moose",
+      "status": "maybe",
+      "best": {
+        "id": "Q35517",
+        "label": "Alces alces",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q35517",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Elk",
+      "status": "maybe",
+      "best": {
+        "id": "Q35517",
+        "label": "Alces alces",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q35517",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "White-Tailed Deer",
+      "status": "verified",
+      "best": {
+        "id": "Q215887",
+        "label": "white-tailed deer",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q215887",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Red Fox",
+      "status": "verified",
+      "best": {
+        "id": "Q8332",
+        "label": "red fox",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q8332",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Wolf",
+      "status": "maybe",
+      "best": {
+        "id": "Q18498",
+        "label": "Canis lupus",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q18498",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Coyote",
+      "status": "verified",
+      "best": {
+        "id": "Q44299",
+        "label": "coyote",
+        "description": "species of canine",
+        "url": "http://www.wikidata.org/entity/Q44299",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Bobcat",
+      "status": "verified",
+      "best": {
+        "id": "Q131907",
+        "label": "bobcat",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q131907",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Lynx",
+      "status": "verified",
+      "best": {
+        "id": "Q677014",
+        "label": "Lynx",
+        "description": "genus of mammals",
+        "url": "http://www.wikidata.org/entity/Q677014",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Squirrel",
+      "status": "verified",
+      "best": {
+        "id": "Q1302028",
+        "label": "squirrel",
+        "description": "heraldic animal",
+        "url": "http://www.wikidata.org/entity/Q1302028",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Chipmunk",
+      "status": "maybe",
+      "best": {
+        "id": "Q22364",
+        "label": "Tamias",
+        "description": "genus of mammals",
+        "url": "http://www.wikidata.org/entity/Q22364",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Beaver",
+      "status": "verified",
+      "best": {
+        "id": "Q47542",
+        "label": "beaver",
+        "description": "genus of mammals",
+        "url": "http://www.wikidata.org/entity/Q47542",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "River Otter",
+      "status": "maybe",
+      "best": {
+        "id": "Q327028",
+        "label": "North American river otter",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q327028",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Porcupine",
+      "status": "unsure",
+      "best": {
+        "id": "Q1223829",
+        "label": "porcupine",
+        "description": "rodent with a coat of sharp spines",
+        "url": "http://www.wikidata.org/entity/Q1223829",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Skunk",
+      "status": "verified",
+      "best": {
+        "id": "Q43604020",
+        "label": "skunk",
+        "description": "common name of mammals in the family Mephitidae",
+        "url": "http://www.wikidata.org/entity/Q43604020",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Badger",
+      "status": "maybe",
+      "best": {
+        "id": "Q27066",
+        "label": "Eurasian Badger",
+        "description": "species of carnivorans",
+        "url": "http://www.wikidata.org/entity/Q27066",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Woodpecker",
+      "status": "verified",
+      "best": {
+        "id": "Q11774312",
+        "label": "woodpecker",
+        "description": "bird that climbs up in trees, probes for insects in tree bark and chisels nest holes in deadwood",
+        "url": "http://www.wikidata.org/entity/Q11774312",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Blue Jay",
+      "status": "verified",
+      "best": {
+        "id": "Q199758",
+        "label": "Blue Jay",
+        "description": "species of bird",
+        "url": "http://www.wikidata.org/entity/Q199758",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Cardinal",
+      "status": "unsure",
+      "best": {
+        "id": "Q45722",
+        "label": "cardinal",
+        "description": "senior ecclesiastical official of the Catholic Church",
+        "url": "http://www.wikidata.org/entity/Q45722",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Eagle",
+      "status": "verified",
+      "best": {
+        "id": "Q2092297",
+        "label": "eagle",
+        "description": "large carnivorous bird",
+        "url": "http://www.wikidata.org/entity/Q2092297",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Hawk",
+      "status": "verified",
+      "best": {
+        "id": "Q846664",
+        "label": "hawk",
+        "description": "predatory bird of the family Accipitridae",
+        "url": "http://www.wikidata.org/entity/Q846664",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Falcon",
+      "status": "maybe",
+      "best": {
+        "id": "Q43489",
+        "label": "Falco",
+        "description": "genus of birds",
+        "url": "http://www.wikidata.org/entity/Q43489",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Wild Boar",
+      "status": "maybe",
+      "best": {
+        "id": "Q58697",
+        "label": "Sus scrofa",
+        "description": "omnivore species of mammal",
+        "url": "http://www.wikidata.org/entity/Q58697",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Hedgehog",
+      "status": "verified",
+      "best": {
+        "id": "Q6120",
+        "label": "hedgehog",
+        "description": "subfamily of small spiny mammals",
+        "url": "http://www.wikidata.org/entity/Q6120",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Mole",
+      "status": "unsure",
+      "best": {
+        "id": "Q1371405",
+        "label": "mole",
+        "description": "visible chronic skin lesion",
+        "url": "http://www.wikidata.org/entity/Q1371405",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Salamander",
+      "status": "verified",
+      "best": {
+        "id": "Q3469592",
+        "label": "salamander",
+        "description": "animal",
+        "url": "http://www.wikidata.org/entity/Q3469592",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Turkey Vulture",
+      "status": "verified",
+      "best": {
+        "id": "Q245181",
+        "label": "Turkey Vulture",
+        "description": "species of New World vulture",
+        "url": "http://www.wikidata.org/entity/Q245181",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Bengal Tiger",
+      "status": "verified",
+      "best": {
+        "id": "Q80952",
+        "label": "Bengal tiger",
+        "description": "subspecies of tiger",
+        "url": "http://www.wikidata.org/entity/Q80952",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Jaguar",
+      "status": "verified",
+      "best": {
+        "id": "Q35694",
+        "label": "jaguar",
+        "description": "species of big cat native to the Americas",
+        "url": "http://www.wikidata.org/entity/Q35694",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Leopard",
+      "status": "verified",
+      "best": {
+        "id": "Q34706",
+        "label": "leopard",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q34706",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Gorilla",
+      "status": "verified",
+      "best": {
+        "id": "Q36611",
+        "label": "Gorilla",
+        "description": "genus of large African apes",
+        "url": "http://www.wikidata.org/entity/Q36611",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Chimpanzee",
+      "status": "verified",
+      "best": {
+        "id": "Q4126704",
+        "label": "chimpanzee",
+        "description": "species of mammal; species of ape",
+        "url": "http://www.wikidata.org/entity/Q4126704",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Orangutan",
+      "status": "verified",
+      "best": {
+        "id": "Q41050",
+        "label": "Orangutan",
+        "description": "genus of ape found in rainforests on the Southeast Asian islands of Sumatra and Borneo",
+        "url": "http://www.wikidata.org/entity/Q41050",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Howler Monkey",
+      "status": "maybe",
+      "best": {
+        "id": "Q53610236",
+        "label": "Howler monkey associated porprismacovirus 1",
+        "description": "species of virus",
+        "url": "http://www.wikidata.org/entity/Q53610236",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Spider Monkey",
+      "status": "maybe",
+      "best": {
+        "id": "Q463395",
+        "label": "Atelidae",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q463395",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Capuchin Monkey",
+      "status": "maybe",
+      "best": {
+        "id": "Q70643892",
+        "label": "Capuchin monkey hepatitis B virus",
+        "description": "species of virus",
+        "url": "http://www.wikidata.org/entity/Q70643892",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Lemur",
+      "status": "verified",
+      "best": {
+        "id": "Q2340126",
+        "label": "Lemur",
+        "description": "genus of mammals (not the common idea of \"lemurs\", which is Q1192405)",
+        "url": "http://www.wikidata.org/entity/Q2340126",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Sloth",
+      "status": "verified",
+      "best": {
+        "id": "Q2274076",
+        "label": "sloth",
+        "description": "suborder of mammals",
+        "url": "http://www.wikidata.org/entity/Q2274076",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Anteater",
+      "status": "maybe",
+      "best": {
+        "id": "Q206538",
+        "label": "Myrmecophagidae",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q206538",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Armadillo",
+      "status": "verified",
+      "best": {
+        "id": "Q10418108",
+        "label": "Armadillo",
+        "description": "genus of crustaceans",
+        "url": "http://www.wikidata.org/entity/Q10418108",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Tapir",
+      "status": "verified",
+      "best": {
+        "id": "Q3745367",
+        "label": "tapir",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q3745367",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Toucan",
+      "status": "verified",
+      "best": {
+        "id": "Q1325045",
+        "label": "toucan",
+        "description": "family of birds",
+        "url": "http://www.wikidata.org/entity/Q1325045",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Macaw",
+      "status": "verified",
+      "best": {
+        "id": "Q219035",
+        "label": "macaw",
+        "description": "bird of parrot family",
+        "url": "http://www.wikidata.org/entity/Q219035",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Parrot",
+      "status": "maybe",
+      "best": {
+        "id": "Q31431",
+        "label": "Psittaciformes",
+        "description": "order of birds",
+        "url": "http://www.wikidata.org/entity/Q31431",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Hummingbird",
+      "status": "verified",
+      "best": {
+        "id": "Q43624",
+        "label": "hummingbird",
+        "description": "family of birds",
+        "url": "http://www.wikidata.org/entity/Q43624",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Green Iguana",
+      "status": "verified",
+      "best": {
+        "id": "Q215376",
+        "label": "green iguana",
+        "description": "species of reptile",
+        "url": "http://www.wikidata.org/entity/Q215376",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Chameleon",
+      "status": "verified",
+      "best": {
+        "id": "Q37686",
+        "label": "chameleon",
+        "description": "family of reptiles",
+        "url": "http://www.wikidata.org/entity/Q37686",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Boa Constrictor",
+      "status": "verified",
+      "best": {
+        "id": "Q215388",
+        "label": "Boa constrictor",
+        "description": "species of snake",
+        "url": "http://www.wikidata.org/entity/Q215388",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Python",
+      "status": "verified",
+      "best": {
+        "id": "Q271218",
+        "label": "Python",
+        "description": "genus of reptiles",
+        "url": "http://www.wikidata.org/entity/Q271218",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Anaconda",
+      "status": "verified",
+      "best": {
+        "id": "Q188622",
+        "label": "Anaconda",
+        "description": "genus of snakes",
+        "url": "http://www.wikidata.org/entity/Q188622",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Poison Dart Frog",
+      "status": "maybe",
+      "best": {
+        "id": "Q53750",
+        "label": "Dendrobatidae",
+        "description": "family of amphibians",
+        "url": "http://www.wikidata.org/entity/Q53750",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Red-Eyed Tree Frog",
+      "status": "verified",
+      "best": {
+        "id": "Q337616",
+        "label": "red-eyed tree frog",
+        "description": "species of amphibian",
+        "url": "http://www.wikidata.org/entity/Q337616",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Tarantula",
+      "status": "verified",
+      "best": {
+        "id": "Q132769034",
+        "label": "Tarantula",
+        "description": "1977 Penguin edition",
+        "url": "http://www.wikidata.org/entity/Q132769034",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Leafcutter Ant",
+      "status": "maybe",
+      "best": {
+        "id": "Q1945635",
+        "label": "Atta cephalotes",
+        "description": "species of insect",
+        "url": "http://www.wikidata.org/entity/Q1945635",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Okapi",
+      "status": "verified",
+      "best": {
+        "id": "Q41156207",
+        "label": "Okapi",
+        "description": "genus of mammals",
+        "url": "http://www.wikidata.org/entity/Q41156207",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Barn Owl",
+      "status": "verified",
+      "best": {
+        "id": "Q131528250",
+        "label": "Barn owl",
+        "description": "index of animals with the same common name",
+        "url": "http://www.wikidata.org/entity/Q131528250",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Great Horned Owl",
+      "status": "verified",
+      "best": {
+        "id": "Q81515",
+        "label": "Great Horned Owl",
+        "description": "species of bird",
+        "url": "http://www.wikidata.org/entity/Q81515",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Fruit Bat",
+      "status": "maybe",
+      "best": {
+        "id": "Q185230",
+        "label": "Pteropodidae",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q185230",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Vampire Bat",
+      "status": "verified",
+      "best": {
+        "id": "Q190691",
+        "label": "vampire bat",
+        "description": "subfamily of mammals",
+        "url": "http://www.wikidata.org/entity/Q190691",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Raccoon",
+      "status": "verified",
+      "best": {
+        "id": "Q121439",
+        "label": "raccoon",
+        "description": "species of mammal native to North America",
+        "url": "http://www.wikidata.org/entity/Q121439",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Opossum",
+      "status": "maybe",
+      "best": {
+        "id": "Q147267",
+        "label": "Didelphis virginiana",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q147267",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Aye-Aye",
+      "status": "verified",
+      "best": {
+        "id": "Q186778",
+        "label": "aye-aye",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q186778",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Tarsier",
+      "status": "verified",
+      "best": {
+        "id": "Q1114471",
+        "label": "Tarsier",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q1114471",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Bush Baby",
+      "status": "maybe",
+      "best": {
+        "id": "Q185239",
+        "label": "Galagidae",
+        "description": "family of mammals (primates)",
+        "url": "http://www.wikidata.org/entity/Q185239",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 5
+    },
+    {
+      "name": "Sugar Glider",
+      "status": "maybe",
+      "best": {
+        "id": "Q723435",
+        "label": "Petaurus breviceps",
+        "description": "species of Australian marsupial",
+        "url": "http://www.wikidata.org/entity/Q723435",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 4
+    },
+    {
+      "name": "Kinkajou",
+      "status": "verified",
+      "best": {
+        "id": "Q254630",
+        "label": "kinkajou",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q254630",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 4
+    },
+    {
+      "name": "Fennec Fox",
+      "status": "no_match",
+      "best": {
+        "id": "Q131564",
+        "label": "Vulpes zerda",
+        "description": "a small crepuscular fox native to Saharan Africa",
+        "url": "http://www.wikidata.org/entity/Q131564",
+        "exact": false,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Hyena",
+      "status": "maybe",
+      "best": {
+        "id": "Q173651",
+        "label": "African wild dog",
+        "description": "species of canid native to Sub-Saharan Africa",
+        "url": "http://www.wikidata.org/entity/Q173651",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Aardvark",
+      "status": "verified",
+      "best": {
+        "id": "Q46212",
+        "label": "aardvark",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q46212",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Pangolin",
+      "status": "maybe",
+      "best": {
+        "id": "Q2191516",
+        "label": "Pholidota",
+        "description": "order of placental mammals",
+        "url": "http://www.wikidata.org/entity/Q2191516",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Tasmanian Devil",
+      "status": "verified",
+      "best": {
+        "id": "Q134964",
+        "label": "Tasmanian devil",
+        "description": "species of carnivorous marsupial from Australia",
+        "url": "http://www.wikidata.org/entity/Q134964",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Wombat",
+      "status": "maybe",
+      "best": {
+        "id": "Q23175",
+        "label": "Vombatidae",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q23175",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Koala",
+      "status": "maybe",
+      "best": {
+        "id": "Q431978",
+        "label": "Phascolarctidae",
+        "description": "family of mammals",
+        "url": "http://www.wikidata.org/entity/Q431978",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Scorpion",
+      "status": "unsure",
+      "best": {
+        "id": "Q19125",
+        "label": "scorpion",
+        "description": "order of arachnids",
+        "url": "http://www.wikidata.org/entity/Q19125",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Firefly",
+      "status": "maybe",
+      "best": {
+        "id": "Q3248829",
+        "label": "glowworm",
+        "description": "common name for various groups of insect larvae and adult larviform females that glow through bioluminescence",
+        "url": "http://www.wikidata.org/entity/Q3248829",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Moth",
+      "status": "verified",
+      "best": {
+        "id": "Q1725788",
+        "label": "moth",
+        "description": "group of mostly-nocturnal insects in the order Lepidoptera",
+        "url": "http://www.wikidata.org/entity/Q1725788",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Gecko",
+      "status": "verified",
+      "best": {
+        "id": "Q15872",
+        "label": "gecko",
+        "description": "family of reptiles",
+        "url": "http://www.wikidata.org/entity/Q15872",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Cacomistle",
+      "status": "maybe",
+      "best": {
+        "id": "Q632701",
+        "label": "ringtail",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q632701",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 2
+    },
+    {
+      "name": "Civet",
+      "status": "verified",
+      "best": {
+        "id": "Q12294232",
+        "label": "civet",
+        "description": "mammal of the families Viverridae and Nandiniidae",
+        "url": "http://www.wikidata.org/entity/Q12294232",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Genet",
+      "status": "verified",
+      "best": {
+        "id": "Q43221",
+        "label": "genet",
+        "description": "genus of mammals",
+        "url": "http://www.wikidata.org/entity/Q43221",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Mouse",
+      "status": "maybe",
+      "best": {
+        "id": "Q83310",
+        "label": "house mouse",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q83310",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Rat",
+      "status": "maybe",
+      "best": {
+        "id": "Q184224",
+        "label": "brown rat",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q184224",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Jerboa",
+      "status": "unsure",
+      "best": {
+        "id": "Q10965236",
+        "label": "jerboa",
+        "description": "type of rodent",
+        "url": "http://www.wikidata.org/entity/Q10965236",
+        "exact": true,
+        "has_positive": false,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Polar Bear",
+      "status": "verified",
+      "best": {
+        "id": "Q47457887",
+        "label": "polar bear",
+        "description": "heraldic animal",
+        "url": "http://www.wikidata.org/entity/Q47457887",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Arctic Fox",
+      "status": "maybe",
+      "best": {
+        "id": "Q82738",
+        "label": "Vulpes lagopus",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q82738",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Arctic Wolf",
+      "status": "maybe",
+      "best": {
+        "id": "Q29331",
+        "label": "northern wolffish",
+        "description": "large marine fish",
+        "url": "http://www.wikidata.org/entity/Q29331",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 7
+    },
+    {
+      "name": "Arctic Hare",
+      "status": "verified",
+      "best": {
+        "id": "Q231625",
+        "label": "Arctic hare",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q231625",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 5
+    },
+    {
+      "name": "Walrus",
+      "status": "verified",
+      "best": {
+        "id": "Q40994",
+        "label": "walrus",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q40994",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Narwhal",
+      "status": "verified",
+      "best": {
+        "id": "Q159426",
+        "label": "narwhal",
+        "description": "medium-sized toothed whale that lives year-round in the Arctic",
+        "url": "http://www.wikidata.org/entity/Q159426",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Beluga Whale",
+      "status": "verified",
+      "best": {
+        "id": "Q132072",
+        "label": "beluga whale",
+        "description": "species of whale",
+        "url": "http://www.wikidata.org/entity/Q132072",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Bowhead Whale",
+      "status": "verified",
+      "best": {
+        "id": "Q174652",
+        "label": "bowhead whale",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q174652",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Orca",
+      "status": "verified",
+      "best": {
+        "id": "Q41156273",
+        "label": "Orca",
+        "description": "genus of marine mammals",
+        "url": "http://www.wikidata.org/entity/Q41156273",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Harp Seal",
+      "status": "verified",
+      "best": {
+        "id": "Q209324",
+        "label": "Harp Seal",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q209324",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Leopard Seal",
+      "status": "verified",
+      "best": {
+        "id": "Q186663",
+        "label": "leopard seal",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q186663",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Weddell Seal",
+      "status": "verified",
+      "best": {
+        "id": "Q313166",
+        "label": "Weddell seal",
+        "description": "species of mammal",
+        "url": "http://www.wikidata.org/entity/Q313166",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 5
+    },
+    {
+      "name": "Emperor Penguin",
+      "status": "verified",
+      "best": {
+        "id": "Q161829",
+        "label": "Emperor Penguin",
+        "description": "large flightless seabird endemic to Antarctica",
+        "url": "http://www.wikidata.org/entity/Q161829",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Adelie Penguin",
+      "status": "verified",
+      "best": {
+        "id": "Q187958",
+        "label": "Adelie penguin",
+        "description": "a species of bird common along the entire coast of the Antarctic continent",
+        "url": "http://www.wikidata.org/entity/Q187958",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Rockhopper Penguin",
+      "status": "verified",
+      "best": {
+        "id": "Q7355290",
+        "label": "rockhopper penguin",
+        "description": "common name for three species of penguin",
+        "url": "http://www.wikidata.org/entity/Q7355290",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 1
+    },
+    {
+      "name": "Puffin",
+      "status": "verified",
+      "best": {
+        "id": "Q311761",
+        "label": "Puffin",
+        "description": "genus of birds",
+        "url": "http://www.wikidata.org/entity/Q311761",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Snowy Owl",
+      "status": "verified",
+      "best": {
+        "id": "Q170177",
+        "label": "Snowy Owl",
+        "description": "species of bird",
+        "url": "http://www.wikidata.org/entity/Q170177",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Musk Ox",
+      "status": "verified",
+      "best": {
+        "id": "Q184004",
+        "label": "musk ox",
+        "description": "species of bovid from the Arctic, known for its thick coat of hair and strong odor",
+        "url": "http://www.wikidata.org/entity/Q184004",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Reindeer",
+      "status": "maybe",
+      "best": {
+        "id": "Q39624",
+        "label": "Rangifer tarandus",
+        "description": "species of deer",
+        "url": "http://www.wikidata.org/entity/Q39624",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Caribou",
+      "status": "maybe",
+      "best": {
+        "id": "Q39624",
+        "label": "Rangifer tarandus",
+        "description": "species of deer",
+        "url": "http://www.wikidata.org/entity/Q39624",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Lemming",
+      "status": "verified",
+      "best": {
+        "id": "Q234150",
+        "label": "lemming",
+        "description": "tribe of animals of the family Cricetidae",
+        "url": "http://www.wikidata.org/entity/Q234150",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Ptarmigan",
+      "status": "verified",
+      "best": {
+        "id": "Q55334191",
+        "label": "ptarmigan",
+        "description": "heraldic animal",
+        "url": "http://www.wikidata.org/entity/Q55334191",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Wolverine",
+      "status": "verified",
+      "best": {
+        "id": "Q14334",
+        "label": "wolverine",
+        "description": "largest land-dwelling species of the family Mustelidae",
+        "url": "http://www.wikidata.org/entity/Q14334",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Stoat",
+      "status": "maybe",
+      "best": {
+        "id": "Q25345",
+        "label": "Mustela erminea",
+        "description": "species of mustelid (Mustelidae)",
+        "url": "http://www.wikidata.org/entity/Q25345",
+        "exact": false,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Ermine",
+      "status": "verified",
+      "best": {
+        "id": "Q3134224",
+        "label": "ermine",
+        "description": "heraldic animal",
+        "url": "http://www.wikidata.org/entity/Q3134224",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Snow Goose",
+      "status": "verified",
+      "best": {
+        "id": "Q27074540",
+        "label": "snow goose",
+        "description": "species of bird",
+        "url": "http://www.wikidata.org/entity/Q27074540",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Albatross",
+      "status": "verified",
+      "best": {
+        "id": "Q55805",
+        "label": "albatross",
+        "description": "large seabirds allied to the procellariids, storm-petrels and diving-petrels in the order Procellariiformes",
+        "url": "http://www.wikidata.org/entity/Q55805",
+        "exact": true,
+        "has_positive": true,
+        "has_negative": false
+      },
+      "results_count": 8
+    },
+    {
+      "name": "Krill (Antarctic)",
+      "status": "no_match",
+      "best": null,
+      "results_count": 0
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "mariana_snailfish": {
+    "name_script": "Mariana Snailfish! Starts with M!",
+    "simple_script": "I am the deepest swimming fish in the whole ocean! I look like a pink tadpole.",
+    "detailed_script": "I'm a Mariana Snailfish! It has transparent skin that lets you see its liver!"
+  },
+  "giant_tube_worm": {
+    "name_script": "Giant Tube Worm! Starts with G!",
+    "simple_script": "I have no mouth and no tummy! I live near hot underwater volcanoes.",
+    "detailed_script": "I'm a Giant Tube Worm! They survive on chemicals from the Earth's core, not sunlight."
+  },
+  "comb_jelly": {
+    "name_script": "Comb Jelly! Starts with C!",
+    "simple_script": "I don't sting like a jellyfish. I have rainbow lights running down my sides!",
+    "detailed_script": "I'm a Comb Jelly! They are the largest animals to swim using cilia (tiny hairs)."
+  },
+  "deep_sea_cucumber": {
+    "name_script": "Deep Sea Cucumber! Starts with D!",
+    "simple_script": "I crawl on the bottom of the ocean and eat the sand to clean it!",
+    "detailed_script": "I'm a Deep Sea Cucumber! Some can glow in the dark to warn predators."
+  },
+  "zombie_worm": {
+    "name_script": "Zombie Worm! Starts with Z!",
+    "simple_script": "I don't eat brains! I like to eat old bones I find on the sea floor.",
+    "detailed_script": "I'm a Zombie Worm! They dissolve bone using acid secreted from their skin."
+  },
+  "ping_pong_tree_sponge": {
+    "name_script": "Ping Pong Tree Sponge! Starts with P!",
+    "simple_script": "I look like a weird tree with ping pong balls for leaves!",
+    "detailed_script": "I'm a Ping Pong Tree Sponge! Unlike most sponges, it is carnivorous and eats tiny shrimp."
+  },
+  "tripod_fish": {
+    "name_script": "Tripod Fish! Starts with T!",
+    "simple_script": "I have three long stilts that let me stand on the mud without sinking!",
+    "detailed_script": "I'm a Tripod Fish! It stands facing the current to catch food drifting by."
+  },
+  "dumbo_octopus": {
+    "name_script": "Dumbo Octopus! Starts with D!",
+    "simple_script": "I flap my ear-fins to fly through the water like a cartoon elephant!",
+    "detailed_script": "I'm a Dumbo Octopus! It swallows its prey whole instead of chewing."
+  },
+  "faceless_cusk": {
+    "name_script": "Faceless Cusk! Starts with F!",
+    "simple_script": "I have no face! My mouth is underneath my head so I can scoop up food.",
+    "detailed_script": "I'm a Faceless Cusk! It was rediscovered in 2017 after being missing for 140 years."
+  },
+  "abyssal_spiderfish": {
+    "name_script": "Abyssal Spiderfish! Starts with A!",
+    "simple_script": "I have super long fins that feel the water like spider legs!",
+    "detailed_script": "I'm a Abyssal Spiderfish! It uses its long fins to detect movement in pitch blackness."
+  },
+  "sea_pig": {
+    "name_script": "Sea Pig! Starts with S!",
+    "simple_script": "I am a squishy pink tube with little legs. I look like a wet piglet!",
+    "detailed_script": "I'm a Sea Pig! They often gather in herds of hundreds on the sea floor."
+  },
+  "ghost_shark": {
+    "name_script": "Ghost Shark! Starts with G!",
+    "simple_script": "I am also called a Chimaera. I have lines on my skin that look like stitches.",
+    "detailed_script": "I'm a Ghost Shark! Their skeleton is made of cartilage, not bone."
+  },
+  "deep_sea_amphipod": {
+    "name_script": "Deep Sea Amphipod! Starts with D!",
+    "simple_script": "I am a giant version of a sand flea. I can be as big as your shoe!",
+    "detailed_script": "I'm a Deep Sea Amphipod! It can survive pressure that would crush a car."
+  },
+  "glass_sponge": {
+    "name_script": "Glass Sponge! Starts with G!",
+    "simple_script": "My body is made of silica, which is the same stuff as glass windows!",
+    "detailed_script": "I'm a Glass Sponge! They can live for thousands of years."
+  },
+  "grenadier_fish": {
+    "name_script": "Grenadier Fish! Starts with G!",
+    "simple_script": "People call me a Rat-tail because my body tapers off into a long point.",
+    "detailed_script": "I'm a Grenadier Fish! They have a huge head to house their sensory systems."
+  },
+  "cusk_eel": {
+    "name_script": "Cusk Eel! Starts with C!",
+    "simple_script": "I am not a real eel, but I am very wiggly and slippery!",
+    "detailed_script": "I'm a Cusk Eel! The deepest fish ever recorded (27,000 ft) is a type of Cusk Eel."
+  },
+  "snipe_eel": {
+    "name_script": "Snipe Eel! Starts with S!",
+    "simple_script": "My jaws curve away from each other so I can't close my mouth!",
+    "detailed_script": "I'm a Snipe Eel! It tangles its curved jaws into shrimp antennae to catch them."
+  },
+  "sea_angel": {
+    "name_script": "Sea Angel! Starts with S!",
+    "simple_script": "I am a swimming slug with little wings that make me look like an angel.",
+    "detailed_script": "I'm a Sea Angel! Despite the name, they are voracious predators of Sea Butterflies."
+  },
+  "deep_sea_jellyfish": {
+    "name_script": "Deep Sea Jellyfish! Starts with D!",
+    "simple_script": "I glow red in the dark, which makes me invisible to other fish.",
+    "detailed_script": "I'm a Deep Sea Jellyfish! Red light doesn't travel far underwater, so red animals look black."
+  },
+  "basket_star": {
+    "name_script": "Basket Star! Starts with B!",
+    "simple_script": "I look like a mess of tangled tree roots wiggling in the water.",
+    "detailed_script": "I'm a Basket Star! It curls into a tight ball during the day to hide."
+  },
+  "brisingid_starfish": {
+    "name_script": "Brisingid Starfish! Starts with B!",
+    "simple_script": "I have so many arms! I raise them up to catch food falling from above.",
+    "detailed_script": "I'm a Brisingid Starfish! It is named after 'Brisingamen', the necklace of the goddess Freya."
+  },
+  "sea_pen": {
+    "name_script": "Sea Pen! Starts with S!",
+    "simple_script": "I look like an old-fashioned feather pen stuck in the sand.",
+    "detailed_script": "I'm a Sea Pen! They can uproot themselves and drift away if attacked."
+  },
+  "acorn_worm": {
+    "name_script": "Acorn Worm! Starts with A!",
+    "simple_script": "I smell like medicine (iodine) to stop fish from eating me!",
+    "detailed_script": "I'm a Acorn Worm! They breathe through their skin."
+  },
+  "monophore": {
+    "name_script": "Monophore! Starts with M!",
+    "simple_script": "I'm a Monophore!",
+    "detailed_script": "I'm a Monophore! "
+  },
+  "siphonophore": {
+    "name_script": "Siphonophore! Starts with S!",
+    "simple_script": "I am not one animal, but thousands of tiny clones holding hands!",
+    "detailed_script": "I'm a Siphonophore! Each segment has a specific job: eating, swimming, or floating."
+  },
+  "black_swallower": {
+    "name_script": "Black Swallower! Starts with B!",
+    "simple_script": "I have a stretchy tummy that can hold a fish twice my size!",
+    "detailed_script": "I'm a Black Swallower! Sometimes they swallow so much food they float to the surface."
+  },
+  "lizardfish": {
+    "name_script": "Lizardfish! Starts with L!",
+    "simple_script": "I have rows of sharp teeth, even on my tongue!",
+    "detailed_script": "I'm a Lizardfish! They are one of the few deep sea fish that are hermaphrodites."
+  },
+  "spookfish": {
+    "name_script": "Spookfish! Starts with S!",
+    "simple_script": "My head is see-through and my eyes can look up and down at the same time.",
+    "detailed_script": "I'm a Spookfish! It uses mirrors in its eyes to see, unlike any other animal."
+  },
+  "anglerfish": {
+    "name_script": "Anglerfish! Starts with A!",
+    "simple_script": "I have a fishing pole on my head with a glowing light to catch yummy fish.",
+    "detailed_script": "I'm a Anglerfish! The light comes from glowing bacteria living inside the lure."
+  },
+  "vampire_squid": {
+    "name_script": "Vampire Squid! Starts with V!",
+    "simple_script": "I wrap my red cape around myself when I am scared. I don't drink blood!",
+    "detailed_script": "I'm a Vampire Squid! It eats 'marine snow' (poop and dead scraps) falling from above."
+  },
+  "giant_squid": {
+    "name_script": "Giant Squid! Starts with G!",
+    "simple_script": "My eye is as big as a dinner plate! I battle sperm whales.",
+    "detailed_script": "I'm a Giant Squid! It has the largest eyes in the animal kingdom."
+  },
+  "gulper_eel": {
+    "name_script": "Gulper Eel! Starts with G!",
+    "simple_script": "My mouth is huge like a pelican! I can swallow things bigger than me.",
+    "detailed_script": "I'm a Gulper Eel! It has a glowing red light at the end of its tail."
+  },
+  "goblin_shark": {
+    "name_script": "Goblin Shark! Starts with G!",
+    "simple_script": "I can shoot my jaw out of my face to grab a snack!",
+    "detailed_script": "I'm a Goblin Shark! Its long nose is full of electrical sensors."
+  },
+  "blobfish": {
+    "name_script": "Blobfish! Starts with B!",
+    "simple_script": "I look sad and squishy because I have no muscles. I just float!",
+    "detailed_script": "I'm a Blobfish! Under pressure deep down, it looks like a normal fish."
+  },
+  "lanternfish": {
+    "name_script": "Lanternfish! Starts with L!",
+    "simple_script": "I have tiny lights all over my belly. There are billions of us!",
+    "detailed_script": "I'm a Lanternfish! They account for 65% of all deep sea fish biomass."
+  },
+  "hatchetfish": {
+    "name_script": "Hatchetfish! Starts with H!",
+    "simple_script": "I am as thin as a coin and look like a silver hatchet.",
+    "detailed_script": "I'm a Hatchetfish! They use 'counter-illumination' to hide their shadow from below."
+  },
+  "viperfish": {
+    "name_script": "Viperfish! Starts with V!",
+    "simple_script": "My teeth are so long they curve over my face like a cage.",
+    "detailed_script": "I'm a Viperfish! It swims at high speed to impale prey on its teeth."
+  },
+  "dragonfish": {
+    "name_script": "Dragonfish! Starts with D!",
+    "simple_script": "I look scary, but I am very small\u2014only the size of a banana!",
+    "detailed_script": "I'm a Dragonfish! Some species produce red light, which acts like night-vision sniper scopes."
+  },
+  "fangtooth": {
+    "name_script": "Fangtooth! Starts with F!",
+    "simple_script": "I have the biggest teeth compared to my body size of any fish.",
+    "detailed_script": "I'm a Fangtooth! It has special pockets in its brain so its teeth don't puncture its skull."
+  },
+  "frilled_shark": {
+    "name_script": "Frilled Shark! Starts with F!",
+    "simple_script": "I look like an eel but I am a shark with 300 needle teeth.",
+    "detailed_script": "I'm a Frilled Shark! It is a 'living fossil' unchanged for 80 million years."
+  },
+  "coffinfish": {
+    "name_script": "Coffinfish! Starts with C!",
+    "simple_script": "I can puff up like a balloon and hold my breath to look big.",
+    "detailed_script": "I'm a Coffinfish! It walks on the sea floor using its tiny fins."
+  },
+  "barreleye": {
+    "name_script": "Barreleye! Starts with B!",
+    "simple_script": "My head is a clear bubble! The green balls inside are my eyes.",
+    "detailed_script": "I'm a Barreleye! Its eyes can rotate to look forward or straight up."
+  },
+  "cookiecutter_shark": {
+    "name_script": "Cookiecutter Shark! Starts with C!",
+    "simple_script": "I am small, but I take round bites out of big whales like a cookie cutter!",
+    "detailed_script": "I'm a Cookiecutter Shark! It glows green to trick fish into coming close."
+  },
+  "oarfish": {
+    "name_script": "Oarfish! Starts with O!",
+    "simple_script": "I am the longest bony fish in the world. Sailors used to think I was a sea serpent.",
+    "detailed_script": "I'm a Oarfish! It swims vertically (straight up) to spot food silhouettes."
+  },
+  "big_red_jelly": {
+    "name_script": "Big Red Jelly! Starts with B!",
+    "simple_script": "I am a giant red jellyfish that doesn't have stinging tentacles.",
+    "detailed_script": "I'm a Big Red Jelly! Instead of stinging, it uses 'feeding arms' to grab prey."
+  },
+  "colossal_squid": {
+    "name_script": "Colossal Squid! Starts with C!",
+    "simple_script": "I am heavier than the Giant Squid and have spinning hooks on my arms!",
+    "detailed_script": "I'm a Colossal Squid! It hunts by waiting in the dark, conserving energy for months."
+  },
+  "six_gill_shark": {
+    "name_script": "Six-Gill Shark! Starts with S!",
+    "simple_script": "Most sharks have 5 gills, but I have 6! I move very slowly.",
+    "detailed_script": "I'm a Six-Gill Shark! It is a scavenger that eats anything dead it finds."
+  },
+  "wolffish": {
+    "name_script": "Wolffish! Starts with W!",
+    "simple_script": "I have strong teeth to crush seashells. My blood has natural antifreeze!",
+    "detailed_script": "I'm a Wolffish! They produce a natural protein that keeps their blood from freezing."
+  },
+  "chimaera": {
+    "name_script": "Chimaera! Starts with C!",
+    "simple_script": "I have a venomous spine on my back and fly through the water.",
+    "detailed_script": "I'm a Chimaera! They detect magnetic fields to find buried clams."
+  },
+  "stoplight_loosejaw": {
+    "name_script": "Stoplight Loosejaw! Starts with S!",
+    "simple_script": "I have a red light under my eye like a stoplight!",
+    "detailed_script": "I'm a Stoplight Loosejaw! Its jaw is hinged so openly it offers no water resistance when striking."
+  },
+  "flashlight_fish": {
+    "name_script": "Flashlight Fish! Starts with F!",
+    "simple_script": "I have a pocket of glowing light under my eye that I can blink on and off.",
+    "detailed_script": "I'm a Flashlight Fish! It blinks the light to confuse predators while it escapes."
+  },
+  "japanese_spider_crab": {
+    "name_script": "Japanese Spider Crab! Starts with J!",
+    "simple_script": "I have the longest legs of any crab. I can step over a small car!",
+    "detailed_script": "I'm a Japanese Spider Crab! It can live to be 100 years old."
+  },
+  "nautilus": {
+    "name_script": "Nautilus! Starts with N!",
+    "simple_script": "I live in a beautiful spiral shell and swim backwards.",
+    "detailed_script": "I'm a Nautilus! It adjusts its buoyancy by pumping gas into its shell chambers."
+  },
+  "sperm_whale": {
+    "name_script": "Sperm Whale! Starts with S!",
+    "simple_script": "I have the biggest brain of any animal and I dive super deep.",
+    "detailed_script": "I'm a Sperm Whale! It hunts using echolocation clicks that are louder than a jet engine."
+  },
+  "beaked_whale": {
+    "name_script": "Beaked Whale! Starts with B!",
+    "simple_script": "I look like a dolphin but I have a beak like a goose.",
+    "detailed_script": "I'm a Beaked Whale! It holds the record for the deepest dive of any mammal (9,800 ft)."
+  },
+  "elephant_seal": {
+    "name_script": "Elephant Seal! Starts with E!",
+    "simple_script": "My nose looks like an elephant trunk! I make loud roaring noises.",
+    "detailed_script": "I'm a Elephant Seal! They can hold their breath for 2 hours."
+  },
+  "clownfish": {
+    "name_script": "Clownfish! Starts with C!",
+    "simple_script": "I'm a Clownfish!",
+    "detailed_script": "I'm a Clownfish! "
+  },
+  "blue_tang": {
+    "name_script": "Blue Tang! Starts with B!",
+    "simple_script": "I'm a Blue Tang!",
+    "detailed_script": "I'm a Blue Tang! "
+  },
+  "parrotfish": {
+    "name_script": "Parrotfish! Starts with P!",
+    "simple_script": "I'm a Parrotfish!",
+    "detailed_script": "I'm a Parrotfish! "
+  },
+  "lionfish": {
+    "name_script": "Lionfish! Starts with L!",
+    "simple_script": "I'm a Lionfish!",
+    "detailed_script": "I'm a Lionfish! "
+  },
+  "seahorse": {
+    "name_script": "Seahorse! Starts with S!",
+    "simple_script": "I'm a Seahorse!",
+    "detailed_script": "I'm a Seahorse! "
+  },
+  "moray_eel": {
+    "name_script": "Moray Eel! Starts with M!",
+    "simple_script": "I'm a Moray Eel!",
+    "detailed_script": "I'm a Moray Eel! "
+  },
+  "pufferfish": {
+    "name_script": "Pufferfish! Starts with P!",
+    "simple_script": "I'm a Pufferfish!",
+    "detailed_script": "I'm a Pufferfish! "
+  },
+  "butterflyfish": {
+    "name_script": "Butterflyfish! Starts with B!",
+    "simple_script": "I'm a Butterflyfish!",
+    "detailed_script": "I'm a Butterflyfish! "
+  },
+  "angelfish": {
+    "name_script": "Angelfish! Starts with A!",
+    "simple_script": "I'm a Angelfish!",
+    "detailed_script": "I'm a Angelfish! "
+  },
+  "sea_turtle": {
+    "name_script": "Sea Turtle! Starts with S!",
+    "simple_script": "I'm a Sea Turtle!",
+    "detailed_script": "I'm a Sea Turtle! "
+  },
+  "reef_shark": {
+    "name_script": "Reef Shark! Starts with R!",
+    "simple_script": "I'm a Reef Shark!",
+    "detailed_script": "I'm a Reef Shark! "
+  },
+  "manta_ray": {
+    "name_script": "Manta Ray! Starts with M!",
+    "simple_script": "I'm a Manta Ray!",
+    "detailed_script": "I'm a Manta Ray! "
+  },
+  "cuttlefish": {
+    "name_script": "Cuttlefish! Starts with C!",
+    "simple_script": "I'm a Cuttlefish!",
+    "detailed_script": "I'm a Cuttlefish! "
+  },
+  "octopus": {
+    "name_script": "Octopus! Starts with O!",
+    "simple_script": "I'm a Octopus!",
+    "detailed_script": "I'm a Octopus! "
+  },
+  "giant_clam": {
+    "name_script": "Giant Clam! Starts with G!",
+    "simple_script": "I'm a Giant Clam!",
+    "detailed_script": "I'm a Giant Clam! "
+  },
+  "boxfish": {
+    "name_script": "Boxfish! Starts with B!",
+    "simple_script": "I'm a Boxfish!",
+    "detailed_script": "I'm a Boxfish! "
+  },
+  "triggerfish": {
+    "name_script": "Triggerfish! Starts with T!",
+    "simple_script": "I'm a Triggerfish!",
+    "detailed_script": "I'm a Triggerfish! "
+  },
+  "sea_anemone": {
+    "name_script": "Sea Anemone! Starts with S!",
+    "simple_script": "I'm a Sea Anemone!",
+    "detailed_script": "I'm a Sea Anemone! "
+  },
+  "mandarinfish": {
+    "name_script": "Mandarinfish! Starts with M!",
+    "simple_script": "I'm a Mandarinfish!",
+    "detailed_script": "I'm a Mandarinfish! "
+  },
+  "moorish_idol": {
+    "name_script": "Moorish Idol! Starts with M!",
+    "simple_script": "I'm a Moorish Idol!",
+    "detailed_script": "I'm a Moorish Idol! "
+  },
+  "napoleon_wrasse": {
+    "name_script": "Napoleon Wrasse! Starts with N!",
+    "simple_script": "I'm a Napoleon Wrasse!",
+    "detailed_script": "I'm a Napoleon Wrasse! "
+  },
+  "cleaner_shrimp": {
+    "name_script": "Cleaner Shrimp! Starts with C!",
+    "simple_script": "I'm a Cleaner Shrimp!",
+    "detailed_script": "I'm a Cleaner Shrimp! "
+  },
+  "stonefish": {
+    "name_script": "Stonefish! Starts with S!",
+    "simple_script": "I'm a Stonefish!",
+    "detailed_script": "I'm a Stonefish! "
+  },
+  "barracuda": {
+    "name_script": "Barracuda! Starts with B!",
+    "simple_script": "I'm a Barracuda!",
+    "detailed_script": "I'm a Barracuda! "
+  }
+}
