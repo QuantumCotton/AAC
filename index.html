@@ -8,6 +8,10 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="mobile-web-app-capable" content="yes" />
+    <!-- Prevent opening in new tab/safari -->
+    <meta name="apple-mobile-web-app-title" content="Liora's Animal World" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
     <title>Liora - Animal Learning</title>
     <style>
       /* Prevent pull-to-refresh and overscroll */
@@ -15,6 +19,25 @@
         overscroll-behavior: none;
         touch-action: manipulation;
         -webkit-overflow-scrolling: auto;
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
+        -webkit-tap-highlight-color: transparent;
+        user-select: none;
+      }
+      
+      /* Prevent text selection and zoom */
+      * {
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
+        -webkit-tap-highlight-color: transparent;
+        user-select: none;
+      }
+      
+      /* Prevent context menu */
+      body {
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        user-select: none;
       }
     </style>
   </head>

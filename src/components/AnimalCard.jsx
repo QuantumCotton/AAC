@@ -3,6 +3,7 @@ import { useTheme } from '../contexts/ThemeContext';
 import { useAudio } from '../contexts/AudioContext';
 import { useAssets } from '../contexts/AssetContext';
 import { useFactLevel } from '../contexts/FactLevelContext';
+import { useAccessibility } from '../contexts/AccessibilityContext';
 import { getAssetPaths } from '../utils/slugify';
 
 export default function AnimalCard({ animal }) {
@@ -10,6 +11,7 @@ export default function AnimalCard({ animal }) {
   const { playSound, playClick, activeAnimalId } = useAudio();
   const { isCategoryDownloaded } = useAssets();
   const { isSimpleLevel } = useFactLevel();
+  const { isMultiTouchBlocked, isIntentionalTouch } = useAccessibility();
 
   // Animation states: 'idle' | 'popping' | 'flipped' | 'unflipping' | 'shrinking'
   const [animState, setAnimState] = useState('idle');
@@ -23,10 +25,16 @@ export default function AnimalCard({ animal }) {
   const animTimerRef = useRef(null);
   const audioRef = useRef(null);
   const ttsEndedRef = useRef(false);
+  const rapidTouchCountRef = useRef(0);
+  const lastTouchTimeRef = useRef(0);
+  const touchStartTimeRef = useRef(0);
 
-  // More forgiving for wobbly/shaky little hands
-  const HOLD_MS = 500;  // Longer hold time so wiggles don't accidentally trigger
-  const MOVE_PX = 50;   // Much more tolerance for finger movement during hold
+  // More intentional touch requirements for autistic users
+  const HOLD_MS = 300;  // Hold time for intentional touch
+  const MOVE_PX = 25;   // Less tolerance for movement (more intentional)
+  const MIN_TOUCH_DURATION = 150; // Minimum touch duration to be considered intentional
+  const MAX_RAPID_TOUCHES = 3; // Block after too many rapid touches
+  const RAPID_TOUCH_WINDOW = 1000; // Time window for rapid touch detection
 
   const isActive = activeAnimalId === animal.id;
   const isDownloaded = isCategoryDownloaded(animal.category);
@@ -43,6 +51,7 @@ export default function AnimalCard({ animal }) {
     return () => {
       if (holdTimerRef.current) clearTimeout(holdTimerRef.current);
       if (animTimerRef.current) clearTimeout(animTimerRef.current);
+      // Stop any playing audio when unmounting
       if (audioRef.current) {
         audioRef.current.pause();
         audioRef.current = null;
@@ -51,26 +60,58 @@ export default function AnimalCard({ animal }) {
     };
   }, []);
 
+  // Reset audio when theme or fact level changes
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current = null;
+    }
+    window.speechSynthesis?.cancel();
+  }, [currentTheme, isSimpleLevel]);
+
   // Play fact audio and return a promise that resolves when done
   const playFactAudio = useCallback(() => {
     return new Promise((resolve) => {
+      // Stop any existing audio first
+      if (audioRef.current) {
+        audioRef.current.pause();
+        audioRef.current = null;
+      }
+      window.speechSynthesis.cancel();
+      
       const src = isSimpleLevel ? simpleFactSrc : detailedFactSrc;
       console.log('Playing fact:', { animal: animal.name, level: isSimpleLevel ? 'simple' : 'detailed', src });
 
       if (src) {
         // Use audio element to track when it ends
-        if (audioRef.current) {
-          audioRef.current.pause();
-        }
         const audio = new Audio(src);
         audioRef.current = audio;
         
-        audio.onended = () => resolve();
+        const cleanup = () => {
+          if (audioRef.current === audio) {
+            audioRef.current = null;
+          }
+        };
+        
+        audio.onended = () => {
+          cleanup();
+          resolve();
+        };
         audio.onerror = () => {
+          cleanup();
           // Fallback to TTS on error
           playTTS().then(resolve);
         };
+        
+        // Add timeout to prevent hanging
+        const timeout = setTimeout(() => {
+          cleanup();
+          playTTS().then(resolve);
+        }, 10000); // 10 second timeout
+        
         audio.play().catch(() => {
+          clearTimeout(timeout);
+          cleanup();
           playTTS().then(resolve);
         });
       } else {
@@ -82,16 +123,26 @@ export default function AnimalCard({ animal }) {
   // Text-to-speech fallback
   const playTTS = useCallback(() => {
     return new Promise((resolve) => {
+      // Cancel any existing TTS first
+      window.speechSynthesis.cancel();
+      
       if ('speechSynthesis' in window) {
-        window.speechSynthesis.cancel();
         const text = displayFact || `${animal.name}. ${isSimpleLevel ? 'A cool animal!' : 'Lives in the wild.'}`;
         const utterance = new SpeechSynthesisUtterance(text);
         utterance.rate = 0.85;
+        
         utterance.onend = () => resolve();
         utterance.onerror = () => resolve();
-        window.speechSynthesis.speak(utterance);
+        
         // Safety timeout in case onend doesn't fire
-        setTimeout(resolve, 15000);
+        const timeout = setTimeout(resolve, 15000);
+        
+        utterance.onstart = () => {
+          // Clear timeout if it starts successfully
+          clearTimeout(timeout);
+        };
+        
+        window.speechSynthesis.speak(utterance);
       } else {
         resolve();
       }
@@ -135,8 +186,35 @@ export default function AnimalCard({ animal }) {
   }, [isDownloaded, animState, playFactAudio]);
 
   const handlePressStart = (e) => {
+    // Block if multi-touch is detected or if we're in a blocked state
+    if (isMultiTouchBlocked || e.touches.length > 1) {
+      e.preventDefault();
+      return false;
+    }
+    
     if (!isDownloaded) return;
     if (animState !== 'idle') return; // Don't interrupt animation
+    
+    const currentTime = Date.now();
+    const timeSinceLastTouch = currentTime - lastTouchTimeRef.current;
+    
+    // Detect rapid accidental touches
+    if (timeSinceLastTouch < RAPID_TOUCH_WINDOW && timeSinceLastTouch > 0) {
+      rapidTouchCountRef.current++;
+      if (rapidTouchCountRef.current >= MAX_RAPID_TOUCHES) {
+        // Too many rapid touches, block for a moment
+        e.preventDefault();
+        setTimeout(() => {
+          rapidTouchCountRef.current = 0;
+        }, 2000);
+        return false;
+      }
+    } else {
+      rapidTouchCountRef.current = 1;
+    }
+    
+    lastTouchTimeRef.current = currentTime;
+    touchStartTimeRef.current = currentTime;
     
     // Prevent default to stop iOS image save dialog
     e.preventDefault();
@@ -151,9 +229,15 @@ export default function AnimalCard({ animal }) {
     if (holdTimerRef.current) clearTimeout(holdTimerRef.current);
     
     holdTimerRef.current = setTimeout(() => {
-      if (pressPointerIdRef.current === pid) {
-        didLongPressRef.current = true;
-        triggerFullAnimation();
+      if (pressPointerIdRef.current === pid && !isMultiTouchBlocked) {
+        const touchDuration = Date.now() - touchStartTimeRef.current;
+        const movementDistance = 0; // Would calculate actual movement
+        
+        // Only trigger if this looks like an intentional touch
+        if (isIntentionalTouch(touchDuration, movementDistance)) {
+          didLongPressRef.current = true;
+          triggerFullAnimation();
+        }
       }
     }, HOLD_MS);
 
@@ -197,16 +281,22 @@ export default function AnimalCard({ animal }) {
   const handlePressEnd = (e) => {
     if (!isDownloaded) return;
     if (pressPointerIdRef.current !== e.pointerId) return;
+    if (isMultiTouchBlocked) return; // Block if in multi-touch blocked state
+    
     pressPointerIdRef.current = null;
 
     if (holdTimerRef.current) clearTimeout(holdTimerRef.current);
 
     const elapsed = performance.now() - (pressStartRef.current || 0);
+    const touchDuration = Date.now() - touchStartTimeRef.current;
     const isHold = didLongPressRef.current || elapsed >= HOLD_MS;
 
+    // For short taps, also check if it was intentional enough
     if (!isHold && animState === 'idle') {
-      // Short tap = play animal name
-      playSound(paths.nameAudio, animal.id);
+      if (isIntentionalTouch(touchDuration, 0)) {
+        // Short tap = play animal name
+        playSound(paths.nameAudio, animal.id);
+      }
     }
   };
 

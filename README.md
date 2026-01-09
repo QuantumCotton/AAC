@@ -93,3 +93,61 @@ Remove-Item .\public\assets\audio\.locks\*.lock
 - Facts come from a merge of:
   - `src/data/facts_clean.json`
   - `src/data/animals.json` (fallback, broader coverage)
+
+## Alphabet Section
+
+The Alphabet section is a new learning module with three pages:
+
+### Pages
+
+1. **Alphabet Grid** (Main page)
+   - All 26 letters in A-Z order
+   - Toggle between **ABC** (letter names) and **Sound** (phonetic sounds)
+   - Bright, colorful toy-style design
+
+2. **Keyboard Layouts**
+   - QWERTY layout (standard keyboard)
+   - Dvorak layout (alternative for efficiency)
+   - Vowels only (A, E, I, O, U)
+
+3. **Letter Game**
+   - Interactive letter recognition (A-J)
+   - Letters pop up randomly with different sizes and rotations
+   - Sound effects for correct/wrong answers
+   - Error mode to prevent accidental tapping
+
+### Audio Generation
+
+Generate alphabet audio with Eleven Labs:
+
+```powershell
+# Generate all alphabet audio (names and sounds)
+python .\scripts\generate_alphabet_audio.py
+
+# Generate letter names only
+python .\scripts\generate_alphabet_audio.py --name-only
+
+# Generate phonetic sounds only
+python .\scripts\generate_alphabet_audio.py --sound-only
+
+# Generate specific letters
+python .\scripts\generate_alphabet_audio.py --letters "ABCDEFGHIJ"
+```
+
+Audio files are saved to:
+- `public/assets/audio/alphabet/letter_<letter>_name.mp3` (e.g., "A")
+- `public/assets/audio/alphabet/letter_<letter>_sound.mp3` (e.g., "ay")
+
+### Voice Configuration
+
+- **Voice**: Mark (UgBBYS2sOqTuMpoF3BR0) - Neutral American English
+- **Model**: Eleven Labs Turbo v2 (supports phoneme tags)
+- Uses pronunciation dictionary for precise control of letter sounds
+
+### Documentation
+
+See `ALPHABET_SECTION_README.md` for complete documentation including:
+- Phoneme pronunciation table
+- Game mechanics and configuration
+- Troubleshooting guide
+- Future enhancements

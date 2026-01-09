@@ -107,4 +107,8 @@ test_output/
 Thumbs.db
 
 # Project specific
+public/assets/images/asl/test_samples/
+.vercel
 
+# Local Netlify folder
+.netlify

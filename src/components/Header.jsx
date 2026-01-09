@@ -2,6 +2,8 @@ import React from 'react';
 import { useTheme } from '../contexts/ThemeContext';
 import { useFactLevel } from '../contexts/FactLevelContext';
 import { useAssets } from '../contexts/AssetContext';
+import { themes } from '../contexts/ThemeContext';
+import { factLevels } from '../contexts/FactLevelContext';
 
 const MODES = {
   KID: 'kid',
@@ -10,7 +12,7 @@ const MODES = {
 
 export default function Header() {
   const { currentTheme, setTheme, isToyTheme } = useTheme();
-  const { setFactLevel, isSimpleLevel } = useFactLevel();
+  const { currentLevel, setFactLevel, isSimpleLevel } = useFactLevel();
   const { getDownloadProgress } = useAssets();
 
   const mode = isToyTheme && isSimpleLevel ? MODES.KID : MODES.EDUCATION;
@@ -40,11 +42,13 @@ export default function Header() {
             <button
               onClick={() => {
                 if (mode === MODES.KID) {
-                  setTheme('real');
-                  setFactLevel('detailed');
+                  // Switch to Education mode
+                  setTheme(themes.REAL);
+                  setFactLevel(factLevels.DETAILED);
                 } else {
-                  setTheme('toy');
-                  setFactLevel('simple');
+                  // Switch to Kid mode
+                  setTheme(themes.TOY);
+                  setFactLevel(factLevels.SIMPLE);
                 }
               }}
               className="px-6 py-3 rounded-full font-bold text-white transition-all duration-200 hover:scale-105 shadow-md"

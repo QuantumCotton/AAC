@@ -3,6 +3,7 @@ import { ThemeProvider } from './contexts/ThemeContext';
 import { AudioProvider, useAudio } from './contexts/AudioContext';
 import { AssetProvider } from './contexts/AssetContext';
 import { FactLevelProvider } from './contexts/FactLevelContext';
+import { AccessibilityProvider } from './contexts/AccessibilityContext';
 import Header from './components/Header';
 import HabitatRail from './components/HabitatRail';
 import HabitatScene from './components/HabitatScene';
@@ -11,6 +12,7 @@ import MainMenu from './components/MainMenu';
 import LioraBook from './components/liora/LioraBook';
 import PlacesBook from './components/PlacesBook';
 import LeapFrogBook from './components/LeapFrogBook';
+import AlphabetBook from './components/AlphabetBook';
 import { habitats } from './data/habitats';
 import { useAssets } from './contexts/AssetContext';
 
@@ -71,20 +73,26 @@ function App() {
     if (currentBook === 'places') {
       return <PlacesBook onBack={handleBackToMenu} />;
     }
+    
+    if (currentBook === 'alphabet') {
+      return <AlphabetBook onBack={handleBackToMenu} />;
+    }
 
     return <MainMenu onSelectBook={handleSelectBook} />;
   };
 
   return (
-    <ThemeProvider>
-      <AudioProvider>
-        <AssetProvider>
-          <FactLevelProvider>
-            <AppContent />
-          </FactLevelProvider>
-        </AssetProvider>
-      </AudioProvider>
-    </ThemeProvider>
+    <AccessibilityProvider>
+      <ThemeProvider>
+        <AudioProvider>
+          <AssetProvider>
+            <FactLevelProvider>
+              <AppContent />
+            </FactLevelProvider>
+          </AssetProvider>
+        </AudioProvider>
+      </ThemeProvider>
+    </AccessibilityProvider>
   );
 }
 

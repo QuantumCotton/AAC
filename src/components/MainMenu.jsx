@@ -21,9 +21,17 @@ const books = [
     id: 'places',
     title: 'Places',
     emoji: '🌍',
-    description: 'Explore the world!',
+    description: 'Explore world!',
     color: 'from-teal-400 to-cyan-500',
     bgColor: 'bg-gradient-to-br from-teal-100 to-cyan-200',
+  },
+  {
+    id: 'alphabet',
+    title: 'Alphabet',
+    emoji: '🔤',
+    description: 'Learn ABCs!',
+    color: 'from-rose-400 to-red-500',
+    bgColor: 'bg-gradient-to-br from-rose-100 to-red-200',
   },
 ];
 
