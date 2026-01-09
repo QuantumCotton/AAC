@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "spoon",
+      "name": "Spoon",
+      "category": "Kitchen",
+      "emoji": "🥄"
+    },
+    {
+      "id": "truck",
+      "name": "Truck",
+      "category": "Vehicles",
+      "emoji": "🚚"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "category": "Food",
+      "emoji": "🍎"
+    }
+  ],
+  "categories": [
+    "Kitchen",
+    "Bedroom",
+    "Bathroom",
+    "Living Room",
+    "Vehicles",
+    "Food",
+    "Clothing",
+    "Tools",
+    "Nature",
+    "Sports",
+    "Music",
+    "School"
+  ]
+}

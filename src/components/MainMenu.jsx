@@ -33,6 +33,14 @@ const books = [
     color: 'from-rose-400 to-red-500',
     bgColor: 'bg-gradient-to-br from-rose-100 to-red-200',
   },
+  {
+    id: 'household',
+    title: 'Household Items',
+    emoji: '🏠',
+    description: 'Find things at home!',
+    color: 'from-yellow-400 to-amber-500',
+    bgColor: 'bg-gradient-to-br from-yellow-100 to-amber-200',
+  },
 ];
 
 export default function MainMenu({ onSelectBook }) {

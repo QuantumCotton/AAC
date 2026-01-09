@@ -13,6 +13,7 @@ import LioraBook from './components/liora/LioraBook';
 import PlacesBook from './components/PlacesBook';
 import LeapFrogBook from './components/LeapFrogBook';
 import AlphabetBook from './components/AlphabetBook';
+import HouseholdItemsBook from './components/HouseholdItemsBook';
 import { habitats } from './data/habitats';
 import { useAssets } from './contexts/AssetContext';
 
@@ -76,6 +77,10 @@ function App() {
     
     if (currentBook === 'alphabet') {
       return <AlphabetBook onBack={handleBackToMenu} />;
+    }
+    
+    if (currentBook === 'household') {
+      return <HouseholdItemsBook onBack={handleBackToMenu} />;
     }
 
     return <MainMenu onSelectBook={handleSelectBook} />;
