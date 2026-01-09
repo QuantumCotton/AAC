@@ -87,7 +87,7 @@ export default function AlphabetGrid({ mode, alphabetColors }) {
   }, []);
 
   return (
-    <div className="grid grid-cols-5 gap-3 p-6 w-full h-full">
+    <div className="grid grid-cols-5 sm:grid-cols-6 md:grid-cols-5 gap-2 sm:gap-3 p-4 sm:p-6 w-full h-full overflow-auto">
       {ALPHABET.map((letter, index) => {
         const color = alphabetColors[index];
         const isVowel = VOWELS.includes(letter);
@@ -97,7 +97,7 @@ export default function AlphabetGrid({ mode, alphabetColors }) {
             key={letter}
             onClick={() => handleLetterPress(letter, index)}
             className={`
-              aspect-square rounded-2xl shadow-lg 
+              aspect-square rounded-xl sm:rounded-2xl shadow-lg 
               transition-all duration-150
               hover:scale-105 hover:shadow-xl
               active:scale-95 active:shadow-sm
@@ -108,11 +108,12 @@ export default function AlphabetGrid({ mode, alphabetColors }) {
             `}
             style={{
               background: `linear-gradient(135deg, ${color} 0%, ${color}dd 100%)`,
-              boxShadow: `0 8px 0 ${color}66`,
+              boxShadow: `0 6px 0 ${color}66`,
+              minWidth: 'min(100%, 60px)',
             }}
           >
             <span 
-              className="text-6xl sm:text-7xl md:text-8xl relative"
+              className="text-4xl sm:text-6xl md:text-7xl lg:text-8xl relative"
               style={{ 
                 color: 'white',
                 textShadow: '2px 2px 4px rgba(0,0,0,0.2)'
@@ -120,7 +121,7 @@ export default function AlphabetGrid({ mode, alphabetColors }) {
             >
               {letter}
               {isVowel && mode === 'sound' && (
-                <span className="absolute -top-1 -right-1 text-xs bg-yellow-400 text-yellow-900 rounded-full px-1">
+                <span className="absolute -top-1 -right-1 text-[10px] sm:text-xs bg-yellow-400 text-yellow-900 rounded-full px-1">
                   🔊
                 </span>
               )}
