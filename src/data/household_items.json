@@ -17,6 +17,30 @@
       "name": "Apple",
       "category": "Food",
       "emoji": "🍎"
+    },
+    {
+      "id": "bed",
+      "name": "Bed",
+      "category": "Bedroom",
+      "emoji": "🛏️"
+    },
+    {
+      "id": "bathroom",
+      "name": "Bathroom",
+      "category": "Bathroom",
+      "emoji": "🚽"
+    },
+    {
+      "id": "ball",
+      "name": "Ball",
+      "category": "Sports",
+      "emoji": "⚽"
+    },
+    {
+      "id": "guitar",
+      "name": "Guitar",
+      "category": "Music",
+      "emoji": "🎸"
     }
   ],
   "categories": [
