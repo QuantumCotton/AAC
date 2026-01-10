@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate household item icons using Stability AI
+Generate household item icons using Stability AI with detailed prompts
 """
 
 import os
@@ -17,8 +17,9 @@ load_dotenv(PROJECT_ROOT / ".env", override=True)
 # Stability AI API key
 STABILITY_API_KEY = os.getenv("STABILITY_API_KEY")
 
-# Data file
+# Data files
 DATA_FILE = PROJECT_ROOT / "src" / "data" / "household_items.json"
+PROMPTS_FILE = PROJECT_ROOT / "stability_prompts_household.json"
 
 # Output directory
 OUTPUT_DIR = PROJECT_ROOT / "public" / "assets" / "images" / "household"
@@ -31,13 +32,24 @@ def load_items():
     return data['items']
 
 
-def generate_stability_image(item_name: str, output_path: Path) -> bool:
+def load_prompts():
+    """Load detailed prompts from JSON file"""
+    with open(PROMPTS_FILE, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    # Create a lookup dictionary: id -> prompt
+    prompt_lookup = {}
+    for category, items in data['prompts'].items():
+        for item in items:
+            prompt_lookup[item['id']] = item['prompt']
+    
+    return prompt_lookup
+
+
+def generate_stability_image(item_name: str, item_category: str, prompt: str, output_path: Path) -> bool:
     """Generate image using Stability AI"""
     try:
         url = "https://api.stability.ai/v2beta/stable-image/generate/sd3"
-        
-        # Create a child-friendly prompt
-        prompt = f"A simple, colorful cartoon icon of a {item_name} on a white background. Minimal design, flat illustration style, suitable for educational app for children. Clean lines, bright colors."
         
         headers = {
             "authorization": f"Bearer {STABILITY_API_KEY}",
@@ -48,10 +60,10 @@ def generate_stability_image(item_name: str, output_path: Path) -> bool:
             "prompt": prompt,
             "output_format": "png",
             "aspect_ratio": "1:1",
-            "size": "256x256",
+            "size": "512x512",
         }
         
-        print(f"  🎨 Generating Stability AI image for: {item_name}")
+        print(f"  🎨 Generating: {item_name} ({item_category})")
         response = requests.post(
             url, 
             headers=headers, 
@@ -80,13 +92,15 @@ def generate_stability_image(item_name: str, output_path: Path) -> bool:
         return False
 
 
-def generate_all_icons(items: list, dry_run: bool = False) -> dict:
+def generate_all_icons(items: list, prompts: dict, dry_run: bool = False, force: bool = False) -> dict:
     """Generate icons for all items"""
-    results = {"success": 0, "failed": 0, "total": len(items)}
+    results = {"success": 0, "failed": 0, "skipped": 0, "total": len(items)}
     
-    print(f"\n🎨 Generating Household Item Icons")
+    print(f"\n🎨 Generating Household Item Icons with Detailed Prompts")
     print(f"📊 Total items: {len(items)}")
     print(f"📁 Output: {OUTPUT_DIR}")
+    if force:
+        print(f"🔄 Force mode: Regenerating all icons")
     
     if not STABILITY_API_KEY:
         print("\n❌ No Stability AI API key found in .env")
@@ -94,24 +108,36 @@ def generate_all_icons(items: list, dry_run: bool = False) -> dict:
         return results
     
     for i, item in enumerate(items, 1):
-        item_name = item['name'].lower()
-        output_path = OUTPUT_DIR / f"{item['id']}.png"
+        item_name = item['name']
+        item_category = item['category']
+        item_id = item['id']
+        output_path = OUTPUT_DIR / f"{item_id}.png"
         
-        print(f"\n[{i}/{len(items)}] {item['name']} ({item['category']})")
+        # Get the detailed prompt
+        prompt = prompts.get(item_id)
         
-        # Skip if exists
-        if not dry_run and output_path.exists():
-            print(f"  ⏭️ Skipping - already exists")
-            results["success"] += 1
+        if not prompt:
+            print(f"\n[{i}/{len(items)}] {item_name} ({item_category})")
+            print(f"  ⚠️  No prompt found, skipping")
+            results["skipped"] += 1
+            continue
+        
+        print(f"\n[{i}/{len(items)}] {item_name} ({item_category})")
+        
+        # Skip if exists and not forcing
+        if not dry_run and not force and output_path.exists():
+            print(f"  ⏭️  Skipping - already exists")
+            results["skipped"] += 1
             continue
         
         if dry_run:
-            print(f"  📝 Would generate: {item_name} -> {output_path.name}")
+            print(f"  📝 Would generate: {item_name}")
+            print(f"  📝 Prompt: {prompt[:80]}...")
             results["success"] += 1
             continue
         
         # Generate image
-        if generate_stability_image(item_name, output_path):
+        if generate_stability_image(item_name, item_category, prompt, output_path):
             results["success"] += 1
         else:
             results["failed"] += 1
@@ -120,6 +146,7 @@ def generate_all_icons(items: list, dry_run: bool = False) -> dict:
     print(f"✅ Complete!")
     print(f"📊 Success: {results['success']}/{results['total']}")
     print(f"📊 Failed: {results['failed']}/{results['total']}")
+    print(f"📊 Skipped: {results['skipped']}/{results['total']}")
     print(f"{'='*60}")
     
     return results
@@ -127,12 +154,17 @@ def generate_all_icons(items: list, dry_run: bool = False) -> dict:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate household item icons using Stability AI"
+        description="Generate household item icons using Stability AI with detailed prompts"
     )
     parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Generate and print only (no API calls)"
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Regenerate all icons, even if they already exist"
     )
     parser.add_argument(
         "--items",
@@ -146,13 +178,17 @@ def main():
     # Load items
     items = load_items()
     
+    # Load prompts
+    prompts = load_prompts()
+    print(f"📝 Loaded {len(prompts)} detailed prompts")
+    
     # Filter if specific items requested
     if args.items != "all":
         requested_ids = [id.strip() for id in args.items.split(",")]
         items = [item for item in items if item['id'] in requested_ids]
     
     # Generate icons
-    generate_all_icons(items, args.dry_run)
+    generate_all_icons(items, prompts, args.dry_run, args.force)
 
 
 if __name__ == "__main__":

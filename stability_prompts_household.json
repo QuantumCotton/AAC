@@ -1,0 +1,698 @@
+{
+  "prompts": {
+    "Kitchen": [
+      {
+        "id": "spoon",
+        "prompt": "A shiny silver metal teaspoon on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, clean white background vignette, metallic reflection"
+      },
+      {
+        "id": "fork",
+        "prompt": "A shiny silver metal dining fork on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, clean white background vignette, metallic reflection"
+      },
+      {
+        "id": "knife",
+        "prompt": "A shiny silver metal table knife on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, clean white background vignette, metallic reflection"
+      },
+      {
+        "id": "plate",
+        "prompt": "A clean white ceramic dinner plate on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, slight rim light"
+      },
+      {
+        "id": "bowl",
+        "prompt": "A white ceramic mixing bowl on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, smooth curves"
+      },
+      {
+        "id": "cup",
+        "prompt": "A white ceramic coffee cup on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, clean white background vignette"
+      },
+      {
+        "id": "glass",
+        "prompt": "A clear drinking glass filled with water on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, water reflection"
+      },
+      {
+        "id": "mug",
+        "prompt": "A white ceramic coffee mug on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional food photography, handle visible"
+      },
+      {
+        "id": "pot",
+        "prompt": "A stainless steel cooking pot with lid on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional kitchen photography, metallic sheen"
+      },
+      {
+        "id": "pan",
+        "prompt": "A stainless steel frying pan on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional kitchen photography, metallic sheen"
+      },
+      {
+        "id": "refrigerator",
+        "prompt": "A modern white refrigerator on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional appliance photography, clean design"
+      },
+      {
+        "id": "stove",
+        "prompt": "A modern white stove with four burners on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional appliance photography"
+      },
+      {
+        "id": "microwave",
+        "prompt": "A modern white microwave on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional appliance photography"
+      },
+      {
+        "id": "toaster",
+        "prompt": "A modern white toaster on a soft pastel coral pink background (#F8B4B4), studio lighting, minimal product photography, centered composition, professional appliance photography"
+      }
+    ],
+    "Bathroom": [
+      {
+        "id": "sink",
+        "prompt": "A white porcelain bathroom sink with chrome faucet on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional bathroom photography"
+      },
+      {
+        "id": "toothbrush",
+        "prompt": "A blue and white toothbrush standing upright on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, clean white background vignette"
+      },
+      {
+        "id": "toothpaste",
+        "prompt": "A white tube of toothpaste with blue accents on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition"
+      },
+      {
+        "id": "towel",
+        "prompt": "A folded white fluffy towel on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, clean textile photography"
+      },
+      {
+        "id": "soap",
+        "prompt": "A white bar of soap with subtle texture on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition"
+      },
+      {
+        "id": "shampoo",
+        "prompt": "A white bottle of shampoo on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, clean white background vignette"
+      },
+      {
+        "id": "toilet",
+        "prompt": "A modern white toilet on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional bathroom photography"
+      },
+      {
+        "id": "bathtub",
+        "prompt": "A white porcelain bathtub on a soft pastel light blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional bathroom photography"
+      }
+    ],
+    "Bedroom": [
+      {
+        "id": "bed",
+        "prompt": "A made white bed with blue blanket on a soft pastel lavender background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional bedroom photography"
+      },
+      {
+        "id": "pillow",
+        "prompt": "A white fluffy pillow on a soft pastel lavender background (#D8B4F8), studio lighting, minimal product photography, centered composition, clean textile photography"
+      },
+      {
+        "id": "blanket",
+        "prompt": "A folded blue blanket on a soft pastel lavender background (#D8B4F8), studio lighting, minimal product photography, centered composition, clean textile photography"
+      },
+      {
+        "id": "dresser",
+        "prompt": "A white wooden dresser on a soft pastel lavender background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional furniture photography"
+      },
+      {
+        "id": "lamp",
+        "prompt": "A modern white table lamp on a soft pastel lavender background (#D8B4F8), studio lighting, minimal product photography, centered composition, soft warm glow"
+      },
+      {
+        "id": "alarm_clock",
+        "prompt": "A white digital alarm clock on a soft pastel lavender background (#D8B4F8), studio lighting, minimal product photography, centered composition, clean white background vignette"
+      },
+      {
+        "id": "closet",
+        "prompt": "A white closet with open door on a soft pastel lavender background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional furniture photography"
+      }
+    ],
+    "Living Room": [
+      {
+        "id": "sofa",
+        "prompt": "A modern grey sofa on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional furniture photography"
+      },
+      {
+        "id": "chair",
+        "prompt": "A modern white dining chair on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional furniture photography"
+      },
+      {
+        "id": "table",
+        "prompt": "A white coffee table on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional furniture photography"
+      },
+      {
+        "id": "television",
+        "prompt": "A modern black flat-screen TV on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional electronics photography"
+      },
+      {
+        "id": "remote",
+        "prompt": "A black TV remote on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, clean white background vignette"
+      },
+      {
+        "id": "phone",
+        "prompt": "A modern smartphone on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional electronics photography"
+      },
+      {
+        "id": "book",
+        "prompt": "A hardcover book with blue cover on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional book photography"
+      },
+      {
+        "id": "window",
+        "prompt": "A white window frame with blue sky visible on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition"
+      },
+      {
+        "id": "door",
+        "prompt": "A white wooden door on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional home photography"
+      }
+    ],
+    "Vehicles": [
+      {
+        "id": "car",
+        "prompt": "A red compact car on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional automotive photography, clean white background vignette"
+      },
+      {
+        "id": "bus",
+        "prompt": "A yellow school bus on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional automotive photography"
+      },
+      {
+        "id": "truck",
+        "prompt": "A white delivery truck on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional automotive photography"
+      },
+      {
+        "id": "airplane",
+        "prompt": "A white commercial airplane on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional aviation photography, clean white background vignette"
+      },
+      {
+        "id": "train",
+        "prompt": "A red passenger train on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional automotive photography"
+      },
+      {
+        "id": "bicycle",
+        "prompt": "A red bicycle on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional cycling photography"
+      },
+      {
+        "id": "scooter",
+        "prompt": "A blue motor scooter on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional automotive photography"
+      },
+      {
+        "id": "ambulance",
+        "prompt": "A white ambulance with red cross on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional emergency vehicle photography"
+      },
+      {
+        "id": "police_car",
+        "prompt": "A black and white police car with lights on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional vehicle photography"
+      },
+      {
+        "id": "fire_truck",
+        "prompt": "A red fire truck on a soft pastel green background (#B4F8C4), studio lighting, minimal product photography, centered composition, professional emergency vehicle photography"
+      }
+    ],
+    "Food": [
+      {
+        "id": "apple",
+        "prompt": "A shiny red apple on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography, water droplets"
+      },
+      {
+        "id": "banana",
+        "prompt": "A yellow banana on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "orange",
+        "prompt": "A fresh orange on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography, textured skin"
+      },
+      {
+        "id": "grape",
+        "prompt": "A cluster of purple grapes on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "strawberry",
+        "prompt": "Three red strawberries with green leaves on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "watermelon",
+        "prompt": "A slice of watermelon with seeds visible on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "carrot",
+        "prompt": "Three orange carrots with green tops on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "broccoli",
+        "prompt": "A head of broccoli on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "corn",
+        "prompt": "An ear of yellow corn with green husk on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "bread",
+        "prompt": "A sliced loaf of white bread on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "cheese",
+        "prompt": "A slice of yellow cheese on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "milk",
+        "prompt": "A white milk carton on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "egg",
+        "prompt": "Two white eggs on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "chicken",
+        "prompt": "A roasted chicken leg on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "fish",
+        "prompt": "A cooked white fish on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "hamburger",
+        "prompt": "A classic hamburger with lettuce and tomato on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "pizza",
+        "prompt": "A slice of pepperoni pizza with melted cheese on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "french_fries",
+        "prompt": "A red carton of golden french fries on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "cookie",
+        "prompt": "Three chocolate chip cookies on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "cake",
+        "prompt": "A slice of chocolate cake with white frosting on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "ice_cream",
+        "prompt": "A chocolate ice cream cone on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "candy",
+        "prompt": "Colorful wrapped candies on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional food photography"
+      },
+      {
+        "id": "water",
+        "prompt": "A clear bottle of water on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional beverage photography"
+      },
+      {
+        "id": "juice",
+        "prompt": "An orange juice box on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional beverage photography"
+      }
+    ],
+    "Clothing": [
+      {
+        "id": "tshirt",
+        "prompt": "A white cotton t-shirt on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "pants",
+        "prompt": "A pair of blue jeans on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "socks",
+        "prompt": "A pair of white socks on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "shoes",
+        "prompt": "A pair of white sneakers on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "hat",
+        "prompt": "A white baseball cap on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "jacket",
+        "prompt": "A blue denim jacket on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "gloves",
+        "prompt": "A pair of white gloves on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "scarf",
+        "prompt": "A red wool scarf on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "underwear",
+        "prompt": "A white undergarment on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "dress",
+        "prompt": "A simple white sundress on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "shorts",
+        "prompt": "A pair of blue denim shorts on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "sweater",
+        "prompt": "A red wool sweater on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      },
+      {
+        "id": "boots",
+        "prompt": "A pair of brown leather boots on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional fashion photography"
+      }
+    ],
+    "Tools": [
+      {
+        "id": "hammer",
+        "prompt": "A yellow-handled claw hammer on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "screwdriver",
+        "prompt": "A yellow-handled Phillips screwdriver on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "wrench",
+        "prompt": "A silver adjustable wrench on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "saw",
+        "prompt": "A wooden-handled hand saw on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "drill",
+        "prompt": "A yellow cordless power drill on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "ladder",
+        "prompt": "A silver aluminum step ladder on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "pliers",
+        "prompt": "A red-handled pair of pliers on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "tape_measure",
+        "prompt": "A yellow retractable tape measure on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "nail",
+        "prompt": "Several silver nails on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      },
+      {
+        "id": "screw",
+        "prompt": "Several silver wood screws on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition, professional hardware photography"
+      }
+    ],
+    "Sports": [
+      {
+        "id": "ball",
+        "prompt": "A black and white soccer ball on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "soccer_ball",
+        "prompt": "A black and white soccer ball on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "basketball",
+        "prompt": "An orange basketball on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "football",
+        "prompt": "A brown American football on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "baseball",
+        "prompt": "A white baseball with red stitching on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "tennis_ball",
+        "prompt": "A yellow tennis ball on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "golf_club",
+        "prompt": "A silver golf iron on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "hockey_stick",
+        "prompt": "A wooden hockey stick on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "bicycle_helmet",
+        "prompt": "A white bicycle helmet on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      },
+      {
+        "id": "skateboard",
+        "prompt": "A red skateboard on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional sports photography"
+      }
+    ],
+    "Music": [
+      {
+        "id": "guitar",
+        "prompt": "A wooden acoustic guitar on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional instrument photography"
+      },
+      {
+        "id": "piano",
+        "prompt": "A close-up of white piano keys on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional instrument photography"
+      },
+      {
+        "id": "drums",
+        "prompt": "A red snare drum on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional instrument photography"
+      },
+      {
+        "id": "violin",
+        "prompt": "A wooden violin on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional instrument photography"
+      },
+      {
+        "id": "trumpet",
+        "prompt": "A brass trumpet on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional instrument photography"
+      },
+      {
+        "id": "saxophone",
+        "prompt": "A brass saxophone on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional instrument photography"
+      },
+      {
+        "id": "microphone",
+        "prompt": "A black dynamic microphone on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional audio photography"
+      },
+      {
+        "id": "headphones",
+        "prompt": "White over-ear headphones on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional audio photography"
+      },
+      {
+        "id": "music_note",
+        "prompt": "A musical note symbol on a soft pastel purple background (#D8B4F8), studio lighting, minimal composition, clean vector style illustration"
+      },
+      {
+        "id": "record_player",
+        "prompt": "A vintage record player with vinyl record on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition"
+      }
+    ],
+    "School": [
+      {
+        "id": "pencil",
+        "prompt": "A yellow wooden pencil on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "pen",
+        "prompt": "A blue ballpoint pen on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "paper",
+        "prompt": "A white sheet of paper on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "eraser",
+        "prompt": "A white vinyl eraser on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "ruler",
+        "prompt": "A clear plastic ruler with measurements on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "scissors",
+        "prompt": "A pair of silver scissors on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "glue",
+        "prompt": "A white bottle of school glue on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "backpack",
+        "prompt": "A blue backpack on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional bag photography"
+      },
+      {
+        "id": "notebook",
+        "prompt": "A blue spiral notebook on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional stationery photography"
+      },
+      {
+        "id": "calculator",
+        "prompt": "A white solar calculator on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional electronics photography"
+      },
+      {
+        "id": "globe",
+        "prompt": "A desktop globe on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional educational photography"
+      }
+    ],
+    "Nature": [
+      {
+        "id": "sun",
+        "prompt": "A bright yellow sun with rays on a soft pastel sky blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "moon",
+        "prompt": "A white crescent moon on a soft pastel sky blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "star",
+        "prompt": "A yellow five-pointed star on a soft pastel sky blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "cloud",
+        "prompt": "A fluffy white cloud on a soft pastel sky blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "rain",
+        "prompt": "Blue raindrops falling on a soft pastel sky blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "snow",
+        "prompt": "A white snowflake on a soft pastel sky blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "flower",
+        "prompt": "A pink flower with green stem on a soft pastel green background (#B4F8D8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "tree",
+        "prompt": "A green deciduous tree on a soft pastel green background (#B4F8D8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "leaf",
+        "prompt": "A green leaf on a soft pastel green background (#B4F8D8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "grass",
+        "prompt": "Green grass blades on a soft pastel green background (#B4F8D8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "mountain",
+        "prompt": "A snow-capped mountain on a soft pastel blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "river",
+        "prompt": "A blue river flowing on a soft pastel blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "ocean",
+        "prompt": "Blue ocean waves on a soft pastel blue background (#B4E8F8), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "beach",
+        "prompt": "Sandy beach on a soft pastel yellow background (#F8F4B4), studio lighting, minimal illustration style, centered composition, flat vector design"
+      },
+      {
+        "id": "sand",
+        "prompt": "Brown sand on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition"
+      },
+      {
+        "id": "rock",
+        "prompt": "A gray rock on a soft pastel gray background (#E8E8E8), studio lighting, minimal product photography, centered composition"
+      },
+      {
+        "id": "dirt",
+        "prompt": "Brown dirt on a soft pastel brown background (#D8C8B8), studio lighting, minimal product photography, centered composition"
+      },
+      {
+        "id": "mud",
+        "prompt": "Brown mud on a soft pastel brown background (#D8C8B8), studio lighting, minimal product photography, centered composition"
+      },
+      {
+        "id": "worm",
+        "prompt": "A pink earthworm on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "butterfly",
+        "prompt": "A blue butterfly on a soft pastel purple background (#D8B4F8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "bee",
+        "prompt": "A yellow and black honeybee on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "bird",
+        "prompt": "A bluebird on a soft pastel blue background (#B4E8F8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "dog",
+        "prompt": "A golden retriever on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional pet photography"
+      },
+      {
+        "id": "cat",
+        "prompt": "A white cat on a soft pastel white background (#F8F8F8), studio lighting, minimal product photography, centered composition, professional pet photography"
+      },
+      {
+        "id": "rabbit",
+        "prompt": "A white rabbit on a soft pastel white background (#F8F8F8), studio lighting, minimal product photography, centered composition, professional pet photography"
+      },
+      {
+        "id": "squirrel",
+        "prompt": "A brown squirrel on a soft pastel brown background (#D8C8B8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "duck",
+        "prompt": "A yellow duck on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "frog",
+        "prompt": "A green frog on a soft pastel green background (#B4F8D8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      },
+      {
+        "id": "turtle",
+        "prompt": "A green turtle on a soft pastel green background (#B4F8D8), studio lighting, minimal product photography, centered composition, professional nature photography"
+      }
+    ],
+    "Toys": [
+      {
+        "id": "teddy_bear",
+        "prompt": "A brown teddy bear on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "doll",
+        "prompt": "A cloth rag doll on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "toy_car",
+        "prompt": "A red toy car on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "blocks",
+        "prompt": "Colorful wooden blocks on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "puzzle",
+        "prompt": "A partially completed jigsaw puzzle on a soft pastel green background (#B4F8D8), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "kite",
+        "prompt": "A colorful diamond kite on a soft pastel blue background (#B4E8F8), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "yo_yo",
+        "prompt": "A red and blue yo-yo on a soft pastel orange background (#F8D8B4), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "spinning_top",
+        "prompt": "A wooden spinning top on a soft pastel brown background (#D8C8B8), studio lighting, minimal product photography, centered composition, professional toy photography"
+      },
+      {
+        "id": "crayons",
+        "prompt": "A box of colorful crayons on a soft pastel yellow background (#F8F4B4), studio lighting, minimal product photography, centered composition, professional art supply photography"
+      },
+      {
+        "id": "paint_brush",
+        "prompt": "A paintbrush with red paint on a soft pastel pink background (#F8B4D8), studio lighting, minimal product photography, centered composition, professional art supply photography"
+      },
+      {
+        "id": "balloon",
+        "prompt": "A red helium balloon on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition, professional party photography"
+      },
+      {
+        "id": "bubbles",
+        "prompt": "Clear soap bubbles floating on a soft pastel blue background (#B4D8F8), studio lighting, minimal product photography, centered composition"
+      }
+    ]
+  }
+}
