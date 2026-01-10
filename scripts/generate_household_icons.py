@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
-Generate household item icons using Stability AI with detailed prompts
+Generate household item icons using multiple image generation providers
+Supports: OpenAI DALL-E 3, Stability AI SD3, Replicate SDXL
 """
 
 import os
 import json
 import argparse
 import requests
+import base64
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -14,8 +17,13 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(PROJECT_ROOT / ".env", override=True)
 
-# Stability AI API key
+# API keys
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 STABILITY_API_KEY = os.getenv("STABILITY_API_KEY")
+REPLICATE_API_TOKEN = os.getenv("REPLICATE_API_TOKEN")
+
+# Default provider (can be overridden with --provider flag)
+DEFAULT_PROVIDER = os.getenv("IMAGE_PROVIDER", "openai")
 
 # Data files
 DATA_FILE = PROJECT_ROOT / "src" / "data" / "household_items.json"
@@ -46,8 +54,53 @@ def load_prompts():
     return prompt_lookup
 
 
-def generate_stability_image(item_name: str, item_category: str, prompt: str, output_path: Path) -> bool:
-    """Generate image using Stability AI"""
+def generate_with_openai(item_name: str, item_category: str, prompt: str, output_path: Path) -> bool:
+    """Generate image using OpenAI DALL-E 3"""
+    try:
+        url = "https://api.openai.com/v1/images/generations"
+        
+        headers = {
+            "Authorization": f"Bearer {OPENAI_API_KEY}",
+            "Content-Type": "application/json",
+        }
+        
+        data = {
+            "model": "dall-e-3",
+            "prompt": prompt,
+            "size": "1024x1024",
+            "quality": "standard",
+            "response_format": "b64_json",
+        }
+        
+        print(f"  🎨 Generating: {item_name} ({item_category}) [OpenAI DALL-E 3]")
+        response = requests.post(url, headers=headers, json=data, timeout=(10, 120))
+        
+        if response.status_code == 200:
+            result = response.json()
+            image_data = result['data'][0]['b64_json']
+            image_bytes = base64.b64decode(image_data)
+            
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            with open(output_path, 'wb') as f:
+                f.write(image_bytes)
+            print(f"    ✅ Saved: {output_path.name}")
+            return True
+        
+        print(f"    ❌ Failed: {response.status_code}")
+        try:
+            error_data = response.json()
+            print(f"    Error: {error_data}")
+        except:
+            pass
+        return False
+        
+    except Exception as e:
+        print(f"    ❌ Error: {e}")
+        return False
+
+
+def generate_with_stability(item_name: str, item_category: str, prompt: str, output_path: Path) -> bool:
+    """Generate image using Stability AI SD3"""
     try:
         url = "https://api.stability.ai/v2beta/stable-image/generate/sd3"
         
@@ -63,7 +116,7 @@ def generate_stability_image(item_name: str, item_category: str, prompt: str, ou
             "size": "512x512",
         }
         
-        print(f"  🎨 Generating: {item_name} ({item_category})")
+        print(f"  🎨 Generating: {item_name} ({item_category}) [Stability SD3]")
         response = requests.post(
             url, 
             headers=headers, 
@@ -92,19 +145,117 @@ def generate_stability_image(item_name: str, item_category: str, prompt: str, ou
         return False
 
 
-def generate_all_icons(items: list, prompts: dict, dry_run: bool = False, force: bool = False) -> dict:
+def generate_with_replicate(item_name: str, item_category: str, prompt: str, output_path: Path) -> bool:
+    """Generate image using Replicate (SDXL)"""
+    try:
+        url = "https://api.replicate.com/v1/predictions"
+        
+        headers = {
+            "Authorization": f"Bearer {REPLICATE_API_TOKEN}",
+            "Content-Type": "application/json",
+        }
+        
+        # Using SDXL model
+        data = {
+            "version": "stability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b",
+            "input": {
+                "prompt": prompt,
+                "width": 1024,
+                "height": 1024,
+                "num_outputs": 1,
+            }
+        }
+        
+        print(f"  🎨 Generating: {item_name} ({item_category}) [Replicate SDXL]")
+        response = requests.post(url, headers=headers, json=data, timeout=(10, 300))
+        
+        if response.status_code == 201:
+            prediction = response.json()
+            # Poll for result
+            get_url = prediction['urls']['get']
+            
+            # Wait for completion
+            max_wait = 120  # 2 minutes max
+            for _ in range(max_wait):
+                get_response = requests.get(get_url, headers=headers, timeout=10)
+                if get_response.status_code == 200:
+                    result = get_response.json()
+                    if result['status'] == 'succeeded':
+                        image_url = result['output'][0]
+                        # Download image
+                        img_response = requests.get(image_url, timeout=30)
+                        if img_response.status_code == 200:
+                            output_path.parent.mkdir(parents=True, exist_ok=True)
+                            with open(output_path, 'wb') as f:
+                                f.write(img_response.content)
+                            print(f"    ✅ Saved: {output_path.name}")
+                            return True
+                    elif result['status'] == 'failed':
+                        print(f"    ❌ Prediction failed")
+                        return False
+                time.sleep(1)
+            
+            print(f"    ❌ Timed out waiting for result")
+            return False
+        
+        print(f"    ❌ Failed: {response.status_code}")
+        try:
+            error_data = response.json()
+            print(f"    Error: {error_data}")
+        except:
+            pass
+        return False
+        
+    except Exception as e:
+        print(f"    ❌ Error: {e}")
+        return False
+
+
+def generate_image(provider: str, item_name: str, item_category: str, prompt: str, output_path: Path) -> bool:
+    """Generate image using specified provider"""
+    if provider == "openai":
+        if not OPENAI_API_KEY:
+            print(f"  ⚠️  No OpenAI API key found")
+            return False
+        return generate_with_openai(item_name, item_category, prompt, output_path)
+    elif provider == "stability":
+        if not STABILITY_API_KEY:
+            print(f"  ⚠️  No Stability AI API key found")
+            return False
+        return generate_with_stability(item_name, item_category, prompt, output_path)
+    elif provider == "replicate":
+        if not REPLICATE_API_TOKEN:
+            print(f"  ⚠️  No Replicate API token found")
+            return False
+        return generate_with_replicate(item_name, item_category, prompt, output_path)
+    else:
+        print(f"  ⚠️  Unknown provider: {provider}")
+        return False
+
+
+def generate_all_icons(items: list, prompts: dict, provider: str, dry_run: bool = False, force: bool = False) -> dict:
     """Generate icons for all items"""
     results = {"success": 0, "failed": 0, "skipped": 0, "total": len(items)}
     
     print(f"\n🎨 Generating Household Item Icons with Detailed Prompts")
     print(f"📊 Total items: {len(items)}")
     print(f"📁 Output: {OUTPUT_DIR}")
+    print(f"🎯 Provider: {provider}")
     if force:
         print(f"🔄 Force mode: Regenerating all icons")
     
-    if not STABILITY_API_KEY:
-        print("\n❌ No Stability AI API key found in .env")
-        print("📝 Please add STABILITY_API_KEY to your .env file")
+    # Check API keys
+    has_keys = False
+    if provider == "openai" and OPENAI_API_KEY:
+        has_keys = True
+    elif provider == "stability" and STABILITY_API_KEY:
+        has_keys = True
+    elif provider == "replicate" and REPLICATE_API_TOKEN:
+        has_keys = True
+    
+    if not has_keys:
+        print(f"\n❌ No API key found for provider: {provider}")
+        print(f"📝 Please add {provider.upper()}_API_KEY to your .env file")
         return results
     
     for i, item in enumerate(items, 1):
@@ -137,7 +288,7 @@ def generate_all_icons(items: list, prompts: dict, dry_run: bool = False, force:
             continue
         
         # Generate image
-        if generate_stability_image(item_name, item_category, prompt, output_path):
+        if generate_image(provider, item_name, item_category, prompt, output_path):
             results["success"] += 1
         else:
             results["failed"] += 1
@@ -154,7 +305,7 @@ def generate_all_icons(items: list, prompts: dict, dry_run: bool = False, force:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate household item icons using Stability AI with detailed prompts"
+        description="Generate household item icons using multiple image generation providers"
     )
     parser.add_argument(
         "--dry-run",
@@ -165,6 +316,13 @@ def main():
         "--force",
         action="store_true",
         help="Regenerate all icons, even if they already exist"
+    )
+    parser.add_argument(
+        "--provider",
+        type=str,
+        default=DEFAULT_PROVIDER,
+        choices=["openai", "stability", "replicate"],
+        help="Image generation provider (default: %(default)s)"
     )
     parser.add_argument(
         "--items",
@@ -188,7 +346,7 @@ def main():
         items = [item for item in items if item['id'] in requested_ids]
     
     # Generate icons
-    generate_all_icons(items, prompts, args.dry_run, args.force)
+    generate_all_icons(items, prompts, args.provider, args.dry_run, args.force)
 
 
 if __name__ == "__main__":
