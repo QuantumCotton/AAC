@@ -25,10 +25,10 @@
       "emoji": "🛏️"
     },
     {
-      "id": "bathroom",
-      "name": "Bathroom",
+      "id": "sink",
+      "name": "Sink",
       "category": "Bathroom",
-      "emoji": "🚽"
+      "emoji": "🚿"
     },
     {
       "id": "ball",
