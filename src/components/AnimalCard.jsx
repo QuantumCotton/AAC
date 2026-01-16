@@ -6,6 +6,9 @@ import { useFactLevel } from '../contexts/FactLevelContext';
 import { useAccessibility } from '../contexts/AccessibilityContext';
 import { getAssetPaths } from '../utils/slugify';
 
+// Global reference to stop any playing fact audio across all cards
+let globalFactAudio = null;
+
 export default function AnimalCard({ animal }) {
   const { currentTheme } = useTheme();
   const { playSound, playClick, activeAnimalId } = useAudio();
@@ -72,10 +75,14 @@ export default function AnimalCard({ animal }) {
   // Play fact audio and return a promise that resolves when done
   const playFactAudio = useCallback(() => {
     return new Promise((resolve) => {
-      // Stop any existing audio first
+      // Stop any existing audio first (both local and global)
       if (audioRef.current) {
         audioRef.current.pause();
         audioRef.current = null;
+      }
+      if (globalFactAudio && globalFactAudio !== audioRef.current) {
+        globalFactAudio.pause();
+        globalFactAudio = null;
       }
       window.speechSynthesis.cancel();
       
@@ -86,10 +93,14 @@ export default function AnimalCard({ animal }) {
         // Use audio element to track when it ends
         const audio = new Audio(src);
         audioRef.current = audio;
+        globalFactAudio = audio; // Track globally to prevent overlapping
         
         const cleanup = () => {
           if (audioRef.current === audio) {
             audioRef.current = null;
+          }
+          if (globalFactAudio === audio) {
+            globalFactAudio = null;
           }
         };
         
@@ -294,9 +305,9 @@ export default function AnimalCard({ animal }) {
     const touchDuration = Date.now() - touchStartTimeRef.current;
     const isHold = didLongPressRef.current || elapsed >= HOLD_MS;
 
-    // For short taps, also check if it was intentional enough
+    // For short taps, use a simpler check - just needs to be > 50ms to avoid accidental touches
     if (!isHold && animState === 'idle') {
-      if (isIntentionalTouch(touchDuration, 0)) {
+      if (touchDuration > 50) {
         // Short tap = play animal name
         playSound(paths.nameAudio, animal.id);
       }
