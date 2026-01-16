@@ -93,21 +93,23 @@ export default function AnimalCard({ animal }) {
           }
         };
         
-        audio.onended = () => {
-          cleanup();
-          resolve();
-        };
-        audio.onerror = () => {
-          cleanup();
-          // Fallback to TTS on error
-          playTTS().then(resolve);
-        };
-        
         // Add timeout to prevent hanging
         const timeout = setTimeout(() => {
           cleanup();
           playTTS().then(resolve);
         }, 10000); // 10 second timeout
+        
+        audio.onended = () => {
+          clearTimeout(timeout);
+          cleanup();
+          resolve();
+        };
+        audio.onerror = () => {
+          clearTimeout(timeout);
+          cleanup();
+          // Fallback to TTS on error
+          playTTS().then(resolve);
+        };
         
         audio.play().catch(() => {
           clearTimeout(timeout);
