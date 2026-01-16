@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host --port 5173 --strictPort",
+    "dev": "vite --host --port 5174 --strictPort",
     "build": "vite build",
     "preview": "vite preview",
     "generate-assets": "python scripts/generate_assets.py",

@@ -187,7 +187,8 @@ export default function AnimalCard({ animal }) {
 
   const handlePressStart = (e) => {
     // Block if multi-touch is detected or if we're in a blocked state
-    if (isMultiTouchBlocked || e.touches.length > 1) {
+    // Note: e.touches is only available on TouchEvent, not PointerEvent
+    if (isMultiTouchBlocked || (e.touches && e.touches.length > 1)) {
       e.preventDefault();
       return false;
     }

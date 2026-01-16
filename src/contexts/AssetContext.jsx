@@ -245,7 +245,8 @@ export function AssetProvider({ children }) {
   };
 
   const isCategoryDownloaded = (categoryName) => {
-    if (import.meta?.env?.DEV) return true;
+    // Only return true for dev mode if explicitly testing without downloads
+    // For normal operation, always respect the download state
     return downloadedCategories.has(categoryName);
   };
 
